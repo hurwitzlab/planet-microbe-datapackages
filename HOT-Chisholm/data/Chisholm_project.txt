@@ -1,0 +1,2 @@
+Name	Title	Description	URL	Archive	Archive_ID	Project_Type	Data_Type	Submission_date	Last_update
+Chisolm HOT and BATS	Temporal sampling of marine metagenomes from Station ALOHA and BATS	Temporal sampling of marine metagenomes from Station ALOHA and BATS	https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?study=SRP109831	NCBI	PRJNA385855	marine metagenome	metagenome	5/8/17	5/8/17
