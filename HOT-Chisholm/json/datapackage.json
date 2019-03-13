@@ -1,0 +1,960 @@
+{
+    "@context": {
+        "pm": "http://purl.obolibrary.org/obo/PMO_00000000"
+    },
+	"profile": "tabular-data-package",
+	"id": "PRJNA385855",
+	"name": "chisholm_hot_and_bats",
+	"title": "Chisholm HOT and BATS",
+	"description": "Temporal sampling of marine metagenomes from Station ALOHA and BATS",
+	"pm:projectType": "marine metagenome",
+	"homepage": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855",
+	"keywords": [
+	"HOT",
+	"Hawaii Ocean Time-series",
+	"BATS",
+	"Bermuda Atlantic Time-series Study",
+	"Chisholm"
+	],
+    "dialect": {
+        "delimiter": "\t",
+        "header": true,
+        "caseSensitiveHeader": true
+    },
+    "format": "csv",
+    "mediatype": "text/tab-separated-values",
+    "encoding": "UTF-8",
+	"licenses": [],
+    "resources": [
+        {
+            "name": "Chisholm_Cruise",
+            "title": "Chisholm_cruise dataset1",
+            "path": [ "Chisholm_cruise.tsv" ],
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "cruise_ID",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "cruise_expedition",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000007",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "cruise_name",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000060",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "HOT_summary_file_name",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000063",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "Ship",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000065",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "Archive",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000007",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "Archive_ID",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000066",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "nav_code",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000068",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    }
+                ],
+                "primaryKey": "cruise_ID",
+                "missingValues": [
+                    "",
+                    "nd"
+                ]
+            }
+        },
+        {
+            "name": "Chisholm_Sampling_event",
+            "title": "Chisholm_Sampling_event dataset1",
+            "path": [ "Chisholm_sampling_event.tsv" ],
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "Sample_event_ID",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "",
+                        "pm:sourceURL": ""
+                    },
+                    {
+                        "name": "cruise_ID",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "",
+                        "pm:sourceURL": ""
+                    },
+                    {
+                        "name": "cruise_expedition",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000007",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "cruise_name",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000060",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "start_date_Time",
+                        "type": "datetime",
+                        "format": "%Y-%m-%dT%H:%M:%S",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0000003",
+                        "pm:sourceCategory": "BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "lon",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0000185",
+                        "pm:sourceCategory": "BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "lat",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0000185",
+                        "pm:sourceCategory": "BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "depth_max",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000052",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "pres_max",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000053",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "num_bottles",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000051",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "station",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000054",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "cast_num",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000057",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "leg",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000059",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    }
+                ],
+                "primaryKey": "Sample_event_ID",
+                "foreignKeys": [
+                    {
+                        "fields": "cruise_ID",
+                        "reference": {
+                            "resource": "Chisholm_Cruise",
+                            "fields": "cruise_ID"
+                        }
+                    }
+                ],
+                "missingValues": [
+                    "",
+                    "nd"
+                ]
+            }
+        },
+        {
+            "name": "Chisholm_Sample",
+            "title": "Chisholm_Sample dataset1",
+            "path": [ "Chisholm_sample.tsv" ],
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "Sample_ID",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "",
+                        "pm:sourceURL": ""
+                    },
+                    {
+                        "name": "Sample_event_ID",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "",
+                        "pm:sourceURL": ""
+                    },
+                    {
+                        "name": "Archive_ID",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/OBI_0001901",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "organism",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000004",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "broad-scale environmental context",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/ENVO_00000428",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "local-scale environmental context",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "environmental medium",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/ENVO_00010483",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "geographic location",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/BFO_0000029",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "bottle_id",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000006",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "sample_name",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/OBI_0001900",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "cruise_expedition",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000007",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "cruise_name",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000060",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "start_collection_date",
+                        "type": "date",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "depth_sample",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000029",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0000008",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "rosette_position",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000012",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "latitude",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0000185",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "longitude",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0000185",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "filter_max",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0000017",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "filter_min",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0000017",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "start_date_Time",
+                        "type": "datetime",
+                        "format": "%Y-%m-%dT%H:%M:%S",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0000003",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "lon",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0000185",
+                        "pm:sourceCategory": "CTD BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "lat",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0000185",
+                        "pm:sourceCategory": "CTD BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "CTDPRS",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000028",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/PMO_00000034",
+                        "pm:sourceCategory": "CTD BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "CTDPRS_inferred",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000028",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/PMO_00000035",
+                        "pm:sourceCategory": "inferred",
+                        "pm:sourceURL": ""
+                    },
+                    {
+                        "name": "CTDTMP",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200014",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0000027",
+                        "pm:sourceCategory": "CTD BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "CTDSAL",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000014",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/PMO_00000037",
+                        "pm:sourceCategory": "CTD BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "CTDOXY",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200021",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0010004",
+                        "pm:sourceCategory": "CTD BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "XMISS",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000015",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0000187",
+                        "pm:sourceCategory": "CTD BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "CHLPIG",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000026",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0010003",
+                        "pm:sourceCategory": "CTD BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "NUMBER",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000017",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "CTD BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "NITRATE",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000027",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0010004",
+                        "pm:sourceCategory": "CTD BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "NITRATE_inferred",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000027",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0010003",
+                        "pm:sourceCategory": "inferred",
+                        "pm:sourceURL": ""
+                    },
+                    {
+                        "name": "FLUOR",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000030",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0000247",
+                        "pm:sourceCategory": "CTD BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\""
+                    },
+                    {
+                        "name": "inferred_depth",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000029",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0000008",
+                        "pm:sourceCategory": "inferred",
+                        "pm:sourceURL": ""
+                    },
+                    {
+                        "name": "ROSETTE",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000012",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NISKIN BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\""
+                    },
+                    {
+                        "name": "CTDPRS",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000028",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/PMO_00000034",
+                        "pm:sourceCategory": "NISKIN BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\""
+                    },
+                    {
+                        "name": "CTDPRS_inferred",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000028",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/PMO_00000035",
+                        "pm:sourceCategory": "inferred",
+                        "pm:sourceURL": ""
+                    },
+                    {
+                        "name": "CTDOXY",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200021",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0010004",
+                        "pm:sourceCategory": "NISKIN BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\""
+                    },
+                    {
+                        "name": "CTDSAL",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000014",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/PMO_00000037",
+                        "pm:sourceCategory": "NISKIN BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\""
+                    },
+                    {
+                        "name": "CTDTMP",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200014",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0000027",
+                        "pm:sourceCategory": "NISKIN BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\""
+                    },
+                    {
+                        "name": "NO2_NO3",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000018",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0010004",
+                        "pm:sourceCategory": "NISKIN BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\""
+                    },
+                    {
+                        "name": "OXYGEN",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200021",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0010004",
+                        "pm:sourceCategory": "NISKIN BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\""
+                    },
+                    {
+                        "name": "PHSPHT",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000031",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0010004",
+                        "pm:sourceCategory": "NISKIN BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\""
+                    },
+                    {
+                        "name": "PHSPHT_inferred",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000031",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0010003",
+                        "pm:sourceCategory": "inferred",
+                        "pm:sourceURL": ""
+                    },
+                    {
+                        "name": "REPLICT",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000019",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NISKIN BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\""
+                    },
+                    {
+                        "name": "SALNITY",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000014",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/PMO_00000037",
+                        "pm:sourceCategory": "NISKIN BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\""
+                    },
+                    {
+                        "name": "SIGMA",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000021",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0000083",
+                        "pm:sourceCategory": "NISKIN BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\""
+                    },
+                    {
+                        "name": "SILCAT",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000032",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0010004",
+                        "pm:sourceCategory": "NISKIN BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\""
+                    },
+                    {
+                        "name": "SILCAT_inferred",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000032",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0010003",
+                        "pm:sourceCategory": "inferred",
+                        "pm:sourceURL": ""
+                    },
+                    {
+                        "name": "THETA",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000020",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/PMO_00000038",
+                        "pm:sourceCategory": "NISKIN BCODMO",
+                        "pm:sourceURL": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\""
+                    }
+                ],
+                "primaryKey": "Sample_ID",
+                "foreignKeys": [
+                    {
+                        "fields": "Sample_event_ID",
+                        "reference": {
+                            "resource": "Chisholm_Sampling_event",
+                            "fields": "Sample_event_ID"
+                        }
+                    }
+                ],
+                "missingValues": [
+                    "",
+                    "nd"
+                ]
+            }
+        },
+        {
+            "name": "Chisholm_omic_exp",
+            "title": "Chisholm_omic_exp dataset1",
+            "path": [ "Chisholm_omic_exp.tsv" ],
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "Exp_Omic ID",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "",
+                        "pm:sourceURL": ""
+                    },
+                    {
+                        "name": "Sample_ID",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "",
+                        "pm:sourceURL": ""
+                    },
+                    {
+                        "name": "Archive",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/IAO_0000577",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "Archive_ID",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/OBI_0001901",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "Sample name:",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/OBI_0001900",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "Instrument:",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/OBI_0000973",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "Strategy:",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/OBI_0000626",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "Source:",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000003",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "Selection:",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/OBI_0001928",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "Layout:",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/OBI_0000711",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "sample_prep_method",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/OBI_0001902",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "library_kit",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000069",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "Laboratory protocol - extraction, sequencing, etc",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/OBI_0000626",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    }
+                ],
+                "primaryKey": "Exp_Omic ID",
+                "foreignKeys": [
+                    {
+                        "fields": "Sample_ID",
+                        "reference": {
+                            "resource": "Chisholm_Sample",
+                            "fields": "Sample_ID"
+                        }
+                    }
+                ],
+                "missingValues": [
+                    "",
+                    "nd"
+                ]
+            }
+        },
+        {
+            "name": "Chisholm_run",
+            "title": "Chisholm_run dataset1",
+            "path": [ "Chisholm_run.tsv" ],
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "Exp_Omic ID",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "Run_ID",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "Archive_ID",
+                        "type": "string",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/OBI_0001901",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "nb of Spots",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000073",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "nb of Bases",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000071",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0000330",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "Size",
+                        "type": "number",
+                        "format": "default",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000072",
+                        "pm:unitRdf": "http://purl.obolibrary.org/obo/UO_0000331",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    },
+                    {
+                        "name": "Published date",
+                        "type": "date",
+                        "format": "YYYY-MM-DD",
+                        "rdfType": "http://purl.obolibrary.org/obo/PMO_00000070",
+                        "pm:unitRdf": "",
+                        "pm:sourceCategory": "NCBI",
+                        "pm:sourceURL": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+                    }
+                ],
+                "primaryKey": "Run_ID",
+                "foreignKeys": [
+                    {
+                        "fields": "Exp_Omic ID",
+                        "reference": {
+                            "resource": "Chisholm_omic_exp",
+                            "fields": "Exp_Omic ID"
+                        }
+                    }
+                ],
+                "missingValues": [
+                    "",
+                    "nd"
+                ]
+            }
+        }
+    ]
+}

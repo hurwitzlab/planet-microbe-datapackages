@@ -1,8 +1,8 @@
 Parameter	PURL LABEL	PURL/TEMP PURL	units label	units PURL	source category	source url	type	Frictionless Format
-Exp_Omic ID					NCBI	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string
-Run_ID					NCBI	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string
-Archive_ID	specimen identifier assigned by sequencing facility	http://purl.obolibrary.org/obo/OBI_0001901			NCBI	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string
-nb of Spots	number of locations sequenced within a DNA sequence	http://purl.obolibrary.org/obo/PMO_00000073			NCBI	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	number
-nb of Bases	length of DNA sequence data	http://purl.obolibrary.org/obo/PMO_00000071	gigabasepair	http://purl.obolibrary.org/obo/UO_0000330	NCBI	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	number
-Size	file size	http://purl.obolibrary.org/obo/PMO_00000072	gigabyte	http://purl.obolibrary.org/obo/UO_0000331	NCBI	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	number
+Exp_Omic ID					NCBI	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	default
+Run_ID					NCBI	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	default
+Archive_ID	specimen identifier assigned by sequencing facility	http://purl.obolibrary.org/obo/OBI_0001901			NCBI	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	default
+nb of Spots	number of locations sequenced within a DNA sequence	http://purl.obolibrary.org/obo/PMO_00000073			NCBI	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	number	default
+nb of Bases	length of DNA sequence data	http://purl.obolibrary.org/obo/PMO_00000071	gigabasepair	http://purl.obolibrary.org/obo/UO_0000330	NCBI	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	number	default
+Size	file size	http://purl.obolibrary.org/obo/PMO_00000072	gigabyte	http://purl.obolibrary.org/obo/UO_0000331	NCBI	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	number	default
 Published date	data publication date	http://purl.obolibrary.org/obo/PMO_00000070			NCBI	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	date	YYYY-MM-DD
