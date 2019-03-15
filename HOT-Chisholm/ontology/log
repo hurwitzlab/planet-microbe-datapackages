@@ -1,0 +1,9 @@
+March 14 Kai, changed the ontology headers from:
+
+Parameter	PURL LABEL	PURL/TEMP PURL	pm:searchable	units label	units PURL	source category	source url	type	Frictionless Format
+
+to
+
+parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:source category	pm:source url	frictionless type	frictionless format
+
+changed all files from .txt to .csv
