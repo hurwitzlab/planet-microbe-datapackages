@@ -1,0 +1,65 @@
+parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:source category	pm:source url	frictionless type	frictionless format
+Sample ID											
+Sample label (BioSample)											
+Sample label (BioArchive)											
+Sample label (ENA)											
+URL file											
+Campaign											
+Site label											
+Site number											
+Event											
+Device											
+Comment											
+URI											
+Date/Time											
+Latitude											
+Longitude											
+Date/Time 2											
+Latitude 2											
+Longitude 2											
+Depth											
+TZ											
+Local time											
+"Country, closest"											
+"Country, distance"											
+"BG province, closest, abbrev"											
+"BG province, closest, desc"											
+"BG province, distance"											
+"LME, closest, desc"											
+"LME, distance"											
+"Locality, site"											
+"Locality, region"											
+URL ref											
+Biome											
+Env feature											
+Material											
+Protocol Label											
+Quantity											
+Container											
+Content											
+"Size-fraction, upper thresh"											
+"Size-fraction, lower thresh"											
+"Treatment, chemicals"											
+"Treatment, storage"											
+Temp											
+Sal											
+pH											
+[PO4]3-											
+[NO3]-											
+POC											
+[NO2]-											
+DOC											
+Plank nano/micro											
+PAR											
+Cond											
+PP C											
+OXYGEN											
+PON											
+Plank meso/macro											
+Bact prod C											
+DON											
+[NH4]+											
+Si(OH)4											
+Turbidity											
+Fluorometer											
+Chl a											
