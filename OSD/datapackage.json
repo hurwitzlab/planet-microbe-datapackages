@@ -1,0 +1,755 @@
+{
+  "@context": {
+    "pm": "http://purl.obolibrary.org/obo/PMO_00000000"
+  },
+  "profile": "tabular-data-package",
+  "name": "osd",
+  "title": "Registry of samples and environmental context from the Ocean Sampling Day 2014",
+  "pm:projectType": "marine metagenome",
+  "homepage": "https://www.microb3.eu/osd.html",
+  "keywords": [
+    "OSD",
+    "Ocean Science Day"
+  ],
+  "sources": [{
+    "title": "Ocean Sampling Day Consortium, Participants (2015)",
+    "path": "https://doi.pangaea.de/10.1594/PANGAEA.854419"
+  }],
+  "licenses": [
+    {
+      "name": "CC-BY-3.0",
+      "title": "Creative Commons Attribution 3.0 Unported",
+      "path": "https://creativecommons.org/licenses/by/3.0/"
+    }
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Registry of samples and environmental context from the Ocean Sampling Day 2014",
+      "description": "The Ocean Sampling Day (OSD) is a simultaneous sampling campaign of the world's oceans which took place (for the first time) on the summer solstice (June 21st) in the year 2014. These cumulative samples, related in time, space and environmental parameters, provide insights into fundamental rules describing microbial diversity and function and contribute to the blue economy through the identification of novel, ocean-derived biotechnologies. We see OSD data as a reference data set for generations of experiments to follow in the coming decade. The present data set includes a description of each sample collected during the Ocean Sampling Day 2014 and provides contextual environmental data measured concurrently with the collection of water samples for genomic analyses.",
+      "profile": "tabular-data-resource",
+      "path": "osd_data.tsv",
+      "dialect": {
+        "delimiter": "\t",
+        "header": true,
+        "caseSensitiveHeader": true
+      },
+      "format": "csv",
+      "mediatype": "text/tab-separated-values",
+      "encoding": "UTF-8",
+      "hash": "eac36d6747691e1061718509828598b1",
+      "schema": {
+        "fields": [
+          {
+            "name": "Sample ID",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/IAO_0000578",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": false
+          },
+          {
+            "name": "Sample label (BioSample)",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000122",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": false
+          },
+          {
+            "name": "Sample label (BioArchive)",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000124",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": false
+          },
+          {
+            "name": "Sample label (ENA)",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000123",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": false
+          },
+          {
+            "name": "URL file",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000123",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": false
+          },
+          {
+            "name": "Campaign",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000060",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": false
+          },
+          {
+            "name": "Site label",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000005",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": false
+          },
+          {
+            "name": "Site number",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000054",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": false
+          },
+          {
+            "name": "Event",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0000659",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": false
+          },
+          {
+            "name": "Device",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000074",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "Comment",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000075",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": false
+          },
+          {
+            "name": "URI",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000093",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": false
+          },
+          {
+            "name": "Date/Time",
+            "type": "datetime",
+            "format": "%Y-%m-%dT%H:%M",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "Latitude",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000076",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "Longitude",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000077",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "Date/Time 2",
+            "type": "datetime",
+            "format": "%Y-%m-%dT%H:%M",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000009",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "Latitude 2",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000079",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "Longitude 2",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000078",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "Depth",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000029",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "TZ",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000080",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": false
+          },
+          {
+            "name": "Local time",
+            "type": "datetime",
+            "format": "%Y-%m-%dT%H:%M",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000081",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": false
+          },
+          {
+            "name": "\"Country, closest\"",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000082",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "\"Country, distance\"",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000083",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": false
+          },
+          {
+            "name": "\"BG province, closest, abbrev\"",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000086",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "http://marineregions.org/",
+            "pm:searchable": true
+          },
+          {
+            "name": "\"BG province, closest, desc\"",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000085",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "http://marineregions.org/",
+            "pm:searchable": false
+          },
+          {
+            "name": "\"BG province, distance\"",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000087",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "http://marineregions.org/",
+            "pm:searchable": false
+          },
+          {
+            "name": "\"LME, closest, desc\"",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000091",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "http://www.marineregions.org/mrgid.php",
+            "pm:searchable": true
+          },
+          {
+            "name": "\"LME, distance\"",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000090",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "http://www.marineregions.org/mrgid.php",
+            "pm:searchable": false
+          },
+          {
+            "name": "\"Locality, site\"",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/BFO_0000029",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "http://www.marineregions.org/sources.php#iho",
+            "pm:searchable": false
+          },
+          {
+            "name": "\"Locality, region\"",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000092",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "http://www.marineregions.org/sources.php#iho",
+            "pm:searchable": true
+          },
+          {
+            "name": "URL ref",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000092",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "http://www.marineregions.org/sources.php#iho",
+            "pm:searchable": false
+          },
+          {
+            "name": "Biome",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00000428",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.ebi.ac.uk/ols/ontologies/envo",
+            "pm:searchable": true
+          },
+          {
+            "name": "Env feature",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.ebi.ac.uk/ols/ontologies/envo",
+            "pm:searchable": true
+          },
+          {
+            "name": "Material",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00010483",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.ebi.ac.uk/ols/ontologies/envo",
+            "pm:searchable": true
+          },
+          {
+            "name": "Protocol Label",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0000272",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": false
+          },
+          {
+            "name": "Quantity",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000025",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "Container",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000074",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": false
+          },
+          {
+            "name": "Content",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/IAO_0000104",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": false
+          },
+          {
+            "name": "\"Size-fraction, upper thresh\"",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "\"Size-fraction, lower thresh\"",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "\"Treatment, chemicals\"",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0000073",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": false
+          },
+          {
+            "name": "\"Treatment, storage\"",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0302893",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": false
+          },
+          {
+            "name": "Temp",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200014",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "Sal",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000014",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000037",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "pH",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100030",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000196",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "[PO4]3-",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100026",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "[NO3]-",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100022",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "POC",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000103",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "[NO2]-",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100023",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "DOC",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000102",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "Plank nano/micro",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000101",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000129",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "PAR",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_01001215",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000126",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "Cond",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200018",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000130",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "PP C",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000108",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000128",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "OXYGEN",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200021",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "PON",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000112",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "Plank meso/macro",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000114",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000129",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "Bact prod C",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000116",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000128",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "DON",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000111",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000273",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "[NH4]+",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100004",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "Si(OH)4",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100034",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "Turbidity",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000121",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000131",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "Fluorometer",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100032",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000218",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "Chl a",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000132",
+            "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          }
+        ],
+        "missingValues": [
+          "",
+          "nd"
+        ]
+      }
+    }
+  ]
+}
