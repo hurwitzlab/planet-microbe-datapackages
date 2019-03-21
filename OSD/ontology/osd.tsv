@@ -1,65 +1,65 @@
-parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:source category	pm:source url	frictionless type	frictionless format
-Sample ID											
-Sample label (BioSample)											
-Sample label (BioArchive)											
-Sample label (ENA)											
-URL file											
-Campaign											
-Site label											
-Site number											
-Event											
-Device											
-Comment											
-URI											
-Date/Time											
-Latitude											
-Longitude											
-Date/Time 2											
-Latitude 2											
-Longitude 2											
-Depth											
-TZ											
-Local time											
-"Country, closest"											
-"Country, distance"											
-"BG province, closest, abbrev"											
-"BG province, closest, desc"											
-"BG province, distance"											
-"LME, closest, desc"											
-"LME, distance"											
-"Locality, site"											
-"Locality, region"											
-URL ref											
-Biome											
-Env feature											
-Material											
-Protocol Label											
-Quantity											
-Container											
-Content											
-"Size-fraction, upper thresh"											
-"Size-fraction, lower thresh"											
-"Treatment, chemicals"											
-"Treatment, storage"											
-Temp											
-Sal											
-pH											
-[PO4]3-											
-[NO3]-											
-POC											
-[NO2]-											
-DOC											
-Plank nano/micro											
-PAR											
-Cond											
-PP C											
-OXYGEN											
-PON											
-Plank meso/macro											
-Bact prod C											
-DON											
-[NH4]+											
-Si(OH)4											
-Turbidity											
-Fluorometer											
-Chl a											
+parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
+Sample ID	centrally registered identifier	http://purl.obolibrary.org/obo/IAO_0000578	FALSE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+Sample label (BioSample)	Biosample identifier assigned by the National Center for Biotechnology Information	http://purl.obolibrary.org/obo/PMO_00000122	FALSE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+Sample label (BioArchive)	INSDC bioarchive accession number	http://purl.obolibrary.org/obo/PMO_00000124	FALSE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+Sample label (ENA)	secondary sample accession identifier assigned by the European Nucleotide Archive	http://purl.obolibrary.org/obo/PMO_00000123	FALSE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+URL file	secondary sample accession identifier assigned by the European Nucleotide Archive	http://purl.obolibrary.org/obo/PMO_00000123	FALSE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+Campaign	sampling expedition identifier	http://purl.obolibrary.org/obo/PMO_00000060	FALSE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+Site label	site label	http://purl.obolibrary.org/obo/PMO_00000005	FALSE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+Site number	number designating study site	http://purl.obolibrary.org/obo/PMO_00000054	FALSE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+Event	specimen collection process	http://purl.obolibrary.org/obo/OBI_0000659	FALSE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+Device	specimen collection device	http://purl.obolibrary.org/obo/PMO_00000074	TRUE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+Comment	comment on investigation	http://purl.obolibrary.org/obo/PMO_00000075	FALSE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+URI	specimen collection process data doccument	http://purl.obolibrary.org/obo/PMO_00000093	FALSE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+Date/Time	specimen collection time measurement datum start	http://purl.obolibrary.org/obo/PMO_00000008	TRUE	time unit	http://purl.obolibrary.org/obo/UO_0000003			https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	datetime	%Y-%m-%dT%H:%M
+Latitude	latitude coordinate measurement datum start	http://purl.obolibrary.org/obo/PMO_00000076	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185			https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+Longitude	longitude coordinate measurement datum start	http://purl.obolibrary.org/obo/PMO_00000077	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185			https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+Date/Time 2	specimen collection time measurement datum stop	http://purl.obolibrary.org/obo/PMO_00000009	TRUE	time unit	http://purl.obolibrary.org/obo/UO_0000003			https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	datetime	%Y-%m-%dT%H:%M
+Latitude 2	latitude coordinate measurement datum stop	http://purl.obolibrary.org/obo/PMO_00000079	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185			https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+Longitude 2	longitude coordinate measurement datum stop	http://purl.obolibrary.org/obo/PMO_00000078	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185			https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+Depth	depth of water	http://purl.obolibrary.org/obo/PMO_00000029	TRUE	meter	http://purl.obolibrary.org/obo/UO_0000008			https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+TZ	time zone	http://purl.obolibrary.org/obo/PMO_00000080	FALSE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+Local time	specimen collection time measurement datum in localized time zone	http://purl.obolibrary.org/obo/PMO_00000081	FALSE	time unit	http://purl.obolibrary.org/obo/UO_0000003			https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	datetime	%Y-%m-%dT%H:%M
+"Country, closest"	Country Code	http://purl.obolibrary.org/obo/PMO_00000082	TRUE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+"Country, distance"	distance between site and country border	http://purl.obolibrary.org/obo/PMO_00000083	FALSE	meter	http://purl.obolibrary.org/obo/UO_0000008			https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+"BG province, closest, abbrev"	biogeochemical province label	http://purl.obolibrary.org/obo/PMO_00000086	TRUE					http://marineregions.org/	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+"BG province, closest, desc"	biogeochemical province	http://purl.obolibrary.org/obo/PMO_00000085	FALSE					http://marineregions.org/	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+"BG province, distance"	distance between site and biogeochemical province	http://purl.obolibrary.org/obo/PMO_00000087	FALSE	degree	http://purl.obolibrary.org/obo/UO_0000185			http://marineregions.org/	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+"LME, closest, desc"	Large Marine Ecosystem	http://purl.obolibrary.org/obo/PMO_00000091	TRUE					http://www.marineregions.org/mrgid.php	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+"LME, distance"	distance between a site and a geographic location	http://purl.obolibrary.org/obo/PMO_00000090	FALSE	meter	http://purl.obolibrary.org/obo/UO_0000008			http://www.marineregions.org/mrgid.php	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+"Locality, site"	site	http://purl.obolibrary.org/obo/BFO_0000029	FALSE					http://www.marineregions.org/sources.php#iho	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+"Locality, region"	International Hydrographic Organization Sea Area	http://purl.obolibrary.org/obo/PMO_00000092	TRUE					http://www.marineregions.org/sources.php#iho	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+URL ref	International Hydrographic Organization Sea Area	http://purl.obolibrary.org/obo/PMO_00000092	FALSE					http://www.marineregions.org/sources.php#iho	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+Biome	biome	http://purl.obolibrary.org/obo/ENVO_00000428	TRUE					https://www.ebi.ac.uk/ols/ontologies/envo	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+Env feature	environmental feature	http://purl.obolibrary.org/obo/ENVO_00002297	TRUE					https://www.ebi.ac.uk/ols/ontologies/envo	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+Material	environmental material	http://purl.obolibrary.org/obo/ENVO_00010483	TRUE					https://www.ebi.ac.uk/ols/ontologies/envo	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+Protocol Label	protocol	http://purl.obolibrary.org/obo/OBI_0000272	FALSE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+Quantity	water sample volume	http://purl.obolibrary.org/obo/PMO_00000025	TRUE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+Container	specimen collection device	http://purl.obolibrary.org/obo/PMO_00000074	FALSE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+Content	plan specification	http://purl.obolibrary.org/obo/IAO_0000104	FALSE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+"Size-fraction, upper thresh"	upper size threshold filter paper	http://purl.obolibrary.org/obo/PMO_00000023	TRUE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+"Size-fraction, lower thresh"	lower size threshold filter paper	http://purl.obolibrary.org/obo/PMO_00000022	TRUE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+"Treatment, chemicals"	sample preparation for assay	http://purl.obolibrary.org/obo/OBI_0000073	FALSE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+"Treatment, storage"	storage	http://purl.obolibrary.org/obo/OBI_0302893	FALSE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	string	
+Temp	temperature of water	http://purl.obolibrary.org/obo/ENVO_09200014	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185			https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+Sal	water salinity	http://purl.obolibrary.org/obo/PMO_00000014	TRUE	practical salinity unit	http://purl.obolibrary.org/obo/PMO_00000037			https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+pH	acidity of water	http://purl.obolibrary.org/obo/ENVO_3100030	TRUE	pH	http://purl.obolibrary.org/obo/UO_0000196			https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+[PO4]3-	concentration of phosphate in water	http://purl.obolibrary.org/obo/ENVO_3100026	TRUE	micromole per litre	http://purl.obolibrary.org/obo/UO_0010003			https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+[NO3]-	concentration of nitrate in water	http://purl.obolibrary.org/obo/ENVO_3100022	TRUE	micromole per litre	http://purl.obolibrary.org/obo/UO_0010003			https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+POC	particulate organic carbon	http://purl.obolibrary.org/obo/PMO_00000103	TRUE	microgram per liter	http://purl.obolibrary.org/obo/UO_0000301			https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+[NO2]-	concentration of nitrite in water	http://purl.obolibrary.org/obo/ENVO_3100023	TRUE	micromole per litre	http://purl.obolibrary.org/obo/UO_0010003			https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+DOC	dissolved organic carbon	http://purl.obolibrary.org/obo/PMO_00000102	TRUE	micromole per litre	http://purl.obolibrary.org/obo/UO_0010003			https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+Plank nano/micro	nanoplankton and microplankton aggregate	http://purl.obolibrary.org/obo/PMO_00000101	TRUE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+PAR	visible spectrum stellar radiation	http://purl.obolibrary.org/obo/ENVO_01001215	TRUE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+Cond	conductivity of water	http://purl.obolibrary.org/obo/ENVO_09200018	TRUE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+PP C	primary productivity carbon	http://purl.obolibrary.org/obo/PMO_00000108	TRUE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+OXYGEN	concentration of oxygen in water	http://purl.obolibrary.org/obo/ENVO_09200021	TRUE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+PON	particulate organic nitrogen	http://purl.obolibrary.org/obo/PMO_00000112	TRUE	microgram per liter	http://purl.obolibrary.org/obo/UO_0000301			https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+Plank meso/macro	mesoplankton and macroplankton aggregate	http://purl.obolibrary.org/obo/PMO_00000114	TRUE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+Bact prod C	prokaryote derived carbon	http://purl.obolibrary.org/obo/PMO_00000116	TRUE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+DON	dissolved organic nitrogen	http://purl.obolibrary.org/obo/PMO_00000111	TRUE	milligram per liter	http://purl.obolibrary.org/obo/UO_0000273			https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+[NH4]+	concentration of ammonium in water	http://purl.obolibrary.org/obo/ENVO_3100004	TRUE	micromole per litre	http://purl.obolibrary.org/obo/UO_0010003			https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+Si(OH)4	concentration of silicic acid in water	http://purl.obolibrary.org/obo/ENVO_3100034	TRUE	micromole per litre	http://purl.obolibrary.org/obo/UO_0010003			https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+Turbidity	turbidity of water	http://purl.obolibrary.org/obo/PMO_00000121	TRUE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+Fluorometer	fluorescence of water	http://purl.obolibrary.org/obo/ENVO_3100032	TRUE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
+Chl a	concentration of chlorophyll a in water	http://purl.obolibrary.org/obo/ENVO_3100008	TRUE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number	
