@@ -1,0 +1,31 @@
+parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
+sampling_event_id											
+cruise_name											
+station											
+cast											
+start ISO_DateTime											
+Year											
+Month											
+Day											
+timeutc											
+lon											
+lat											
+depth_max											
+pres_max											
+Date											
+HOT_summary_file_name											
+parameters											
+num_bottles											
+section											
+nav_code											
+EXPOCODE											
+depth_hgt											
+Ship											
+comments											
+CTDPRS											
+CTDTMP											
+CTDSAL											
+CTDOXY											
+CHLPIG											
+NUMBER											
+QUALT1											
