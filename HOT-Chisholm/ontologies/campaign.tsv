@@ -1,0 +1,13 @@
+parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
+campaign_expedition	project investigation identifier										
+expedition_URL	make										
+campaign_name	sampling expedition identifier										
+WOCE_ID	no										
+R2R_cruise_DOI	make										
+start_date											
+end_date											
+start_location	sampling expedition start location										
+end_location	sampling expedition end location										
+CCHDO url											
+BCO-DMO summary											
+BCO-DMO deployment											
