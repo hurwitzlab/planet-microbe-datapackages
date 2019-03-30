@@ -1,7 +1,7 @@
 campaign
     "Primary_key" : "campaign_name"
 
-sampling events 
+sampling_events 
     "Primary_key": "Sample_event_ID"
     "foreignKeys": [
         {
@@ -14,12 +14,12 @@ sampling events
     ],
 
 samples_CTD_BCO-DMO
-    "Primary_key": "Archive_ID"
+    "Primary_key": "Archive_ID",
     "foreignKeys": [
         {
             "fields": "Sample_event_ID",
             "reference": {
-                "resource": "sampling events",
+                "resource": "sampling_events",
                 "fields": "Sample_event_ID"
             }
         }
@@ -31,7 +31,7 @@ samples_NCBI
         {
             "fields": "Sample_event_ID",
             "reference": {
-                "resource": "sampling events",
+                "resource": "sampling_events",
                 "fields": "Sample_event_ID"
             }
         }
@@ -43,7 +43,7 @@ samples_Niskin_BCO-DMO
         {
             "fields": "Sample_event_ID",
             "reference": {
-                "resource": "sampling events",
+                "resource": "sampling_events",
                 "fields": "Sample_event_ID"
             }
         }
@@ -54,7 +54,7 @@ CTD_profiles
         {
             "fields": "Sample_event_ID",
             "reference": {
-                "resource": "sampling events",
+                "resource": "sampling_events",
                 "fields": "Sample_event_ID"
             }
         }
@@ -65,7 +65,7 @@ Niskin_profiles
         {
             "fields": "Sample_event_ID",
             "reference": {
-                "resource": "sampling events",
+                "resource": "sampling_events",
                 "fields": "Sample_event_ID"
             }
         }
