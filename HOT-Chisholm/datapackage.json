@@ -53,7 +53,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000060",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -64,7 +64,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000054",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -75,7 +75,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000057",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -86,7 +86,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -141,7 +141,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -152,7 +152,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -163,7 +163,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000052",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -174,7 +174,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000053",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -196,7 +196,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000063",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -218,7 +218,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000051",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -273,7 +273,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000065",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -284,7 +284,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000075",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -295,7 +295,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000028",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000034",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -306,7 +306,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200014",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000027",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -317,7 +317,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000014",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000037",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -328,7 +328,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200021",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -339,7 +339,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000026",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -350,7 +350,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000017",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -369,7 +369,7 @@
         ],
         "foreignKeys": [
             {
-                "fields": "Sample_event_ID",
+                "fields": "sampling_event_id",
                 "reference": {
                     "resource": "sampling_events",
                     "fields": "Sample_event_ID"
@@ -416,7 +416,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000060",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -438,7 +438,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000065",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -482,7 +482,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -548,7 +548,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -559,7 +559,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -581,7 +581,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000052",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -592,7 +592,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000053",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -625,7 +625,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000075",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -636,7 +636,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000063",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -658,7 +658,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000028",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000034",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -669,7 +669,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000139",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000141",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -680,7 +680,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200021",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -691,7 +691,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000014",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000037",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -702,7 +702,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200014",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000027",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -713,7 +713,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000142",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -724,7 +724,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000102",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -735,7 +735,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000018",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -746,7 +746,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200021",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -757,7 +757,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100030",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000196",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -768,7 +768,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000031",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -779,7 +779,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000019",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -790,7 +790,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000014",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000037",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -801,7 +801,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000021",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000083",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -812,7 +812,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000032",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -823,7 +823,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000020",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000038",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "NISKIN BCODMO",
             "pm:searchable": true
@@ -952,7 +952,7 @@
         ],
         "foreignKeys": [
           {
-            "fields": "Sample_event_ID",
+            "fields": "sampling_event_id",
             "reference": {
                 "resource": "sampling_events",
                 "fields": "Sample_event_ID"
@@ -1115,7 +1115,7 @@
             "pm:searchable": false
           }
         ],
-        "Primary_key" : "campaign_name",
+        "primaryKey" : "campaign_name",
         "missingValues": [
           "",
           "nd"
@@ -1167,7 +1167,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000060",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -1178,7 +1178,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000054",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -1189,7 +1189,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000057",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -1200,7 +1200,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -1255,7 +1255,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -1266,7 +1266,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -1277,7 +1277,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000052",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -1288,7 +1288,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000053",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -1310,7 +1310,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000063",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -1332,7 +1332,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000051",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -1387,7 +1387,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000065",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -1398,7 +1398,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000075",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -1409,7 +1409,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000028",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000034",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -1420,7 +1420,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200014",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000027",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -1431,7 +1431,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000014",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000037",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -1442,7 +1442,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200021",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -1453,7 +1453,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000026",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -1464,7 +1464,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000017",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -1492,7 +1492,7 @@
             "pm:searchable": true
           }
         ],
-        "Primary_key": "Archive_ID",
+        "primaryKey": "Archive_ID",
         "foreignKeys": [
           {
             "fields": "Sample_event_ID",
@@ -1713,7 +1713,7 @@
             "pm:searchable": true
           }
         ],
-        "Primary_key": "Archive_ID",
+        "primaryKey": "Archive_ID",
         "foreignKeys": [
           {
             "fields": "Sample_event_ID",
@@ -1774,7 +1774,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000060",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -1796,7 +1796,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000065",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -1840,7 +1840,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -1906,7 +1906,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -1917,7 +1917,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -1939,7 +1939,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000052",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -1950,7 +1950,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000053",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -1983,7 +1983,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000075",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -1994,7 +1994,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000063",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -2016,7 +2016,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000028",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000034",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -2027,7 +2027,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200021",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -2038,7 +2038,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000014",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000037",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -2049,7 +2049,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200014",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000027",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -2060,7 +2060,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000018",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -2071,7 +2071,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200021",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -2082,7 +2082,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000031",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -2093,7 +2093,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000019",
             "pm:unitRdfType": "",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -2104,7 +2104,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000014",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000037",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -2115,7 +2115,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000021",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000083",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
@@ -2126,7 +2126,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000032",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
@@ -2137,7 +2137,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000020",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000038",
-            "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
+            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "NISKIN BCODMO",
             "pm:searchable": true
@@ -2264,7 +2264,7 @@
             "pm:searchable": false
           }
         ],
-        "Primary_key": "Archive_ID",
+        "primaryKey": "Archive_ID",
         "foreignKeys": [
           {
             "fields": "Sample_event_ID",
@@ -2386,7 +2386,7 @@
             "pm:searchable": false
           }
         ],
-        "Primary_key": "Sample_event_ID",
+        "primaryKey": "Sample_event_ID",
         "foreignKeys": [
           {
             "fields": "cruise_ID",
