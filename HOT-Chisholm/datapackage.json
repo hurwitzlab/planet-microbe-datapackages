@@ -2392,7 +2392,7 @@
             "fields": "cruise_ID",
             "reference": {
                 "resource": "campaign",
-                "fields": "cruise_ID"
+                "fields": "campaign_name"
             }
           }
         ],
