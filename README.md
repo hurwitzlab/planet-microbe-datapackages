@@ -1,10 +1,7 @@
-# planet-microbe-Datapackages
-Datapackages for the planet microbe project
+# planet-microbe-datapackages
+Data packages for the Planet Microbe project.
 
-# ontology
+Data packages are "data containers" that conform to the Frictionless Data standard:
+http://frictionlessdata.io/specs/data-package/
 
-# data
-
-# json
-
-
+Utility and load scripts for Planet Microbe are located in [this repository](https://github.com/hurwitzlab/pm-schemas).
