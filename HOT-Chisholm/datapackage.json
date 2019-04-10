@@ -3,7 +3,7 @@
     "pm": "http://purl.obolibrary.org/obo/PMO_00000000"
   },
   "profile": "tabular-data-package",
-  "name": "Chisolm HOT and BATS",
+  "name": "chisolm_hot_and_bats",
   "title": "Temporal sampling of marine metagenomes from Station ALOHA and BATS",
   "description": "Temporal sampling of marine metagenomes from Station ALOHA and BATS",
   "pm:projectType": "marine metagenome",
@@ -20,7 +20,7 @@
   "licenses": [],
   "resources": [
     {
-      "name": "CTD_profiles",
+      "name": "ctd_profiles",
       "title": "Data server object: ctd",
       "description": "Two decibar-averaged CTD profiles from the Hawaii Ocean Time-Series cruises from 1988-2016 (HOT project)",
       "profile": "tabular-data-resource",
@@ -383,7 +383,7 @@
       }
     },
     {
-      "name": "Niskin_profiles",
+      "name": "niskin_profiles",
       "title": "Data server object: niskin",
       "description": "Niskin bottle water samples and CTD measurements from the Hawaii Ocean Time-Series cruises from 1988-2016 (HOT project)",
       "profile": "tabular-data-resource",
@@ -1123,7 +1123,7 @@
       }
     },
     {
-      "name": "samples_CTD_BCO-DMO",
+      "name": "samples_ctd_bco-dmo",
       "title": "Chisholm_cruise omics and BCO-DMO CTD data",
       "description": "Combination of the Chisholm omics project, Temporal sampling of marine metagenomes from Station ALOHA and BATS with the BCO-DMO CTD data.",
       "profile": "tabular-data-resource",
@@ -1509,7 +1509,7 @@
       }
     },
     {
-      "name": "samples_NCBI",
+      "name": "samples_ncbi",
       "title": "Temporal sampling of marine metagenomes from Station ALOHA and BATS",
       "description": "Temporal sampling of marine metagenomes from Station ALOHA and BATS, NCBI Accession: PRJNA385855 ID: 385855",
       "profile": "tabular-data-resource",
@@ -1730,7 +1730,7 @@
       }
     },
     {
-      "name": "samples_Niskin_BCO-DMO",
+      "name": "samples_niskin_bco-dmo",
       "title": "Chisholm_cruise omics and BCO-DMO Niskin data",
       "description": "Combination of the Chisholm omics project, Temporal sampling of marine metagenomes from Station ALOHA and BATS with the BCO-DMO Niskin data.",
       "profile": "tabular-data-resource",
