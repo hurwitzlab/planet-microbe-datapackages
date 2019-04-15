@@ -1504,6 +1504,20 @@
                 "resource": "sampling_events",
                 "fields": "Sample_event_ID"
             }
+          },
+          {
+            "fields": [ "Sample_event_ID", "Archive_ID" ],
+            "reference": {
+                "resource": "samples_ncbi",
+                "fields": [ "Sample_event_ID", "Archive_ID" ]
+            }
+          },
+          {
+            "fields": [ "Sample_event_ID", "Archive_ID" ],
+            "reference": {
+                "resource": "samples_niskin_bco-dmo",
+                "fields": [ "Sample_event_ID", "Archive_ID" ]
+            }
           }
         ],
         "missingValues": [
