@@ -53,9 +53,10 @@
           },
           {
             "name": "Sample label (BioSample)",
+            "description": "BioSample identifier assigned by the National Center for Biotechnological Information",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000122",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001901",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
             "pm:measurementSourceRdfType": "",
@@ -64,6 +65,7 @@
           },
           {
             "name": "Sample label (BioArchive)",
+            "description": "BioArchive identifier assigned by the International Nucleotide Sequence Database Collaboration",
             "type": "string",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000124",
@@ -75,6 +77,7 @@
           },
           {
             "name": "Sample label (ENA)",
+            "description": "Secondary sample accession identifier assigned by the European Nucleotide Archive",
             "type": "string",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000123",
@@ -263,7 +266,7 @@
           {
             "name": "Local time",
             "type": "datetime",
-            "format": "%Y-%m-%dT%H:%M",
+            "format": "%d-%m-%YT%H:%M:%S",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000081",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
@@ -272,7 +275,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Country, closest\"",
+            "name": "Country, closest",
             "type": "string",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000082",
@@ -283,7 +286,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Country, distance\"",
+            "name": "Country, distance",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000083",
@@ -294,7 +297,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"BG province, closest, abbrev\"",
+            "name": "BG province, closest, abbrev",
             "type": "string",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000086",
@@ -305,7 +308,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"BG province, closest, desc\"",
+            "name": "BG province, closest, desc",
             "type": "string",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000085",
@@ -316,7 +319,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"BG province, distance\"",
+            "name": "BG province, distance",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000087",
@@ -327,7 +330,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"LME, closest, desc\"",
+            "name": "LME, closest, desc",
             "type": "string",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000091",
@@ -338,7 +341,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"LME, distance\"",
+            "name": "LME, distance",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000090",
@@ -349,7 +352,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Locality, site\"",
+            "name": "Locality, site",
             "type": "string",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/BFO_0000029",
@@ -360,7 +363,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Locality, region\"",
+            "name": "Locality, region",
             "type": "string",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000092",
@@ -459,7 +462,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Size-fraction, upper thresh\"",
+            "name": "Size-fraction, upper thresh",
             "type": "string",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
@@ -470,7 +473,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Size-fraction, lower thresh\"",
+            "name": "Size-fraction, lower thresh",
             "type": "string",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
@@ -481,7 +484,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Treatment, chemicals\"",
+            "name": "Treatment, chemicals",
             "type": "string",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0000073",
@@ -492,7 +495,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Treatment, storage\"",
+            "name": "Treatment, storage",
             "type": "string",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0302893",
