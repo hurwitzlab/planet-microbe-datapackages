@@ -25,9 +25,12 @@ The closest CTD record was obtained for each sample by the followig steps :
   - Retrieve CTD records with a matching "cruise_name", "station", and "cast" as the sample.
   - For the selected CTD records, finds the closest "inferred_depth" as the sample "depth". If no record is found in a given range (set as 5m), the sample is considered to have no closest CTD record.
 
+The closest Niskin record was obtained for each sample by the same steps as above.
+
 The script is available in scripts/map_ctd_metagenomes.py
 
-The closest Niskin record was obtained for each sample by the same steps as above.
+Additional minor corrections were performed on the BCO-DMO CTD and Niskin record for increased readability :
+  - The "ISO_DateTime" and "timecode" were combined in "start ISO_DateTime".
 
 ### sampling_events
 A sampling event table was generated from the sample tables. A sampling-event is defined as a unique "cast" and "station" and "cruise_name". The "start_ISO_DateTime", "latitude", "longitude" and "cruise_ID" were retrieved from BCO-DMO.
