@@ -49,8 +49,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "cruise_name",
@@ -60,8 +59,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "station",
@@ -71,8 +69,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "cast",
@@ -82,8 +79,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "start ISO_DateTime",
@@ -93,8 +89,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Year",
@@ -104,8 +99,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Month",
@@ -115,8 +109,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Day",
@@ -126,8 +119,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "timeutc",
@@ -137,8 +129,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "lon",
@@ -148,8 +139,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "lat",
@@ -159,8 +149,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "depth_max",
@@ -170,8 +159,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "pres_max",
@@ -181,8 +169,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Date",
@@ -192,8 +179,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "HOT_summary_file_name",
@@ -203,8 +189,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "parameters",
@@ -214,8 +199,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "num_bottles",
@@ -225,8 +209,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "section",
@@ -236,8 +219,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "nav_code",
@@ -247,8 +229,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "EXPOCODE",
@@ -258,8 +239,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "depth_hgt",
@@ -269,8 +249,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Ship",
@@ -280,8 +259,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "comments",
@@ -291,8 +269,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "CTDPRS",
@@ -302,8 +279,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000034",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "CTDTMP",
@@ -313,8 +289,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000027",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "CTDSAL",
@@ -324,8 +299,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000037",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "CTDOXY",
@@ -335,8 +309,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "CHLPIG",
@@ -346,8 +319,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "NUMBER",
@@ -357,8 +329,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "QUALT1",
@@ -368,8 +339,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           }
         ],
         "foreignKeys": [
@@ -413,8 +383,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "cruise_name",
@@ -424,8 +393,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "EXPOCODE",
@@ -435,8 +403,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Ship",
@@ -446,8 +413,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "STNNBR",
@@ -457,8 +423,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "CASTNO",
@@ -468,8 +433,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "section",
@@ -479,8 +443,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "start_ISO_DateTime",
@@ -490,8 +453,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Date",
@@ -501,8 +463,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Year",
@@ -512,8 +473,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Month",
@@ -523,8 +483,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Day",
@@ -534,8 +493,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "timeutc",
@@ -545,8 +503,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "lon",
@@ -556,8 +513,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "lat",
@@ -567,8 +523,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "nav_code",
@@ -578,8 +533,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "depth_max",
@@ -589,8 +543,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "pres_max",
@@ -600,8 +553,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "depth_hgt",
@@ -611,8 +563,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "parameters",
@@ -622,8 +573,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "comments",
@@ -633,8 +583,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "HOT_summary_file_name",
@@ -644,8 +593,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "ROSETTE",
@@ -655,8 +603,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "CTDPRS",
@@ -666,8 +613,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000034",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "ALKALIN",
@@ -677,8 +623,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000141",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "CTDOXY",
@@ -688,8 +633,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "CTDSAL",
@@ -699,8 +643,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000037",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "CTDTMP",
@@ -710,8 +653,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000027",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "DIC",
@@ -721,8 +663,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "DOC",
@@ -732,8 +673,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "NO2_NO3",
@@ -743,8 +683,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "OXYGEN",
@@ -754,8 +693,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "PH",
@@ -765,8 +703,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000196",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "PHSPHT",
@@ -776,8 +713,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "REPLICT",
@@ -787,8 +723,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "SALNITY",
@@ -798,8 +733,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000037",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "SIGMA",
@@ -809,8 +743,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000083",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "SILCAT",
@@ -820,8 +753,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "THETA",
@@ -831,8 +763,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000038",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "NISKIN BCODMO",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": "NISKIN BCODMO"
           },
           {
             "name": "num_bottles",
@@ -842,8 +773,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "QUALT1",
@@ -853,8 +783,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "QUALT2",
@@ -864,8 +793,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "QUALT3",
@@ -875,8 +803,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "QUALT4",
@@ -886,8 +813,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "QUALT5",
@@ -897,8 +823,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "QUALT6",
@@ -908,8 +833,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "QUALT7",
@@ -919,8 +843,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "QUALT8",
@@ -930,8 +853,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "QUALT9",
@@ -941,8 +863,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "QUAL10",
@@ -952,8 +873,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           }
         ],
         "foreignKeys": [
@@ -997,8 +917,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "expedition_URL",
@@ -1008,8 +927,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "campaign_name",
@@ -1019,8 +937,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "WOCE_ID",
@@ -1030,8 +947,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "R2R_cruise_DOI",
@@ -1041,8 +957,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "start_date",
@@ -1052,8 +967,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "end_date",
@@ -1063,8 +977,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "start_location",
@@ -1074,8 +987,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "end_location",
@@ -1085,8 +997,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "CCHDO url",
@@ -1096,8 +1007,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "BCO-DMO summary",
@@ -1107,8 +1017,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "BCO-DMO deployment",
@@ -1118,8 +1027,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           }
         ],
         "primaryKey" : "campaign_name",
@@ -2330,8 +2238,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "start_ISO_DateTime",
@@ -2374,8 +2281,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "cruise_expedition",
@@ -2385,8 +2291,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "sampling_event_type",
@@ -2396,8 +2301,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Station_name",
@@ -2407,8 +2311,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           }
         ],
         "primaryKey": "Sample_event_ID",
