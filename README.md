@@ -20,14 +20,16 @@ Minor corrections were done in order to help the use of the metadata :
 ### samples_CTD_BCO-DMO and samples_Niskin_BCO-DMO
 Collects metadata from the closest CTD and Niskin record for each samples. These CTD and Niskin records were obtained from BCO-DMO HOT frictionless datapackage.
 
-The closest CTD record was obtained for each sample by the followig steps :
+#### The closest CTD record was obtained for each sample by the followig steps :
   - Load BCO-DMO CTD dataset, convert the "CTDPRS" of the CTD records into an "infered_depth" using the following formula  [see Fofonoff & Millard, 1983: UNESCO]
   - Retrieve CTD records with a matching "cruise_name", "station", and "cast" as the sample.
   - For the selected CTD records, finds the closest "inferred_depth" as the sample "depth". If no record is found in a given range (set as 5m), the sample is considered to have no closest CTD record.
 
-The closest Niskin record was obtained for each sample by the same steps as above.
-
 The script is available in scripts/map_ctd_metagenomes.py
+
+#### The closest Niskin record was obtained for each sample by the followig steps :
+  - Load BCO-DMO Niskin Dataset
+  - Retrieve the Niskin record with a matching "cruise_name", "station", "cast" and "Rosette-position" (several Niskin could have been taken at the same depth). The "Rosette-position" for each sample was obtained directly from the experimentator in a personnal communication.
 
 Additional minor corrections were performed on the BCO-DMO CTD and Niskin record for increased readability :
   - The "ISO_DateTime" and "timecode" were combined in "start ISO_DateTime".
