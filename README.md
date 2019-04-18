@@ -50,6 +50,39 @@ Complete CTD and Niskin records for a given sampling event were obtained by a si
 ## DeLong HOT metagenomes datapackage
 
 ### samples_NCBI
+Collects metadata associated to the NCBI Biosamples of the bioproject https://www.ncbi.nlm.nih.gov/bioproject/16339 . Only samples with metagenomes collected at the ALOHA station were considered (the NCBI project also contains samples from 16s sequencing, Fosmid library and other products).
+
+Minor corrections were done in order to help the use of the metadata :
+  - The field "Date Time" was converted into the ISO date-Time format
+  - The field "latitude and longitude" was parsed and separated into two separate fields "latitude" and "longitude".
+  - The field "depth" contained a 'm' in the field. This was removed and the unit was specified in meters. 
+  - A field "filter_min" and "filter_max" was added, with information from the biosample description.
 
 ### samples_paper1
-https://www.nature.com/articles/ismej2015221#materials-and-methods
+Collects metadata associated to the samples from the paper :
+https://www.nature.com/articles/ismej2015221
+The metadata is available in supplemental material 1.
+
+### samples_CTD_BCO-DMO and samples_Niskin_BCO-DMO
+Collects metadata from the closest CTD and Niskin record for each samples. These CTD and Niskin records were obtained from BCO-DMO HOT frictionless datapackage.
+
+#### The closest CTD record was obtained for each sample by the followig steps :
+  - Load BCO-DMO CTD dataset, convert the "CTDPRS" of the CTD records into an "infered_depth" using the following formula  [see Fofonoff & Millard, 1983: UNESCO]
+  - Retrieve CTD records with a matching "cruise_name", "station", and "cast" as the sample.
+  - For the selected CTD records, finds the closest "inferred_depth" as the sample "depth". If no record is found in a given range (set as 5m), the sample is considered to have no closest CTD record.
+
+The script is available in scripts/map_ctd_metagenomes.py
+
+#### The closest Niskin record was obtained for each sample by the followig steps :
+  - Load BCO-DMO Niskin Dataset
+  - Retrieve the Niskin record with a matching "cruise_name", "station", "cast" and "Rosette-position" (several Niskin could have been taken at the same depth). The "Rosette-position" for each sample was obtained directly from the experimentator in a personnal communication.
+
+Additional minor corrections were performed on the BCO-DMO CTD and Niskin record for increased readability :
+  - The "ISO_DateTime" and "timecode" were combined in "start ISO_DateTime".
+  - The "cruise_name" from BCO-DMO was transformed to be consistant with the name displayed in NCBI (e.g. '154' is transformed to 'HOT154')
+
+### sampling_events
+A sampling event table was generated from the sample tables. A sampling-event is defined as a unique "cast" and "station" and "cruise_name". The "start_ISO_DateTime", "latitude", "longitude" and "cruise_ID" were retrieved from BCO-DMO.
+A "sampling_event_type" was added.
+
+
