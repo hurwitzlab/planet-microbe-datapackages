@@ -39,3 +39,11 @@ Additional information about the cruise was searched in BCO-DMO in order to obta
 
 ### CTD_profiles and Niskin_profiles
 Complete CTD and Niskin records for a given sampling event were obtained by a simple query on the BCO-DMO HOT frictionless datapackage using the "cruise_name", "station", and "cast" of the sampling event.
+
+
+## DeLong HOT metagenomes datapackage
+
+### samples_NCBI
+
+### samples_paper1
+https://www.nature.com/articles/ismej2015221#materials-and-methods
