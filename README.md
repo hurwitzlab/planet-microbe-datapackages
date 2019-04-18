@@ -21,7 +21,7 @@ Minor corrections were done in order to help the use of the metadata :
 Collects metadata from the closest CTD and Niskin record for each samples. These CTD and Niskin records were obtained from BCO-DMO HOT frictionless datapackage.
 
 The closest CTD record was obtained for each sample by the followig steps :
-  - Load BCO-DMO CTD dataset, convert the "CTDPRS" of the CTD records into an "infered_depth" using the following formula {get reference to the formula}
+  - Load BCO-DMO CTD dataset, convert the "CTDPRS" of the CTD records into an "infered_depth" using the following formula  [see Fofonoff & Millard, 1983: UNESCO]
   - Retrieve CTD records with a matching "cruise_name", "station", and "cast" as the sample.
   - For the selected CTD records, finds the closest "inferred_depth" as the sample "depth". If no record is found in a given range (set as 5m), the sample is considered to have no closest CTD record.
 
