@@ -33,6 +33,7 @@ The script is available in scripts/map_ctd_metagenomes.py
 
 Additional minor corrections were performed on the BCO-DMO CTD and Niskin record for increased readability :
   - The "ISO_DateTime" and "timecode" were combined in "start ISO_DateTime".
+  - The "cruise_name" from BCO-DMO was transformed to be consistant with the name displayed in NCBI (e.g. '154' is transformed to 'HOT154')
 
 ### sampling_events
 A sampling event table was generated from the sample tables. A sampling-event is defined as a unique "cast" and "station" and "cruise_name". The "start_ISO_DateTime", "latitude", "longitude" and "cruise_ID" were retrieved from BCO-DMO.
