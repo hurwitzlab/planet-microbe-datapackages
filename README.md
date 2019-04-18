@@ -30,7 +30,7 @@ The script is available in scripts/map_ctd_metagenomes.py
 The closest Niskin record was obtained for each sample by the same steps as above.
 
 ### sampling_events
-A sampling event table was generated from the sample tables. A sampling-event is defined as a unique "cast" and "station" number. The "start_ISO_DateTime", "latitude", "longitude" and "cruise_ID" were retrieved from BCO-DMO.
+A sampling event table was generated from the sample tables. A sampling-event is defined as a unique "cast" and "station" and "cruise_name". The "start_ISO_DateTime", "latitude", "longitude" and "cruise_ID" were retrieved from BCO-DMO.
 A "sampling_event_type" was added.
 
 ### campaign
