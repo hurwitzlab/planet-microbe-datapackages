@@ -14,9 +14,13 @@
 	"BATS",
 	"Bermuda Atlantic Time-series Study",
 	"Chisholm"
-	],
-  "id": "PRJNA385855",
-  "sources": [],
+  ],
+  "sources": [
+    {
+      "title": "NCBI BioProject",
+      "path": "https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA385855"
+    }
+  ],
   "licenses": [],
   "resources": [
     {
