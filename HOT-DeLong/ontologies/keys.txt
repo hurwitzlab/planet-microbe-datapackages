@@ -1,0 +1,72 @@
+campaign
+    "Primary_key" : "campaign_name"
+
+sampling_events 
+    "Primary_key": "Sample_event_ID"
+    "foreignKeys": [
+        {
+            "fields": "cruise_ID",
+            "reference": {
+                "resource": "Campaign",
+                "fields": "cruise_ID"
+            }
+        }
+    ],
+
+samples_CTD_BCO-DMO
+    "Primary_key": "Archive_ID",
+    "foreignKeys": [
+        {
+            "fields": "Sample_event_ID",
+            "reference": {
+                "resource": "sampling_events",
+                "fields": "Sample_event_ID"
+            }
+        }
+    ],
+
+samples_NCBI
+    "Primary_key": "Archive_ID"
+    "foreignKeys": [
+        {
+            "fields": "Sample_event_ID",
+            "reference": {
+                "resource": "sampling_events",
+                "fields": "Sample_event_ID"
+            }
+        }
+    ],
+
+samples_Niskin_BCO-DMO
+    "Primary_key": "Archive_ID"
+    "foreignKeys": [
+        {
+            "fields": "Sample_event_ID",
+            "reference": {
+                "resource": "sampling_events",
+                "fields": "Sample_event_ID"
+            }
+        }
+    ],
+
+CTD_profiles
+    "foreignKeys": [
+        {
+            "fields": "Sample_event_ID",
+            "reference": {
+                "resource": "sampling_events",
+                "fields": "Sample_event_ID"
+            }
+        }
+    ],
+
+Niskin_profiles
+    "foreignKeys": [
+        {
+            "fields": "Sample_event_ID",
+            "reference": {
+                "resource": "sampling_events",
+                "fields": "Sample_event_ID"
+            }
+        }
+    ],
