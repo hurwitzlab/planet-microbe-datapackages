@@ -35,3 +35,7 @@ Additional minor corrections were performed on the BCO-DMO CTD and Niskin record
 ## sampling_events
 A sampling event table was generated from the sample tables. A sampling-event is defined as a unique "cast" and "station" and "cruise_name". The "start_ISO_DateTime", "latitude", "longitude" and "cruise_ID" were retrieved from BCO-DMO.
 A "sampling_event_type" was added.
+
+## campaign
+A campaign table was generated from the unique "cruise_ID" from the sample table. The cruise was searched in the Rolling Deck repository, in order to obtain the "R2R_cruise_DOI", "start_date", "end_date", "start_location", "end_location" and "CCHDO url", "SAMOS URL" and "WHOI URL".
+Additional information about the cruise was searched in BCO-DMO in order to obtain "BCO-DMO summary" and "BCO-DMO deployment".
