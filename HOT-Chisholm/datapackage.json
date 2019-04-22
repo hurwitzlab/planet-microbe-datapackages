@@ -4,7 +4,7 @@
   },
   "profile": "tabular-data-package",
   "name": "chisholm_hot_and_bats",
-  "title": "Temporal sampling of marine metagenomes from Station ALOHA and BATS",
+  "title": "HOT Chisholm",
   "description": "Temporal sampling of marine metagenomes from Station ALOHA and BATS",
   "pm:projectType": "marine metagenome",
   "homepage": "https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?study=SRP109831",
