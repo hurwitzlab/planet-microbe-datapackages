@@ -1,17 +1,17 @@
 parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
-sample_event ID	centrally registered sampling event identifier	http://purl.obolibrary.org/obo/PMO_00000056	FALSE							string	
+sample_event ID	centrally registered sampling event identifier	http://purl.obolibrary.org/obo/PMO_00000056	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	
 Archive_ID	specimen identifier assigned by sequencing facility	http://purl.obolibrary.org/obo/OBI_0001901	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	
 Organism	metagenomes	http://purl.obolibrary.org/obo/PMO_00000004	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	
-collection date											
-depth											
+collection date	specimen collection time measurement datum	http://purl.obolibrary.org/obo/OBI_0001619	TRUE	time unit	http://purl.obolibrary.org/obo/UO_0000003				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	datetime	default
+depth	depth of water	http://purl.obolibrary.org/obo/ENVO_3100031	TRUE	meter	http://purl.obolibrary.org/obo/UO_0000008				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	number	
 broad-scale environmental context	biome	http://purl.obolibrary.org/obo/ENVO_00000428	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	
 local-scale environmental context	environmental feature	http://purl.obolibrary.org/obo/ENVO_00002297	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	
 environmental medium	environmental material	http://purl.obolibrary.org/obo/ENVO_00010483	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	
 geographic location	site	http://purl.obolibrary.org/obo/BFO_0000029	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	
 latitude	latitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001620	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	number	
 longitude	longitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001621	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	number	
-additional metadata at											
-Description											
+additional metadata at	URL	http://purl.obolibrary.org/obo/PMO_00000047	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	
+Description	comment on investigation	http://purl.obolibrary.org/obo/PMO_00000075	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	
 Sample_name											
 filter_min 	lower size threshold filter paper	http://purl.obolibrary.org/obo/PMO_00000022	TRUE	micrometer	http://purl.obolibrary.org/obo/UO_0000017			NCBI	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	number	
-filter_max 			TRUE	micrometer	http://purl.obolibrary.org/obo/UO_0000017			NCBI	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	number	
+filter_max 	upper size threshold filter paper	http://purl.obolibrary.org/obo/PMO_00000023	TRUE	micrometer	http://purl.obolibrary.org/obo/UO_0000017			NCBI	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	number	
