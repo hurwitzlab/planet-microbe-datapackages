@@ -1,43 +1,43 @@
 parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
-sample_event ID	Sample_event_ID	centrally registered sampling event identifier	http://purl.obolibrary.org/obo/PMO_00000056	FALSE					https://www.nature.com/articles/ismej2015221	string	
-Archive_ID	Archive_ID	specimen identifier assigned by sequencing facility	http://purl.obolibrary.org/obo/OBI_0001901	TRUE					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	
+sample_event ID	centrally registered sampling event identifier	http://purl.obolibrary.org/obo/PMO_00000056	FALSE					http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221	string	
+Archive_ID	specimen identifier assigned by sequencing facility	http://purl.obolibrary.org/obo/OBI_0001901	TRUE					http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221	string	
 cruise_expedition											
-cruise_name	cruise_name	sampling expedition identifier	http://purl.obolibrary.org/obo/PMO_00000060	TRUE					"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6"	string	
+cruise_name	sampling expedition identifier	http://purl.obolibrary.org/obo/PMO_00000060	TRUE					http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221	string	
 Sample_name											
-depth	depth of water	http://purl.obolibrary.org/obo/ENVO_3100031		meters							
-Sample Date GMT				M/D/Y							
-Sampling Time GMT 				H:M							
+depth	depth of water	http://purl.obolibrary.org/obo/ENVO_3100031	TRUE	meter	http://purl.obolibrary.org/obo/UO_0000008			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+Sample Date GMT	specimen collection time measurement datum	http://purl.obolibrary.org/obo/OBI_0001619	TRUE	time unit	http://purl.obolibrary.org/obo/UO_0000003			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221	date	
+Sampling Time GMT 	specimen collection time measurement datum	http://purl.obolibrary.org/obo/OBI_0001619	TRUE	time unit	http://purl.obolibrary.org/obo/UO_0000003			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221	time	%H:%M
 julian day											
-temperature 				C¡							
-salinity 				PSS-78							
-deep chlorophyll maxima 				m							
-wind speed 				m/s							
-shortwave radiation 				W/m^2							
-daily mean sea level anomaly 				cm							
-mixed layer depth				m							
-dissolved oxygen 				µmol/kg							
-dissolved inorganic carbon 				µmol/kg							
-dissolved organic carbon 				µmol/kg							
-particulate carbon				µmol/kg							
-particulate nitrogen				µmol/kg							
-particulate phosphorus				nmol/kg							
-low-level nitrogen				nmol/kg							
-low-level phosphorus				nmol/kg							
-particulate silica				nmol/kg							
-silicate				µmol/kg							
-heterotrophic bacteria cell counts				x105 cells/ml							
-Prochlorococcus cell counts				x105 cells/ml							
-Synechococcus cell counts				x105 cells/ml							
-Picoeukaryote cell counts				x105 cells/ml							
-chlorophyll a				ng/l							
-hours of day light				hours							
-total autotroph biomass				µg Carbon/l							
-chlorophyll c				ng/l							
-19'-butanoyloxyfucoxanthin				ng/l							
-fucoxanthin				ng/l							
-19'-hexanoyloxyfucoxanthin				ng/l							
-zeaxanthin				ng/l							
-chlorophyll b				ng/l							
-pH											
-phosphate				µmol/kg							
-nitrate + nitrite				µmol/kg							
+temperature 	temperature of water	http://purl.obolibrary.org/obo/ENVO_09200014	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221	number	
+salinity 	water salinity	http://purl.obolibrary.org/obo/PMO_00000014	TRUE	practical salinity unit	http://purl.obolibrary.org/obo/PMO_00000037			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+deep chlorophyll maxima 			FALSE	meter	http://purl.obolibrary.org/obo/UO_0000008			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+wind speed 	atmospheric wind speed	http://purl.obolibrary.org/obo/ENVO_01001362	TRUE	meter per second	http://purl.obolibrary.org/obo/UO_0000094			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+shortwave radiation 	electromagnetic radiation	http://purl.obolibrary.org/obo/ENVO_01001026	TRUE	watt per square meter	http://purl.obolibrary.org/obo/UO_0000155			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+daily mean sea level anomaly 			FALSE	centimeter	http://purl.obolibrary.org/obo/UO_0000015			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+mixed layer depth				meter	http://purl.obolibrary.org/obo/UO_0000008			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+dissolved oxygen 	concentration of oxygen in water	http://purl.obolibrary.org/obo/ENVO_09200021	TRUE	micromole per kilogram	http://purl.obolibrary.org/obo/UO_0010004			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+dissolved inorganic carbon 	dissolved inorganic carbon	http://purl.obolibrary.org/obo/pmo.owl/PMO_00000142	TRUE	micromole per kilogram	http://purl.obolibrary.org/obo/UO_0010004			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+dissolved organic carbon 	dissolved organic carbon	http://purl.obolibrary.org/obo/PMO_00000102	TRUE	micromole per kilogram	http://purl.obolibrary.org/obo/UO_0010004			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+particulate carbon	particulate carbon	http://purl.obolibrary.org/obo/PMO_00000150	TRUE	micromole per kilogram	http://purl.obolibrary.org/obo/UO_0010004			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+particulate nitrogen	particulate nitrogen	http://purl.obolibrary.org/obo/PMO_00000151	TRUE	micromole per kilogram	http://purl.obolibrary.org/obo/UO_0010004			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+particulate phosphorus	particulate phosphorus	http://purl.obolibrary.org/obo/PMO_00000153	TRUE	nanomole per kilogram	http://purl.obolibrary.org/obo/PMO_00000154			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+low-level nitrogen				nanomole per kilogram	http://purl.obolibrary.org/obo/PMO_00000154			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+low-level phosphorus				nanomole per kilogram	http://purl.obolibrary.org/obo/PMO_00000154			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+particulate silica	particulate silica	http://purl.obolibrary.org/obo/PMO_00000165		nanomole per kilogram	http://purl.obolibrary.org/obo/PMO_00000154			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+silicate	concentration of silicate(4-) in water	http://purl.obolibrary.org/obo/ENVO_3100027	TRUE	micromole per kilogram	http://purl.obolibrary.org/obo/UO_0010004			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+heterotrophic bacteria cell counts	enumeration of heterotrophic prokaryote aggregation	http://purl.obolibrary.org/obo/PMO_00000162	TRUE	cells per milliliter	http://purl.obolibrary.org/obo/UO_0000201			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+Prochlorococcus cell counts	enumeration of Prochlorococcus aggregation	http://purl.obolibrary.org/obo/PMO_00000159	TRUE	cells per milliliter	http://purl.obolibrary.org/obo/UO_0000201			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+Synechococcus cell counts	enumeration of Synechococcus aggregation	http://purl.obolibrary.org/obo/PMO_00000160	TRUE	cells per milliliter	http://purl.obolibrary.org/obo/UO_0000201			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+Picoeukaryote cell counts	enumeration of picoeukaryote aggregation	http://purl.obolibrary.org/obo/PMO_00000161	TRUE	cells per milliliter	http://purl.obolibrary.org/obo/UO_0000201			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+chlorophyll a	concentration of chlorophyll a in water	http://purl.obolibrary.org/obo/ENVO_3100008	TRUE	nanogram per liter	http://purl.obolibrary.org/obo/PMO_00000155			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+hours of day light				hour	http://purl.obolibrary.org/obo/UO_0000032			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+total autotroph biomass	autotrophic organism biomass carbon aggregation	http://purl.obolibrary.org/obo/PMO_00000163	FALSE	microgram per liter	http://purl.obolibrary.org/obo/UO_0000301			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+chlorophyll c				nanogram per liter	http://purl.obolibrary.org/obo/PMO_00000155			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+19'-butanoyloxyfucoxanthin	concentration of 19'-butanoyloxyfucoxanthin in liquid water	http://purl.obolibrary.org/obo/PMO_00000156	TRUE	nanogram per liter	http://purl.obolibrary.org/obo/PMO_00000155			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+fucoxanthin	concentration of fucoxanthin in water	http://purl.obolibrary.org/obo/ENVO_3100014	TRUE	nanogram per liter	http://purl.obolibrary.org/obo/PMO_00000155			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+19'-hexanoyloxyfucoxanthin	concentration of 19'-hexanoyloxyfucoxanthin in liquid water	http://purl.obolibrary.org/obo/PMO_00000157	TRUE	nanogram per liter	http://purl.obolibrary.org/obo/PMO_00000155			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+zeaxanthin	concentration of zeaxanthin in water	http://purl.obolibrary.org/obo/ENVO_3100029	TRUE	nanogram per liter	http://purl.obolibrary.org/obo/PMO_00000155			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+chlorophyll b	concentration of chlorophyll b in water	http://purl.obolibrary.org/obo/ENVO_3100009	TRUE	nanogram per liter	http://purl.obolibrary.org/obo/PMO_00000155			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+pH	acidity of water	http://purl.obolibrary.org/obo/ENVO_3100030	TRUE	pH	http://purl.obolibrary.org/obo/UO_0000196			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+phosphate	concentration of phosphate in water	http://purl.obolibrary.org/obo/ENVO_3100026	TRUE	micromole per kilogram	http://purl.obolibrary.org/obo/UO_0010004			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
+nitrate + nitrite	concentration of nitrate and nitrite in water	http://purl.obolibrary.org/obo/PMO_00000018	TRUE	micromole per kilogram	http://purl.obolibrary.org/obo/UO_0010004			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
