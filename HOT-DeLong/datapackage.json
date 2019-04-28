@@ -370,6 +370,15 @@
             "pm:searchable": false
           }
         ],
+        "foreignKeys": [
+            {
+                "fields": "sampling_event_id",
+                "reference": {
+                    "resource": "sampling_events",
+                    "fields": "Sample_event_ID"
+                }
+            }
+        ],
         "missingValues": [
           "",
           "nd"
@@ -945,6 +954,15 @@
             "pm:searchable": false
           }
         ],
+        "foreignKeys": [
+          {
+            "fields": "sampling_event_id",
+            "reference": {
+                "resource": "sampling_events",
+                "fields": "Sample_event_ID"
+            }
+          }
+        ],
         "missingValues": [
           "",
           "nd"
@@ -1124,6 +1142,7 @@
             "pm:searchable": false
           }
         ],
+        "primaryKey" : "campaign_name",
         "missingValues": [
           "",
           "nd"
@@ -1501,6 +1520,30 @@
             "pm:searchable": true
           }
         ],
+        "primaryKey": "Archive_ID",
+        "foreignKeys": [
+          {
+            "fields": "Sample_event_ID",
+            "reference": {
+                "resource": "sampling_events",
+                "fields": "Sample_event_ID"
+            }
+          },
+          {
+            "fields": [ "Sample_event_ID", "Archive_ID" ],
+            "reference": {
+                "resource": "samples_ncbi",
+                "fields": [ "Sample_event_ID", "Archive_ID" ]
+            }
+          },
+          {
+            "fields": [ "Sample_event_ID", "Archive_ID" ],
+            "reference": {
+                "resource": "samples_niskin_bco-dmo",
+                "fields": [ "Sample_event_ID", "Archive_ID" ]
+            }
+          }
+        ],
         "missingValues": [
           "",
           "nd"
@@ -1700,6 +1743,16 @@
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "NCBI",
             "pm:searchable": true
+          }
+        ],
+        "primaryKey": "Archive_ID",
+        "foreignKeys": [
+          {
+            "fields": "Sample_event_ID",
+            "reference": {
+                "resource": "sampling_events",
+                "fields": "Sample_event_ID"
+            }
           }
         ],
         "missingValues": [
@@ -2244,6 +2297,16 @@
             "pm:searchable": false
           }
         ],
+        "primaryKey": "Archive_ID",
+        "foreignKeys": [
+          {
+            "fields": "Sample_event_ID",
+            "reference": {
+                "resource": "sampling_events",
+                "fields": "Sample_event_ID"
+            }
+          }
+        ],
         "missingValues": [
           "",
           "nd"
@@ -2355,6 +2418,16 @@
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
+          }
+        ],
+        "primaryKey": "Sample_event_ID",
+        "foreignKeys": [
+          {
+            "fields": "cruise_ID",
+            "reference": {
+                "resource": "campaign",
+                "fields": "campaign_name"
+            }
           }
         ],
         "missingValues": [
