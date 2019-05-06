@@ -12,7 +12,7 @@
     "Ocean Science Day"
   ],
   "sources": [{
-    "title": "Ocean Sampling Day Consortium, Participants (2015)",
+    "title": "Ocean Sampling Day Consortium, Participants (2014)",
     "path": "https://doi.pangaea.de/10.1594/PANGAEA.854419"
   }],
   "licenses": [
@@ -24,11 +24,11 @@
   ],
   "resources": [
     {
-      "name": "data",
+      "name": "sample",
       "title": "Registry of samples and environmental context from the Ocean Sampling Day 2014",
       "description": "The Ocean Sampling Day (OSD) is a simultaneous sampling campaign of the world's oceans which took place (for the first time) on the summer solstice (June 21st) in the year 2014. These cumulative samples, related in time, space and environmental parameters, provide insights into fundamental rules describing microbial diversity and function and contribute to the blue economy through the identification of novel, ocean-derived biotechnologies. We see OSD data as a reference data set for generations of experiments to follow in the coming decade. The present data set includes a description of each sample collected during the Ocean Sampling Day 2014 and provides contextual environmental data measured concurrently with the collection of water samples for genomic analyses.",
       "profile": "tabular-data-resource",
-      "path": "osd_data.tsv",
+      "path": "osd_sample.tsv",
       "dialect": {
         "delimiter": "\t",
         "header": true,
@@ -463,10 +463,10 @@
           },
           {
             "name": "Size-fraction, upper thresh",
-            "type": "string",
+            "type": "float",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
-            "pm:unitRdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000017",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
@@ -474,10 +474,10 @@
           },
           {
             "name": "Size-fraction, lower thresh",
-            "type": "string",
+            "type": "float",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
-            "pm:unitRdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000017",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
@@ -748,6 +748,163 @@
             "pm:searchable": true
           }
         ],
+        "foreignKeys": [
+            {
+                "fields": "Event",
+                "reference": {
+                    "resource": "sampling_events",
+                    "fields": "Sample_event_ID"
+                }
+            }
+        ],
+        "missingValues": [
+          "",
+          "nd",
+          "No pre-filtration"
+        ]
+      }
+    },
+    {
+      "name": "sampling_events",
+      "title": "sampling_events dataset",
+      "description": "information sampling_events associated with OSD omic data.",
+      "profile": "tabular-data-resource",
+      "pm:resourceType": "sampling_event",
+      "path": "sampling_events.tsv",
+      "dialect": {
+        "delimiter": "\t",
+        "header": true,
+        "caseSensitiveHeader": true
+      },
+      "format": "csv",
+      "mediatype": "text/tab-separated-values",
+      "encoding": "UTF-8",
+      "hash": "62219aba1a266ef55b83ad4756743198",
+      "schema": {
+        "fields": [
+          {
+            "name": "Sample_event_ID",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000056",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "start_ISO_DateTime",
+            "type": "datetime",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "end_ISO_DateTime",
+            "type": "datetime",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000009",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "start_lon",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000077",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "start_lat",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000076",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "end_lon",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000078",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "end_lat",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000079",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "cruise_ID",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000060",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "cruise_expedition",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000007",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "sampling_event_type",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000146",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "Station_name",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000149",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          }
+        ],
+        "primaryKey": "Sample_event_ID",
         "missingValues": [
           "",
           "nd"
