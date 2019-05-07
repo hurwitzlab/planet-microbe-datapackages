@@ -1190,7 +1190,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Sample_event_ID",
+            "name": "sample_event_ID",
             "type": "string",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000056",
@@ -1542,17 +1542,6 @@
             "pm:searchable": false
           },
           {
-            "name": "QUALT1",
-            "type": "string",
-            "format": "default",
-            "rdfType": "",
-            "pm:unitRdfType": "",
-            "pm:sourceUrl": "",
-            "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
-          },
-          {
             "name": "NITRATE",
             "type": "number",
             "format": "default",
@@ -1562,6 +1551,17 @@
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
+          },
+          {
+            "name": "QUALT1",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
           },
           {
             "name": "inferred_depth",
