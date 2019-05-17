@@ -2848,7 +2848,7 @@
           },
           {
             "name": "pH",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100030",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000196",
@@ -2892,7 +2892,8 @@
         ],
         "missingValues": [
           "",
-          "nd"
+          "nd",
+          "NA"
         ]
       }
     }
