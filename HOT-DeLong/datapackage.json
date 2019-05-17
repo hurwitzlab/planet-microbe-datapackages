@@ -2474,7 +2474,7 @@
           },
           {
             "name": "depth",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
@@ -2529,7 +2529,7 @@
           },
           {
             "name": "salinity",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000014",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000037",
@@ -2540,7 +2540,7 @@
           },
           {
             "name": "deep chlorophyll maxima",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
@@ -2551,7 +2551,7 @@
           },
           {
             "name": "wind speed",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_01001362",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000094",
@@ -2562,7 +2562,7 @@
           },
           {
             "name": "shortwave radiation",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_01001026",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000155",
@@ -2573,7 +2573,7 @@
           },
           {
             "name": "daily mean sea level anomaly",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000015",
@@ -2584,7 +2584,7 @@
           },
           {
             "name": "mixed layer depth",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
@@ -2595,7 +2595,7 @@
           },
           {
             "name": "dissolved oxygen",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200021",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
@@ -2606,7 +2606,7 @@
           },
           {
             "name": "dissolved inorganic carbon",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000142",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
@@ -2617,7 +2617,7 @@
           },
           {
             "name": "dissolved organic carbon",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000102",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
@@ -2628,7 +2628,7 @@
           },
           {
             "name": "particulate carbon",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000150",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
@@ -2639,7 +2639,7 @@
           },
           {
             "name": "particulate nitrogen",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000151",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
@@ -2650,7 +2650,7 @@
           },
           {
             "name": "particulate phosphorus",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000153",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000154",
@@ -2661,7 +2661,7 @@
           },
           {
             "name": "low-level nitrogen",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000154",
@@ -2672,7 +2672,7 @@
           },
           {
             "name": "low-level phosphorus",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000154",
@@ -2683,7 +2683,7 @@
           },
           {
             "name": "particulate silica",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000165",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000154",
@@ -2694,7 +2694,7 @@
           },
           {
             "name": "silicate",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100027",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
@@ -2705,7 +2705,7 @@
           },
           {
             "name": "heterotrophic bacteria cell counts",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000162",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000201",
@@ -2716,7 +2716,7 @@
           },
           {
             "name": "Prochlorococcus cell counts",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000159",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000201",
@@ -2727,7 +2727,7 @@
           },
           {
             "name": "Synechococcus cell counts",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000160",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000201",
@@ -2738,7 +2738,7 @@
           },
           {
             "name": "Picoeukaryote cell counts",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000161",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000201",
@@ -2749,7 +2749,7 @@
           },
           {
             "name": "chlorophyll a",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000155",
@@ -2760,7 +2760,7 @@
           },
           {
             "name": "hours of day light",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000032",
@@ -2771,7 +2771,7 @@
           },
           {
             "name": "total autotroph biomass",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000163",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
@@ -2782,7 +2782,7 @@
           },
           {
             "name": "chlorophyll c",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000155",
@@ -2793,7 +2793,7 @@
           },
           {
             "name": "19'-butanoyloxyfucoxanthin",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000156",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000155",
@@ -2804,7 +2804,7 @@
           },
           {
             "name": "fucoxanthin",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100014",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000155",
@@ -2815,7 +2815,7 @@
           },
           {
             "name": "19'-hexanoyloxyfucoxanthin",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000157",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000155",
@@ -2826,7 +2826,7 @@
           },
           {
             "name": "zeaxanthin",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100029",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000155",
@@ -2837,7 +2837,7 @@
           },
           {
             "name": "chlorophyll b",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100009",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000155",
@@ -2859,7 +2859,7 @@
           },
           {
             "name": "phosphate",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100026",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
@@ -2870,7 +2870,7 @@
           },
           {
             "name": "nitrate + nitrite",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000018",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
