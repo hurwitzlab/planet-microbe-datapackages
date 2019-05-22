@@ -13,3 +13,6 @@ NCBI datasets
 
 Sampling_event table
 -derived from information from NCBI_biosamples. Unique dateTime and location points are considered as a unique sampling events.
+
+
+NOTE: remember to add the below detection strings in the appropriate category in the data package !!
