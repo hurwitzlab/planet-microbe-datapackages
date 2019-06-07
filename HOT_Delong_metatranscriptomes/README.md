@@ -5,6 +5,7 @@ Collects metadata associated to the NCBI Biosamples of the bioproject https://ww
 
 Minor corrections were done in order to help the use of the metadata :
 -the field "sample_name" was parsed to retrieve the depth and HOT cruise name
+-the longitude values for the first four samples were changed from (positive) 158 to -158
 
 ## samples_paper
 Papers reporting the results obtained for these samples were parsed for additional information. Importantly, filtration cutoff sizes were retrieved from the method of these papers.
