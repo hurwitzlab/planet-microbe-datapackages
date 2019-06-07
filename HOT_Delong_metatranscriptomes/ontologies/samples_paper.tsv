@@ -2,5 +2,5 @@ parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl
 sample_event_ID	centrally registered sampling event identifier	http://purl.obolibrary.org/obo/PMO_00000056	FALSE							string	
 Archive_ID BioSample	specimen identifier assigned by sequencing facility	http://purl.obolibrary.org/obo/OBI_0001901	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	
 cruise_name	sampling expedition identifier	http://purl.obolibrary.org/obo/PMO_00000060	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	
-filter_min				micrometer					https://www.ncbi.nlm.nih.gov/pubmed/19444216;https://www.ncbi.nlm.nih.gov/pubmed/20220791		
-filter_max				micrometer					https://www.ncbi.nlm.nih.gov/pubmed/19444216;https://www.ncbi.nlm.nih.gov/pubmed/20220791		
+filter_min			TRUE	micrometer	http://purl.obolibrary.org/obo/UO_0000017				https://www.ncbi.nlm.nih.gov/pubmed/19444216;https://www.ncbi.nlm.nih.gov/pubmed/20220791		
+filter_max			TRUE	micrometer	http://purl.obolibrary.org/obo/UO_0000017				https://www.ncbi.nlm.nih.gov/pubmed/19444216;https://www.ncbi.nlm.nih.gov/pubmed/20220791		
