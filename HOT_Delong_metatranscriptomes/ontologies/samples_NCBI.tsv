@@ -6,6 +6,6 @@ Sample name	specimen identifier assigned by specimen repository	http://purl.obol
 HOT cruise	sampling expedition identifier	http://purl.obolibrary.org/obo/PMO_00000060	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	
 date	specimen collection time measurement datum start	http://purl.obolibrary.org/obo/PMO_00000008	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	date	default
 depth	depth of water	http://purl.obolibrary.org/obo/PMO_00000029	TRUE	meter	http://purl.obolibrary.org/obo/UO_0000008				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	number	
-latitude	latitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001620	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	number	
-longitude	longitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001621	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	number	
+latitude	latitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001620	FALSE	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	number	
+longitude	longitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001621	FALSE	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	number	
 mixed_sample											
