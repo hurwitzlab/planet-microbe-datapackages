@@ -851,17 +851,6 @@
             "pm:searchable": false
           },
           {
-            "name": "start_lon",
-            "type": "number",
-            "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000077",
-            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
-            "pm:sourceUrl": "",
-            "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
-          },
-          {
             "name": "start_lat",
             "type": "number",
             "format": "default",
@@ -873,10 +862,10 @@
             "pm:searchable": false
           },
           {
-            "name": "end_lon",
+            "name": "start_lon",
             "type": "number",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000078",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000077",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
@@ -888,6 +877,17 @@
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000079",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "end_lon",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000078",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",

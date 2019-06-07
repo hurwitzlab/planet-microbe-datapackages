@@ -1,4 +1,4 @@
-Sample_event_ID	start_ISO_DateTime	end_ISO_DateTime	start_lon	start_lat	end_lon	end_lat	cruise_ID	cruise_expedition	sampling_event_type	Station_name
+Sample_event_ID	start_ISO_DateTime	end_ISO_DateTime	start_lat	start_lon	end_lat	end_lon	cruise_ID	cruise_expedition	sampling_event_type	Station_name
 OSD191_20140702T1433Z	2014-07-02T14:33	2014-07-02T14:55	-12.3382	130.6952	-12.3382	130.6952	OSD-Jun-2014	OSD	cast	OSD191
 OSD190_20140713T0722Z	2014-07-13T07:22	2014-07-13T07:40	-35.8372	136.4413	-35.8372	136.4413	OSD-Jun-2015	OSD	cast	OSD190
 OSD189_20140624T1605Z	2014-06-24T16:05	2014-06-24T19:15	-19.305	147.622	-19.305	147.622	OSD-Jun-2016	OSD	cast	OSD189
