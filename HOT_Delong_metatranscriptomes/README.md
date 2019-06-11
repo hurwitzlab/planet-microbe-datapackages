@@ -52,12 +52,14 @@ A "sampling_event_type" was added.
 
 ## campaign
 A campaign table was generated from the unique "cruise_ID" from the sample table. The cruise was searched in the Rolling Deck repository, in order to obtain the "R2R_cruise_DOI", "start_date", "end_date", "start_location", "end_location" and "CCHDO url".
+
 Additional information about the cruise was searched in BCO-DMO in order to obtain "BCO-DMO summary" and "BCO-DMO deployment".
 
 ## CTD_profiles and Niskin_profiles
 Complete CTD and Niskin records for a given sampling event were obtained by a simple query on the BCO-DMO HOT frictionless datapackage using the "cruise_name", "station", and "cast" of the sampling event.
 
 Minor corrections to BCO-DMO records
+
 -change timecode BE into start_date
 
 
