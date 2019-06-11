@@ -4,13 +4,17 @@
 Collects metadata associated to the NCBI Biosamples of the bioproject https://www.ncbi.nlm.nih.gov/bioproject/16339. Only samples on which metatranscriptomes were performed were considered (the NCBI project also contains metagenomic samples).
 
 Minor corrections were done in order to help the use of the metadata :
+
 -the field "sample_name" was parsed to retrieve the depth and HOT cruise name
+
 -the longitude values for the first four samples were changed from (positive) 158 to -158
+
 
 ## samples_paper
 Papers reporting the results obtained for these samples were parsed for additional information. Importantly, filtration cutoff sizes were retrieved from the method of these papers.
 
 HOT179 : https://www.ncbi.nlm.nih.gov/pubmed/19444216
+
 HOT186 : https://www.ncbi.nlm.nih.gov/pubmed/20220791
 
 ## samples_CTD_BCO-DMO
@@ -19,13 +23,19 @@ Collects metadata from the closest CTD record for each samples. These CTD record
 In order to match the samples to their closest CTD measure and CTD profiles, additional information on the cast number were provided by the original authors.
 
 HOT-179 :  25m :  stn 2, cast 1
+
 HOT-179 :  75m :  stn 2, cast 4
+
 HOT-179 :  125m :  stn 2, cast 5
+
 HOT-179 :  500m :  stn 2, cast 19
 
 HOT-186 :  25m :  stn 2, casts 29 & 30
+
 HOT-186 :  75m :  stn 2, casts 25 & 27
+
 HOT-186 :  110m :  stn 2, casts 10 & 11
+
 HOT-186 :  500m :  stn 2, casts 5 & 6
 
 
