@@ -2521,7 +2521,7 @@
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200014",
-            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000027",
             "pm:sourceUrl": "https://www.nature.com/articles/ismej2015221",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#",
