@@ -4,7 +4,7 @@
   },
   "profile": "tabular-data-package",
   "name": "delong_hot_metatranscriptomes",
-  "title": "HOT Delong metatranscriptomes",
+  "title": "HOT Delong Metatranscriptomes",
   "description": "Planktonic microbial communities from North Pacific Subtropical Gyre",
   "pm:projectType": "marine metatranscriptome",
   "homepage": "http://hahana.soest.hawaii.edu/hot/",
@@ -12,7 +12,7 @@
 	"HOT",
 	"Hawaii Ocean Time-series",
 	"DeLong",
-  "metatranscriptomes"
+    "metatranscriptomes"
   ],
   "sources": [
     {
