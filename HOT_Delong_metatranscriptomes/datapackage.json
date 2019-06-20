@@ -3,7 +3,7 @@
     "pm": "http://purl.obolibrary.org/obo/PMO_00000000"
   },
   "profile": "tabular-data-package",
-  "name": "Delong_HOT_metatranscriptomes",
+  "name": "delong_hot_metatranscriptomes",
   "title": "HOT Delong metatranscriptomes",
   "description": "Planktonic microbial communities from North Pacific Subtropical Gyre",
   "pm:projectType": "marine metatranscriptome",
@@ -35,6 +35,7 @@
       "title": "Data server object: ctd",
       "description": "Two decibar-averaged CTD profiles from the Hawaii Ocean Time-Series cruises from 1988-2016 (HOT project)",
       "profile": "tabular-data-resource",
+      "pm:resourceType": "ctd",
       "path": "CTD_profiles.tsv",
       "dialect": {
         "delimiter": "\t",
@@ -94,7 +95,7 @@
           {
             "name": "start_ISO_DateTime",
             "type": "datetime",
-            "format": "default",
+            "format": "%Y-%m-%dT%H:%M:%S",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
@@ -502,7 +503,7 @@
           {
             "name": "start_ISO_DateTime",
             "type": "datetime",
-            "format": "default",
+            "format": "%Y-%m-%dT%H:%M:%S",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?\"",
@@ -1145,7 +1146,7 @@
           {
             "name": "start_ISO_DateTime",
             "type": "datetime",
-            "format": "default",
+            "format": "%Y-%m-%dT%H:%M:%S",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
@@ -1486,7 +1487,7 @@
           {
             "name": "cast2_start_ISO_DateTime",
             "type": "datetime",
-            "format": "default",
+            "format": "%Y-%m-%dT%H:%M:%S",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "\"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6\"",
@@ -1873,7 +1874,7 @@
           {
             "name": "date",
             "type": "date",
-            "format": "default",
+            "format": "%Y-%m",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855",
@@ -2064,7 +2065,7 @@
           {
             "name": "start_ISO_DateTime",
             "type": "datetime",
-            "format": "default",
+            "format": "%Y-%m-%dT%H:%M:%S",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "",
