@@ -136,7 +136,7 @@
             "name": "Event",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/OBI_0000659",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000056",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
             "pm:measurementSourceRdfType": "",
