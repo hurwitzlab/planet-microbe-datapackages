@@ -3,7 +3,7 @@
     "pm": "http://purl.obolibrary.org/obo/PMO_00000000"
   },
   "profile": "tabular-data-package",
-  "name": "GOS_2009-10",
+  "name": "gos_2009-10",
   "title": "GOS",
   "description": "Beyster Family Fund and Life Technologies Foundation-funded Global Ocean Sampling Expedition, 2009-2011. Having successfully completed a global circumnavigation, conducted ongoing sampling in waters off California and the west coast of the United States, and carried out sampling with other collaborators in extreme conditions such as Antarctica and deep-sea ocean vents, the research vessel Sorcerer II and Dr. Venter embarked on the waters of Europe. This two-year leg of the Sorcerer II Expedition, funded by generous donations from the Beyster Family Foundation Fund of The San Diego Foundation and Life Technologies Foundation, explored the microbial life in the waters of the Baltic, Mediterranean, and Black Seas. These are scientifically important because they are among the world's largest seas isolated from the major oceans.",
   "pm:projectType": "marine metagenome",
