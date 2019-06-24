@@ -1,31 +1,31 @@
 parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
 sample_event ID	centrally registered sampling event identifier	http://purl.obolibrary.org/obo/PMO_00000056	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/293636	string	
-sample_Alias									https://www.ncbi.nlm.nih.gov/bioproject/293636		
+sample_Alias	centrally registered identifier	http://purl.obolibrary.org/obo/IAO_0000578	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/293636	string	
 ArchiveID_biosample	specimen identifier assigned by sequencing facility	http://purl.obolibrary.org/obo/OBI_0001901	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/293636	string	
 Description	comment on investigation	http://purl.obolibrary.org/obo/PMO_00000075	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/293636	string	
-ENA checklist									https://www.ncbi.nlm.nih.gov/bioproject/293636		
-INSDC center name									https://www.ncbi.nlm.nih.gov/bioproject/293636		
-ArchiveID_SRAaccession									https://www.ncbi.nlm.nih.gov/bioproject/293636		
-sample_name									https://www.ncbi.nlm.nih.gov/bioproject/293636		
-upper_filtration_size	upper size threshold filter paper	http://purl.obolibrary.org/obo/PMO_00000023	TRUE	micrometer	http://purl.obolibrary.org/obo/UO_0000017			NCBI	https://www.ncbi.nlm.nih.gov/bioproject/293636	number	
-lower_filtration_size	lower size threshold filter paper	http://purl.obolibrary.org/obo/PMO_00000022	TRUE	micrometer	http://purl.obolibrary.org/obo/UO_0000017			NCBI	https://www.ncbi.nlm.nih.gov/bioproject/293636	number	
-ammonia				umol/L					https://www.ncbi.nlm.nih.gov/bioproject/293636		
-chlorophyll				mg/m3					https://www.ncbi.nlm.nih.gov/bioproject/293636		
-collection_dateTime				ISO					https://www.ncbi.nlm.nih.gov/bioproject/293636		
-depth				m					https://www.ncbi.nlm.nih.gov/bioproject/293636		
-diss_oxygen				mg/L					https://www.ncbi.nlm.nih.gov/bioproject/293636		
-env_biome									https://www.ncbi.nlm.nih.gov/bioproject/293636		
-env_feature									https://www.ncbi.nlm.nih.gov/bioproject/293636		
-env_package									https://www.ncbi.nlm.nih.gov/bioproject/293636		
-geo_loc_name									https://www.ncbi.nlm.nih.gov/bioproject/293636		
+ENA checklist			FALSE						https://www.ncbi.nlm.nih.gov/bioproject/293636	string	
+INSDC center name			FALSE						https://www.ncbi.nlm.nih.gov/bioproject/293636	string	
+ArchiveID_SRAaccession	SRA accession number	http://purl.obolibrary.org/obo/PMO_00000123	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/293636	string	
+sample_name			FALSE						https://www.ncbi.nlm.nih.gov/bioproject/293636	string	
+upper_filtration_size	aquatic sample maximum filter fractionation size threshold	http://purl.obolibrary.org/obo/PMO_00000023	TRUE	micrometer	http://purl.obolibrary.org/obo/UO_0000017			NCBI	https://www.ncbi.nlm.nih.gov/bioproject/293636	number	
+lower_filtration_size	aquatic sample minimum filter fractionation size threshold	http://purl.obolibrary.org/obo/PMO_00000022	TRUE	micrometer	http://purl.obolibrary.org/obo/UO_0000017			NCBI	https://www.ncbi.nlm.nih.gov/bioproject/293636	number	
+ammonia	concentration of ammonium in liquid water	http://purl.obolibrary.org/obo/ENVO_3100004	TRUE	micromole per litre	http://purl.obolibrary.org/obo/UO_0010003				https://www.ncbi.nlm.nih.gov/bioproject/293636	number	
+chlorophyll	concentration of chlorophyll in liquid water	http://purl.obolibrary.org/obo/ENVO_3100036	TRUE	miligram per cubic meter	http://purl.obolibrary.org/obo/PMO_00000132				https://www.ncbi.nlm.nih.gov/bioproject/293636	number	
+collection_dateTime	specimen collection time measurement datum	http://purl.obolibrary.org/obo/OBI_0001619	TRUE	time unit	http://purl.obolibrary.org/obo/UO_0000003				https://www.ncbi.nlm.nih.gov/bioproject/293636	datetime	%Y-%m-%dT%H:%M:%S
+depth	depth of water	http://purl.obolibrary.org/obo/ENVO_3100031	TRUE	meter	http://purl.obolibrary.org/obo/UO_0000008				https://www.ncbi.nlm.nih.gov/bioproject/293636	number	
+diss_oxygen	concentration of oxygen in liquid water	http://purl.obolibrary.org/obo/ENVO_09200021	TRUE	milligram per liter	http://purl.obolibrary.org/obo/UO_0000273				https://www.ncbi.nlm.nih.gov/bioproject/293636	number	
+env_biome	biome	http://purl.obolibrary.org/obo/ENVO_00000428	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/293636	string	
+env_feature	environmental feature	http://purl.obolibrary.org/obo/ENVO_00002297	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/293636	string	
+env_package			FALSE						https://www.ncbi.nlm.nih.gov/bioproject/293636	string	
+geo_loc_name	site	http://purl.obolibrary.org/obo/BFO_0000029	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/293636	string	
 lat	latitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001620	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.ncbi.nlm.nih.gov/bioproject/293636	number	
 lon	longitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001621	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.ncbi.nlm.nih.gov/bioproject/293636	number	
-nitrate				umol/L					https://www.ncbi.nlm.nih.gov/bioproject/293636		
-nitrite				umol/L					https://www.ncbi.nlm.nih.gov/bioproject/293636		
-pH									https://www.ncbi.nlm.nih.gov/bioproject/293636		
-phosphate				umol/L					https://www.ncbi.nlm.nih.gov/bioproject/293636		
-salinity				ppt					https://www.ncbi.nlm.nih.gov/bioproject/293636		
-silicate				umol/L					https://www.ncbi.nlm.nih.gov/bioproject/293636		
-temp				¡C					https://www.ncbi.nlm.nih.gov/bioproject/293636		
-total_depth_water_col				m					https://www.ncbi.nlm.nih.gov/bioproject/293636		
-urea				umol/L					https://www.ncbi.nlm.nih.gov/bioproject/293636		
+nitrate	concentration of nitrate in liquid water	http://purl.obolibrary.org/obo/ENVO_3100022	TRUE	micromole per litre	http://purl.obolibrary.org/obo/UO_0010003				https://www.ncbi.nlm.nih.gov/bioproject/293636	number	
+nitrite	concentration of nitrite in liquid water	http://purl.obolibrary.org/obo/ENVO_3100023	TRUE	micromole per litre	http://purl.obolibrary.org/obo/UO_0010003				https://www.ncbi.nlm.nih.gov/bioproject/293636	number	
+pH	acidity of water	http://purl.obolibrary.org/obo/ENVO_3100030	TRUE	pH	http://purl.obolibrary.org/obo/UO_0000196				https://www.ncbi.nlm.nih.gov/bioproject/293636	number	
+phosphate	concentration of phosphate in liquid water	http://purl.obolibrary.org/obo/ENVO_3100026	TRUE	micromole per litre	http://purl.obolibrary.org/obo/UO_0010003				https://www.ncbi.nlm.nih.gov/bioproject/293636	number	
+salinity	liquid water salinity	http://purl.obolibrary.org/obo/PMO_00000014	TRUE	parts per thousand	http://purl.obolibrary.org/obo/UO_0000168				https://www.ncbi.nlm.nih.gov/bioproject/293636	number	
+silicate	concentration of silicate(4-) in liquid water	http://purl.obolibrary.org/obo/ENVO_3100027	TRUE	micromole per litre	http://purl.obolibrary.org/obo/UO_0010003				https://www.ncbi.nlm.nih.gov/bioproject/293636	number	
+temp	temperature of water	http://purl.obolibrary.org/obo/ENVO_09200014	TRUE	degree Celsius	http://purl.obolibrary.org/obo/UO_0000027				https://www.ncbi.nlm.nih.gov/bioproject/293636	number	
+total_depth_water_col			FALSE	meter	http://purl.obolibrary.org/obo/UO_0000008				https://www.ncbi.nlm.nih.gov/bioproject/293636	number	
+urea	concentration of urea in liquid water	http://purl.obolibrary.org/obo/ENVO_3200059	TRUE	micromole per litre	http://purl.obolibrary.org/obo/UO_0010003				https://www.ncbi.nlm.nih.gov/bioproject/293636	number	
