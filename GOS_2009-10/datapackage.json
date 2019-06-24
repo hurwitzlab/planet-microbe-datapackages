@@ -1,0 +1,506 @@
+{
+  "@context": {
+    "pm": "http://purl.obolibrary.org/obo/PMO_00000000"
+  },
+  "profile": "tabular-data-package",
+  "name": "GOS_2009-10",
+  "title": "Beyster Family Fund and Life Technologies Foundation-funded Global Ocean Sampling Expedition, 2009-2011",
+  "description": "Having successfully completed a global circumnavigation, conducted ongoing sampling in waters off California and the west coast of the United States, and carried out sampling with other collaborators in extreme conditions such as Antarctica and deep-sea ocean vents, the research vessel Sorcerer II and Dr. Venter embarked on the waters of Europe. This two-year leg of the Sorcerer II Expedition, funded by generous donations from the Beyster Family Foundation Fund of The San Diego Foundation and Life Technologies Foundation, explored the microbial life in the waters of the Baltic, Mediterranean, and Black Seas. These are scientifically important because they are among the world's largest seas isolated from the major oceans.",
+  "pm:projectType": "marine metagenome",
+  "homepage": "https://www.jcvi.org/gos",
+  "keywords": [
+    "GOS",
+    "Global Ocean Sampling Expedition",
+    "Beyster Family Fund",
+    "Life Technologies"
+  ],
+  "sources": [
+    {
+      "title": "NCBI BioProject",
+      "path": "https://www.ncbi.nlm.nih.gov/bioproject/293636"
+    }
+  ],
+  "licenses": [],
+  "resources": [
+    {
+      "name": "samples_ncbi",
+      "title": "Beyster Family Fund and Life Technologies Foundation-funded Global Ocean Sampling Expedition, 2009-2011",
+      "description": "Beyster Family Fund and Life Technologies Foundation-funded Global Ocean Sampling Expedition, 2009-2011, NCBI Accession: PRJEB10418",
+      "profile": "tabular-data-resource",
+      "pm:resourceType": "sample",
+      "path": "samples_NCBI.tsv",
+      "dialect": {
+        "delimiter": "\t",
+        "header": true,
+        "caseSensitiveHeader": true
+      },
+      "format": "csv",
+      "mediatype": "text/tab-separated-values",
+      "encoding": "UTF-8",
+      "hash": "1ce8b0ca13fd03f06c0fbaf4ea85f840",
+      "schema": {
+        "fields": [
+          {
+            "name": "sample_event_ID",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000056",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "sample_Alias",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/IAO_0000578",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "ArchiveID_biosample",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001901",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
+            "name": "Description",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000075",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "ENA checklist",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "INSDC center name",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "ArchiveID_SRAaccession",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000123",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
+            "name": "sample_name",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "upper_filtration_size",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000017",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "NCBI",
+            "pm:searchable": true
+          },
+          {
+            "name": "lower_filtration_size",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000017",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "NCBI",
+            "pm:searchable": true
+          },
+          {
+            "name": "ammonia",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100004",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
+            "name": "chlorophyll",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100036",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000132",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
+            "name": "collection_dateTime",
+            "type": "datetime",
+            "format": "%Y-%m-%dT%H:%M:%S",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001619",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
+            "name": "depth",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
+            "name": "diss_oxygen",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200021",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000273",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
+            "name": "env_biome",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00000428",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
+            "name": "env_feature",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
+            "name": "env_package",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "geo_loc_name",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/BFO_0000029",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "lat",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
+            "name": "lon",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
+            "name": "nitrate",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100022",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
+            "name": "nitrite",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100023",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
+            "name": "pH",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100030",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000196",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
+            "name": "phosphate",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100026",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
+            "name": "salinity",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000014",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000168",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
+            "name": "silicate",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100027",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
+            "name": "temp",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200014",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000027",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
+            "name": "total_depth_water_col",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "urea",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3200059",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          }
+        ],
+        "primaryKey": "ArchiveID_biosample",
+        "foreignKeys": [
+          {
+            "fields": "Sample_event_ID",
+            "reference": {
+                "resource": "sampling_events",
+                "fields": "Sample_event_ID"
+            }
+          }
+        ],
+        "missingValues": [
+          "",
+          "nd",
+          "BD",
+          "<0.03 (below detection)"
+        ]
+      }
+    },
+    {
+      "name": "sampling_events",
+      "title": "sampling_events dataset",
+      "description": "sampling events associated with 2009-2011 Beyster Family Fund and Life Technologies Foundation-funded Global Ocean Sampling Expedition",
+      "profile": "tabular-data-resource",
+      "path": "sampling_events.tsv",
+      "dialect": {
+        "delimiter": "\t",
+        "header": true,
+        "caseSensitiveHeader": true
+      },
+      "format": "csv",
+      "mediatype": "text/tab-separated-values",
+      "encoding": "UTF-8",
+      "hash": "c6b6e091599eadc6c7aeb3ee1c327b3b",
+      "schema": {
+        "fields": [
+          {
+            "name": "Sample_event_ID",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000056",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "start_ISO_DateTime",
+            "type": "datetime",
+            "format": "%Y-%m-%dT%H:%M:%S",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "lon",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "lat",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "cruise_ID",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000060",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "cruise_expedition",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000007",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "sampling_event_type",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000146",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "Station_name",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000149",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          }
+        ],
+        "primaryKey": "Sample_event_ID",
+        "missingValues": [
+          "",
+          "nd"
+        ]
+      }
+    }
+  ]
+}
