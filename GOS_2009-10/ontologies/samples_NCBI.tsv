@@ -1,5 +1,5 @@
 parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
-sample_event ID	centrally registered sampling event identifier	http://purl.obolibrary.org/obo/PMO_00000056	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/293636	string	
+sample_event_ID	centrally registered sampling event identifier	http://purl.obolibrary.org/obo/PMO_00000056	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/293636	string	
 sample_Alias	centrally registered identifier	http://purl.obolibrary.org/obo/IAO_0000578	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/293636	string	
 ArchiveID_biosample	specimen identifier assigned by sequencing facility	http://purl.obolibrary.org/obo/OBI_0001901	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/293636	string	
 Description	comment on investigation	http://purl.obolibrary.org/obo/PMO_00000075	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/293636	string	
