@@ -1474,7 +1474,7 @@
             "pm:searchable": false
           },
           {
-            "name": "cast2_ cast",
+            "name": "cast2_cast",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000057",
