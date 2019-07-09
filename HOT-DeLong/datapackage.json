@@ -1490,7 +1490,7 @@
             "name": "inferred_depth",
             "type": "number",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000029",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
