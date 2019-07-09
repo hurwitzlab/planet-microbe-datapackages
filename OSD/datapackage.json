@@ -471,7 +471,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "Container",
