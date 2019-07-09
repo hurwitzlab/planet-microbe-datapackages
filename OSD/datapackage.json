@@ -317,7 +317,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "Country, distance",
@@ -339,7 +339,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "http://marineregions.org/",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "BG province, closest, desc",
@@ -372,7 +372,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "http://www.marineregions.org/mrgid.php",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "LME, distance",
@@ -405,7 +405,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "http://www.marineregions.org/sources.php#iho",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "URL ref",
