@@ -1,5 +1,4 @@
-# planet-microbe-datapackages
-Data packages for the Planet Microbe project.
+# Planet Microbe Data Packages
 
 Data packages are "data containers" that conform to the Frictionless Data standard:
 http://frictionlessdata.io/specs/data-package/
