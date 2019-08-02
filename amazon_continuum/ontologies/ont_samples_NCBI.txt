@@ -1,0 +1,43 @@
+parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
+BioProject											
+BioSample	specimen identifier assigned by sequencing facility	http://purl.obolibrary.org/obo/OBI_0001901	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	
+PAR				µEm-2sec-1	_Em-2sec-1						
+SRA											
+Sample name											
+bacteria_carb_prod				pmol leu/L/hr							
+bacterial_count				 cells/mL							
+beam_atten				0.51 m-1							
+beam_trans				88.0 pct							
+chlorophyll				ug/L							
+collection_date				dd-mm-yyyy							
+collection_time											
+conduc				uS/cm							
+corr_irradiance				pct							
+density				g/ml							
+depth				m							
+diss_inorg_carb				umol C/kg	µmol/kg						
+diss_oxy				µmol/kg							
+env_biome											
+env_feature											
+env_material											
+env_package											
+fluorescence				mgm-3							
+geo_loc_name											
+investigation_type											
+lat_lon											
+max_filter_size				µm	um	_m					
+min_filter_size				µm	um	_m					
+oxy_sat				pct							
+pressure				Db							
+salinity				PSU							
+samp_volume				L							
+sampling_cruise											
+sequencing_machine											
+sequencing_method											
+sigma-theta											
+site_name											
+std_norm_factor											
+surf_irradiance				µEm-2sec-1							
+target_molecules											
+temp				C							
+turbidity				NTU							
