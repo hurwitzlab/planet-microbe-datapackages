@@ -65,29 +65,31 @@ Pangea registry of all samples : https://doi.pangaea.de/10.1594/PANGAEA.875582
 Collects metadata about samples associated to the Tara Oceans expedition in Pangea : 
 https://doi.pangaea.de/10.1594/PANGAEA.875582
 
-	- biodiversity context : 
-	https://doi.pangaea.de/10.1594/PANGAEA.853809
-	- carbonate chemistry :
-	https://doi.org/10.1594/PANGAEA.875567
-	- nutrients : 
-	https://doi.org/10.1594/PANGAEA.875575
-	- pigments HPLC :
-	https://doi.org/10.1594/PANGAEA.875569
+- biodiversity context : 
+https://doi.pangaea.de/10.1594/PANGAEA.853809
+- carbonate chemistry :
+https://doi.org/10.1594/PANGAEA.875567
+- nutrients : 
+https://doi.org/10.1594/PANGAEA.875575
+- pigments HPLC :
+https://doi.org/10.1594/PANGAEA.875569
 	
 #### Minor corrections
 In Nutrient dataset :
-	- AHX, ARD_2, ARG: removed ">0.8" and ">3" for "Size fraction, upper threshold"
-	- APX : "Size fraction, lower threshold" attribute was removed
-	- units were not provided in the https://doi.org/10.1594/PANGAEA.875575. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.839331
+- AHX, ARD_2, ARG: removed ">0.8" and ">3" for "Size fraction, upper threshold"
+- APX : "Size fraction, lower threshold" attribute was removed
+- units were not provided in the https://doi.org/10.1594/PANGAEA.875575. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.839331
+
 In HPLC dataset :
-	- AHX, ARD_2, ARG: removed ">0.8" and ">3" for "Size fraction, upper threshold"
-	- APX : "Size fraction, lower threshold" attribute was removed
-	- units were not provided in the https://doi.org/10.1594/PANGAEA.875569. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.839331
+- AHX, ARD_2, ARG: removed ">0.8" and ">3" for "Size fraction, upper threshold"
+- APX : "Size fraction, lower threshold" attribute was removed
+- units were not provided in the https://doi.org/10.1594/PANGAEA.875569. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.839331
+
 In carbonate dataset :
-	- AHX, ARD_2, ARG: removed ">" for "Size fraction, upper threshold"
-	- APX : "Size fraction, lower threshold" attribute was removed
-	- ARI : removed pH, Carbon dioxide, Carbon dioxide, partial pressure, Fugacity of carbon dioxide in seawater attributes (empty for this dataset)
-	- units were not provided in the https://doi.org/10.1594/PANGAEA.875567. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.839331
-In biodiversity dataset :
+- AHX, ARD_2, ARG: removed ">" for "Size fraction, upper threshold"
+- APX : "Size fraction, lower threshold" attribute was removed
+- ARI : removed pH, Carbon dioxide, Carbon dioxide, partial pressure, Fugacity of carbon dioxide in seawater attributes (empty for this dataset)
+- units were not provided in the https://doi.org/10.1594/PANGAEA.875567. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.839331
+
 
 
