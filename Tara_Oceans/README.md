@@ -50,7 +50,44 @@ https://www.ncbi.nlm.nih.gov/bioproject/253560
 	- APY/ARG : samples with range of depth (pooled samples)
 	- ARD_2 : some samples with a depth at 99999 (detection issue)
 
-## bioprojects not included
+### bioprojects not included
 PRJEB4422	ALP	Shotgun Sequencing of Single Cell Whole Genome Amplification from Tara Oceans samples corresponding to size fractions for protist (GSC)
 PRJEB6604 APE Whole genome Sequencing from protist culture. (GSC)
 PRJEB6607 AZA Metatranscriptome sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes. (GSC)
+
+## Pangea metadata
+Pangea registry of all campaigns : https://doi.pangaea.de/10.1594/PANGAEA.842191
+Pangea registry of all events : https://doi.pangaea.de/10.1594/PANGAEA.842227
+Pangea registry of all samples : https://doi.pangaea.de/10.1594/PANGAEA.875582
+
+
+### Pangea sample metadata
+Collects metadata about samples associated to the Tara Oceans expedition in Pangea : 
+https://doi.pangaea.de/10.1594/PANGAEA.875582
+
+	- biodiversity context : 
+	https://doi.pangaea.de/10.1594/PANGAEA.853809
+	- carbonate chemistry :
+	https://doi.org/10.1594/PANGAEA.875567
+	- nutrients : 
+	https://doi.org/10.1594/PANGAEA.875575
+	- pigments HPLC :
+	https://doi.org/10.1594/PANGAEA.875569
+	
+#### Minor corrections
+In Nutrient dataset :
+	- AHX, ARD_2, ARG: removed ">0.8" and ">3" for "Size fraction, upper threshold"
+	- APX : "Size fraction, lower threshold" attribute was removed
+	- units were not provided in the https://doi.org/10.1594/PANGAEA.875575. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.839331
+In HPLC dataset :
+	- AHX, ARD_2, ARG: removed ">0.8" and ">3" for "Size fraction, upper threshold"
+	- APX : "Size fraction, lower threshold" attribute was removed
+	- units were not provided in the https://doi.org/10.1594/PANGAEA.875569. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.839331
+In carbonate dataset :
+	- AHX, ARD_2, ARG: removed ">" for "Size fraction, upper threshold"
+	- APX : "Size fraction, lower threshold" attribute was removed
+	- ARI : removed pH, Carbon dioxide, Carbon dioxide, partial pressure, Fugacity of carbon dioxide in seawater attributes (empty for this dataset)
+	- units were not provided in the https://doi.org/10.1594/PANGAEA.875567. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.839331
+In biodiversity dataset :
+
+
