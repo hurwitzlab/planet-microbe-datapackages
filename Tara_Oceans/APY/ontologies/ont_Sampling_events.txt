@@ -1,0 +1,12 @@
+parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
+Sample_event_ID	centrally registered sampling event identifier	http://purl.obolibrary.org/obo/PMO_00000056									
+start_ISO_dateTime	specimen collection time measurement datum start	http://purl.obolibrary.org/obo/PMO_00000008		time unit	http://purl.obolibrary.org/obo/UO_0000003						
+stop_ISO_dateTime											
+start_lat											
+stop_lat											
+start_lon											
+stop_lon											
+Cruise_ID	sampling expedition identifier	http://purl.obolibrary.org/obo/PMO_00000060									
+Station_name	project investigation identifier	http://purl.obolibrary.org/obo/PMO_00000007									
+sampling_event_type	conductivity temperature pressure sampling process	http://purl.obolibrary.org/obo/pmo.owl/PMO_00000146									
+cruise_expedition	specimen collection process site	http://purl.obolibrary.org/obo/pmo.owl/PMO_00000149									
