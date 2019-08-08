@@ -22,9 +22,9 @@ https://www.ncbi.nlm.nih.gov/bioproject/288560
 - Sample Status removed
 - Size Fraction Lower Threshold removed (">")
 - units not available in NCBI, the units were retrieved from EBI
+- package with samples with range of depth (pooled samples) were divided into a min_Depth and max_Depth attributes
 
 #### issues to solves
-- samples with depth range
 - sensors reporting 99999 when below/not detected
 
 ## Pangea metadata

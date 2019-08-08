@@ -1,0 +1,68 @@
+parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type		COMMENT
+SampleID_Tara									https://doi.pangaea.de/10.1594/PANGAEA.875582			TARA_barcode#
+SampleID_NCBI									https://doi.pangaea.de/10.1594/PANGAEA.875582			BioSamples accession number (SAMEA#)
+SampleID_SRA									https://doi.pangaea.de/10.1594/PANGAEA.875582			ENA sample accession number (ERS#)
+Station label									https://doi.pangaea.de/10.1594/PANGAEA.875582			TARA_station#
+Event label									https://doi.pangaea.de/10.1594/PANGAEA.875582			TARA_event-datetime_station#_event-type
+Environmental feature									https://doi.pangaea.de/10.1594/PANGAEA.875582			"[abbreviation], full name (ENVO:ID) from which this sample was collected"
+"Depth, nominal"				m					https://doi.pangaea.de/10.1594/PANGAEA.875582			from which this sample was collected
+"Depth, top/min"				m					https://doi.pangaea.de/10.1594/PANGAEA.875582			from which this sample was collected
+"Depth, bottom/max"				m					https://doi.pangaea.de/10.1594/PANGAEA.875582			from which this sample was collected
+"Size fraction, upper threshold"				_m					https://doi.pangaea.de/10.1594/PANGAEA.875582			used on board to prepare samples
+Sample material									https://doi.pangaea.de/10.1594/PANGAEA.875582			TARA_station#_environmental-feature_size-fraction
+Sample method									https://doi.pangaea.de/10.1594/PANGAEA.875582			"short label describing the target analysis (BGC=biogeochemistry, IMG=imaging, SEQ=sequencing) and specifics of the methodology and sampling device (N=net, W=pump/bottles/bucket, CW=concentrated by tangential filtration)"
+Sample code/label									https://doi.pangaea.de/10.1594/PANGAEA.875582			TARA_event-datetime_station#_event-type_environmental-feature_(depth)_protocol-label_size-fraction_sample-barcode
+File name									https://doi.org/10.1594/PANGAEA.875567			from which in situ sensor data were obtained to describe the environmental feature
+Distance				m					https://doi.org/10.1594/PANGAEA.875567			interval between the location at which the sample was collected and that of the closest environmental context information
+Duration									https://doi.org/10.1594/PANGAEA.875567			interval between the date/time at which the sample was collected and that of the closest environmental context information
+Number of observations									https://doi.org/10.1594/PANGAEA.875567			"that meet the criteria: 10 m around the environmental feature nominal depth, distance lag <100 km and date/time lag <2 days"
+pH									https://doi.org/10.1594/PANGAEA.875567			"minimum value in the selected environmental feature around the sampling date and location, total scale"
+pH_1									https://doi.org/10.1594/PANGAEA.875567			"lower quartile value (25th percentile, first quartile, Q1) in the selected environmental feature around the sampling date and location, total scale"
+pH_2									https://doi.org/10.1594/PANGAEA.875567			"median value (50th percentile, second quartile, Q2) in the selected environmental feature around the sampling date and location, total scale"
+pH_3									https://doi.org/10.1594/PANGAEA.875567			"upper quartile value (75th percentile, third quartile, Q3) in the selected environmental feature around the sampling date and location, total scale"
+pH_4									https://doi.org/10.1594/PANGAEA.875567			"maximum value in the selected environmental feature around the sampling date and location, total scale"
+Carbon dioxide				_mol/kg					https://doi.org/10.1594/PANGAEA.875567			minimum value in the selected environmental feature around the sampling date and location
+Carbon dioxide_1				_mol/kg					https://doi.org/10.1594/PANGAEA.875567			"lower quartile value (25th percentile, first quartile, Q1) in the selected environmental feature around the sampling date and location"
+Carbon dioxide_2				_mol/kg					https://doi.org/10.1594/PANGAEA.875567			"median value (50th percentile, second quartile, Q2) in the selected environmental feature around the sampling date and location"
+Carbon dioxide_3				_mol/kg					https://doi.org/10.1594/PANGAEA.875567			"upper quartile value (75th percentile, third quartile, Q3) in the selected environmental feature around the sampling date and location"
+Carbon dioxide_4				_mol/kg					https://doi.org/10.1594/PANGAEA.875567			maximum value in the selected environmental feature around the sampling date and location
+"Carbon dioxide, partial pressure"				_atm					https://doi.org/10.1594/PANGAEA.875567			minimum value in the selected environmental feature around the sampling date and location
+"Carbon dioxide, partial pressure_1"				_atm					https://doi.org/10.1594/PANGAEA.875567			"lower quartile value (25th percentile, first quartile, Q1) in the selected environmental feature around the sampling date and location"
+"Carbon dioxide, partial pressure_2"				_atm					https://doi.org/10.1594/PANGAEA.875567			"median value (50th percentile, second quartile, Q2) in the selected environmental feature around the sampling date and location"
+"Carbon dioxide, partial pressure_3"				_atm					https://doi.org/10.1594/PANGAEA.875567			"upper quartile value (75th percentile, third quartile, Q3) in the selected environmental feature around the sampling date and location"
+"Carbon dioxide, partial pressure_4"				_atm					https://doi.org/10.1594/PANGAEA.875567			maximum value in the selected environmental feature around the sampling date and location
+Fugacity of carbon dioxide in seawater				_atm					https://doi.org/10.1594/PANGAEA.875567			minimum value in the selected environmental feature around the sampling date and location
+Fugacity of carbon dioxide in seawater_1				_atm					https://doi.org/10.1594/PANGAEA.875567			"lower quartile value (25th percentile, first quartile, Q1) in the selected environmental feature around the sampling date and location"
+Fugacity of carbon dioxide in seawater_2				_atm					https://doi.org/10.1594/PANGAEA.875567			"median value (50th percentile, second quartile, Q2) in the selected environmental feature around the sampling date and location"
+Fugacity of carbon dioxide in seawater_3				_atm					https://doi.org/10.1594/PANGAEA.875567			"upper quartile value (75th percentile, third quartile, Q3) in the selected environmental feature around the sampling date and location"
+Fugacity of carbon dioxide in seawater_4				_atm					https://doi.org/10.1594/PANGAEA.875567			maximum value in the selected environmental feature around the sampling date and location
+Bicarbonate ion				_mol/kg					https://doi.org/10.1594/PANGAEA.875567			minimum value in the selected environmental feature around the sampling date and location
+Bicarbonate ion_1				_mol/kg					https://doi.org/10.1594/PANGAEA.875567			"lower quartile value (25th percentile, first quartile, Q1) in the selected environmental feature around the sampling date and location"
+Bicarbonate ion_2				_mol/kg					https://doi.org/10.1594/PANGAEA.875567			"median value (50th percentile, second quartile, Q2) in the selected environmental feature around the sampling date and location"
+Bicarbonate ion_3				_mol/kg					https://doi.org/10.1594/PANGAEA.875567			"upper quartile value (75th percentile, third quartile, Q3) in the selected environmental feature around the sampling date and location"
+Bicarbonate ion_4				_mol/kg					https://doi.org/10.1594/PANGAEA.875567			maximum value in the selected environmental feature around the sampling date and location
+Carbonate ion				_mol/kg					https://doi.org/10.1594/PANGAEA.875567			minimum value in the selected environmental feature around the sampling date and location
+Carbonate ion_1				_mol/kg					https://doi.org/10.1594/PANGAEA.875567			"lower quartile value (25th percentile, first quartile, Q1) in the selected environmental feature around the sampling date and location"
+Carbonate ion_2				_mol/kg					https://doi.org/10.1594/PANGAEA.875567			"median value (50th percentile, second quartile, Q2) in the selected environmental feature around the sampling date and location"
+Carbonate ion_3				_mol/kg					https://doi.org/10.1594/PANGAEA.875567			"upper quartile value (75th percentile, third quartile, Q3) in the selected environmental feature around the sampling date and location"
+Carbonate ion_4				_mol/kg					https://doi.org/10.1594/PANGAEA.875567			maximum value in the selected environmental feature around the sampling date and location
+"Carbon, total"				_mol/kg					https://doi.org/10.1594/PANGAEA.875567			minimum value in the selected environmental feature around the sampling date and location
+"Carbon, total_1"				_mol/kg					https://doi.org/10.1594/PANGAEA.875567			"lower quartile value (25th percentile, first quartile, Q1) in the selected environmental feature around the sampling date and location"
+"Carbon, total_2"				_mol/kg					https://doi.org/10.1594/PANGAEA.875567			"median value (50th percentile, second quartile, Q2) in the selected environmental feature around the sampling date and location"
+"Carbon, total_3"				_mol/kg					https://doi.org/10.1594/PANGAEA.875567			"upper quartile value (75th percentile, third quartile, Q3) in the selected environmental feature around the sampling date and location"
+"Carbon, total_4"				_mol/kg					https://doi.org/10.1594/PANGAEA.875567			maximum value in the selected environmental feature around the sampling date and location
+"Alkalinity, total"				_mol/kg					https://doi.org/10.1594/PANGAEA.875567			minimum value in the selected environmental feature around the sampling date and location
+"Alkalinity, total_1"				_mol/kg					https://doi.org/10.1594/PANGAEA.875567			"lower quartile value (25th percentile, first quartile, Q1) in the selected environmental feature around the sampling date and location"
+"Alkalinity, total_2"				_mol/kg					https://doi.org/10.1594/PANGAEA.875567			"median value (50th percentile, second quartile, Q2) in the selected environmental feature around the sampling date and location"
+"Alkalinity, total_3"				_mol/kg					https://doi.org/10.1594/PANGAEA.875567			"upper quartile value (75th percentile, third quartile, Q3) in the selected environmental feature around the sampling date and location"
+"Alkalinity, total_4"				_mol/kg					https://doi.org/10.1594/PANGAEA.875567			maximum value in the selected environmental feature around the sampling date and location
+Calcite saturation state									https://doi.org/10.1594/PANGAEA.875567			minimum value in the selected environmental feature around the sampling date and location
+Calcite saturation state_1									https://doi.org/10.1594/PANGAEA.875567			"lower quartile value (25th percentile, first quartile, Q1) in the selected environmental feature around the sampling date and location"
+Calcite saturation state_2									https://doi.org/10.1594/PANGAEA.875567			"median value (50th percentile, second quartile, Q2) in the selected environmental feature around the sampling date and location"
+Calcite saturation state_3									https://doi.org/10.1594/PANGAEA.875567			"upper quartile value (75th percentile, third quartile, Q3) in the selected environmental feature around the sampling date and location"
+Calcite saturation state_4									https://doi.org/10.1594/PANGAEA.875567			maximum value in the selected environmental feature around the sampling date and location
+Aragonite saturation state									https://doi.org/10.1594/PANGAEA.875567			minimum value in the selected environmental feature around the sampling date and location
+Aragonite saturation state_1									https://doi.org/10.1594/PANGAEA.875567			"lower quartile value (25th percentile, first quartile, Q1) in the selected environmental feature around the sampling date and location"
+Aragonite saturation state_2									https://doi.org/10.1594/PANGAEA.875567			"median value (50th percentile, second quartile, Q2) in the selected environmental feature around the sampling date and location"
+Aragonite saturation state_3									https://doi.org/10.1594/PANGAEA.875567			"upper quartile value (75th percentile, third quartile, Q3) in the selected environmental feature around the sampling date and location"
+Aragonite saturation state_4									https://doi.org/10.1594/PANGAEA.875567			maximum value in the selected environmental feature around the sampling date and location

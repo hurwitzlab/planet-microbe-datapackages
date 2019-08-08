@@ -1,0 +1,40 @@
+parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type
+SampleID_Tara									https://www.ncbi.nlm.nih.gov/bioproject/253564	
+BioSample									https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Chlorophyll Sensor					mg Chl/m3				https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Depth					m				https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Description									https://www.ncbi.nlm.nih.gov/bioproject/253564	
+ENA checklist									https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Environment (Biome)									https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Environment (Feature)									https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Environment (Material)									https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Environmental Package									https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Event Date/Time End									https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Event Date/Time Start									https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Event Label									https://www.ncbi.nlm.nih.gov/bioproject/253564	
+INSDC center alias									https://www.ncbi.nlm.nih.gov/bioproject/253564	
+INSDC center name									https://www.ncbi.nlm.nih.gov/bioproject/253564	
+INSDC first public									https://www.ncbi.nlm.nih.gov/bioproject/253564	
+INSDC last update									https://www.ncbi.nlm.nih.gov/bioproject/253564	
+INSDC status									https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Last Update Date									https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Latitude End					DD				https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Latitude Start					DD				https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Longitude End					DD				https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Longitude Start					DD				https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Marine Region									https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Nitrate Sensor					µmol/L				https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Oxygen Sensor					µmol/kg				https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Project Name									https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Protocol Label									https://www.ncbi.nlm.nih.gov/bioproject/253564	
+SRA accession									https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Salinity Sensor					psu				https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Sample Collection Device									https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Sample Name									https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Sampling Campaign									https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Sampling Platform									https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Sampling Station									https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Size Fraction Lower Threshold					µm				https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Size Fraction Upper Threshold					µm				https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Temperature					¡C				https://www.ncbi.nlm.nih.gov/bioproject/253564	
+Title									https://www.ncbi.nlm.nih.gov/bioproject/253564	

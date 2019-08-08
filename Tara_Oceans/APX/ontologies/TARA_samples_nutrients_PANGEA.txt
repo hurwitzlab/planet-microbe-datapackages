@@ -1,0 +1,38 @@
+parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type		COMMENT
+SampleID_Tara									https://doi.pangaea.de/10.1594/PANGAEA.875582			TARA_barcode#
+SampleID_NCBI									https://doi.pangaea.de/10.1594/PANGAEA.875582			BioSamples accession number (SAMEA#)
+SampleID_SRA									https://doi.pangaea.de/10.1594/PANGAEA.875582			ENA sample accession number (ERS#)
+Station label									https://doi.pangaea.de/10.1594/PANGAEA.875582			TARA_station#
+Event label									https://doi.pangaea.de/10.1594/PANGAEA.875582			TARA_event-datetime_station#_event-type
+Environmental feature									https://doi.pangaea.de/10.1594/PANGAEA.875582			"[abbreviation], full name (ENVO:ID) from which this sample was collected"
+"Depth, nominal"						m			https://doi.pangaea.de/10.1594/PANGAEA.875582			from which this sample was collected
+"Depth, top/min"						m			https://doi.pangaea.de/10.1594/PANGAEA.875582			from which this sample was collected
+"Depth, bottom/max"						m			https://doi.pangaea.de/10.1594/PANGAEA.875582			from which this sample was collected
+"Size fraction, upper threshold"						_m			https://doi.pangaea.de/10.1594/PANGAEA.875582			used on board to prepare samples
+Sample material									https://doi.pangaea.de/10.1594/PANGAEA.875582			TARA_station#_environmental-feature_size-fraction
+Sample method									https://doi.pangaea.de/10.1594/PANGAEA.875582			"short label describing the target analysis (BGC=biogeochemistry, IMG=imaging, SEQ=sequencing) and specifics of the methodology and sampling device (N=net, W=pump/bottles/bucket, CW=concentrated by tangential filtration)"
+Sample code/label									https://doi.pangaea.de/10.1594/PANGAEA.875582			TARA_event-datetime_station#_event-type_environmental-feature_(depth)_protocol-label_size-fraction_sample-barcode
+File name									https://doi.org/10.1594/PANGAEA.875575			from which water sample data were obtained to describe the environmental feature
+Distance						m			https://doi.org/10.1594/PANGAEA.875575			interval between the location at which the sample was collected and that of the closest environmental context information
+Duration(ISO)									https://doi.org/10.1594/PANGAEA.875575			interval between the date/time at which the sample was collected and that of the closest environmental context information
+Number of observations									https://doi.org/10.1594/PANGAEA.875575			"that meet the criteria: 10 m around the environmental feature nominal depth, distance lag <100 km and date/time lag <2 days"
+Nitrite						µmol/l			https://doi.org/10.1594/PANGAEA.875575			minimum value in the selected environmental feature around the sampling date and location
+Nitrite_1						µmol/l			https://doi.org/10.1594/PANGAEA.875575			"lower quartile value (25th percentile, first quartile, Q1) in the selected environmental feature around the sampling date and location"
+Nitrite_2						µmol/l			https://doi.org/10.1594/PANGAEA.875575			"median value (50th percentile, second quartile, Q2) in the selected environmental feature around the sampling date and location"
+Nitrite_3						µmol/l			https://doi.org/10.1594/PANGAEA.875575			"upper quartile value (75th percentile, third quartile, Q3) in the selected environmental feature around the sampling date and location"
+Nitrite_4						µmol/l			https://doi.org/10.1594/PANGAEA.875575			maximum value in the selected environmental feature around the sampling date and location
+Phosphate						µmol/l			https://doi.org/10.1594/PANGAEA.875575			minimum value in the selected environmental feature around the sampling date and location
+Phosphate_1						µmol/l			https://doi.org/10.1594/PANGAEA.875575			"lower quartile value (25th percentile, first quartile, Q1) in the selected environmental feature around the sampling date and location"
+Phosphate_2						µmol/l			https://doi.org/10.1594/PANGAEA.875575			"median value (50th percentile, second quartile, Q2) in the selected environmental feature around the sampling date and location"
+Phosphate_3						µmol/l			https://doi.org/10.1594/PANGAEA.875575			"upper quartile value (75th percentile, third quartile, Q3) in the selected environmental feature around the sampling date and location"
+Phosphate_4						µmol/l			https://doi.org/10.1594/PANGAEA.875575			maximum value in the selected environmental feature around the sampling date and location
+Nitrate and Nitrite						µmol/l			https://doi.org/10.1594/PANGAEA.875575			minimum value in the selected environmental feature around the sampling date and location
+Nitrate and Nitrite_1						µmol/l			https://doi.org/10.1594/PANGAEA.875575			"lower quartile value (25th percentile, first quartile, Q1) in the selected environmental feature around the sampling date and location"
+Nitrate and Nitrite_2						µmol/l			https://doi.org/10.1594/PANGAEA.875575			"median value (50th percentile, second quartile, Q2) in the selected environmental feature around the sampling date and location"
+Nitrate and Nitrite_3						µmol/l			https://doi.org/10.1594/PANGAEA.875575			"upper quartile value (75th percentile, third quartile, Q3) in the selected environmental feature around the sampling date and location"
+Nitrate and Nitrite_4						µmol/l			https://doi.org/10.1594/PANGAEA.875575			maximum value in the selected environmental feature around the sampling date and location
+Silicate						µmol/l			https://doi.org/10.1594/PANGAEA.875575			minimum value in the selected environmental feature around the sampling date and location
+Silicate_1						µmol/l			https://doi.org/10.1594/PANGAEA.875575			"lower quartile value (25th percentile, first quartile, Q1) in the selected environmental feature around the sampling date and location"
+Silicate_2						µmol/l			https://doi.org/10.1594/PANGAEA.875575			"median value (50th percentile, second quartile, Q2) in the selected environmental feature around the sampling date and location"
+Silicate_3						µmol/l			https://doi.org/10.1594/PANGAEA.875575			"upper quartile value (75th percentile, third quartile, Q3) in the selected environmental feature around the sampling date and location"
+Silicate_4						µmol/l			https://doi.org/10.1594/PANGAEA.875575			maximum value in the selected environmental feature around the sampling date and location

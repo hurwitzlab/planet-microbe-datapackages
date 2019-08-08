@@ -43,12 +43,12 @@ https://www.ncbi.nlm.nih.gov/bioproject/253560
 - AHX : samples without sampling time/date nor lat/long were removed
 - APX : remove "size fraction lower threshold"
 - ARG : remove "size fraction upper threshold" if there is none ('>')
+- APY/ARG : packages with samples with range of depth (pooled samples) were divided into a min_Depth and max_Depth attributes
 
 ### issues left to solve all packages
 - sensors reporting 99999 when below/not detected
 
 ### issues to solve in some packages
-- APY/ARG : samples with range of depth (pooled samples)
 - ARD_2 : some samples with a depth at 99999 (detection issue)
 
 ### bioprojects not included
