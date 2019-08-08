@@ -37,6 +37,7 @@ https://www.ncbi.nlm.nih.gov/bioproject/253560
 ### minor corrections in all packages
 - remove the attributes "citation", "further details", "SRA", "sample status"
 - units not available in NCBI, the units were retrieved from EBI
+- NCBI description text contained mis-encoded characters corrected to "μ"
 
 ### minor corrections in some packages
 - AHX : samples without sampling time/date nor lat/long were removed
