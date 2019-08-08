@@ -1,0 +1,87 @@
+parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
+Event Label											
+Cruise											
+CTDType											
+Station											
+CTDrosette_filename											
+DateTime											
+Latitude											
+Longitude											
+bottle											
+Pressure_Digiquartz											
+Depth 				"salt water, m"							
+Temperature				"ITS-90, deg C"							
+Conductivity				mS/cm							
+Salinity				PSU							
+Potential_Temperature				"ITS-90, deg C"							
+Density				"sigma-theta, Kg/m^3"							
+"Oxygen, factory"				µmol/Kg							
+"Oxygen, adjusted"				µmol/Kg							
+Chloro factory 				mg Chl/m3							
+Chloro HPLC adjusted 				mg Chl/m3							
+"Angular scattering coef, at 117°, 470 nm, factory "				m-1 Sr-1							
+"Part backscattering coef, 470 nm, factory "				m-1							
+"Angular scattering coef, at 117°, 470 nm, adj in situ dark"				m-1 Sr-1							
+"Part backscattering coef, 470 nm, adj in situ dark "				m-1							
+"bbp470, adj in situ dark "				m-1							
+"Fcdom, factory "				ppb QSE							
+"beam attenuation coef, 660 nm, factory "				m-1							
+"beam attenuation coef, 660 nm, adjusted deep zero "				m-1							
+LPM (0.06-0.53mm)				#/L							
+LPM (0.53-1.06mm)				#/L							
+LPM (1.06-2.66mm)				#/L							
+LPM (0.06-2.66mm)				#/L							
+LPM biovolume (0.06-0.53mm)				ppm							
+LPM biovolume (0.53-1.06mm)				ppm							
+LPM biovolume (1.06-2.66mm)				ppm							
+LPM biovolume (0.06-2.66mm)				ppm							
+LPM (0.06-0.07mm)				#/L							
+LPM (0.09-0.11mm)				#/L							
+LPM (0.14-0.17mm)				#/L							
+LPM (0.17-0.21mm)				#/L							
+LPM (0.21-0.27mm)				#/L							
+LPM (0.27-0.34mm)				#/L							
+LPM (0.34-0.42mm)				#/L							
+LPM (0.42-0.53mm)				#/L							
+LPM (0.53-0.67mm)				#/L							
+LPM (0.67-0.84mm)				#/L							
+LPM (0.84-1.06mm)				#/L							
+LPM (1.06-1.33mm)				#/L							
+LPM (1.33-1.68mm)				#/L							
+LPM (1.68-2.11mm)				#/L							
+LPM (2.11-2.66mm)				#/L							
+LPM (2.66-3.35mm)				#/L							
+LPM (3.35-4.22mm)				#/L							
+LPM (4.22-5.32mm)				#/L							
+LPM (5.32-6.7mm)				#/L							
+LPM (6.7-8.44mm)				#/L							
+LPM (8.44-10.64mm)				#/L							
+LPM (10.64-13.4mm)				#/L							
+LPM (13.4-16.88mm)				#/L							
+LPM (16.88-21.27mm)				#/L							
+LPM (21.27-26.79mm)				#/L							
+LPM biovolume (0.06-0.07mm)				ppm							
+LPM biovolume (0.09-0.11mm)				ppm							
+LPM biovolume (0.14-0.17mm)				ppm							
+LPM biovolume (0.17-0.21mm)				ppm							
+LPM biovolume (0.21-0.27mm)				ppm							
+LPM biovolume (0.27-0.34mm)				ppm							
+LPM biovolume (0.34-0.42mm)				ppm							
+LPM biovolume (0.42-0.53mm)				ppm							
+LPM biovolume (0.53-0.67mm)				ppm							
+LPM biovolume (0.67-0.84mm)				ppm							
+LPM biovolume (0.84-1.06mm)				ppm							
+LPM biovolume (1.06-1.33mm)				ppm							
+LPM biovolume (1.33-1.68mm)				ppm							
+LPM biovolume (1.68-2.11mm)				ppm							
+LPM biovolume (2.11-2.66mm)				ppm							
+LPM biovolume (2.66-3.35mm)				ppm							
+LPM biovolume (3.35-4.22mm)				ppm							
+LPM biovolume (4.22-5.32mm)				ppm							
+LPM biovolume (5.32-6.7mm)				ppm							
+LPM biovolume (6.7-8.44mm)				ppm							
+LPM biovolume (8.44-10.64mm)				ppm							
+LPM biovolume (10.64-13.4mm)				ppm							
+LPM biovolume (13.4-16.88mm)				ppm							
+LPM biovolume (16.88-21.27mm)				ppm							
+LPM biovolume (21.27-26.79mm)				ppm							

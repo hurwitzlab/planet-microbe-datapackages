@@ -27,7 +27,7 @@ https://www.ncbi.nlm.nih.gov/bioproject/288560
 #### issues to solves
 - sensors reporting 99999 when below/not detected
 
-## Pangea metadata
+## Pangea sample metadata
 Collects metadata about samples associated to the Tara Oceans expedition in Pangea : 
 https://doi.pangaea.de/10.1594/PANGAEA.875582
 
@@ -40,16 +40,16 @@ Notes : the biodiversity context dataset https://doi.pangaea.de/10.1594/PANGAEA.
 #### Minor corrections
 In Nutrient dataset :
 - "Size fraction, lower threshold" attribute was removed
-- units were not provided in the https://doi.org/10.1594/PANGAEA.875575. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.839331
+- units were not provided in the https://doi.org/10.1594/PANGAEA.875575. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.836319
 
 In HPLC dataset :
 - "Size fraction, lower threshold" attribute was removed
-- units were not provided in the https://doi.org/10.1594/PANGAEA.875569. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.839331
+- units were not provided in the https://doi.org/10.1594/PANGAEA.875569. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.836319
 
 In carbonate dataset :
 - "Size fraction, lower threshold" attribute was removed
 - Carbon dioxide, Carbon dioxide, partial pressure, Fugacity of carbon dioxide in seawater removed (empty in this dataset)
-- units were not provided in the https://doi.org/10.1594/PANGAEA.875567. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.839331
+- units were not provided in the https://doi.org/10.1594/PANGAEA.875567. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.836319
 
 ## Sampling_event
 Collects metadata about the sampling events during which samples were obtained. Original data was retrieved from the Pangea event registry : https://doi.pangaea.de/10.1594/PANGAEA.842227
