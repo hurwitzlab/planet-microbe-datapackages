@@ -74,23 +74,35 @@ https://doi.pangaea.de/10.1594/PANGAEA.875582
 In Nutrient dataset :
 - AHX, ARD_2, ARG: removed ">0.8" and ">3" for "Size fraction, upper threshold"
 - APX : "Size fraction, lower threshold" attribute was removed
-- units were not provided in the https://doi.org/10.1594/PANGAEA.875575. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.839331
+- units were not provided in the https://doi.org/10.1594/PANGAEA.875575. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.836319
 
 In HPLC dataset :
 - AHX, ARD_2, ARG: removed ">0.8" and ">3" for "Size fraction, upper threshold"
 - APX : "Size fraction, lower threshold" attribute was removed
-- units were not provided in the https://doi.org/10.1594/PANGAEA.875569. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.839331
+- units were not provided in the https://doi.org/10.1594/PANGAEA.875569. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.836319
 
 In carbonate dataset :
 - AHX, ARD_2, ARG: removed ">" for "Size fraction, upper threshold"
 - APX : "Size fraction, lower threshold" attribute was removed
 - ARI : removed pH, Carbon dioxide, Carbon dioxide, partial pressure, Fugacity of carbon dioxide in seawater attributes (empty for this dataset)
-- units were not provided in the https://doi.org/10.1594/PANGAEA.875567. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.839331
+- units were not provided in the https://doi.org/10.1594/PANGAEA.875567. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.836319
 
 ## Sampling_event
 Collects metadata about the sampling events during which samples were obtained. Original data was retrieved from the Pangea event registry : https://doi.pangaea.de/10.1594/PANGAEA.842227
 
-The original Pangea dataset was parsed and attributes selected for relevant information using a custom R script available in scripts/map_NCBI_PANGEA.R
+The original Pangea dataset was parsed and attributes selected for relevant information using a custom R script available in scripts/mapTara_NCBI_PANGEA.R
 
 ### Minor corrections : 
-	-ARD_2, ARG : the events types named "control" were renamed to "filtrations" to be more informative.
+	- Event type attributes were derived from the Tara event label
+	- ARD_2, ARG : the events types named "control" were renamed to "filtrations" to be more informative.
+
+## Niskin profiles
+Collects metadata about the column of water during sampling events. Original data was retrieved from the Pangea Niskin profile dataset :
+https://doi.pangaea.de/10.1594/PANGAEA.836319
+
+200 Niskin profiles were downloaded from Pangea (see Niskin_profiles.txt for complete doi list). Each profile was cleaned using the command :
+
+sed -n -E -e '/\*\//,$ p' $FILE | sed '1 d' > $FILE.tsv
+
+The cleaned profiles were imported and merged as one unique table, and the relevant Nisking profiles were retrieved and included in each datapackages. Script used to import, merge and select the relevant profiles is available in scripts/mapTara_NCBI_PANGEA.R
+

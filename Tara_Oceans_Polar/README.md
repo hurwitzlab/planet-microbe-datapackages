@@ -56,3 +56,8 @@ Collects metadata about the sampling events during which samples were obtained. 
 
 The original Pangea dataset was parsed and attributes selected for relevant information using a custom R script available in scripts/map_NCBI_PANGEA.R
 
+## Niskin profiles
+Collects metadata about the column of water during sampling events. Original data was retrieved from the Pangea Niskin profile dataset :
+https://doi.pangaea.de/10.1594/PANGAEA.836319
+
+

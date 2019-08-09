@@ -4,7 +4,7 @@ library(tidyverse)
 library(lubridate)
 
 ######Load dataset NCBI
-Tara_dir="/Users/aponsero/Documents/UA_POSTDOC/projects/Planet_Microbe/Planet_Microbe_data/in_progress/Tara_Oceans"
+Tara_dir="/Users/aponsero/Documents/UA_POSTDOC/projects/Planet_Microbe/Planet_Microbe_data/in_progress/Tara_Oceans_Polar"
 dir=paste(Tara_dir,"/BNA", sep="")
 file=paste(dir,"/sample_NCBI.tsv", sep = "")
 WGS_data <- readr::read_tsv(file)
@@ -13,22 +13,28 @@ WGS_event <- WGS_data %>% select("Event Label")
 
 ######################################################################################
 ######################################################################################
-
 #Load Niskin profiles
-file_nis<-paste(Tara_dir,"/PANGEA_sampling_events/Tara_Oceans_Data_RVSS-NISKIN_2009-2013_20140926.txt", sep = "")
-nis_data <- readr::read_tsv(file_nis)
-nis_data <- nis_data %>% mutate(EVENT_LABEL=toupper(EVENT_LABEL)) %>% rename('Event Label'='EVENT_LABEL')
+nis_dir=paste(Tara_dir,"/PANGEA_Niskin/tsv_files/", sep="")
+files_list <- list.files(path=nis_dir)
+
+cpt<-1
+for (i in files_list) {
+  name=paste(nis_dir,i, sep="")
+  temp_nis_data <- readr::read_tsv(name)
+  if (cpt==1) {
+    nis_all <- temp_nis_data
+    cpt<-2
+  }else{
+    nis_all <- bind_rows(nis_all, temp_nis_data)
+  }
+}
+
+nis_data <- nis_all %>% rename('Event Label'='Event')
 
 #######select only relevent samples
 my_nis_data <- inner_join(WGS_event,nis_data, by="Event Label")
 my_nis_file=paste(dir,"/Niskin_profiles_PANGEA.tsv", sep="")
 write.table(my_nis_data, file=my_nis_file, quote=FALSE, sep='\t', row.names = F)
-
-
-
-
-
-
 
 ######################################################################################
 ######################################################################################
