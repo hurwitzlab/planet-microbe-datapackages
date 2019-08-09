@@ -5,11 +5,40 @@ library(lubridate)
 
 ######Load dataset NCBI
 Tara_dir="/Users/aponsero/Documents/UA_POSTDOC/projects/Planet_Microbe/Planet_Microbe_data/in_progress/Tara_Oceans_Polar"
-dir=paste(Tara_dir,"/ARD_2", sep="")
+dir=paste(Tara_dir,"/BNA", sep="")
 file=paste(dir,"/sample_NCBI.tsv", sep = "")
 WGS_data <- readr::read_tsv(file)
 WGS_ID <- WGS_data %>% select(SampleID_Tara)
 WGS_event <- WGS_data %>% select("Event Label") %>% distinct()
+WGS_campaign <- WGS_data %>% select("Sampling Campaign") %>% rename("Campaign"="Sampling Campaign")%>% distinct()
+
+######################################################################################
+######################################################################################
+#Load campaign registry
+file=paste(Tara_dir,"/TARA_campaign_registries.txt", sep = "")
+camp_data <- readr::read_tsv(file)
+
+#######select only relevent data
+my_camp_data <- inner_join(WGS_campaign,camp_data, by="Campaign")
+my_camp_data <- my_camp_data %>% select("Campaign", "Date/Time", "Date/Time 2", "Locality (from port)", 
+                                        "Locality (to port)", "URL file","URL PANGAEA", "URL ENA") %>%
+                rename("campaign_name"="Campaign",
+                       "start_date"="Date/Time",
+                       "end_date"="Date/Time 2",
+                       "start_location"="Locality (from port)",
+                       "end_location"="Locality (to port)")
+
+nb<-my_camp_data %>% nrow(.)
+Tara_O<-tbl_df(rep("Tara Oceans", nb)) %>% rename('campaign_expedition'='value')
+Tara_url<- tbl_df(rep("https://oceans.taraexpeditions.org/en/", nb)) %>% rename('expedition_url'='value')
+campaign_table <- bind_cols( Tara_O, Tara_url,my_camp_data)
+
+my_camp_file=paste(dir,"/campaign.tsv", sep="")
+write.table(campaign_table, file=my_camp_file, quote=FALSE, sep='\t', row.names = F)
+
+
+
+
 
 ######################################################################################
 ######################################################################################
@@ -22,9 +51,6 @@ water1_data <- water1_data %>% rename("Event Label"="Event")
 my_water1_data <- inner_join(WGS_event,water1_data, by="Event Label")
 my_water1_file=paste(dir,"/Ardyna_TARA_water_context_PANGEA.tsv", sep="")
 write.table(my_water1_data, file=my_water1_file, quote=FALSE, sep='\t', row.names = F)
-
-
-
 
 #Load water column context
 file=paste(Tara_dir,"/PANGEA_sampling_events/TARA_SAMPLES_CONTEXT_ENV-WATERCOLUMN.txt", sep = "")

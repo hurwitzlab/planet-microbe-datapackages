@@ -62,3 +62,8 @@ The original Pangea dataset was parsed and attributes selected for relevant info
 Water column context for the sampling events were obtained from Pangea : https://doi.pangaea.de/10.1594/PANGAEA.875579
 
 In PANGEA the water column context is linked to the sample registry. Information about the sample was removed from the dataset, dereplicated and matched to the sampling_events registry.
+
+## Campaigns
+Campaigns informatations were retrieved from the Pangea registry of all campaigns : https://doi.pangaea.de/10.1594/PANGAEA.842191
+
+Relevant information were selected and renamed using the script available in scripts/mapTara_NCBI_PANGEA.R
