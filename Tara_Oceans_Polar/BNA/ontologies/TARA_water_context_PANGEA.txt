@@ -1,0 +1,100 @@
+parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type
+Event Label									https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Basis									https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Campaign									https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Station									https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Device									https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Date/Time									https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Latitude									https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Longitude									https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Kd490 AMODIS at the sampling date				1/m 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Kd490 AMODIS 8 days period				1/m 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Kd490 AMODIS 30 days period				1/m 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Kd490 GlobColour 8 days period				1/m 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Kd490 GlobColour 30 days period				1/m 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+bbp470 8 days period				1/m					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+acCDOM 8 days period				1/m					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+"Kd(PAR) 30 days avg, eq.9"				1/m 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+"Kd(PAR) 30 days avg, eq.9'"				1/m 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+z(SD)				m					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+z(eu) GlobColour 8 days period				m 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+z(eu) Secchi Disk and AMODIS				m 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+z(eu) AMODIS 30 days avg from Kd(PAR)1				m 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+z(eu) AMODIS 30 days avg from Kd(PAR)2				m 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+UMLD from sigma theta				m 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+UMLD from temperature				m 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Depth chl max 				m					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Depth max Brunt Vaisala freq 				m					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Depth max O2 				m					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Depth min O2 				m					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Depth nitracline 				m					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Temp at depth 10m				°C 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Temp at the base of euphotic zone - Kd(PAR)1				°C 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Temp at the base of euphotic zone - Kd(PAR)2				°C 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Temp at the base of mixed layer - sigma theta				°C 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Temp at the depth of mixed layer - temperature				°C 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Temp at depth chl max				°C 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Temp at depth of max Brunt Vaisala freq				°C 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Temp at depth of max oxygent concentration				°C 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Temp at depth of min oxygent concentration				°C 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Temp at depth of nitracline				°C 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Sal at depth 10m									https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Sal at the base of euphotic zone - Kd(PAR)1									https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Sal at the base of euphotic zone - Kd(PAR)2									https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Sal at the base of mixed layer - sigma theta									https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Sal at the depth of mixed layer - Salerature									https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Sal at depth chl max									https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Sal at depth of max Brunt Vaisala freq									https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Sal at depth of max oxygent concentration									https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Sal at depth of min oxygent concentration									https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Sal at depth of nitracline									https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Sigma-theta at depth 10m				kg/m**3 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Sigma-theta at the base of euphotic zone - Kd(PAR)1				kg/m**3 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Sigma-theta at the base of euphotic zone - Kd(PAR)2				kg/m**3 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Sigma-theta at the base of mixed layer - sigma theta				kg/m**3 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Sigma-theta at the depth of mixed layer - Sigma-thetaerature				kg/m**3 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Sigma-theta at depth chl max				kg/m**3 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Sigma-theta at depth of max Brunt VaiSigma-thetaa freq				kg/m**3 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Sigma-theta at depth of max oxygent concentration				kg/m**3 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Sigma-theta at depth of min oxygent concentration				kg/m**3 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Sigma-theta at depth of nitracline				kg/m**3 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+N**2 at depth 10m				1/s**2 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+N**2 at the base of euphotic zone - Kd(PAR)1				1/s**2 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+N**2 at the base of euphotic zone - Kd(PAR)2				1/s**2 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+N**2 at the base of mixed layer - sigma theta				1/s**2 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+N**2 at the depth of mixed layer - N**2erature				1/s**2 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+N**2 at depth chl max				1/s**2 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+N**2 at depth of max Brunt VaiN**2a freq				1/s**2 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+N**2 at depth of max oxygent concentration				1/s**2 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+N**2 at depth of min oxygent concentration				1/s**2 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+N**2 at depth of nitracline				1/s**2 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Chl a at depth 10m				mg/m**3 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Chl a at the base of euphotic zone - Kd(PAR)1				mg/m**3 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Chl a at the base of euphotic zoChl a				mg/m**3 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Chl a at the base of mixed layer - sigma theta				mg/m**3 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Chl a at the depth of mixed layer - Chl aerature				mg/m**3 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Chl a at depth chl max				mg/m**3 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Chl a at depth of max BruChl aa freq				mg/m**3 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Chl a at depth of max oxygent concentration				mg/m**3 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Chl a at depth of min oxygent concentration				mg/m**3 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Chl a at depth of nitracline				mg/m**3 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Oxygen at depth 10m				µmol/kg 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Oxygen at the base of euphotic zone - Kd(PAR)1				µmol/kg 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Oxygen at the base of euphotic zoOxygen				µmol/kg 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Oxygen at the base of mixed layer - sigma theta				µmol/kg 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Oxygen at the depth of mixed layer - Oxygenerature				µmol/kg 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Oxygen at depth chl max				µmol/kg 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Oxygen at depth of max BruOxygena freq				µmol/kg 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Oxygen at depth of max oxygent concentration				µmol/kg 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Oxygen at depth of min oxygent concentration				µmol/kg 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+Oxygen at depth of nitracline				µmol/kg 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+NO3- at depth 10m				µmol/l 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+NO3- at the base of euphotic zone - Kd(PAR)1				µmol/l 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+NO3- at the base of euphotic zoNO3-				µmol/l 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+NO3- at the base of mixed layer - sigma theta				µmol/l 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+NO3- at the depth of mixed layer - NO3-erature				µmol/l 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+NO3- at depth chl max				µmol/l 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+NO3- at depth of max BruNO3-a freq				µmol/l 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+NO3- at depth of max NO3-t concentration				µmol/l 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+NO3- at depth of min NO3-t concentration				µmol/l 					https://doi.pangaea.de/10.1594/PANGAEA.875579	
+NO3- at depth of nitracline				µmol/l 					https://doi.pangaea.de/10.1594/PANGAEA.875579	

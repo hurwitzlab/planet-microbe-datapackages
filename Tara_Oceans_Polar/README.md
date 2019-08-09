@@ -2,6 +2,8 @@
 
 ############DATAPACKAGE IN PROGRESS DO NOT USE#################
 
+# NCBI metadata 
+
 ## sample_NCBI
 Collects metadata associated to the Tara Oceans Polar metagenome in NCBI : https://www.ncbi.nlm.nih.gov/bioproject/173486
 
@@ -27,7 +29,7 @@ https://www.ncbi.nlm.nih.gov/bioproject/288560
 #### issues to solves
 - sensors reporting 99999 when below/not detected
 
-## Pangea sample metadata
+# Pangea sample metadata
 Collects metadata about samples associated to the Tara Oceans expedition in Pangea : 
 https://doi.pangaea.de/10.1594/PANGAEA.875582
 
@@ -56,8 +58,7 @@ Collects metadata about the sampling events during which samples were obtained. 
 
 The original Pangea dataset was parsed and attributes selected for relevant information using a custom R script available in scripts/map_NCBI_PANGEA.R
 
-## Niskin profiles
-Collects metadata about the column of water during sampling events. Original data was retrieved from the Pangea Niskin profile dataset :
-https://doi.pangaea.de/10.1594/PANGAEA.836319
+## sampling_event water context
+Water column context for the sampling events were obtained from Pangea : https://doi.pangaea.de/10.1594/PANGAEA.875579
 
-
+In PANGEA the water column context is linked to the sample registry. Information about the sample was removed from the dataset, dereplicated and matched to the sampling_events registry.

@@ -2,6 +2,7 @@
 
 ############DATAPACKAGE IN PROGRESS DO NOT USE#################
 
+# NCBI metadata
 ## sample_NCBI
 Collects metadata associated to the Tara Oceans expedition in NCBI : https://www.ncbi.nlm.nih.gov/bioproject/173486
 
@@ -53,10 +54,12 @@ https://www.ncbi.nlm.nih.gov/bioproject/253560
 
 ### bioprojects not included
 PRJEB4422	ALP	Shotgun Sequencing of Single Cell Whole Genome Amplification from Tara Oceans samples corresponding to size fractions for protist (GSC)
+
 PRJEB6604 APE Whole genome Sequencing from protist culture. (GSC)
+
 PRJEB6607 AZA Metatranscriptome sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes. (GSC)
 
-## Pangea metadata
+# Pangea metadata
 Pangea registry of all campaigns : https://doi.pangaea.de/10.1594/PANGAEA.842191
 Pangea registry of all events : https://doi.pangaea.de/10.1594/PANGAEA.842227
 Pangea registry of all samples : https://doi.pangaea.de/10.1594/PANGAEA.875582
@@ -93,8 +96,8 @@ Collects metadata about the sampling events during which samples were obtained. 
 The original Pangea dataset was parsed and attributes selected for relevant information using a custom R script available in scripts/mapTara_NCBI_PANGEA.R
 
 ### Minor corrections : 
-	- Event type attributes were derived from the Tara event label
-	- ARD_2, ARG : the events types named "control" were renamed to "filtrations" to be more informative.
+- Event type attributes were derived from the Tara event label
+- ARD_2, ARG : the events types named "control" were renamed to "filtrations" to be more informative.
 
 ## Niskin profiles
 Collects metadata about the column of water during sampling events. Original data was retrieved from the Pangea Niskin profile dataset :
@@ -102,7 +105,14 @@ https://doi.pangaea.de/10.1594/PANGAEA.836319
 
 200 Niskin profiles were downloaded from Pangea (see Niskin_profiles.txt for complete doi list). Each profile was cleaned using the command :
 
-sed -n -E -e '/\*\//,$ p' $FILE | sed '1 d' > $FILE.tsv
+	sed -n -E -e '/\*\//,$ p' $FILE | sed '1 d' > $FILE.tsv
 
 The cleaned profiles were imported and merged as one unique table, and the relevant Nisking profiles were retrieved and included in each datapackages. Script used to import, merge and select the relevant profiles is available in scripts/mapTara_NCBI_PANGEA.R
+
+## sampling_event water context
+Water column context for the sampling events were obtained from Pangea : https://doi.pangaea.de/10.1594/PANGAEA.875579
+
+In PANGEA the water column context is linked to the sample registry. Information about the sample was removed from the dataset, dereplicated and matched to the sampling_events registry.
+
+
 
