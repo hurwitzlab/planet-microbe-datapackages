@@ -1,0 +1,60 @@
+parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type
+Basis									https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Campaign									https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Station									https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Device									https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Event									https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Date/Time									https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Latitude									https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Longitude									https://doi.pangaea.de/10.1594/PANGAEA.875577	
+MP biome									https://doi.pangaea.de/10.1594/PANGAEA.875577	
+OS region									https://doi.pangaea.de/10.1594/PANGAEA.875577	
+BG province									https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Sea ice conc 				%					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Sea ice free period start DOY 				day					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Sea Ice free period 				days					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Sea ice free period end DOY 				day					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Season at sampling date									https://doi.pangaea.de/10.1594/PANGAEA.875577	
+"Season (early, middle, late)"									https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Moon phase nominal									https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Moon phase proportion									https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Time of day									https://doi.pangaea.de/10.1594/PANGAEA.875577	
+SSD 				min					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+PAR day at sampling date				mol quanta/m**2/day 					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+PAR day AMODIS for a 8 days period				mol quanta/m**2/day 					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+PAR day  GlobColour for a 8 days period				mol quanta/m**2/day 					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+PAR day  AMODIS for a 30 days period				mol quanta/m**2/day 					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+SST grad h 				°C/100 km 					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Fe tot 				µmol/l					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Fe std dev 				±					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+NH4+ 				µmol/l					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+NH4+ std dev 				±					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+NO2- 				µmol/l					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+NO2- std dev 				±					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+NO3- 				µmol/l					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+NO3 std dev 				±					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+"Sea surface fluorescence, CDOM "				ppb 					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Sea surface Chl a				mg/m**3					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Chl a conc 				mg/m**2					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Sea surface phi sat 				%					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Net primary production of carbon - UQAR-TAKUVIC model				mg/m**2/day 					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Net primary production of carbon - VGPM				mg/m**2/day 					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+"Suspended matter, total"				mg/l					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+POC 				µg/kg					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+PIC 				mol/m**3					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Bathy depth 				m					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Latitude (of the closest geographic coordinate on a coast)									https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Longitude  (of the closest geographic coordinate on a coast)									https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Distance  (of the closest geographic coordinate on a coast)				km					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+SST grad h 				°C/100 km 					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+SSM index 				1/s**2					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+"Geostrophic velocity, longitudinal"				cm/s					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+"Geostrophic velocity, latidunal"				cm/s					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Okubo-Weiss parameter									https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Maximum Lyapunov exponent				1/day					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Residence time of water mass				days					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Latitude (of the continental shelf <500m where sampled water originated)									https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Longitude (of the continental shelf <500m where sampled  water originated)									https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Age (days since water mass left continental shelf)				days					https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Latitude (of the geographic coordinate where water mass originated 45 days before sampling)									https://doi.pangaea.de/10.1594/PANGAEA.875577	
+Longitude (of the geographic coordinate where water mass originated 45 days before sampling)									https://doi.pangaea.de/10.1594/PANGAEA.875577	

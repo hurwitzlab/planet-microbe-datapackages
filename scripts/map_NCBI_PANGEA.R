@@ -5,7 +5,7 @@ library(lubridate)
 
 ######Load dataset NCBI
 Tara_dir="/Users/aponsero/Documents/UA_POSTDOC/projects/Planet_Microbe/Planet_Microbe_data/in_progress/Tara_Oceans_Polar"
-dir=paste(Tara_dir,"/BNA", sep="")
+dir=paste(Tara_dir,"/ARD_2", sep="")
 file=paste(dir,"/sample_NCBI.tsv", sep = "")
 WGS_data <- readr::read_tsv(file)
 WGS_ID <- WGS_data %>% select(SampleID_Tara)
@@ -13,6 +13,18 @@ WGS_event <- WGS_data %>% select("Event Label") %>% distinct()
 
 ######################################################################################
 ######################################################################################
+#Load Ardyna water context
+file1=paste(Tara_dir,"/PANGEA_sampling_events/Ardyna_TARA_SAMPLES_CONTEXT_ENV-WATERCOLUMN.txt", sep = "")
+water1_data <- readr::read_tsv(file1)
+
+water1_data <- water1_data %>% rename("Event Label"="Event")
+#######select only relevent samples
+my_water1_data <- inner_join(WGS_event,water1_data, by="Event Label")
+my_water1_file=paste(dir,"/Ardyna_TARA_water_context_PANGEA.tsv", sep="")
+write.table(my_water1_data, file=my_water1_file, quote=FALSE, sep='\t', row.names = F)
+
+
+
 
 #Load water column context
 file=paste(Tara_dir,"/PANGEA_sampling_events/TARA_SAMPLES_CONTEXT_ENV-WATERCOLUMN.txt", sep = "")
@@ -23,11 +35,6 @@ water_data <- water_data %>% rename("Event Label"="Event")
 my_water_data <- inner_join(WGS_event,water_data, by="Event Label")
 my_water_file=paste(dir,"/TARA_water_context_PANGEA.tsv", sep="")
 write.table(my_water_data, file=my_water_file, quote=FALSE, sep='\t', row.names = F)
-
-
-
-
-
 
 ######################################################################################
 ######################################################################################
