@@ -1,7 +1,5 @@
 # Tara Oceans Polar datapackage
 
-############DATAPACKAGE IN PROGRESS DO NOT USE#################
-
 # NCBI metadata 
 
 ## sample_NCBI
@@ -58,8 +56,16 @@ Collects metadata about the sampling events during which samples were obtained. 
 
 The original Pangea dataset was parsed and attributes selected for relevant information using a custom R script available in scripts/map_NCBI_PANGEA.R
 
+### Minor corrections : 
+- Event type attributes were derived from the Tara event label
+
 ## sampling_event water context
 Water column context for the sampling events were obtained from Pangea : https://doi.pangaea.de/10.1594/PANGAEA.875579
+
+In PANGEA the water column context is linked to the sample registry. Information about the sample was removed from the dataset, dereplicated and matched to the sampling_events registry. When different records matching the same sampling_event ID, the records containing the most metadata was kept.
+
+## sampling_event Ardyna water context
+Water column context for the sampling events were obtained from Pangea : https://doi.pangaea.de/10.1594/PANGAEA.875577
 
 In PANGEA the water column context is linked to the sample registry. Information about the sample was removed from the dataset, dereplicated and matched to the sampling_events registry.
 
