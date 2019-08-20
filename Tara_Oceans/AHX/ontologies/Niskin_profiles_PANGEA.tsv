@@ -1,53 +1,53 @@
-parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type
-Event Label									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Campaign									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Basis									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Station									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Device									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-URI									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Comment									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-File name									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Date/Time									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Latitude									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Longitude									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Depth water 				m					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Bottle									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Press 				dbar					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Temp 				°C					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Cond 				mS/cm					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Sal									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Tpot 				°C					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Sigma-theta 				kg/m**3					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Chl c3 				µg/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Chl c1+c2 				µg/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Chlide a 				µg/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Perid 				µg/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Phaeopho a 				µg/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-But-fuco 				µg/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Fuco 				µg/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Neo 				µg/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Pras 				µg/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Viola 				µg/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Hex-fuco 				µg/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Diadino 				µg/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Allo 				µg/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Diato 				µg/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Zea 				µg/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Lut 				µg/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-BChl a 				µg/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-DV chl b 				µg/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Chl b 				µg/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Chl b+DV chl b 				µg/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-DV chl a 				µg/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Chl a 				mg/m**3					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-TChl a 				µg/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Phaeophytin a 				µg/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Carotene 				µg/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-NO2- 				µmol/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Flag # (NO2)									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-PO4 3- 				µmol/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Flag # (PO4)									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-NO3- and NO2-				µmol/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Flag # (NO2+NO3)									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Si(OH)4 				µmol/l					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Flag # (Silicate)									https://doi.pangaea.de/10.1594/PANGAEA.836319	
+parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
+Event Label	centrally registered specimen collection event identifier	http://purl.obolibrary.org/obo/PMO_00000056	FALSE						https://doi.pangaea.de/10.1594/PANGAEA.836319	string	
+Campaign	sampling expedition identifier	http://purl.obolibrary.org/obo/PMO_00000060	FALSE						https://doi.pangaea.de/10.1594/PANGAEA.836319	string	
+Basis									https://doi.pangaea.de/10.1594/PANGAEA.836319	string	
+Station	specimen collection process site	http://purl.obolibrary.org/obo/pmo.owl/PMO_00000149	FALSE						https://doi.pangaea.de/10.1594/PANGAEA.836319	string	
+Device	specimen collection device	http://purl.obolibrary.org/obo/PMO_00000074	TRUE						https://doi.pangaea.de/10.1594/PANGAEA.836319	string	
+URI									https://doi.pangaea.de/10.1594/PANGAEA.836319	string	
+Comment	comment on investigation	http://purl.obolibrary.org/obo/OBI_0001898	FALSE						https://doi.pangaea.de/10.1594/PANGAEA.836319	string	
+File name									https://doi.pangaea.de/10.1594/PANGAEA.836319	string	
+Date/Time	specimen collection time measurement datum	http://purl.obolibrary.org/obo/OBI_0001619	TRUE						https://doi.pangaea.de/10.1594/PANGAEA.836319	datetime	
+Latitude	latitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001620	TRUE						https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Longitude	longitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001621	TRUE						https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Depth water 	depth of water	http://purl.obolibrary.org/obo/ENVO_3100031	TRUE	meter	http://purl.obolibrary.org/obo/UO_0000008				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Bottle									https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Press 	pressure of water	http://purl.obolibrary.org/obo/ENVO_3100033	TRUE	decibar	http://purl.obolibrary.org/obo/PMO_00000034				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Temp 	temperature of water	http://purl.obolibrary.org/obo/ENVO_09200014	TRUE	degree Celsius	http://purl.obolibrary.org/obo/UO_0000027				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Cond 	conductivity of water	http://purl.obolibrary.org/obo/ENVO_09200018	TRUE	milisiemens per centimeter	http://purl.obolibrary.org/obo/PMO_00000130				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Sal	liquid water salinity	http://purl.obolibrary.org/obo/PMO_00000014	TRUE						https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Tpot 	potential temperature	http://purl.obolibrary.org/obo/PMO_00000020	TRUE	degree Celsius	http://purl.obolibrary.org/obo/UO_0000027				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Sigma-theta 	potential density	http://purl.obolibrary.org/obo/PMO_00000021	TRUE	kilogram per cubic meter	http://purl.obolibrary.org/obo/UO_0000083				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Chl c3 				microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Chl c1+c2 				microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Chlide a 	concentration of chlorophyllide a in water	http://purl.obolibrary.org/obo/ENVO_3100010	TRUE	microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Perid 	concentration of peridinin in water	http://purl.obolibrary.org/obo/ENVO_3100025		microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Phaeopho a 				microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+But-fuco 	concentration of 19'-butanoyloxyfucoxanthin in liquid water	http://purl.obolibrary.org/obo/PMO_00000156		microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Fuco 	concentration of fucoxanthin in water	http://purl.obolibrary.org/obo/ENVO_3100014		microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Neo 	concentration of neoxanthin in water	http://purl.obolibrary.org/obo/ENVO_3100021		microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Pras 				microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Viola 	concentration of violaxanthin in water	http://purl.obolibrary.org/obo/ENVO_3100028		microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Hex-fuco 	concentration of 19'-hexanoyloxyfucoxanthin in liquid water	http://purl.obolibrary.org/obo/PMO_00000157		microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Diadino 				microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Allo 	concentration of alloxanthine in water	http://purl.obolibrary.org/obo/ENVO_3100002		microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Diato 				microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Zea 	concentration of zeaxanthin in water	http://purl.obolibrary.org/obo/ENVO_3100029		microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Lut 	concentration of lutein in water	http://purl.obolibrary.org/obo/ENVO_3100019		microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+BChl a 	concentration of bacteriochlorophyll a in water	http://purl.obolibrary.org/obo/ENVO_3100005		microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+DV chl b 	concentration of divinyl chlorophyll b in water	http://purl.obolibrary.org/obo/ENVO_3100013		microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Chl b 	concentration of chlorophyll b in water	http://purl.obolibrary.org/obo/ENVO_3100009		microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Chl b+DV chl b 				microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+DV chl a 	concentration of divinyl chlorophyll a in water	http://purl.obolibrary.org/obo/ENVO_3100012		microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Chl a 	concentration of chlorophyll a in water	http://purl.obolibrary.org/obo/ENVO_3100008		miligram per cubic meter	http://purl.obolibrary.org/obo/PMO_00000132				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+TChl a 	concentration of chlorophyll a in water	http://purl.obolibrary.org/obo/ENVO_3100008		microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Phaeophytin a 				microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Carotene 	concentration of carotene in water	http://purl.obolibrary.org/obo/ENVO_3100007		microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+NO2- 	concentration of nitrite in water	http://purl.obolibrary.org/obo/ENVO_3100023		microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Flag # (NO2)									https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+PO4 3- 	concentration of phosphate in water	http://purl.obolibrary.org/obo/ENVO_3100026		microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Flag # (PO4)									https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+NO3- and NO2-	concentration of nitrate and nitrite in water	http://purl.obolibrary.org/obo/PMO_00000018		microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Flag # (NO2+NO3)									https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Si(OH)4 	concentration of silicic acid in water	http://purl.obolibrary.org/obo/ENVO_3100034		microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Flag # (Silicate)									https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
