@@ -1,20 +1,20 @@
-parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type
-Event Label									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Campaign									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Basis									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Station									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Device									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-URI									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Comment									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-File name									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Date/Time									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Latitude									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Longitude									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Depth water 				m					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Bottle									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Press 				dbar					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Temp 				°C					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Cond 				mS/cm					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Sal									https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Tpot 				°C					https://doi.pangaea.de/10.1594/PANGAEA.836319	
-Sigma-theta 				kg/m**3					https://doi.pangaea.de/10.1594/PANGAEA.836319	
+parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
+Event Label	centrally registered specimen collection event identifier	http://purl.obolibrary.org/obo/PMO_00000056	FALSE						https://doi.pangaea.de/10.1594/PANGAEA.836319	string	
+Campaign	sampling expedition identifier	http://purl.obolibrary.org/obo/PMO_00000060	FALSE						https://doi.pangaea.de/10.1594/PANGAEA.836319	string	
+Basis									https://doi.pangaea.de/10.1594/PANGAEA.836319	string	
+Station	specimen collection process site	http://purl.obolibrary.org/obo/pmo.owl/PMO_00000149	FALSE						https://doi.pangaea.de/10.1594/PANGAEA.836319	string	
+Device	specimen collection device	http://purl.obolibrary.org/obo/PMO_00000074	TRUE						https://doi.pangaea.de/10.1594/PANGAEA.836319	string	
+URI									https://doi.pangaea.de/10.1594/PANGAEA.836319	string	
+Comment	comment on investigation	http://purl.obolibrary.org/obo/OBI_0001898	FALSE						https://doi.pangaea.de/10.1594/PANGAEA.836319	string	
+File name									https://doi.pangaea.de/10.1594/PANGAEA.836319	string	
+Date/Time	specimen collection time measurement datum	http://purl.obolibrary.org/obo/OBI_0001619	TRUE	time unit	http://purl.obolibrary.org/obo/UO_0000003				https://doi.pangaea.de/10.1594/PANGAEA.836319	datetime	%d/%m/$y %H:%M
+Latitude	latitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001620	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Longitude	longitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001621	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Depth water 	depth of water	http://purl.obolibrary.org/obo/ENVO_3100031	TRUE	meter	http://purl.obolibrary.org/obo/UO_0000008				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Bottle									https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Press 	pressure of water	http://purl.obolibrary.org/obo/ENVO_3100033	TRUE	decibar	http://purl.obolibrary.org/obo/PMO_00000034				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Temp 	temperature of water	http://purl.obolibrary.org/obo/ENVO_09200014	TRUE	degree Celsius	http://purl.obolibrary.org/obo/UO_0000027				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Cond 	conductivity of water	http://purl.obolibrary.org/obo/ENVO_09200018	TRUE	milisiemens per centimeter	http://purl.obolibrary.org/obo/PMO_00000130				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Sal	liquid water salinity	http://purl.obolibrary.org/obo/PMO_00000014	TRUE						https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Tpot 	potential temperature	http://purl.obolibrary.org/obo/PMO_00000020	TRUE	degree Celsius	http://purl.obolibrary.org/obo/UO_0000027				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Sigma-theta 	potential density	http://purl.obolibrary.org/obo/PMO_00000021	TRUE	kilogram per cubic meter	http://purl.obolibrary.org/obo/UO_0000083				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
