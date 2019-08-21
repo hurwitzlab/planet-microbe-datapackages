@@ -7,9 +7,9 @@ Device	specimen collection device	http://purl.obolibrary.org/obo/PMO_00000074	TR
 URI									https://doi.pangaea.de/10.1594/PANGAEA.836319	string	
 Comment	comment on investigation	http://purl.obolibrary.org/obo/OBI_0001898	FALSE						https://doi.pangaea.de/10.1594/PANGAEA.836319	string	
 File name									https://doi.pangaea.de/10.1594/PANGAEA.836319	string	
-Date/Time	specimen collection time measurement datum	http://purl.obolibrary.org/obo/OBI_0001619	TRUE						https://doi.pangaea.de/10.1594/PANGAEA.836319	datetime	%d/%m/$y %H:%M
-Latitude	latitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001620	TRUE						https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
-Longitude	longitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001621	TRUE						https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Date/Time	specimen collection time measurement datum	http://purl.obolibrary.org/obo/OBI_0001619	TRUE	time unit	http://purl.obolibrary.org/obo/UO_0000003				https://doi.pangaea.de/10.1594/PANGAEA.836319	datetime	%d/%m/$y %H:%M
+Latitude	latitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001620	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
+Longitude	longitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001621	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
 Depth water 	depth of water	http://purl.obolibrary.org/obo/ENVO_3100031	TRUE	meter	http://purl.obolibrary.org/obo/UO_0000008				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
 Bottle									https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
 Press 	pressure of water	http://purl.obolibrary.org/obo/ENVO_3100033	TRUE	decibar	http://purl.obolibrary.org/obo/PMO_00000034				https://doi.pangaea.de/10.1594/PANGAEA.836319	number	
