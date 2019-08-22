@@ -1,45 +1,45 @@
-parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type
-SampleID_Tara									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-BioSample									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Chlorophyll Sensor					mg Chl/m3				https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Citation									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-min_Depth					m				https://www.ncbi.nlm.nih.gov/bioproject/288560	
-max_Depth					m				https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Description									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-ENA checklist									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Environment (Biome)									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Environment (Feature)									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Environment (Material)									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Environmental Package									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Event Date/Time End									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Event Date/Time Start									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Event Label									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Further Details									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-INSDC center alias									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-INSDC center name									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-INSDC first public									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-INSDC last update									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-INSDC status									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Last Update Date									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Latitude End					DD				https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Latitude Start					DD				https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Longitude End					DD				https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Longitude Start					DD				https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Marine Region									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Nitrate Sensor					µmol/L				https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Oxygen Sensor					µmol/kg				https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Project Name									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Protocol Label									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-SRA accession									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Salinity Sensor					psu				https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Sample Collection Device									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Sample Name									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Sampling Campaign									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Sampling Platform									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Sampling Station									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Size Fraction Upper Threshold					µm				https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Temperature					¡C				https://www.ncbi.nlm.nih.gov/bioproject/288560	
-Title									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-environment (feature) further details									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-protocol description									https://www.ncbi.nlm.nih.gov/bioproject/288560	
-sample material label									https://www.ncbi.nlm.nih.gov/bioproject/288560	
+parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
+SampleID_Tara	centrally registered identifier	http://purl.obolibrary.org/obo/IAO_0000578	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/288560		
+BioSample	Biosample identifier assigned by the National Center for Biotechnology Information	http://purl.obolibrary.org/obo/PMO_00000122	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Chlorophyll Sensor	concentration of chlorophyll in water	http://purl.obolibrary.org/obo/ENVO_3100036	TRUE	miligram per cubic meter	http://purl.obolibrary.org/obo/PMO_00000132				https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Citation									https://www.ncbi.nlm.nih.gov/bioproject/288560		
+min_Depth				meter	http://purl.obolibrary.org/obo/UO_0000008				https://www.ncbi.nlm.nih.gov/bioproject/288560		
+max_Depth				meter	http://purl.obolibrary.org/obo/UO_0000008				https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Description	comment on investigation	http://purl.obolibrary.org/obo/OBI_0001898	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/288560		
+ENA checklist									https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Environment (Biome)	biome	http://purl.obolibrary.org/obo/ENVO_00000428	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Environment (Feature)	environmental feature	http://purl.obolibrary.org/obo/ENVO_00002297	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Environment (Material)	environmental material	http://purl.obolibrary.org/obo/ENVO_00010483	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Environmental Package									https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Event Date/Time End	specimen collection time measurement datum stop	http://purl.obolibrary.org/obo/PMO_00000009	TRUE	time unit	http://purl.obolibrary.org/obo/UO_0000003				https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Event Date/Time Start	specimen collection time measurement datum start	http://purl.obolibrary.org/obo/PMO_00000008	TRUE	time unit	http://purl.obolibrary.org/obo/UO_0000003				https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Event Label	centrally registered specimen collection event identifier	http://purl.obolibrary.org/obo/PMO_00000056	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Further Details									https://www.ncbi.nlm.nih.gov/bioproject/288560		
+INSDC center alias									https://www.ncbi.nlm.nih.gov/bioproject/288560		
+INSDC center name									https://www.ncbi.nlm.nih.gov/bioproject/288560		
+INSDC first public									https://www.ncbi.nlm.nih.gov/bioproject/288560		
+INSDC last update									https://www.ncbi.nlm.nih.gov/bioproject/288560		
+INSDC status									https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Last Update Date									https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Latitude End	latitude coordinate measurement datum stop	http://purl.obolibrary.org/obo/PMO_00000079	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Latitude Start	latitude coordinate measurement datum start	http://purl.obolibrary.org/obo/PMO_00000076	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Longitude End	longitude coordinate measurement datum stop	http://purl.obolibrary.org/obo/PMO_00000078	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Longitude Start	longitude coordinate measurement datum start	http://purl.obolibrary.org/obo/PMO_00000077	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Marine Region									https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Nitrate Sensor	concentration of nitrate in water	http://purl.obolibrary.org/obo/ENVO_3100022	TRUE	micromole per litre	http://purl.obolibrary.org/obo/UO_0010003				https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Oxygen Sensor	concentration of oxygen in water	http://purl.obolibrary.org/obo/ENVO_09200021	TRUE	micromole per kilogram	http://purl.obolibrary.org/obo/UO_0010004				https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Project Name	project investigation identifier	http://purl.obolibrary.org/obo/PMO_00000007	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Protocol Label	protocol	http://purl.obolibrary.org/obo/OBI_0000272	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/288560		
+SRA accession	SRA accession number	http://purl.obolibrary.org/obo/PMO_00000123	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Salinity Sensor	liquid water salinity	http://purl.obolibrary.org/obo/PMO_00000014	TRUE	practical salinity unit	http://purl.obolibrary.org/obo/PMO_00000037				https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Sample Collection Device	specimen collection device	http://purl.obolibrary.org/obo/PMO_00000074	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Sample Name									https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Sampling Campaign	sampling expedition identifier	http://purl.obolibrary.org/obo/PMO_00000060	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Sampling Platform									https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Sampling Station	specimen collection process site	http://purl.obolibrary.org/obo/pmo.owl/PMO_00000149	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Size Fraction Upper Threshold	aquatic sample maximum filter fractionation size threshold	http://purl.obolibrary.org/obo/PMO_00000023	TRUE	micrometer	http://purl.obolibrary.org/obo/UO_0000017				https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Temperature	temperature of water	http://purl.obolibrary.org/obo/ENVO_09200014	TRUE	degree Celsius	http://purl.obolibrary.org/obo/UO_0000027				https://www.ncbi.nlm.nih.gov/bioproject/288560		
+Title									https://www.ncbi.nlm.nih.gov/bioproject/288560		
+environment (feature) further details									https://www.ncbi.nlm.nih.gov/bioproject/288560		
+protocol description									https://www.ncbi.nlm.nih.gov/bioproject/288560		
+sample material label									https://www.ncbi.nlm.nih.gov/bioproject/288560		
