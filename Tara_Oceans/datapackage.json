@@ -3,7 +3,7 @@
     "pm": "http://purl.obolibrary.org/obo/PMO_00000000"
   },
   "profile": "tabular-data-package",
-  "name": "Tara Oceans Expedition (2009-2013)",
+  "name": "tara_oceans_expedition",
   "title": "Tara Oceans",
   "description": "The Tara Oceans Expedition (2009-2013) sampled the world oceans on board a 36 m long schooner, collecting environmental data and organisms from viruses to planktonic metazoans for later analyses using modern sequencing and state-of-the-art imaging technologies. Tara Oceans Data are particularly suited to study the genetic, morphological and functional diversity of plankton.",
   "pm:projectType": "marine metagenome",
