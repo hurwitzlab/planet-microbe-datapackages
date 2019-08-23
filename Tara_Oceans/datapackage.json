@@ -34,7 +34,13 @@
       "path": "https://doi.pangaea.de/10.1594/PANGAEA.836319"
     }
   ],
-  "licenses": "https://creativecommons.org/licenses/by/3.0/",
+  "licenses": [
+    {
+      "name": "CC-BY-3.0",
+      "title": "Creative Commons Attribution 3.0 Unported",
+      "path": "https://creativecommons.org/licenses/by/3.0/"
+    }
+  ],
   "resources": [
     {
       "name": "Niskin_profiles_PANGEA_AHX",
