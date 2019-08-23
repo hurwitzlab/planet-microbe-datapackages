@@ -43,7 +43,7 @@
   ],
   "resources": [
     {
-      "name": "Niskin_profiles_PANGEA_AHX",
+      "name": "niskin_profiles_pangea_ahx",
       "title": "Vertical profiles of environmental parameters measured on discrete water samples collected with Niskin bottles during the Tara Oceans expedition 2009-2013",
       "description": "The present data publication provides permanent links to original and updated versions of validated data files. The data files include properties of seawater, particulate matter and dissolved matter that were measured from discrete water samples collected with Niskin bottles during the 2009-2013 Tara Oceans expedition. Properties include pigment concentrations from HPLC analysis (10 depths per vertical profile, 25 pigments per depth), the carbonate system (Surface and 400m; pH (total scale), CO2, pCO2, fCO2, HCO3, CO3, Total alkalinity, Total carbon, OmegaAragonite, OmegaCalcite, and dosage Flags), nutrients (10 depths per vertical profile; NO2, PO4, N02/NO3, SI, quality Flags), DOC, CDOM, and dissolved oxygen isotopes. The Service National d'Analyse des Paramètres Océaniques du CO2, at the Université Pierre et Marie Curie, determined CT and AT potentiometrically (Edmond 1970; DOE 1994) on samples preserved according to Dickson et al. (2007). More than 250 vertical profiles of these properties were made across the world ocean. DOC, CDOM and dissolved oxygen isotopes are available only for the Arctic Ocean and Arctic Seas (2013).",
       "profile": "tabular-data-resource",
@@ -652,7 +652,7 @@
       }
     },
     {
-      "name": "sampling_events_AHX",
+      "name": "sampling_events_ahx",
       "title": "sampling_events dataset",
       "description": "Sampling events associated with the Tara Oceans Expedition (2009-2013).",
       "profile": "tabular-data-resource",
@@ -811,7 +811,7 @@
       }
     },
     {
-      "name": "TARA_samples_HPLC_PANGEA_AHX",
+      "name": "tara_samples_hplc_pangea_ahx",
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature",
       "description": "Guidi, Lionel; Ras, Josephine; Claustre, Hervé; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875569, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
@@ -2422,7 +2422,7 @@
       }
     },
     {
-      "name": "TARA_samples_nutrients_PANGEA_AHX",
+      "name": "tara_samples_nutrients_pangea_ahx",
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about nutrients in the targeted environmental feature",
       "description": "Guidi, Lionel; Morin, Pascal; Coppola, Laurent; Tremblay, Jean-Éric; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about nutrients in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875575, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
@@ -2878,7 +2878,7 @@
       }
     },
     {
-      "name": "campaign_AHX",
+      "name": "campaign_ahx",
       "title": "Campaign information for Tara Oceans Expedition (2009-2013)",
       "description": "The Tara Oceans Expedition (2009-2013) sampled the world oceans on board a 36 m long schooner, collecting environmental data and organisms from viruses to planktonic metazoans for later analyses using modern sequencing and state-of-the-art imaging technologies. Tara Oceans Data are particularly suited to study the genetic, morphological and functional diversity of plankton.",
       "profile": "tabular-data-resource",
@@ -3017,7 +3017,7 @@
       }
     },
     {
-      "name": "sample_NCBI_AHX",
+      "name": "sample_ncbi_ahx",
       "title": "Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for protist",
       "description": "Seawater was filtered from different depths to retain small and large cell sizes. The DNA was extracted and submitted to high throughput sequencing.",
       "profile": "tabular-data-resource",
@@ -3484,7 +3484,7 @@
       }
     },
     {
-      "name": "sampling_events_ANB",
+      "name": "sampling_events_anb",
       "title": "sampling_events dataset",
       "description": "Sampling events associated with the Tara Oceans Expedition (2009-2013).",
       "profile": "tabular-data-resource",
@@ -3643,7 +3643,7 @@
       }
     },
     {
-      "name": "TARA_samples_HPLC_PANGEA_ANB",
+      "name": "tara_samples_hplc_pangea_anb",
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature",
       "description": "Guidi, Lionel; Ras, Josephine; Claustre, Hervé; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875569, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
@@ -5254,7 +5254,7 @@
       }
     },
     {
-      "name": "TARA_samples_nutrients_PANGEA_ANB",
+      "name": "tara_samples_nutrients_pangea_anb",
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about nutrients in the targeted environmental feature",
       "description": "Guidi, Lionel; Morin, Pascal; Coppola, Laurent; Tremblay, Jean-Éric; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about nutrients in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875575, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
@@ -5710,7 +5710,7 @@
       }
     },
     {
-      "name": "campaign_ANB",
+      "name": "campaign_anb",
       "title": "Campaign information for Tara Oceans Expedition (2009-2013)",
       "description": "The Tara Oceans Expedition (2009-2013) sampled the world oceans on board a 36 m long schooner, collecting environmental data and organisms from viruses to planktonic metazoans for later analyses using modern sequencing and state-of-the-art imaging technologies. Tara Oceans Data are particularly suited to study the genetic, morphological and functional diversity of plankton.",
       "profile": "tabular-data-resource",
@@ -5849,7 +5849,7 @@
       }
     },
     {
-      "name": "sample_NCBI_ANB",
+      "name": "sample_ncbi_anb",
       "title": "Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for large DNA viruses",
       "description": "Seawater was filtered from different depths to retain small and large cell sizes. The DNA was extracted and submitted to high throughput sequencing.",
       "profile": "tabular-data-resource",
@@ -6316,7 +6316,7 @@
       }
     },
     {
-      "name": "Niskin_profiles_PANGEA_allatt_APX",
+      "name": "niskin_profiles_pangea_allatt_apx",
       "title": "Vertical profiles of environmental parameters measured on discrete water samples collected with Niskin bottles during the Tara Oceans expedition 2009-2013",
       "description": "The present data publication provides permanent links to original and updated versions of validated data files. The data files include properties of seawater, particulate matter and dissolved matter that were measured from discrete water samples collected with Niskin bottles during the 2009-2013 Tara Oceans expedition. Properties include pigment concentrations from HPLC analysis (10 depths per vertical profile, 25 pigments per depth), the carbonate system (Surface and 400m; pH (total scale), CO2, pCO2, fCO2, HCO3, CO3, Total alkalinity, Total carbon, OmegaAragonite, OmegaCalcite, and dosage Flags), nutrients (10 depths per vertical profile; NO2, PO4, N02/NO3, SI, quality Flags), DOC, CDOM, and dissolved oxygen isotopes. The Service National d'Analyse des Paramètres Océaniques du CO2, at the Université Pierre et Marie Curie, determined CT and AT potentiometrically (Edmond 1970; DOE 1994) on samples preserved according to Dickson et al. (2007). More than 250 vertical profiles of these properties were made across the world ocean. DOC, CDOM and dissolved oxygen isotopes are available only for the Arctic Ocean and Arctic Seas (2013).",
       "profile": "tabular-data-resource",
@@ -6562,7 +6562,7 @@
       }
     },
     {
-      "name": "sampling_events_APX",
+      "name": "sampling_events_apx",
       "title": "sampling_events dataset",
       "description": "Sampling events associated with the Tara Oceans Expedition (2009-2013).",
       "profile": "tabular-data-resource",
@@ -6721,7 +6721,7 @@
       }
     },
     {
-      "name": "TARA_samples_HPLC_PANGEA_APX",
+      "name": "tara_samples_hplc_pangea_apx",
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature",
       "description": "Guidi, Lionel; Ras, Josephine; Claustre, Hervé; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875569, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
@@ -8332,7 +8332,7 @@
       }
     },
     {
-      "name": "TARA_samples_nutrients_PANGEA_APX",
+      "name": "tara_samples_nutrients_pangea_apx",
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about nutrients in the targeted environmental feature",
       "description": "Guidi, Lionel; Morin, Pascal; Coppola, Laurent; Tremblay, Jean-Éric; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about nutrients in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875575, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
@@ -8788,7 +8788,7 @@
       }
     },
     {
-      "name": "campaign_APX",
+      "name": "campaign_apx",
       "title": "Campaign information for Tara Oceans Expedition (2009-2013)",
       "description": "The Tara Oceans Expedition (2009-2013) sampled the world oceans on board a 36 m long schooner, collecting environmental data and organisms from viruses to planktonic metazoans for later analyses using modern sequencing and state-of-the-art imaging technologies. Tara Oceans Data are particularly suited to study the genetic, morphological and functional diversity of plankton.",
       "profile": "tabular-data-resource",
@@ -8927,7 +8927,7 @@
       }
     },
     {
-      "name": "sample_NCBI_APX",
+      "name": "sample_ncbi_apx",
       "title": "Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for small DNA viruses.",
       "description": "Seawater from different depths was precipitaded then filtered to retain small particle sizes (Virus particles). The DNA was extracted and submitted to high throughput sequencing.",
       "profile": "tabular-data-resource",
@@ -9394,7 +9394,7 @@
       }
     },
     {
-      "name": "Niskin_profiles_PANGEA_APY",
+      "name": "niskin_profiles_pangea_apy",
       "title": "Vertical profiles of environmental parameters measured on discrete water samples collected with Niskin bottles during the Tara Oceans expedition 2009-2013",
       "description": "The present data publication provides permanent links to original and updated versions of validated data files. The data files include properties of seawater, particulate matter and dissolved matter that were measured from discrete water samples collected with Niskin bottles during the 2009-2013 Tara Oceans expedition. Properties include pigment concentrations from HPLC analysis (10 depths per vertical profile, 25 pigments per depth), the carbonate system (Surface and 400m; pH (total scale), CO2, pCO2, fCO2, HCO3, CO3, Total alkalinity, Total carbon, OmegaAragonite, OmegaCalcite, and dosage Flags), nutrients (10 depths per vertical profile; NO2, PO4, N02/NO3, SI, quality Flags), DOC, CDOM, and dissolved oxygen isotopes. The Service National d'Analyse des Paramètres Océaniques du CO2, at the Université Pierre et Marie Curie, determined CT and AT potentiometrically (Edmond 1970; DOE 1994) on samples preserved according to Dickson et al. (2007). More than 250 vertical profiles of these properties were made across the world ocean. DOC, CDOM and dissolved oxygen isotopes are available only for the Arctic Ocean and Arctic Seas (2013).",
       "profile": "tabular-data-resource",
@@ -10003,7 +10003,7 @@
       }
     },
     {
-      "name": "sampling_events_APY",
+      "name": "sampling_events_apy",
       "title": "sampling_events dataset",
       "description": "Sampling events associated with the Tara Oceans Expedition (2009-2013).",
       "profile": "tabular-data-resource",
@@ -10162,7 +10162,7 @@
       }
     },
     {
-      "name": "TARA_samples_HPLC_PANGEA_APY",
+      "name": "tara_samples_hplc_pangea_apy",
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature",
       "description": "Guidi, Lionel; Ras, Josephine; Claustre, Hervé; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875569, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
@@ -11773,7 +11773,7 @@
       }
     },
     {
-      "name": "TARA_samples_nutrients_PANGEA_APY",
+      "name": "tara_samples_nutrients_pangea_apy",
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about nutrients in the targeted environmental feature",
       "description": "Guidi, Lionel; Morin, Pascal; Coppola, Laurent; Tremblay, Jean-Éric; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about nutrients in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875575, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
@@ -12229,7 +12229,7 @@
       }
     },
     {
-      "name": "campaign_APY",
+      "name": "campaign_apy",
       "title": "Campaign information for Tara Oceans Expedition (2009-2013)",
       "description": "The Tara Oceans Expedition (2009-2013) sampled the world oceans on board a 36 m long schooner, collecting environmental data and organisms from viruses to planktonic metazoans for later analyses using modern sequencing and state-of-the-art imaging technologies. Tara Oceans Data are particularly suited to study the genetic, morphological and functional diversity of plankton.",
       "profile": "tabular-data-resource",
@@ -12368,7 +12368,7 @@
       }
     },
     {
-      "name": "sample_NCBI_APY",
+      "name": "sample_ncbi_apy",
       "title": "Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes",
       "description": "Seawater was filtered from different depths to retain small cell sizes (Bacteria Organisms). The DNA was extracted and submitted to high throughput sequencing.",
       "profile": "tabular-data-resource",
@@ -12835,7 +12835,7 @@
       }
     },
     {
-      "name": "sampling_events_ARC",
+      "name": "sampling_events_arc",
       "title": "sampling_events dataset",
       "description": "Sampling events associated with the Tara Oceans Expedition (2009-2013).",
       "profile": "tabular-data-resource",
@@ -12994,7 +12994,7 @@
       }
     },
     {
-      "name": "TARA_samples_HPLC_PANGEA_ARC",
+      "name": "tara_samples_hplc_pangea_arc",
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature",
       "description": "Guidi, Lionel; Ras, Josephine; Claustre, Hervé; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875569, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
@@ -14605,7 +14605,7 @@
       }
     },
     {
-      "name": "TARA_samples_nutrients_PANGEA_ARC",
+      "name": "tara_samples_nutrients_pangea_arc",
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about nutrients in the targeted environmental feature",
       "description": "Guidi, Lionel; Morin, Pascal; Coppola, Laurent; Tremblay, Jean-Éric; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about nutrients in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875575, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
@@ -15061,7 +15061,7 @@
       }
     },
     {
-      "name": "campaign_ARC",
+      "name": "campaign_arc",
       "title": "Campaign information for Tara Oceans Expedition (2009-2013)",
       "description": "The Tara Oceans Expedition (2009-2013) sampled the world oceans on board a 36 m long schooner, collecting environmental data and organisms from viruses to planktonic metazoans for later analyses using modern sequencing and state-of-the-art imaging technologies. Tara Oceans Data are particularly suited to study the genetic, morphological and functional diversity of plankton.",
       "profile": "tabular-data-resource",
@@ -15200,7 +15200,7 @@
       }
     },
     {
-      "name": "sample_NCBI_ARC",
+      "name": "sample_ncbi_arc",
       "title": "Metatranscriptome sequencing from samples corresponding to size fractions for protists",
       "description": "Metatranscriptome sequencing from different depths to retain small and large cell size (Protists Organisms). The RNA was extracted and submitted to high throughput sequencing.",
       "profile": "tabular-data-resource",
@@ -15667,7 +15667,7 @@
       }
     },
     {
-      "name": "Niskin_profiles_PANGEA_ARD_2",
+      "name": "niskin_profiles_pangea_ard_2",
       "title": "Vertical profiles of environmental parameters measured on discrete water samples collected with Niskin bottles during the Tara Oceans expedition 2009-2013",
       "description": "The present data publication provides permanent links to original and updated versions of validated data files. The data files include properties of seawater, particulate matter and dissolved matter that were measured from discrete water samples collected with Niskin bottles during the 2009-2013 Tara Oceans expedition. Properties include pigment concentrations from HPLC analysis (10 depths per vertical profile, 25 pigments per depth), the carbonate system (Surface and 400m; pH (total scale), CO2, pCO2, fCO2, HCO3, CO3, Total alkalinity, Total carbon, OmegaAragonite, OmegaCalcite, and dosage Flags), nutrients (10 depths per vertical profile; NO2, PO4, N02/NO3, SI, quality Flags), DOC, CDOM, and dissolved oxygen isotopes. The Service National d'Analyse des Paramètres Océaniques du CO2, at the Université Pierre et Marie Curie, determined CT and AT potentiometrically (Edmond 1970; DOE 1994) on samples preserved according to Dickson et al. (2007). More than 250 vertical profiles of these properties were made across the world ocean. DOC, CDOM and dissolved oxygen isotopes are available only for the Arctic Ocean and Arctic Seas (2013).",
       "profile": "tabular-data-resource",
@@ -16276,7 +16276,7 @@
       }
     },
     {
-      "name": "sampling_events_ARD_2",
+      "name": "sampling_events_ard_2",
       "title": "sampling_events dataset",
       "description": "Sampling events associated with the Tara Oceans Expedition (2009-2013).",
       "profile": "tabular-data-resource",
@@ -16435,7 +16435,7 @@
       }
     },
     {
-      "name": "TARA_samples_HPLC_PANGEA_ARD_2",
+      "name": "tara_samples_hplc_pangea_ard_2",
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature",
       "description": "Guidi, Lionel; Ras, Josephine; Claustre, Hervé; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875569, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
@@ -18046,7 +18046,7 @@
       }
     },
     {
-      "name": "TARA_samples_nutrients_PANGEA_ARD_2",
+      "name": "tara_samples_nutrients_pangea_ard_2",
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about nutrients in the targeted environmental feature",
       "description": "Guidi, Lionel; Morin, Pascal; Coppola, Laurent; Tremblay, Jean-Éric; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about nutrients in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875575, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
@@ -18502,7 +18502,7 @@
       }
     },
     {
-      "name": "campaign_ARD_2",
+      "name": "campaign_ard_2",
       "title": "Campaign information for Tara Oceans Expedition (2009-2013)",
       "description": "The Tara Oceans Expedition (2009-2013) sampled the world oceans on board a 36 m long schooner, collecting environmental data and organisms from viruses to planktonic metazoans for later analyses using modern sequencing and state-of-the-art imaging technologies. Tara Oceans Data are particularly suited to study the genetic, morphological and functional diversity of plankton.",
       "profile": "tabular-data-resource",
@@ -18641,7 +18641,7 @@
       }
     },
     {
-      "name": "sample_NCBI_ARD_2",
+      "name": "sample_ncbi_ard_2",
       "title": "Metatranscriptome sequencing from samples corresponding to size fractions for protists",
       "description": "Metatranscriptome sequencing from different depths to retain small and large cell size (Protists Organisms). The RNA was extracted and submitted to high throughput sequencing.",
       "profile": "tabular-data-resource",
@@ -19108,7 +19108,7 @@
       }
     },
     {
-      "name": "Niskin_profiles_PANGEA_ARG",
+      "name": "niskin_profiles_pangea_arg",
       "title": "Vertical profiles of environmental parameters measured on discrete water samples collected with Niskin bottles during the Tara Oceans expedition 2009-2013",
       "description": "The present data publication provides permanent links to original and updated versions of validated data files. The data files include properties of seawater, particulate matter and dissolved matter that were measured from discrete water samples collected with Niskin bottles during the 2009-2013 Tara Oceans expedition. Properties include pigment concentrations from HPLC analysis (10 depths per vertical profile, 25 pigments per depth), the carbonate system (Surface and 400m; pH (total scale), CO2, pCO2, fCO2, HCO3, CO3, Total alkalinity, Total carbon, OmegaAragonite, OmegaCalcite, and dosage Flags), nutrients (10 depths per vertical profile; NO2, PO4, N02/NO3, SI, quality Flags), DOC, CDOM, and dissolved oxygen isotopes. The Service National d'Analyse des Paramètres Océaniques du CO2, at the Université Pierre et Marie Curie, determined CT and AT potentiometrically (Edmond 1970; DOE 1994) on samples preserved according to Dickson et al. (2007). More than 250 vertical profiles of these properties were made across the world ocean. DOC, CDOM and dissolved oxygen isotopes are available only for the Arctic Ocean and Arctic Seas (2013).",
       "profile": "tabular-data-resource",
@@ -19717,7 +19717,7 @@
       }
     },
     {
-      "name": "sampling_events_ARG",
+      "name": "sampling_events_arg",
       "title": "sampling_events dataset",
       "description": "Sampling events associated with the Tara Oceans Expedition (2009-2013).",
       "profile": "tabular-data-resource",
@@ -19876,7 +19876,7 @@
       }
     },
     {
-      "name": "TARA_samples_HPLC_PANGEA_ARG",
+      "name": "tara_samples_hplc_pangea_arg",
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature",
       "description": "Guidi, Lionel; Ras, Josephine; Claustre, Hervé; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875569, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
@@ -21487,7 +21487,7 @@
       }
     },
     {
-      "name": "TARA_samples_nutrients_PANGEA_ARG",
+      "name": "tara_samples_nutrients_pangea_arg",
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about nutrients in the targeted environmental feature",
       "description": "Guidi, Lionel; Morin, Pascal; Coppola, Laurent; Tremblay, Jean-Éric; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about nutrients in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875575, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
@@ -21943,7 +21943,7 @@
       }
     },
     {
-      "name": "campaign_ARG",
+      "name": "campaign_arg",
       "title": "Campaign information for Tara Oceans Expedition (2009-2013)",
       "description": "The Tara Oceans Expedition (2009-2013) sampled the world oceans on board a 36 m long schooner, collecting environmental data and organisms from viruses to planktonic metazoans for later analyses using modern sequencing and state-of-the-art imaging technologies. Tara Oceans Data are particularly suited to study the genetic, morphological and functional diversity of plankton.",
       "profile": "tabular-data-resource",
@@ -22082,7 +22082,7 @@
       }
     },
     {
-      "name": "sample_NCBI_ARG",
+      "name": "sample_ncbi_arg",
       "title": "Amplicon sequencing of Tara Oceans DNA samples corresponding to size fractions for protists",
       "description": "Seawater was filtered from different depths to retain small and large cell sizes (Protists Organisms). The DNA was extracted and amplified by PCR.",
       "profile": "tabular-data-resource",
@@ -22549,7 +22549,7 @@
       }
     },
     {
-      "name": "sampling_events_ARH",
+      "name": "sampling_events_arh",
       "title": "sampling_events dataset",
       "description": "Sampling events associated with the Tara Oceans Expedition (2009-2013).",
       "profile": "tabular-data-resource",
@@ -22708,7 +22708,7 @@
       }
     },
     {
-      "name": "TARA_samples_HPLC_PANGEA_ARH",
+      "name": "tara_samples_hplc_pangea_arh",
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature",
       "description": "Guidi, Lionel; Ras, Josephine; Claustre, Hervé; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875569, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
@@ -24319,7 +24319,7 @@
       }
     },
     {
-      "name": "TARA_samples_nutrients_PANGEA_ARH",
+      "name": "tara_samples_nutrients_pangea_arh",
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about nutrients in the targeted environmental feature",
       "description": "Guidi, Lionel; Morin, Pascal; Coppola, Laurent; Tremblay, Jean-Éric; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about nutrients in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875575, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
@@ -24775,7 +24775,7 @@
       }
     },
     {
-      "name": "campaign_ARH",
+      "name": "campaign_arh",
       "title": "Campaign information for Tara Oceans Expedition (2009-2013)",
       "description": "The Tara Oceans Expedition (2009-2013) sampled the world oceans on board a 36 m long schooner, collecting environmental data and organisms from viruses to planktonic metazoans for later analyses using modern sequencing and state-of-the-art imaging technologies. Tara Oceans Data are particularly suited to study the genetic, morphological and functional diversity of plankton.",
       "profile": "tabular-data-resource",
@@ -24914,7 +24914,7 @@
       }
     },
     {
-      "name": "sample_NCBI_ARH",
+      "name": "sample_ncbi_arh",
       "title": "Amplicon sequencing of Tara Oceans RNA samples corresponding to size fractions for protists",
       "description": "Seawater was filtered from different depths to retain small and large cell sizes (Protist Organisms). The RNA was extracted, cDNA prepared then amplified by PCR.",
       "profile": "tabular-data-resource",
@@ -25381,7 +25381,7 @@
       }
     },
     {
-      "name": "sampling_events_ARI",
+      "name": "sampling_events_ari",
       "title": "sampling_events dataset",
       "description": "Sampling events associated with the Tara Oceans Expedition (2009-2013).",
       "profile": "tabular-data-resource",
@@ -25540,7 +25540,7 @@
       }
     },
     {
-      "name": "TARA_samples_HPLC_PANGEA_ARI",
+      "name": "tara_samples_hplc_pangea_ari",
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature",
       "description": "Guidi, Lionel; Ras, Josephine; Claustre, Hervé; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875569, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
@@ -27151,7 +27151,7 @@
       }
     },
     {
-      "name": "TARA_samples_nutrients_PANGEA_ARI",
+      "name": "tara_samples_nutrients_pangea_ari",
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about nutrients in the targeted environmental feature",
       "description": "Guidi, Lionel; Morin, Pascal; Coppola, Laurent; Tremblay, Jean-Éric; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about nutrients in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875575, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
@@ -27607,7 +27607,7 @@
       }
     },
     {
-      "name": "campaign_ARI",
+      "name": "campaign_ari",
       "title": "Campaign information for Tara Oceans Expedition (2009-2013)",
       "description": "The Tara Oceans Expedition (2009-2013) sampled the world oceans on board a 36 m long schooner, collecting environmental data and organisms from viruses to planktonic metazoans for later analyses using modern sequencing and state-of-the-art imaging technologies. Tara Oceans Data are particularly suited to study the genetic, morphological and functional diversity of plankton.",
       "profile": "tabular-data-resource",
@@ -27746,7 +27746,7 @@
       }
     },
     {
-      "name": "sample_NCBI_ARI",
+      "name": "sample_ncbi_ari",
       "title": "Amplicon sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes or protist",
       "description": "Seawater was filtered from different depths to retain small and large cell sizes (Protists and bacteria Organisms). The DNA was extracted and amplified by PCR.",
       "profile": "tabular-data-resource",
@@ -28213,7 +28213,7 @@
       }
     },
     {
-      "name": "sampling_events_AUZ",
+      "name": "sampling_events_auz",
       "title": "sampling_events dataset",
       "description": "Sampling events associated with the Tara Oceans Expedition (2009-2013).",
       "profile": "tabular-data-resource",
@@ -28372,7 +28372,7 @@
       }
     },
     {
-      "name": "TARA_samples_HPLC_PANGEA_AUZ",
+      "name": "tara_samples_hplc_pangea_auz",
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature",
       "description": "Guidi, Lionel; Ras, Josephine; Claustre, Hervé; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875569, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
@@ -29983,7 +29983,7 @@
       }
     },
     {
-      "name": "TARA_samples_nutrients_PANGEA_AUZ",
+      "name": "tara_samples_nutrients_pangea_auz",
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about nutrients in the targeted environmental feature",
       "description": "Guidi, Lionel; Morin, Pascal; Coppola, Laurent; Tremblay, Jean-Éric; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about nutrients in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875575, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
@@ -30439,7 +30439,7 @@
       }
     },
     {
-      "name": "campaign_AUZ",
+      "name": "campaign_auz",
       "title": "Campaign information for Tara Oceans Expedition (2009-2013)",
       "description": "The Tara Oceans Expedition (2009-2013) sampled the world oceans on board a 36 m long schooner, collecting environmental data and organisms from viruses to planktonic metazoans for later analyses using modern sequencing and state-of-the-art imaging technologies. Tara Oceans Data are particularly suited to study the genetic, morphological and functional diversity of plankton.",
       "profile": "tabular-data-resource",
@@ -30578,7 +30578,7 @@
       }
     },
     {
-      "name": "sample_NCBI_AUZ",
+      "name": "sample_ncbi_auz",
       "title": "Amplicon sequencing of Tara Oceans DNA samples corresponding to size fractions for large DNA viruses",
       "description": "Seawater was filtered from different depths to retain small cell sizes (Girus Organisms). The DNA was extracted and amplified by PCR.",
       "profile": "tabular-data-resource",
@@ -31045,7 +31045,7 @@
       }
     },
     {
-      "name": "sampling_events_BEZ",
+      "name": "sampling_events_bez",
       "title": "sampling_events dataset",
       "description": "Sampling events associated with the Tara Oceans Expedition (2009-2013).",
       "profile": "tabular-data-resource",
@@ -31204,7 +31204,7 @@
       }
     },
     {
-      "name": "TARA_samples_HPLC_PANGEA_BEZ",
+      "name": "tara_samples_hplc_pangea_bez",
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature",
       "description": "Guidi, Lionel; Ras, Josephine; Claustre, Hervé; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875569, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
@@ -32815,7 +32815,7 @@
       }
     },
     {
-      "name": "TARA_samples_nutrients_PANGEA_BEZ",
+      "name": "tara_samples_nutrients_pangea_bez",
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about nutrients in the targeted environmental feature",
       "description": "Guidi, Lionel; Morin, Pascal; Coppola, Laurent; Tremblay, Jean-Éric; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about nutrients in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875575, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
@@ -33271,7 +33271,7 @@
       }
     },
     {
-      "name": "campaign_BEZ",
+      "name": "campaign_bez",
       "title": "Campaign information for Tara Oceans Expedition (2009-2013)",
       "description": "The Tara Oceans Expedition (2009-2013) sampled the world oceans on board a 36 m long schooner, collecting environmental data and organisms from viruses to planktonic metazoans for later analyses using modern sequencing and state-of-the-art imaging technologies. Tara Oceans Data are particularly suited to study the genetic, morphological and functional diversity of plankton.",
       "profile": "tabular-data-resource",
@@ -33410,7 +33410,7 @@
       }
     },
     {
-      "name": "sample_NCBI_BEZ",
+      "name": "sample_ncbi_bez",
       "title": "Metatranscriptome sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes",
       "description": "Metatranscriptome sequencing from different depths to retain small cell size (Bacteria Organisms). The RNA was extracted and submitted to high throughput sequencing.",
       "profile": "tabular-data-resource",
