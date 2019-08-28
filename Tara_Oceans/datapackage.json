@@ -984,7 +984,7 @@
           },
           {
             "name": "Distance",
-            "type": "number",
+            "type": "string",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
@@ -2606,7 +2606,7 @@
           },
           {
             "name": "Distance",
-            "type": "number",
+            "type": "string",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
@@ -3816,7 +3816,7 @@
           },
           {
             "name": "Distance",
-            "type": "number",
+            "type": "string",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
@@ -5438,7 +5438,7 @@
           },
           {
             "name": "Distance",
-            "type": "number",
+            "type": "string",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
@@ -6894,7 +6894,7 @@
           },
           {
             "name": "Distance",
-            "type": "number",
+            "type": "string",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
@@ -8516,7 +8516,7 @@
           },
           {
             "name": "Distance",
-            "type": "number",
+            "type": "string",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
@@ -10335,7 +10335,7 @@
           },
           {
             "name": "Distance",
-            "type": "number",
+            "type": "string",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
@@ -11957,7 +11957,7 @@
           },
           {
             "name": "Distance",
-            "type": "number",
+            "type": "string",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
@@ -13167,7 +13167,7 @@
           },
           {
             "name": "Distance",
-            "type": "number",
+            "type": "string",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
@@ -14789,7 +14789,7 @@
           },
           {
             "name": "Distance",
-            "type": "number",
+            "type": "string",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
@@ -16608,7 +16608,7 @@
           },
           {
             "name": "Distance",
-            "type": "number",
+            "type": "string",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
@@ -18230,7 +18230,7 @@
           },
           {
             "name": "Distance",
-            "type": "number",
+            "type": "string",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
@@ -20049,7 +20049,7 @@
           },
           {
             "name": "Distance",
-            "type": "number",
+            "type": "string",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
@@ -21671,7 +21671,7 @@
           },
           {
             "name": "Distance",
-            "type": "number",
+            "type": "string",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
@@ -22881,7 +22881,7 @@
           },
           {
             "name": "Distance",
-            "type": "number",
+            "type": "string",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
@@ -24503,7 +24503,7 @@
           },
           {
             "name": "Distance",
-            "type": "number",
+            "type": "string",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
@@ -25713,7 +25713,7 @@
           },
           {
             "name": "Distance",
-            "type": "number",
+            "type": "string",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
@@ -27335,7 +27335,7 @@
           },
           {
             "name": "Distance",
-            "type": "number",
+            "type": "string",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
@@ -28545,7 +28545,7 @@
           },
           {
             "name": "Distance",
-            "type": "number",
+            "type": "string",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
@@ -30167,7 +30167,7 @@
           },
           {
             "name": "Distance",
-            "type": "number",
+            "type": "string",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
@@ -31377,7 +31377,7 @@
           },
           {
             "name": "Distance",
-            "type": "number",
+            "type": "string",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
@@ -32999,7 +32999,7 @@
           },
           {
             "name": "Distance",
-            "type": "number",
+            "type": "string",
             "format": "default",
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
