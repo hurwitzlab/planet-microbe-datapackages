@@ -151,7 +151,7 @@
           {
             "name": "Date/Time",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%m/%d/%y %H:%M",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001619",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
@@ -683,7 +683,7 @@
           {
             "name": "start_ISO_dateTime",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%m/%d/%y %H:%M",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "",
@@ -694,7 +694,7 @@
           {
             "name": "stop_ISO_dateTime",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%m/%d/%y %H:%M",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000009",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "",
@@ -3515,7 +3515,7 @@
           {
             "name": "start_ISO_dateTime",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%m/%d/%y %H:%M",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "",
@@ -3526,7 +3526,7 @@
           {
             "name": "stop_ISO_dateTime",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%m/%d/%y %H:%M",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000009",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "",
@@ -6424,7 +6424,7 @@
           {
             "name": "Date/Time",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%m/%d/%y %H:%M",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001619",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
@@ -6593,7 +6593,7 @@
           {
             "name": "start_ISO_dateTime",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%Y-%m-%d %H:%M:%S",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "",
@@ -6604,7 +6604,7 @@
           {
             "name": "stop_ISO_dateTime",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%Y-%m-%d %H:%M:%S",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000009",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "",
@@ -9502,7 +9502,7 @@
           {
             "name": "Date/Time",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%m/%d/%y %H:%M",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001619",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
@@ -10034,7 +10034,7 @@
           {
             "name": "start_ISO_dateTime",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%m/%d/%y %H:%M",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "",
@@ -10045,7 +10045,7 @@
           {
             "name": "stop_ISO_dateTime",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%m/%d/%y %H:%M",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000009",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "",
@@ -12866,7 +12866,7 @@
           {
             "name": "start_ISO_dateTime",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%m/%d/%y %H:%M",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "",
@@ -12877,7 +12877,7 @@
           {
             "name": "stop_ISO_dateTime",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%m/%d/%y %H:%M",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000009",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "",
@@ -15775,7 +15775,7 @@
           {
             "name": "Date/Time",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%m/%d/%y %H:%M",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001619",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
@@ -16307,7 +16307,7 @@
           {
             "name": "start_ISO_dateTime",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%m/%d/%y %H:%M",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "",
@@ -16318,7 +16318,7 @@
           {
             "name": "stop_ISO_dateTime",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%m/%d/%y %H:%M",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000009",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "",
@@ -19216,7 +19216,7 @@
           {
             "name": "Date/Time",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%m/%d/%y %H:%M",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001619",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
@@ -19748,7 +19748,7 @@
           {
             "name": "start_ISO_dateTime",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%m/%d/%y %H:%M",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "",
@@ -19759,7 +19759,7 @@
           {
             "name": "stop_ISO_dateTime",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%m/%d/%y %H:%M",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000009",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "",
@@ -22580,7 +22580,7 @@
           {
             "name": "start_ISO_dateTime",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%m/%d/%y %H:%M",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "",
@@ -22591,7 +22591,7 @@
           {
             "name": "stop_ISO_dateTime",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%m/%d/%y %H:%M",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000009",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "",
@@ -25412,7 +25412,7 @@
           {
             "name": "start_ISO_dateTime",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%m/%d/%y %H:%M",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "",
@@ -25423,7 +25423,7 @@
           {
             "name": "stop_ISO_dateTime",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%m/%d/%y %H:%M",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000009",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "",
@@ -28244,7 +28244,7 @@
           {
             "name": "start_ISO_dateTime",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%m/%d/%y %H:%M",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "",
@@ -28255,7 +28255,7 @@
           {
             "name": "stop_ISO_dateTime",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%m/%d/%y %H:%M",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000009",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "",
@@ -31076,7 +31076,7 @@
           {
             "name": "start_ISO_dateTime",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%m/%d/%y %H:%M",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "",
@@ -31087,7 +31087,7 @@
           {
             "name": "stop_ISO_dateTime",
             "type": "datetime",
-            "format": "%d/%m/$y %H:%M",
+            "format": "%m/%d/%y %H:%M",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000009",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "",
