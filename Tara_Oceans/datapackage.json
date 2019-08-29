@@ -895,7 +895,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, nominal\"",
+            "name": "Depth, nominal",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -906,7 +906,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, top/min\"",
+            "name": "Depth, top/min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -917,7 +917,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Depth, bottom/max\"",
+            "name": "Depth, bottom/max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -928,7 +928,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Size fraction, lower threshold\"",
+            "name": "Size fraction, lower threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
@@ -939,7 +939,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Size fraction, upper threshold\"",
+            "name": "Size fraction, upper threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
@@ -2237,7 +2237,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_min\"",
+            "name": "Chlorophyll a, total_min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -2248,7 +2248,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_first_quartile\"",
+            "name": "Chlorophyll a, total_first_quartile",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -2259,7 +2259,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_median\"",
+            "name": "Chlorophyll a, total_median",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -2270,7 +2270,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Chlorophyll a, total_third_quartile\"",
+            "name": "Chlorophyll a, total_third_quartile",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -2281,7 +2281,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_max\"",
+            "name": "Chlorophyll a, total_max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -2506,7 +2506,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, nominal\"",
+            "name": "Depth, nominal",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -2517,7 +2517,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, top/min\"",
+            "name": "Depth, top/min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -2528,7 +2528,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Depth, bottom/max\"",
+            "name": "Depth, bottom/max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -2539,7 +2539,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Size fraction, lower threshold\"",
+            "name": "Size fraction, lower threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
@@ -2550,7 +2550,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Size fraction, upper threshold\"",
+            "name": "Size fraction, upper threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
@@ -3727,7 +3727,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, nominal\"",
+            "name": "Depth, nominal",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -3738,7 +3738,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, top/min\"",
+            "name": "Depth, top/min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -3749,7 +3749,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Depth, bottom/max\"",
+            "name": "Depth, bottom/max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -3760,7 +3760,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Size fraction, lower threshold\"",
+            "name": "Size fraction, lower threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
@@ -3771,7 +3771,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Size fraction, upper threshold\"",
+            "name": "Size fraction, upper threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
@@ -5069,7 +5069,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_min\"",
+            "name": "Chlorophyll a, total_min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -5080,7 +5080,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_first_quartile\"",
+            "name": "Chlorophyll a, total_first_quartile",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -5091,7 +5091,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_median\"",
+            "name": "Chlorophyll a, total_median",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -5102,7 +5102,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Chlorophyll a, total_third_quartile\"",
+            "name": "Chlorophyll a, total_third_quartile",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -5113,7 +5113,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_max\"",
+            "name": "Chlorophyll a, total_max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -5338,7 +5338,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, nominal\"",
+            "name": "Depth, nominal",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -5349,7 +5349,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, top/min\"",
+            "name": "Depth, top/min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -5360,7 +5360,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Depth, bottom/max\"",
+            "name": "Depth, bottom/max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -5371,7 +5371,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Size fraction, lower threshold\"",
+            "name": "Size fraction, lower threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
@@ -5382,7 +5382,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Size fraction, upper threshold\"",
+            "name": "Size fraction, upper threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
@@ -6805,7 +6805,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, nominal\"",
+            "name": "Depth, nominal",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -6816,7 +6816,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, top/min\"",
+            "name": "Depth, top/min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -6827,7 +6827,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Depth, bottom/max\"",
+            "name": "Depth, bottom/max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -6838,7 +6838,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Size fraction, lower threshold\"",
+            "name": "Size fraction, lower threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
@@ -6849,7 +6849,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Size fraction, upper threshold\"",
+            "name": "Size fraction, upper threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
@@ -8147,7 +8147,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_min\"",
+            "name": "Chlorophyll a, total_min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -8158,7 +8158,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_first_quartile\"",
+            "name": "Chlorophyll a, total_first_quartile",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -8169,7 +8169,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_median\"",
+            "name": "Chlorophyll a, total_median",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -8180,7 +8180,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Chlorophyll a, total_third_quartile\"",
+            "name": "Chlorophyll a, total_third_quartile",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -8191,7 +8191,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_max\"",
+            "name": "Chlorophyll a, total_max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -8416,7 +8416,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, nominal\"",
+            "name": "Depth, nominal",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -8427,7 +8427,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, top/min\"",
+            "name": "Depth, top/min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -8438,7 +8438,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Depth, bottom/max\"",
+            "name": "Depth, bottom/max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -8449,7 +8449,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Size fraction, lower threshold\"",
+            "name": "Size fraction, lower threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
@@ -8460,7 +8460,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Size fraction, upper threshold\"",
+            "name": "Size fraction, upper threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
@@ -10246,7 +10246,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, nominal\"",
+            "name": "Depth, nominal",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -10257,7 +10257,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, top/min\"",
+            "name": "Depth, top/min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -10268,7 +10268,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Depth, bottom/max\"",
+            "name": "Depth, bottom/max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -10279,7 +10279,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Size fraction, lower threshold\"",
+            "name": "Size fraction, lower threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
@@ -10290,7 +10290,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Size fraction, upper threshold\"",
+            "name": "Size fraction, upper threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
@@ -11588,7 +11588,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_min\"",
+            "name": "Chlorophyll a, total_min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -11599,7 +11599,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_first_quartile\"",
+            "name": "Chlorophyll a, total_first_quartile",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -11610,7 +11610,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_median\"",
+            "name": "Chlorophyll a, total_median",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -11621,7 +11621,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Chlorophyll a, total_third_quartile\"",
+            "name": "Chlorophyll a, total_third_quartile",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -11632,7 +11632,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_max\"",
+            "name": "Chlorophyll a, total_max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -11857,7 +11857,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, nominal\"",
+            "name": "Depth, nominal",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -11868,7 +11868,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, top/min\"",
+            "name": "Depth, top/min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -11879,7 +11879,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Depth, bottom/max\"",
+            "name": "Depth, bottom/max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -11890,7 +11890,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Size fraction, lower threshold\"",
+            "name": "Size fraction, lower threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
@@ -11901,7 +11901,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Size fraction, upper threshold\"",
+            "name": "Size fraction, upper threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
@@ -13078,7 +13078,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, nominal\"",
+            "name": "Depth, nominal",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -13089,7 +13089,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, top/min\"",
+            "name": "Depth, top/min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -13100,7 +13100,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Depth, bottom/max\"",
+            "name": "Depth, bottom/max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -13111,7 +13111,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Size fraction, lower threshold\"",
+            "name": "Size fraction, lower threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
@@ -13122,7 +13122,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Size fraction, upper threshold\"",
+            "name": "Size fraction, upper threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
@@ -14420,7 +14420,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_min\"",
+            "name": "Chlorophyll a, total_min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -14431,7 +14431,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_first_quartile\"",
+            "name": "Chlorophyll a, total_first_quartile",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -14442,7 +14442,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_median\"",
+            "name": "Chlorophyll a, total_median",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -14453,7 +14453,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Chlorophyll a, total_third_quartile\"",
+            "name": "Chlorophyll a, total_third_quartile",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -14464,7 +14464,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_max\"",
+            "name": "Chlorophyll a, total_max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -14689,7 +14689,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, nominal\"",
+            "name": "Depth, nominal",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -14700,7 +14700,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, top/min\"",
+            "name": "Depth, top/min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -14711,7 +14711,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Depth, bottom/max\"",
+            "name": "Depth, bottom/max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -14722,7 +14722,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Size fraction, lower threshold\"",
+            "name": "Size fraction, lower threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
@@ -14733,7 +14733,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Size fraction, upper threshold\"",
+            "name": "Size fraction, upper threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
@@ -16519,7 +16519,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, nominal\"",
+            "name": "Depth, nominal",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -16530,7 +16530,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, top/min\"",
+            "name": "Depth, top/min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -16541,7 +16541,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Depth, bottom/max\"",
+            "name": "Depth, bottom/max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -16552,7 +16552,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Size fraction, lower threshold\"",
+            "name": "Size fraction, lower threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
@@ -16563,7 +16563,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Size fraction, upper threshold\"",
+            "name": "Size fraction, upper threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
@@ -17861,7 +17861,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_min\"",
+            "name": "Chlorophyll a, total_min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -17872,7 +17872,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_first_quartile\"",
+            "name": "Chlorophyll a, total_first_quartile",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -17883,7 +17883,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_median\"",
+            "name": "Chlorophyll a, total_median",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -17894,7 +17894,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Chlorophyll a, total_third_quartile\"",
+            "name": "Chlorophyll a, total_third_quartile",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -17905,7 +17905,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_max\"",
+            "name": "Chlorophyll a, total_max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -18130,7 +18130,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, nominal\"",
+            "name": "Depth, nominal",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -18141,7 +18141,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, top/min\"",
+            "name": "Depth, top/min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -18152,7 +18152,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Depth, bottom/max\"",
+            "name": "Depth, bottom/max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -18163,7 +18163,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Size fraction, lower threshold\"",
+            "name": "Size fraction, lower threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
@@ -18174,7 +18174,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Size fraction, upper threshold\"",
+            "name": "Size fraction, upper threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
@@ -19960,7 +19960,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, nominal\"",
+            "name": "Depth, nominal",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -19971,7 +19971,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, top/min\"",
+            "name": "Depth, top/min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -19982,7 +19982,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Depth, bottom/max\"",
+            "name": "Depth, bottom/max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -19993,7 +19993,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Size fraction, lower threshold\"",
+            "name": "Size fraction, lower threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
@@ -20004,7 +20004,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Size fraction, upper threshold\"",
+            "name": "Size fraction, upper threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
@@ -21302,7 +21302,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_min\"",
+            "name": "Chlorophyll a, total_min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -21313,7 +21313,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_first_quartile\"",
+            "name": "Chlorophyll a, total_first_quartile",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -21324,7 +21324,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_median\"",
+            "name": "Chlorophyll a, total_median",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -21335,7 +21335,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Chlorophyll a, total_third_quartile\"",
+            "name": "Chlorophyll a, total_third_quartile",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -21346,7 +21346,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_max\"",
+            "name": "Chlorophyll a, total_max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -21571,7 +21571,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, nominal\"",
+            "name": "Depth, nominal",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -21582,7 +21582,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, top/min\"",
+            "name": "Depth, top/min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -21593,7 +21593,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Depth, bottom/max\"",
+            "name": "Depth, bottom/max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -21604,7 +21604,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Size fraction, lower threshold\"",
+            "name": "Size fraction, lower threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
@@ -21615,7 +21615,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Size fraction, upper threshold\"",
+            "name": "Size fraction, upper threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
@@ -22792,7 +22792,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, nominal\"",
+            "name": "Depth, nominal",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -22803,7 +22803,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, top/min\"",
+            "name": "Depth, top/min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -22814,7 +22814,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Depth, bottom/max\"",
+            "name": "Depth, bottom/max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -22825,7 +22825,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Size fraction, lower threshold\"",
+            "name": "Size fraction, lower threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
@@ -22836,7 +22836,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Size fraction, upper threshold\"",
+            "name": "Size fraction, upper threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
@@ -24134,7 +24134,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_min\"",
+            "name": "Chlorophyll a, total_min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -24145,7 +24145,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_first_quartile\"",
+            "name": "Chlorophyll a, total_first_quartile",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -24156,7 +24156,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_median\"",
+            "name": "Chlorophyll a, total_median",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -24167,7 +24167,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Chlorophyll a, total_third_quartile\"",
+            "name": "Chlorophyll a, total_third_quartile",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -24178,7 +24178,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_max\"",
+            "name": "Chlorophyll a, total_max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -24403,7 +24403,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, nominal\"",
+            "name": "Depth, nominal",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -24414,7 +24414,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, top/min\"",
+            "name": "Depth, top/min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -24425,7 +24425,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Depth, bottom/max\"",
+            "name": "Depth, bottom/max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -24436,7 +24436,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Size fraction, lower threshold\"",
+            "name": "Size fraction, lower threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
@@ -24447,7 +24447,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Size fraction, upper threshold\"",
+            "name": "Size fraction, upper threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
@@ -25624,7 +25624,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, nominal\"",
+            "name": "Depth, nominal",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -25635,7 +25635,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, top/min\"",
+            "name": "Depth, top/min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -25646,7 +25646,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Depth, bottom/max\"",
+            "name": "Depth, bottom/max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -25657,7 +25657,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Size fraction, lower threshold\"",
+            "name": "Size fraction, lower threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
@@ -25668,7 +25668,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Size fraction, upper threshold\"",
+            "name": "Size fraction, upper threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
@@ -26966,7 +26966,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_min\"",
+            "name": "Chlorophyll a, total_min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -26977,7 +26977,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_first_quartile\"",
+            "name": "Chlorophyll a, total_first_quartile",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -26988,7 +26988,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_median\"",
+            "name": "Chlorophyll a, total_median",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -26999,7 +26999,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Chlorophyll a, total_third_quartile\"",
+            "name": "Chlorophyll a, total_third_quartile",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -27010,7 +27010,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_max\"",
+            "name": "Chlorophyll a, total_max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -27235,7 +27235,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, nominal\"",
+            "name": "Depth, nominal",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -27246,7 +27246,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, top/min\"",
+            "name": "Depth, top/min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -27257,7 +27257,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Depth, bottom/max\"",
+            "name": "Depth, bottom/max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -27268,7 +27268,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Size fraction, lower threshold\"",
+            "name": "Size fraction, lower threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
@@ -27279,7 +27279,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Size fraction, upper threshold\"",
+            "name": "Size fraction, upper threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
@@ -28456,7 +28456,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, nominal\"",
+            "name": "Depth, nominal",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -28467,7 +28467,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, top/min\"",
+            "name": "Depth, top/min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -28478,7 +28478,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Depth, bottom/max\"",
+            "name": "Depth, bottom/max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -28489,7 +28489,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Size fraction, lower threshold\"",
+            "name": "Size fraction, lower threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
@@ -28500,7 +28500,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Size fraction, upper threshold\"",
+            "name": "Size fraction, upper threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
@@ -29798,7 +29798,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_min\"",
+            "name": "Chlorophyll a, total_min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -29809,7 +29809,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_first_quartile\"",
+            "name": "Chlorophyll a, total_first_quartile",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -29820,7 +29820,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_median\"",
+            "name": "Chlorophyll a, total_median",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -29831,7 +29831,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Chlorophyll a, total_third_quartile\"",
+            "name": "Chlorophyll a, total_third_quartile",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -29842,7 +29842,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_max\"",
+            "name": "Chlorophyll a, total_max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -30067,7 +30067,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, nominal\"",
+            "name": "Depth, nominal",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -30078,7 +30078,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, top/min\"",
+            "name": "Depth, top/min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -30089,7 +30089,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Depth, bottom/max\"",
+            "name": "Depth, bottom/max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -30100,7 +30100,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Size fraction, lower threshold\"",
+            "name": "Size fraction, lower threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
@@ -30111,7 +30111,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Size fraction, upper threshold\"",
+            "name": "Size fraction, upper threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
@@ -31288,7 +31288,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, nominal\"",
+            "name": "Depth, nominal",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -31299,7 +31299,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, top/min\"",
+            "name": "Depth, top/min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -31310,7 +31310,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Depth, bottom/max\"",
+            "name": "Depth, bottom/max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -31321,7 +31321,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Size fraction, lower threshold\"",
+            "name": "Size fraction, lower threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
@@ -31332,7 +31332,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Size fraction, upper threshold\"",
+            "name": "Size fraction, upper threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
@@ -32630,7 +32630,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_min\"",
+            "name": "Chlorophyll a, total_min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -32641,7 +32641,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_first_quartile\"",
+            "name": "Chlorophyll a, total_first_quartile",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -32652,7 +32652,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_median\"",
+            "name": "Chlorophyll a, total_median",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -32663,7 +32663,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Chlorophyll a, total_third_quartile\"",
+            "name": "Chlorophyll a, total_third_quartile",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -32674,7 +32674,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Chlorophyll a, total_max\"",
+            "name": "Chlorophyll a, total_max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
@@ -32899,7 +32899,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, nominal\"",
+            "name": "Depth, nominal",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -32910,7 +32910,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Depth, top/min\"",
+            "name": "Depth, top/min",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -32921,7 +32921,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Depth, bottom/max\"",
+            "name": "Depth, bottom/max",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -32932,7 +32932,7 @@
             "pm:searchable": false
           },
           {
-            "name": "\"Size fraction, lower threshold\"",
+            "name": "Size fraction, lower threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
@@ -32943,7 +32943,7 @@
             "pm:searchable": true
           },
           {
-            "name": "\"Size fraction, upper threshold\"",
+            "name": "Size fraction, upper threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
