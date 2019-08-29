@@ -33,8 +33,7 @@ Sample Collection Device									https://www.ncbi.nlm.nih.gov/bioproject/214077
 Sample Name									https://www.ncbi.nlm.nih.gov/bioproject/214077	
 Sampling Campaign									https://www.ncbi.nlm.nih.gov/bioproject/214077	
 Sampling Platform									https://www.ncbi.nlm.nih.gov/bioproject/214077	
-Sampling Station									https://www.ncbi.nlm.nih.gov/bioproject/214077	
-Size Fraction Lower Threshold					µm				https://www.ncbi.nlm.nih.gov/bioproject/214077	
+Sampling Station									https://www.ncbi.nlm.nih.gov/bioproject/214077		
 Size Fraction Upper Threshold					µm				https://www.ncbi.nlm.nih.gov/bioproject/214077	
 Temperature					¡C				https://www.ncbi.nlm.nih.gov/bioproject/214077	
 Title									https://www.ncbi.nlm.nih.gov/bioproject/214077	
