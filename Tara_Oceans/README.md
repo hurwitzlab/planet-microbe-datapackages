@@ -43,6 +43,24 @@ https://www.ncbi.nlm.nih.gov/bioproject/253560
 - APX : remove "size fraction lower threshold"
 - ARG : remove "size fraction upper threshold" if there is none ('>')
 - APY/ARG : packages with samples with range of depth (pooled samples) were divided into a min_Depth and max_Depth attributes
+- replaced latitude/longitude-end values of 99999 with latitude/longitude-start values for the following samples:
+SAMEA2730749
+SAMEA2620355
+SAMEA2620354
+SAMEA2657093
+SAMEA2657107
+SAMEA2619371
+SAMEA2620360
+SAMEA2620339
+SAMEA2730747
+SAMEA2622646
+SAMEA2622641
+SAMEA2622637
+SAMEA2622632
+SAMEA2622628
+SAMEA2622624
+SAMEA2622619
+SAMEA2622614  
 
 ### issues left to solve all packages
 - sensors reporting 99999 when below/not detected
