@@ -848,7 +848,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "SampleID_SRA",
@@ -2459,7 +2459,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "SampleID_SRA",
@@ -3054,7 +3054,7 @@
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "Chlorophyll Sensor",
@@ -3680,7 +3680,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "SampleID_SRA",
@@ -5291,7 +5291,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "SampleID_SRA",
@@ -5886,7 +5886,7 @@
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "Chlorophyll Sensor",
@@ -6758,7 +6758,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "SampleID_SRA",
@@ -8358,7 +8358,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "SampleID_SRA",
@@ -8942,7 +8942,7 @@
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "Chlorophyll Sensor",
@@ -9814,7 +9814,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "SampleID_SRA",
@@ -11425,7 +11425,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "SampleID_SRA",
@@ -12020,7 +12020,7 @@
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "Chlorophyll Sensor",
@@ -12657,7 +12657,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "SampleID_SRA",
@@ -14268,7 +14268,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "SampleID_SRA",
@@ -14863,7 +14863,7 @@
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "Chlorophyll Sensor",
@@ -16098,7 +16098,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "SampleID_SRA",
@@ -17709,7 +17709,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "SampleID_SRA",
@@ -18304,7 +18304,7 @@
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "Chlorophyll Sensor",
@@ -19539,7 +19539,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "SampleID_SRA",
@@ -21150,7 +21150,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "SampleID_SRA",
@@ -21745,7 +21745,7 @@
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "Chlorophyll Sensor",
@@ -22382,7 +22382,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "SampleID_SRA",
@@ -23993,7 +23993,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "SampleID_SRA",
@@ -24588,7 +24588,7 @@
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "Chlorophyll Sensor",
@@ -25214,7 +25214,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "SampleID_SRA",
@@ -26825,7 +26825,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "SampleID_SRA",
@@ -27420,7 +27420,7 @@
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "Chlorophyll Sensor",
@@ -28046,7 +28046,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "SampleID_SRA",
@@ -29657,7 +29657,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "SampleID_SRA",
@@ -30252,7 +30252,7 @@
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "Chlorophyll Sensor",
@@ -30878,7 +30878,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "SampleID_SRA",
@@ -32489,7 +32489,7 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "SampleID_SRA",
@@ -33084,7 +33084,7 @@
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:searchable": true
           },
           {
             "name": "Chlorophyll Sensor",
