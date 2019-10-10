@@ -37,6 +37,7 @@ https://www.ncbi.nlm.nih.gov/bioproject/253560
 - remove the attributes "citation", "further details", "SRA", "sample status"
 - units not available in NCBI, the units were retrieved from EBI
 - NCBI description text contained mis-encoded characters corrected to "μ"
+- 99999 values were replaced by "nd"
 
 ### minor corrections in some packages
 - AHX : samples without sampling time/date nor lat/long were removed
@@ -61,6 +62,7 @@ SAMEA2622628
 SAMEA2622624
 SAMEA2622619
 SAMEA2622614  
+- AHX, ARD_2, ARG : for the Sample SAMEA2657086, the longitude-end was corrected from -95.9893 to -59.9893
 
 ### issues left to solve all packages
 - sensors reporting 99999 when below/not detected
