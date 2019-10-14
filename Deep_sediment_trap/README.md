@@ -8,3 +8,6 @@ Only 'omics samples were taken into account. MAGs and pooled samples were remove
   - "Lat/long" field was separated in a "lat" and a "long" parameter
   - units in the "depth" attribute was removed and added as unit purl
   - "collection date" field was removed. A "start collection date" and a "end collection date" was obtained from personal conversation with the authors. 
+  - A "sample description" field was added to make clear the sediment trap origin of these samples. 
+
+Additional information about the sampling protocol can be found at https://doi.org/10.1073/pnas.1903080116
