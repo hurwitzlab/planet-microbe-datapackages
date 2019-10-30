@@ -38,6 +38,7 @@ Collects information from the supplemental material of the published paper: http
 ## sampling_event
 This table was generated using the cast information from BCO-DMO. Briefly, unique sampling event where derived from the cruise ID, the cast and station number and the ISO-DateTime.
 Sampling event ID were generated as follow: "expeditionName_cruiseID_stationCast"
+No sampling event could be inferred for the sample SAMMN11874827
 
 
 
