@@ -28,9 +28,16 @@ Minor corrections were performed on the BCO-DMO dataset:
 The script is available in scripts/map_ctd_metagenomes.py
 
 ### The Niskin record was retrieved for each samples using the following steps :
-	- convert bottleID from the sample_NCBI dataset into the rosette number (two last digits of the number)
-	- load BCO-DMO Niskin dataset
-	- Retrieve Niskin record with matching cruise, cast, station and rosette number.
+- convert bottleID from the sample_NCBI dataset into the rosette number (two last digits of the number)
+- load BCO-DMO Niskin dataset
+- Retrieve Niskin record with matching cruise, cast, station and rosette number.
+
+## Samples_paper
+Collects information from the supplemental material of the published paper: https://doi.org/10.1038/s41564-017-0008-3
+
+## sampling_event
+This table was generated using the cast information from BCO-DMO. Briefly, unique sampling event where derived from the cruise ID, the cast and station number and the ISO-DateTime.
+Sampling event ID were generated as follow: "expeditionName_cruiseID_stationCast"
 
 
 
