@@ -1,0 +1,13 @@
+parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
+campaign_expedition	project investigation identifier	http://purl.obolibrary.org/obo/PMO_00000007								string	
+expedition_URL	project url	http://purl.obolibrary.org/obo/pmo.owl/PMO_00000133								string	
+campaign_name	sampling expedition identifier	http://purl.obolibrary.org/obo/PMO_00000060								string	
+WOCE_ID										string	
+R2R_cruise_DOI	Rolling Deck to Repository url	http://purl.obolibrary.org/obo/pmo.owl/PMO_00000135								string	
+start_date	sampling expedition time measurement datum start	http://purl.obolibrary.org/obo/pmo.owl/PMO_00000137								date	
+end_date	sampling expedition time measurement datum stop	http://purl.obolibrary.org/obo/pmo.owl/PMO_00000138								date	
+start_location	sampling expedition start location	http://purl.obolibrary.org/obo/pmo.owl/PMO_00000144								string	
+end_location	sampling expedition end location	http://purl.obolibrary.org/obo/pmo.owl/PMO_00000145								string	
+CCHDO url	URL	http://purl.obolibrary.org/obo/PMO_00000047								string	
+BCO-DMO summary	URL	http://purl.obolibrary.org/obo/PMO_00000047								string	
+BCO-DMO deployment	URL	http://purl.obolibrary.org/obo/PMO_00000047								string	

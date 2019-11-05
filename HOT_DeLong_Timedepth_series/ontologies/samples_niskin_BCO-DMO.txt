@@ -1,0 +1,44 @@
+parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type
+sampling_event_ID									https://www.bco-dmo.org/dataset/3773	
+ sample									https://www.bco-dmo.org/dataset/3773	
+cruise_name									https://www.bco-dmo.org/dataset/3773	
+ EXPOCODE									https://www.bco-dmo.org/dataset/3773	
+ Ship									https://www.bco-dmo.org/dataset/3773	
+ STNNBR									https://www.bco-dmo.org/dataset/3773	
+ CASTNO									https://www.bco-dmo.org/dataset/3773	
+ section									https://www.bco-dmo.org/dataset/3773	
+ start ISO_DateTime									https://www.bco-dmo.org/dataset/3773	
+ Date									https://www.bco-dmo.org/dataset/3773	
+ Year									https://www.bco-dmo.org/dataset/3773	
+ Month									https://www.bco-dmo.org/dataset/3773	
+ Day									https://www.bco-dmo.org/dataset/3773	
+ timeutc									https://www.bco-dmo.org/dataset/3773	
+ lon									https://www.bco-dmo.org/dataset/3773	
+ lat									https://www.bco-dmo.org/dataset/3773	
+ nav_code									https://www.bco-dmo.org/dataset/3773	
+ depth_max									https://www.bco-dmo.org/dataset/3773	
+ pres_max									https://www.bco-dmo.org/dataset/3773	
+ depth_hgt									https://www.bco-dmo.org/dataset/3773	
+ parameters									https://www.bco-dmo.org/dataset/3773	
+ comments									https://www.bco-dmo.org/dataset/3773	
+ HOT_summary_file_name									https://www.bco-dmo.org/dataset/3773	
+ ROSETTE									https://www.bco-dmo.org/dataset/3773	
+ CTDPRS									https://www.bco-dmo.org/dataset/3773	
+ CTDOXY									https://www.bco-dmo.org/dataset/3773	
+ CTDSAL									https://www.bco-dmo.org/dataset/3773	
+ CTDTMP									https://www.bco-dmo.org/dataset/3773	
+ REPLICT									https://www.bco-dmo.org/dataset/3773	
+ SALNITY									https://www.bco-dmo.org/dataset/3773	
+ SIGMA									https://www.bco-dmo.org/dataset/3773	
+ THETA									https://www.bco-dmo.org/dataset/3773	
+ num_bottles									https://www.bco-dmo.org/dataset/3773	
+ QUALT1									https://www.bco-dmo.org/dataset/3773	
+ QUALT2									https://www.bco-dmo.org/dataset/3773	
+ QUALT3									https://www.bco-dmo.org/dataset/3773	
+ QUALT4									https://www.bco-dmo.org/dataset/3773	
+ QUALT5									https://www.bco-dmo.org/dataset/3773	
+ QUALT6									https://www.bco-dmo.org/dataset/3773	
+ QUALT7									https://www.bco-dmo.org/dataset/3773	
+ QUALT8									https://www.bco-dmo.org/dataset/3773	
+ QUALT9									https://www.bco-dmo.org/dataset/3773	
+ QUAL10									https://www.bco-dmo.org/dataset/3773	

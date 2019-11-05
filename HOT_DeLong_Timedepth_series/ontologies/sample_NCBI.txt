@@ -1,0 +1,24 @@
+parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type
+sampling_event_ID									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+BioSample									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+SRA									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+Sample name									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+collection_date									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+depth									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+env_biome									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+env_feature									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+env_material									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+geo_loc_name									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+ph									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+temp									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+Date-Time									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+Lat									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+Long									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+HOT cruise #									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+Cruise name									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+Station									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+Cast									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+BottleID									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+filter_max									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+filter_min									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+filter_type									https://www.ncbi.nlm.nih.gov/bioproject/352737	

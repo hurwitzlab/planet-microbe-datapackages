@@ -1,0 +1,34 @@
+parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type
+sampling_event_ID									https://www.bco-dmo.org/dataset/3937	
+ sample									https://www.bco-dmo.org/dataset/3937	
+cruise_name									https://www.bco-dmo.org/dataset/3937	
+ station									https://www.bco-dmo.org/dataset/3937	
+ cast									https://www.bco-dmo.org/dataset/3937	
+ start ISO_DateTime									https://www.bco-dmo.org/dataset/3937	
+ Year									https://www.bco-dmo.org/dataset/3937	
+ Month									https://www.bco-dmo.org/dataset/3937	
+ Day									https://www.bco-dmo.org/dataset/3937	
+ timeutc									https://www.bco-dmo.org/dataset/3937	
+ lon									https://www.bco-dmo.org/dataset/3937	
+ lat									https://www.bco-dmo.org/dataset/3937	
+ depth_max									https://www.bco-dmo.org/dataset/3937	
+ pres_max									https://www.bco-dmo.org/dataset/3937	
+ Date									https://www.bco-dmo.org/dataset/3937	
+ HOT_summary_file_name									https://www.bco-dmo.org/dataset/3937	
+ parameters									https://www.bco-dmo.org/dataset/3937	
+ num_bottles									https://www.bco-dmo.org/dataset/3937	
+ section									https://www.bco-dmo.org/dataset/3937	
+ nav_code									https://www.bco-dmo.org/dataset/3937	
+ depth_hgt									https://www.bco-dmo.org/dataset/3937	
+ EXPOCODE									https://www.bco-dmo.org/dataset/3937	
+ Ship									https://www.bco-dmo.org/dataset/3937	
+ comments									https://www.bco-dmo.org/dataset/3937	
+ CTDPRS									https://www.bco-dmo.org/dataset/3937	
+ CTDTMP									https://www.bco-dmo.org/dataset/3937	
+ CTDSAL									https://www.bco-dmo.org/dataset/3937	
+ CTDOXY									https://www.bco-dmo.org/dataset/3937	
+ CHLPIG									https://www.bco-dmo.org/dataset/3937	
+ NUMBER									https://www.bco-dmo.org/dataset/3937	
+ NITRATE									https://www.bco-dmo.org/dataset/3937	
+ QUALT1									https://www.bco-dmo.org/dataset/3937	
+ inferred_depth									https://www.bco-dmo.org/dataset/3937	
