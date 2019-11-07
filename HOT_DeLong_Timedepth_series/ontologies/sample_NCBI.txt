@@ -5,9 +5,12 @@ SRA									https://www.ncbi.nlm.nih.gov/bioproject/352737
 Sample name									https://www.ncbi.nlm.nih.gov/bioproject/352737	
 collection_date									https://www.ncbi.nlm.nih.gov/bioproject/352737	
 depth									https://www.ncbi.nlm.nih.gov/bioproject/352737	
-env_biome									https://www.ncbi.nlm.nih.gov/bioproject/352737	
-env_feature									https://www.ncbi.nlm.nih.gov/bioproject/352737	
-env_material									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+env_biome_label									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+env_biome_purl									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+env_feature_label									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+env_feature_purl									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+env_material_label									https://www.ncbi.nlm.nih.gov/bioproject/352737	
+env_material_purl									https://www.ncbi.nlm.nih.gov/bioproject/352737	
 geo_loc_name									https://www.ncbi.nlm.nih.gov/bioproject/352737	
 ph									https://www.ncbi.nlm.nih.gov/bioproject/352737	
 temp									https://www.ncbi.nlm.nih.gov/bioproject/352737	
