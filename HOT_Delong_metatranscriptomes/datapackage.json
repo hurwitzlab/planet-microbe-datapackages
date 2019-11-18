@@ -1853,12 +1853,12 @@
             "name": "Sample name",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001900",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "HOT cruise",

@@ -3,7 +3,7 @@ Sample_event_ID	centrally registered sampling event identifier	http://purl.oboli
 Archive_ID	specimen identifier assigned by sequencing facility	http://purl.obolibrary.org/obo/OBI_0001901	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	
 cruise_expedition		http://purl.obolibrary.org/obo/PMO_00000007	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	
 cruise_name	sampling expedition identifier	http://purl.obolibrary.org/obo/PMO_00000060	FALSE						"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?"	string	
-Sample_name		http://purl.obolibrary.org/obo/OBI_0001900	FALSE						"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?"	string	
+Sample_name									"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?"	string	
 EXPOCODE											
 Ship	sampling expedition project investigation and leg identifier	http://purl.obolibrary.org/obo/PMO_00000065	FALSE						"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?"	string	
 STNNBR											
