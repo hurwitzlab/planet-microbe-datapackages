@@ -1542,7 +1542,7 @@
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "bottle_id",
