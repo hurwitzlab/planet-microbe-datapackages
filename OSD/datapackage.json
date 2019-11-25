@@ -422,34 +422,34 @@
             "name": "Biome",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00000428",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "https://www.ebi.ac.uk/ols/ontologies/envo",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
           },
           {
             "name": "Env feature",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "https://www.ebi.ac.uk/ols/ontologies/envo",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
           },
           {
             "name": "Material",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00010483",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "https://www.ebi.ac.uk/ols/ontologies/envo",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
           },
           {
             "name": "Protocol Label",
@@ -779,6 +779,39 @@
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf",
+            "pm:searchable": true
+          },
+          {
+            "name": "purl_biome",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/ENVO_00000428",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
+            "name": "purl_feature",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
+            "name": "purl_material",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/ENVO_00010483",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
           }
         ],

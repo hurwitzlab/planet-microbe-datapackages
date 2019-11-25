@@ -33,9 +33,9 @@ Local time	specimen collection time measurement datum in localized time zone	htt
 "Locality, site"	site	http://purl.obolibrary.org/obo/BFO_0000029	FALSE					http://www.marineregions.org/sources.php#iho	https://doi.pangaea.de/10.1594/PANGAEA.854419	string																																																								
 "Locality, region"	International Hydrographic Organization Sea Area	http://purl.obolibrary.org/obo/PMO_00000092	TRUE					http://www.marineregions.org/sources.php#iho	https://doi.pangaea.de/10.1594/PANGAEA.854419	string																																																								
 URL ref	International Hydrographic Organization Sea Area	http://purl.obolibrary.org/obo/PMO_00000092	FALSE					http://www.marineregions.org/sources.php#iho	https://doi.pangaea.de/10.1594/PANGAEA.854419	string																																																								
-Biome	biome	http://purl.obolibrary.org/obo/ENVO_00000428	TRUE					https://www.ebi.ac.uk/ols/ontologies/envo	https://doi.pangaea.de/10.1594/PANGAEA.854419	string																																																								
-Env feature	environmental feature	http://purl.obolibrary.org/obo/ENVO_00002297	TRUE					https://www.ebi.ac.uk/ols/ontologies/envo	https://doi.pangaea.de/10.1594/PANGAEA.854419	string																																																								
-Material	environmental material	http://purl.obolibrary.org/obo/ENVO_00010483	TRUE					https://www.ebi.ac.uk/ols/ontologies/envo	https://doi.pangaea.de/10.1594/PANGAEA.854419	string																																																								
+Biome			FALSE					https://www.ebi.ac.uk/ols/ontologies/envo	https://doi.pangaea.de/10.1594/PANGAEA.854419	string																																																								
+Env feature			FALSE					https://www.ebi.ac.uk/ols/ontologies/envo	https://doi.pangaea.de/10.1594/PANGAEA.854419	string																																																								
+Material			FALSE					https://www.ebi.ac.uk/ols/ontologies/envo	https://doi.pangaea.de/10.1594/PANGAEA.854419	string																																																								
 Protocol Label	protocol	http://purl.obolibrary.org/obo/OBI_0000272	FALSE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	string																																																								
 Quantity	water sample volume	http://purl.obolibrary.org/obo/PMO_00000025	TRUE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	string																																																								
 Container	specimen collection device	http://purl.obolibrary.org/obo/PMO_00000074	FALSE					https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	string																																																								
@@ -66,9 +66,9 @@ Si(OH)4	concentration of silicic acid in water	http://purl.obolibrary.org/obo/EN
 Turbidity	turbidity of water	http://purl.obolibrary.org/obo/PMO_00000121	TRUE	formazin turbidity unit	http://purl.obolibrary.org/obo/PMO_00000131			https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number																																																								
 Fluorometer	fluorescence of water	http://purl.obolibrary.org/obo/ENVO_3100032	TRUE	volt	http://purl.obolibrary.org/obo/UO_0000218			https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number																																																								
 Chl a	concentration of chlorophyll a in water	http://purl.obolibrary.org/obo/ENVO_3100008	TRUE	miligram per cubic meter	http://purl.obolibrary.org/obo/PMO_00000132			https://www.microb3.eu/sites/default/files/deliverables/MB3_D4_3_PU.pdf	https://doi.pangaea.de/10.1594/PANGAEA.854419	number																																																								
-																																																																		
-																																																																		
-																																																																		
+purl_biome	biome	http://purl.obolibrary.org/obo/ENVO_00000428	TRUE							string																																																								
+purl_feature	environmental_feature	http://purl.obolibrary.org/obo/ENVO_00002297	TRUE							string																																																								
+purl_material	environmental_material	http://purl.obolibrary.org/obo/ENVO_00010483	TRUE							string																																																								
 																																																																		
 																																																																		
 																																																																		
