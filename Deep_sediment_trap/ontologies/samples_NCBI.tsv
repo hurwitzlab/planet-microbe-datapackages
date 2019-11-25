@@ -5,10 +5,13 @@ Sample name			FALSE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA482655	str
 start collection time									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA482655		
 end collection time									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA482655		
 depth	depth of water	http://purl.obolibrary.org/obo/ENVO_3100031	TRUE	meter	http://purl.obolibrary.org/obo/UO_0000008				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA482655	number	
-environment biome	biome	http://purl.obolibrary.org/obo/ENVO_00000428	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA482655	string	
-environment feature	environmental feature	http://purl.obolibrary.org/obo/ENVO_00002297	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA482655	string	
-environment material									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA482655		
+environment biome			FALSE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA482655	string	
+environment feature			FALSE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA482655	string	
+environment material			FALSE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA482655		
 geo_loc_name	site	http://purl.obolibrary.org/obo/BFO_0000029	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA482655	string	
 lat	latitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001620	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA482655	number	
 lon	longitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001621	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA482655	number	
 sample_description	comment on investigation	http://purl.obolibrary.org/obo/PMO_00000075	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA482655	string	
+purl_biome	biome	http://purl.obolibrary.org/obo/ENVO_00000428	TRUE								
+purl_feature	environmental feature	http://purl.obolibrary.org/obo/ENVO_00002297	TRUE								
+purl_material	environmental material	http://purl.obolibrary.org/obo/ENVO_00010483	TRUE								

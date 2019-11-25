@@ -14,9 +14,9 @@ chlorophyll	concentration of chlorophyll in liquid water	http://purl.obolibrary.
 collection_dateTime	specimen collection time measurement datum	http://purl.obolibrary.org/obo/OBI_0001619	TRUE	time unit	http://purl.obolibrary.org/obo/UO_0000003				https://www.ncbi.nlm.nih.gov/bioproject/293636	datetime	%Y-%m-%dT%H:%M:%S
 depth	depth of water	http://purl.obolibrary.org/obo/ENVO_3100031	TRUE	meter	http://purl.obolibrary.org/obo/UO_0000008				https://www.ncbi.nlm.nih.gov/bioproject/293636	number	
 diss_oxygen	concentration of oxygen in liquid water	http://purl.obolibrary.org/obo/ENVO_09200021	TRUE	milligram per liter	http://purl.obolibrary.org/obo/UO_0000273				https://www.ncbi.nlm.nih.gov/bioproject/293636	number	
-env_biome	biome	http://purl.obolibrary.org/obo/ENVO_00000428	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/293636	string	
-env_feature	environmental feature	http://purl.obolibrary.org/obo/ENVO_00002297	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/293636	string	
-env_package			FALSE						https://www.ncbi.nlm.nih.gov/bioproject/293636	string	
+env_biome			FALSE						https://www.ncbi.nlm.nih.gov/bioproject/293636	string	
+env_feature			FALSE						https://www.ncbi.nlm.nih.gov/bioproject/293636	string	
+env_material			FALSE						https://www.ncbi.nlm.nih.gov/bioproject/293636	string	
 geo_loc_name	site	http://purl.obolibrary.org/obo/BFO_0000029	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/293636	string	
 lat	latitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001620	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.ncbi.nlm.nih.gov/bioproject/293636	number	
 lon	longitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001621	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.ncbi.nlm.nih.gov/bioproject/293636	number	
@@ -29,3 +29,7 @@ silicate	concentration of silicate(4-) in liquid water	http://purl.obolibrary.or
 temp	temperature of water	http://purl.obolibrary.org/obo/ENVO_09200014	TRUE	degree Celsius	http://purl.obolibrary.org/obo/UO_0000027				https://www.ncbi.nlm.nih.gov/bioproject/293636	number	
 total_depth_water_col			FALSE	meter	http://purl.obolibrary.org/obo/UO_0000008				https://www.ncbi.nlm.nih.gov/bioproject/293636	number	
 urea	concentration of urea in liquid water	http://purl.obolibrary.org/obo/ENVO_3200059	TRUE	micromole per litre	http://purl.obolibrary.org/obo/UO_0010003				https://www.ncbi.nlm.nih.gov/bioproject/293636	number	
+purl_biome	biome	http://purl.obolibrary.org/obo/ENVO_00000428	TRUE							string	
+purl_feature	environmental feature	http://purl.obolibrary.org/obo/ENVO_00002297	TRUE							string	
+purl_feature2	environmental feature	http://purl.obolibrary.org/obo/ENVO_00002297	TRUE							string	
+purl_material	environmental material	http://purl.obolibrary.org/obo/ENVO_00010483	TRUE							string	
