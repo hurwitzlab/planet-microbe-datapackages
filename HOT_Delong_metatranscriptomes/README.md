@@ -9,6 +9,8 @@ Minor corrections were done in order to help the use of the metadata :
 
 -the longitude values for the first four samples were changed from (positive) 158 to -158
 
+-the fields env_biome, env_feature, env_material and their associated purls where created
+
 
 ## samples_paper
 Papers reporting the results obtained for these samples were parsed for additional information. Importantly, filtration cutoff sizes were retrieved from the method of these papers.
