@@ -8,6 +8,8 @@ Minor corrections were done in order to help the use of the metadata :
   - The field "isolation source" contained informations about the "sample_name", the "cruise_name" and "depth_sample".
   - A field "cruise_expedition" was added.
   - A field "filter_min" was added, with information from the published sampling protocol.
+  - The field "environmental medium" was corrected as "seawater"
+  - purls corresponding to the biome, feature and material was added
   
 ## samples_CTD_BCO-DMO and samples_Niskin_BCO-DMO
 Collects metadata from the closest CTD and Niskin record for each samples. These CTD and Niskin records were obtained from BCO-DMO HOT frictionless datapackage.
