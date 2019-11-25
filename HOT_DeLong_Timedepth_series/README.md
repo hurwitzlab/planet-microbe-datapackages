@@ -9,8 +9,8 @@ Minor corrections were done in order to help the use of the metadata :
 - the attribute "lat/long" was split into two fields (lat and long)
 - The attributes filter_um and prefilter_um where corrected using information from personal communication with the authors
 - The attributes "Date-Time, cruise_name, station_nb, cast_nb, bottleID, filter_max, filter_min and filter_type" was obtained through personal communication with the authors.
-- the Biome, features and material were normalized as follow (any change are due to deprecated ENVO terms):
-		"ENVO:00000447" -> marine biome (ENVO:ENVO:00000447)
+- the Biome, features and material were corrected as follow (any change are due to deprecated ENVO terms), and purl where added:
+		"ENVO:00000447" -> marine biome (ENVO:00000447)
 
 		"ENVO:00002151" -> sea water (ENVO:00002149)
 
