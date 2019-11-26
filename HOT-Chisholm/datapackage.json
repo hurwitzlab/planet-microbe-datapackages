@@ -1501,6 +1501,17 @@
             "pm:searchable": false
           },
           {
+            "name": "purl_biome",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00000428",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
             "name": "local-scale environmental context",
             "type": "string",
             "format": "default",
@@ -1512,6 +1523,17 @@
             "pm:searchable": false
           },
           {
+            "name": "purl_feature",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
             "name": "environmental medium",
             "type": "string",
             "format": "default",
@@ -1521,6 +1543,17 @@
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
+          },
+          {
+            "name": "purl_material",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00010483",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
           },
           {
             "name": "Station_Name",
@@ -1641,39 +1674,6 @@
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "NCBI",
-            "pm:searchable": true
-          },
-          {
-            "name": "purl_biome",
-            "type": "string",
-            "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00000428",
-            "pm:unitRdfType": "",
-            "pm:sourceUrl": "",
-            "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
-          },
-          {
-            "name": "purl_feature",
-            "type": "string",
-            "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
-            "pm:unitRdfType": "",
-            "pm:sourceUrl": "",
-            "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
-          },
-          {
-            "name": "purl_material",
-            "type": "string",
-            "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00010483",
-            "pm:unitRdfType": "",
-            "pm:sourceUrl": "",
-            "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true
           }
         ],
