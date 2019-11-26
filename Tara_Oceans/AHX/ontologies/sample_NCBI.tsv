@@ -5,9 +5,9 @@ Chlorophyll Sensor	concentration of chlorophyll in water	http://purl.obolibrary.
 Depth	depth of water	http://purl.obolibrary.org/obo/ENVO_3100031	TRUE	meter	http://purl.obolibrary.org/obo/UO_0000008				https://www.ncbi.nlm.nih.gov/bioproject/213098	number	
 Description	comment on investigation	http://purl.obolibrary.org/obo/OBI_0001898	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/213098	string	
 ENA checklist									https://www.ncbi.nlm.nih.gov/bioproject/213098	string	
-Environment (Biome)	biome	http://purl.obolibrary.org/obo/ENVO_00000428	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/213098	string	
-Environment (Feature)	environmental feature	http://purl.obolibrary.org/obo/ENVO_00002297	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/213098	string	
-Environment (Material)	environmental material	http://purl.obolibrary.org/obo/ENVO_00010483	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/213098	string	
+Environment (Biome)			FALSE						https://www.ncbi.nlm.nih.gov/bioproject/213098	string	
+Environment (Feature)			FALSE						https://www.ncbi.nlm.nih.gov/bioproject/213098	string	
+Environment (Material)			FALSE						https://www.ncbi.nlm.nih.gov/bioproject/213098	string	
 Environmental Package									https://www.ncbi.nlm.nih.gov/bioproject/213098	string	
 Event Date/Time End	specimen collection time measurement datum stop	http://purl.obolibrary.org/obo/PMO_00000009	TRUE	time unit	http://purl.obolibrary.org/obo/UO_0000003				https://www.ncbi.nlm.nih.gov/bioproject/213098	datetime	%Y-%m-%dT%H:%M
 Event Date/Time Start	specimen collection time measurement datum start	http://purl.obolibrary.org/obo/PMO_00000008	TRUE	time unit	http://purl.obolibrary.org/obo/UO_0000003				https://www.ncbi.nlm.nih.gov/bioproject/213098	datetime	%Y-%m-%dT%H:%M
@@ -38,3 +38,8 @@ Size Fraction Lower Threshold	aquatic sample minimum filter fractionation size t
 Size Fraction Upper Threshold	aquatic sample maximum filter fractionation size threshold	http://purl.obolibrary.org/obo/PMO_00000023	TRUE	micrometer	http://purl.obolibrary.org/obo/UO_0000017				https://www.ncbi.nlm.nih.gov/bioproject/213098	number	
 Temperature	temperature of water	http://purl.obolibrary.org/obo/ENVO_09200014	TRUE	degree Celsius	http://purl.obolibrary.org/obo/UO_0000027				https://www.ncbi.nlm.nih.gov/bioproject/213098	number	
 Title									https://www.ncbi.nlm.nih.gov/bioproject/213098	string	
+purl_biome	biome	http://purl.obolibrary.org/obo/ENVO_00000428	TRUE								
+purl_feature	environmental feature	http://purl.obolibrary.org/obo/ENVO_00002297	TRUE								
+purl_feature2	environmental feature	http://purl.obolibrary.org/obo/ENVO_00002297	TRUE								
+purl_material	environmental material	http://purl.obolibrary.org/obo/ENVO_00010483	TRUE								
+purl_material2	environmental material	http://purl.obolibrary.org/obo/ENVO_00010483	TRUE								
