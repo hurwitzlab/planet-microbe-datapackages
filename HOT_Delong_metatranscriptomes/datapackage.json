@@ -1861,6 +1861,72 @@
             "pm:searchable": false
           },
           {
+            "name": "env_biome",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "purl_biome",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00000428",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
+            "name": "env_feature",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "purl_feature",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
+            "name": "env_material",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": false
+          },
+          {
+            "name": "purl_material",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00010483",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
             "name": "HOT cruise",
             "type": "string",
             "format": "default",
@@ -1925,73 +1991,7 @@
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": false
-          },
-          {
-            "name": "purl_biome",
-            "type": "string",
-            "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00000428",
-            "pm:unitRdfType": "",
-            "pm:sourceUrl": "",
-            "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
-          },
-          {
-            "name": "purl_feature",
-            "type": "string",
-            "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
-            "pm:unitRdfType": "",
-            "pm:sourceUrl": "",
-            "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
-          },
-          {
-            "name": "purl_material",
-            "type": "string",
-            "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00010483",
-            "pm:unitRdfType": "",
-            "pm:sourceUrl": "",
-            "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
-          },
-          {
-            "name": "env_biome",
-            "type": "string",
-            "format": "default",
-            "rdfType": "",
-            "pm:unitRdfType": "",
-            "pm:sourceUrl": "",
-            "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
-          },
-          {
-            "name": "env_feature",
-            "type": "string",
-            "format": "default",
-            "rdfType": "",
-            "pm:unitRdfType": "",
-            "pm:sourceUrl": "",
-            "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
-          },
-          {
-            "name": "env_material",
-            "type": "string",
-            "format": "default",
-            "rdfType": "",
-            "pm:unitRdfType": "",
-            "pm:sourceUrl": "",
-            "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
-          }
+          } 
         ],
         "primaryKey": "Archive_ID BioSample",
         "foreignKeys": [
