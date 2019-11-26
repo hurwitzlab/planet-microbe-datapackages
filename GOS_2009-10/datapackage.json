@@ -383,7 +383,9 @@
         ],
         "missingValues": [
           "",
-          "nd",
+          "nd"
+        ],
+        "belowDetectionLimitValues": [
           "BD",
           "<0.03 (below detection)"
         ]
