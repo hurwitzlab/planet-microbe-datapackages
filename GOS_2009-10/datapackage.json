@@ -209,26 +209,26 @@
             "name": "env_biome",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00000428",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "env_feature",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
-            "name": "env_package",
+            "name": "env_material",
             "type": "string",
             "format": "default",
             "rdfType": "",
@@ -366,6 +366,50 @@
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3200059",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
+            "name": "purl_biome",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00000428",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
+            "name": "purl_feature",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
+            "name": "purl_feature2",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "",
+            "pm:searchable": true
+          },
+          {
+            "name": "purl_material",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00010483",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
             "pm:searchable": true

@@ -8,6 +8,9 @@ Only samples with metagenomic dataset associated are reported in this data packa
 #### Minor corrections were done in order to help the use of the metadata :
   - The field "Comment" was parsed and divided as "Comment OBJECTIVE", "Comment PLATFORM", "Comment DEVICE REPORTED" and "Comment DESCRIPTION"
   - For a small number of samples (e.g OSD131_2014-06-21_1m_NPL022), metadata were missing from the Pangea record but available in NCBI ( https://www.ncbi.nlm.nih.gov/bioproject/276999 ). Their records were updated using NCBI metadata.
+  - purl_biome, purl_feature and purl_material were infered from the biome, feature and material provided by the PI.
+  - the features "sea water" and "surface water" (these terms are material entities) where corrected to the appropriate feature from the localisation information.
+  - Mediterreanean sea biome was added where necessary
 
 #### Major modifications :
 

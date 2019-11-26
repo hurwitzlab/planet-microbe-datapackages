@@ -9,6 +9,8 @@ Note that the difference in numbers in the same project in EBI MGNIFY is due to 
   - addition of a "upper_filter_size" according to the protocol reported in JCV website
   - conversion of "collection_date" into "collection_dateTime" and in ISO format
   - conversion of "lat long" filed into "lat" and "long"
+  - Biome, feature and material purls where added using the label provided in env_biome, env_feature
+  - env_material and its associated purls where added
 
 
 ## sampling_events

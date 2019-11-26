@@ -8,6 +8,7 @@ Minor corrections were done in order to help the use of the metadata :
   - The field "latitude and longitude" was parsed and separated into two separate fields "latitude" and "longitude".
   - The field "depth" contained a 'm' in the field. This was removed and the unit was specified in meters. 
   - A field "filter_min" and "filter_max" was added, with information from the biosample description.
+  - Add purls for biome, feature and material
 
 ## samples_paper1
 Collects metadata associated to the samples from the paper :

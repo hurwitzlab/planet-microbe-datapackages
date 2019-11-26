@@ -1,9 +1,9 @@
-Sample_Event_ID	Archive_ID BioSample	Archive_ID SRA	Sample name	HOT cruise	date	depth	latitude	longitude	mixed_sample
-SE_92	SAMN00003312	SRS001909	H179_25m_gDNA	HOT179	2006-03	25	22.75	-158	TRUE
-SE_93	SAMN00003311	SRS000285	H179_75m_gDNA	HOT179	2006-03	75	22.75	-158	TRUE
-SE_94	SAMN00003313	SRS001911	H179_125m_gDNA	HOT179	2006-03	125	22.75	-158	TRUE
-SE_95	SAMN00003314	SRS001913	H179_500m_gDNA	HOT179	2006-03	500	22.75	-158	TRUE
-SE_96;SE_100	SAMN00002902	SRS004515	HOT186_25m	HOT186		25			FALSE
-SE_97;SE_101	SAMN00002903	SRS004516	HOT186_75m	HOT186		75			FALSE
-SE_98;SE_102	SAMN00002904	SRS004517	HOT186_110m	HOT186		110			FALSE
-SE_99;SE_103	SAMN00008877	SRS004518	HOT186_500m	HOT186		500			FALSE
+Sample_Event_ID	Archive_ID BioSample	Archive_ID SRA	Sample name	env_biome	purl_biome	env_feature	purl_feature	env_material	purl_material	HOT cruise	date	depth	latitude	longitude	mixed_sample
+SE_92	SAMN00003312	SRS001909	H179_25m_gDNA	ocean biome	http://purl.obolibrary.org/obo/ENVO_01000048	ocean	http://purl.obolibrary.org/obo/ENVO_00000015	seawater	http://purl.obolibrary.org/obo/ENVO_00002149	HOT179	2006-03	25	22.75	-158	TRUE
+SE_93	SAMN00003311	SRS000285	H179_75m_gDNA	ocean biome	http://purl.obolibrary.org/obo/ENVO_01000048	ocean	http://purl.obolibrary.org/obo/ENVO_00000015	seawater	http://purl.obolibrary.org/obo/ENVO_00002149	HOT179	2006-03	75	22.75	-158	TRUE
+SE_94	SAMN00003313	SRS001911	H179_125m_gDNA	ocean biome	http://purl.obolibrary.org/obo/ENVO_01000048	ocean	http://purl.obolibrary.org/obo/ENVO_00000015	seawater	http://purl.obolibrary.org/obo/ENVO_00002149	HOT179	2006-03	125	22.75	-158	TRUE
+SE_95	SAMN00003314	SRS001913	H179_500m_gDNA	ocean biome	http://purl.obolibrary.org/obo/ENVO_01000048	ocean	http://purl.obolibrary.org/obo/ENVO_00000015	seawater	http://purl.obolibrary.org/obo/ENVO_00002149	HOT179	2006-03	500	22.75	-158	TRUE
+SE_96;SE_100	SAMN00002902	SRS004515	HOT186_25m	ocean biome	http://purl.obolibrary.org/obo/ENVO_01000048	ocean	http://purl.obolibrary.org/obo/ENVO_00000015	seawater	http://purl.obolibrary.org/obo/ENVO_00002149	HOT186		25			FALSE
+SE_97;SE_101	SAMN00002903	SRS004516	HOT186_75m	ocean biome	http://purl.obolibrary.org/obo/ENVO_01000048	ocean	http://purl.obolibrary.org/obo/ENVO_00000015	seawater	http://purl.obolibrary.org/obo/ENVO_00002149	HOT186		75			FALSE
+SE_98;SE_102	SAMN00002904	SRS004517	HOT186_110m	ocean biome	http://purl.obolibrary.org/obo/ENVO_01000048	ocean	http://purl.obolibrary.org/obo/ENVO_00000015	seawater	http://purl.obolibrary.org/obo/ENVO_00002149	HOT186		110			FALSE
+SE_99;SE_103	SAMN00008877	SRS004518	HOT186_500m	ocean biome	http://purl.obolibrary.org/obo/ENVO_01000048	ocean	http://purl.obolibrary.org/obo/ENVO_00000015	seawater	http://purl.obolibrary.org/obo/ENVO_00002149	HOT186		500			FALSE

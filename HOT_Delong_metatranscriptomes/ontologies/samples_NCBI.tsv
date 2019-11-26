@@ -8,4 +8,10 @@ date	specimen collection time measurement datum start	http://purl.obolibrary.org
 depth	depth of water	http://purl.obolibrary.org/obo/PMO_00000029	TRUE	meter	http://purl.obolibrary.org/obo/UO_0000008				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	number	
 latitude	latitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001620	FALSE	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	number	
 longitude	longitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001621	FALSE	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	number	
-mixed_sample											
+mixed_sample										string	
+env_biome										string	
+purl_biome	biome	http://purl.obolibrary.org/obo/ENVO_00000428	TRUE							string	
+env_feature										string	
+purl_feature	environmental feature	http://purl.obolibrary.org/obo/ENVO_00002297	TRUE							string	
+env_material										string	
+purl_material	environmental material	http://purl.obolibrary.org/obo/ENVO_00010483	TRUE							string	

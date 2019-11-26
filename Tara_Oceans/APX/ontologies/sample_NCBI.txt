@@ -33,7 +33,12 @@ Sample Collection Device									https://www.ncbi.nlm.nih.gov/bioproject/214077
 Sample Name									https://www.ncbi.nlm.nih.gov/bioproject/214077	
 Sampling Campaign									https://www.ncbi.nlm.nih.gov/bioproject/214077	
 Sampling Platform									https://www.ncbi.nlm.nih.gov/bioproject/214077	
-Sampling Station									https://www.ncbi.nlm.nih.gov/bioproject/214077		
+Sampling Station									https://www.ncbi.nlm.nih.gov/bioproject/214077	
 Size Fraction Upper Threshold					µm				https://www.ncbi.nlm.nih.gov/bioproject/214077	
 Temperature					¡C				https://www.ncbi.nlm.nih.gov/bioproject/214077	
 Title									https://www.ncbi.nlm.nih.gov/bioproject/214077	
+purl_biome	biome	http://purl.obolibrary.org/obo/ENVO_00000428	TRUE							
+purl_feature	environmental_feature	http://purl.obolibrary.org/obo/ENVO_00002297	TRUE							
+purl_feature2	environmental_feature	http://purl.obolibrary.org/obo/ENVO_00002297	TRUE							
+purl_material	environmental_material	http://purl.obolibrary.org/obo/ENVO_00010483	TRUE							
+purl_material2	environmental_material	http://purl.obolibrary.org/obo/ENVO_00010483	TRUE							
