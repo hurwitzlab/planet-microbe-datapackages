@@ -43,3 +43,7 @@ Title									https://www.ncbi.nlm.nih.gov/bioproject/288560
 environment (feature) further details									https://www.ncbi.nlm.nih.gov/bioproject/288560		
 protocol description									https://www.ncbi.nlm.nih.gov/bioproject/288560		
 sample material label									https://www.ncbi.nlm.nih.gov/bioproject/288560		
+purl_biome	biome	http://purl.obolibrary.org/obo/ENVO_00000428	TRUE								
+purl_feature	environmental_feature	http://purl.obolibrary.org/obo/ENVO_00002297	TRUE								
+purl_material	environmental_material	http://purl.obolibrary.org/obo/ENVO_00010483	TRUE								
+purl_material2	environmental_material	http://purl.obolibrary.org/obo/ENVO_00010483	TRUE								
