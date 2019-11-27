@@ -39,3 +39,8 @@ Size Fraction Lower Threshold					µm				https://www.ncbi.nlm.nih.gov/bioproject/
 Size Fraction Upper Threshold					µm				https://www.ncbi.nlm.nih.gov/bioproject/253565	
 Temperature					¡C				https://www.ncbi.nlm.nih.gov/bioproject/253565	
 Title									https://www.ncbi.nlm.nih.gov/bioproject/253565	
+purl_biome	biome	http://purl.obolibrary.org/obo/ENVO_00000428	TRUE							
+purl_feature	environmental_feature	http://purl.obolibrary.org/obo/ENVO_00002297	TRUE							
+purl_feature2	environmental_feature	http://purl.obolibrary.org/obo/ENVO_00002297	TRUE							
+purl_material	environmental_material	http://purl.obolibrary.org/obo/ENVO_00010483	TRUE							
+purl_material2	environmental_material	http://purl.obolibrary.org/obo/ENVO_00010483	TRUE							
