@@ -9,7 +9,7 @@ Station_Name	specimen collection process site	http://purl.obolibrary.org/obo/pmo
 geographic location	site	http://purl.obolibrary.org/obo/BFO_0000029	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	
 bottle_id	bottle label	http://purl.obolibrary.org/obo/PMO_00000006	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	number	
 sample_name									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	
-cruise_expedition	project investigation identifier	http://purl.obolibrary.org/obo/PMO_00000007	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	
+cruise_expedition	project investigation identifier	http://purl.obolibrary.org/obo/PMO_00000007	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	
 cruise_name	sampling expedition identifier	http://purl.obolibrary.org/obo/PMO_00000060	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	
 start_collection_date	specimen collection time measurement datum start	http://purl.obolibrary.org/obo/PMO_00000008	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	date	default
 depth_sample	depth of water	http://purl.obolibrary.org/obo/PMO_00000029	TRUE	meter	http://purl.obolibrary.org/obo/UO_0000008				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	number	

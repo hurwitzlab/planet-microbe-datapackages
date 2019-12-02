@@ -3,7 +3,7 @@ Sample_Event_ID	centrally registered sampling event identifier	http://purl.oboli
 Archive_ID BioSample	specimen identifier assigned by sequencing facility	http://purl.obolibrary.org/obo/OBI_0001901	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	
 Archive_ID SRA	specimen identifier assigned by sequencing facility	http://purl.obolibrary.org/obo/OBI_0001901	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	
 Sample name									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	
-HOT cruise	sampling expedition identifier	http://purl.obolibrary.org/obo/PMO_00000060	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	
+HOT cruise	sampling expedition identifier	http://purl.obolibrary.org/obo/PMO_00000060	FALSE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	string	
 date	specimen collection time measurement datum start	http://purl.obolibrary.org/obo/PMO_00000008	TRUE						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	date	default
 depth	depth of water	http://purl.obolibrary.org/obo/PMO_00000029	TRUE	meter	http://purl.obolibrary.org/obo/UO_0000008				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	number	
 latitude	latitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001620	FALSE	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855	number	
