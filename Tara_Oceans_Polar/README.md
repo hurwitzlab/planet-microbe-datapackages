@@ -23,6 +23,10 @@ https://www.ncbi.nlm.nih.gov/bioproject/288560
 - Size Fraction Lower Threshold removed (">")
 - units not available in NCBI, the units were retrieved from EBI
 - package with samples with range of depth (pooled samples) were divided into a min_Depth and max_Depth attributes
+- The "surface water (ENVO:00002042) layer" feature annotation was corrected as "sea surface layer"
+- The "marine epipelagic mixed layer (ENVO:xxxxxxxxx)" feature annotation was corrected as "marine wind mixed layer"
+- The "water layer with no specific feature" feature annotation was removed
+- The "filtered seawater (ENVO:xxxxxxxxx)" material annotation was corrected to "seawater"
 
 #### issues to solves
 - sensors reporting 99999 when below/not detected

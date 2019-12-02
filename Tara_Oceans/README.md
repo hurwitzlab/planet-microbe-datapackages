@@ -38,6 +38,11 @@ https://www.ncbi.nlm.nih.gov/bioproject/253560
 - units not available in NCBI, the units were retrieved from EBI
 - NCBI description text contained mis-encoded characters corrected to "μ"
 - 99999 values were replaced by "nd"
+- purl_biome, purl_feature and purl_material were infered from the biome, feature and material provided by the PI.
+- The "surface water (ENVO:00002042) layer" feature annotation was corrected as "sea surface layer"
+- The "marine epipelagic mixed layer (ENVO:xxxxxxxxx)" feature annotation was corrected as "marine wind mixed layer"
+- The "water layer with no specific feature" feature annotation was removed
+- The "filtered seawater (ENVO:xxxxxxxxx)" material annotation was corrected to "seawater"
 
 ### minor corrections in some packages
 - AHX : samples without sampling time/date nor lat/long were removed
