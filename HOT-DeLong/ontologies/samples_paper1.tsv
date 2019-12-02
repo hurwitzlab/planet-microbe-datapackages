@@ -1,8 +1,8 @@
 parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
 sample_event ID	centrally registered sampling event identifier	http://purl.obolibrary.org/obo/PMO_00000056	FALSE					http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221	string	
 Archive_ID	specimen identifier assigned by sequencing facility	http://purl.obolibrary.org/obo/OBI_0001901	TRUE					http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221	string	
-cruise_expedition											
-cruise_name	sampling expedition identifier	http://purl.obolibrary.org/obo/PMO_00000060	TRUE					http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221	string	
+cruise_expedition		http://purl.obolibrary.org/obo/PMO_00000007	FALSE								
+cruise_name	sampling expedition identifier	http://purl.obolibrary.org/obo/PMO_00000060	FALSE					http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221	string	
 Sample_name											
 depth	depth of water	http://purl.obolibrary.org/obo/ENVO_3100031	TRUE	meter	http://purl.obolibrary.org/obo/UO_0000008			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221		
 Sample Date GMT	specimen collection time measurement datum	http://purl.obolibrary.org/obo/OBI_0001619	TRUE	time unit	http://purl.obolibrary.org/obo/UO_0000003			http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#	https://www.nature.com/articles/ismej2015221	date	
