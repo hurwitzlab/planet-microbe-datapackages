@@ -1,7 +1,7 @@
 # HOT Delong Time and depth series
 
 ## samples_NCBI
-Collects metadata associated to the NCBI Biosamples of the bioproject https://www.ncbi.nlm.nih.gov/bioproject/352737. Pooled sampled for co-assembly were removed. Additionaly, a sample did not have any SRA accession associated and was removed (https://www.ncbi.nlm.nih.gov/biosample/SAMN11874873/)
+Collects metadata associated to the NCBI Biosamples of the bioproject https://www.ncbi.nlm.nih.gov/bioproject/352737. Pooled sampled for co-assembly were removed. Additionally, a sample without an associated SRA accession number was removed (https://www.ncbi.nlm.nih.gov/biosample/SAMN11874873/).
 
 Minor corrections were done in order to help the use of the metadata :
 - the attribute "altitude" was removed (empty attribute)
@@ -19,7 +19,7 @@ NOTE: Sample SAMMN11874827 not included in the Ocean atlas data. Without informa
 
 
 ## samples_CTD_BCO-DMO
-Collects metadata from the closest CTD record for each samples. These CTD records were obtained from BCO-DMO HOT frictionless datapackage. 
+Collects metadata from the closest CTD record for each samples. These CTD records were obtained from BCO-DMO HOT frictionless datapackage.
 
 Minor corrections were performed on the BCO-DMO dataset:
 - The "Date-Time" attribute was changed into "start Date-Time" and the "Timecode" attribute was removed.
@@ -38,12 +38,9 @@ The script is available in scripts/map_ctd_metagenomes.py
 
 ## Samples_paper
 Collects information from the supplemental material of the published paper: https://doi.org/10.1038/s41564-017-0008-3
+- Data columns C-ARSC, N-ARSC, MW, WIND_5, RAIN_5, SW_5, WIND_30, RAIN_30, SW_30 were not included. 
 
 ## sampling_event
 This table was generated using the cast information from BCO-DMO. Briefly, unique sampling event where derived from the cruise ID, the cast and station number and the ISO-DateTime.
 Sampling event ID were generated as follow: "expeditionName_cruiseID_stationCast"
 No sampling event could be inferred for the sample SAMMN11874827
-
-
-
-
