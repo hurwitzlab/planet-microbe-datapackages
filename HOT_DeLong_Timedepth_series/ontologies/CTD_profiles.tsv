@@ -1,33 +1,33 @@
 parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type
-event_id										
-cruise_name									https://www.bco-dmo.org/dataset/3937	
-station									https://www.bco-dmo.org/dataset/3937	
-cast									https://www.bco-dmo.org/dataset/3937	
-ISO_DateTime									https://www.bco-dmo.org/dataset/3937	
+event_id	centrally registered sampling event identifier	http://purl.obolibrary.org/obo/PMO_00000056								
+cruise_name	sampling expedition identifier	http://purl.obolibrary.org/obo/PMO_00000060							https://www.bco-dmo.org/dataset/3937	
+station	number designating study site	http://purl.obolibrary.org/obo/PMO_00000054							https://www.bco-dmo.org/dataset/3937	
+cast	ctd cast number	http://purl.obolibrary.org/obo/PMO_00000057							https://www.bco-dmo.org/dataset/3937	
+ISO_DateTime	specimen collection time measurement datum start	http://purl.obolibrary.org/obo/PMO_00000008		time unit	http://purl.obolibrary.org/obo/UO_0000003				https://www.bco-dmo.org/dataset/3937	
 Year									https://www.bco-dmo.org/dataset/3937	
 Month									https://www.bco-dmo.org/dataset/3937	
 Day									https://www.bco-dmo.org/dataset/3937	
 timeutc									https://www.bco-dmo.org/dataset/3937	
-lon									https://www.bco-dmo.org/dataset/3937	
-lat									https://www.bco-dmo.org/dataset/3937	
-depth_max									https://www.bco-dmo.org/dataset/3937	
-pres_max									https://www.bco-dmo.org/dataset/3937	
+lon	longitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001621		degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.bco-dmo.org/dataset/3937	
+lat	latitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001620		degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.bco-dmo.org/dataset/3937	
+depth_max	maximum depth of water collected during specimen collection process	http://purl.obolibrary.org/obo/PMO_00000052							https://www.bco-dmo.org/dataset/3937	
+pres_max	maximum pressure of water collected during specimen collection process	http://purl.obolibrary.org/obo/PMO_00000053							https://www.bco-dmo.org/dataset/3937	
 Date									https://www.bco-dmo.org/dataset/3937	
 timecode									https://www.bco-dmo.org/dataset/3937	
-HOT_summary_file_name									https://www.bco-dmo.org/dataset/3937	
+HOT_summary_file_name	Summary File Name	http://purl.obolibrary.org/obo/PMO_00000063							https://www.bco-dmo.org/dataset/3937	
 parameters									https://www.bco-dmo.org/dataset/3937	
-num_bottles									https://www.bco-dmo.org/dataset/3937	
+num_bottles	number of niskin bottles deployed during speciment collection process event	http://purl.obolibrary.org/obo/PMO_00000051							https://www.bco-dmo.org/dataset/3937	
 section									https://www.bco-dmo.org/dataset/3937	
 nav_code									https://www.bco-dmo.org/dataset/3937	
 depth_hgt									https://www.bco-dmo.org/dataset/3937	
 EXPOCODE									https://www.bco-dmo.org/dataset/3937	
-Ship									https://www.bco-dmo.org/dataset/3937	
-comments									https://www.bco-dmo.org/dataset/3937	
-CTDPRS									https://www.bco-dmo.org/dataset/3937	
-CTDTMP									https://www.bco-dmo.org/dataset/3937	
-CTDSAL									https://www.bco-dmo.org/dataset/3937	
-CTDOXY									https://www.bco-dmo.org/dataset/3937	
-CHLPIG									https://www.bco-dmo.org/dataset/3937	
-NUMBER									https://www.bco-dmo.org/dataset/3937	
-NITRATE									https://www.bco-dmo.org/dataset/3937	
+Ship	sampling expedition project investigation and leg identifier	http://purl.obolibrary.org/obo/PMO_00000065							https://www.bco-dmo.org/dataset/3937	
+comments	comment on investigation	http://purl.obolibrary.org/obo/PMO_00000075							https://www.bco-dmo.org/dataset/3937	
+CTDPRS	pressure of water	http://purl.obolibrary.org/obo/ENVO_3100033		decibar	http://purl.obolibrary.org/obo/PMO_00000034				https://www.bco-dmo.org/dataset/3937	
+CTDTMP	temperature of water	http://purl.obolibrary.org/obo/ENVO_09200014		degree Celsius	http://purl.obolibrary.org/obo/UO_0000027				https://www.bco-dmo.org/dataset/3937	
+CTDSAL	liquid water salinity	http://purl.obolibrary.org/obo/PMO_00000014		practical salinity unit	http://purl.obolibrary.org/obo/PMO_00000037				https://www.bco-dmo.org/dataset/3937	
+CTDOXY	concentration of oxygen in water	http://purl.obolibrary.org/obo/ENVO_09200021		micromole per kilogram	http://purl.obolibrary.org/obo/UO_0010004				https://www.bco-dmo.org/dataset/3937	
+CHLPIG	concentration of chlorophyll in water	http://purl.obolibrary.org/obo/ENVO_3100036		micromole per litre	http://purl.obolibrary.org/obo/UO_0010003				https://www.bco-dmo.org/dataset/3937	
+NUMBER	number of observations averaged at pressure level to produce CTD measurment datum	http://purl.obolibrary.org/obo/PMO_00000017							https://www.bco-dmo.org/dataset/3937	
+NITRATE	concentration of nitrate in water	http://purl.obolibrary.org/obo/ENVO_3100022		micromole per litre	http://purl.obolibrary.org/obo/UO_0010003				https://www.bco-dmo.org/dataset/3937	
 QUALT1									https://www.bco-dmo.org/dataset/3937	
