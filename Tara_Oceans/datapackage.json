@@ -883,12 +883,12 @@
             "name": "Environmental feature",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "Depth, nominal",
@@ -2492,12 +2492,12 @@
             "name": "Environmental feature",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "Depth, nominal",
@@ -3760,12 +3760,12 @@
             "name": "Environmental feature",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "Depth, nominal",
@@ -5369,12 +5369,12 @@
             "name": "Environmental feature",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "Depth, nominal",
@@ -6881,12 +6881,12 @@
             "name": "Environmental feature",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "Depth, nominal",
@@ -8479,12 +8479,12 @@
             "name": "Environmental feature",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "Depth, nominal",
@@ -9980,12 +9980,12 @@
             "name": "Environmental feature",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "Depth, nominal",
@@ -11589,12 +11589,12 @@
             "name": "Environmental feature",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "Depth, nominal",
@@ -12868,12 +12868,12 @@
             "name": "Environmental feature",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "Depth, nominal",
@@ -14477,12 +14477,12 @@
             "name": "Environmental feature",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "Depth, nominal",
@@ -16341,12 +16341,12 @@
             "name": "Environmental feature",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "Depth, nominal",
@@ -17950,12 +17950,12 @@
             "name": "Environmental feature",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "Depth, nominal",
@@ -19825,12 +19825,12 @@
             "name": "Environmental feature",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "Depth, nominal",
@@ -21434,12 +21434,12 @@
             "name": "Environmental feature",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "Depth, nominal",
@@ -22713,12 +22713,12 @@
             "name": "Environmental feature",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "Depth, nominal",
@@ -24322,12 +24322,12 @@
             "name": "Environmental feature",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "Depth, nominal",
@@ -25579,12 +25579,12 @@
             "name": "Environmental feature",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "Depth, nominal",
@@ -27188,12 +27188,12 @@
             "name": "Environmental feature",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "Depth, nominal",
@@ -28445,12 +28445,12 @@
             "name": "Environmental feature",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "Depth, nominal",
@@ -30054,12 +30054,12 @@
             "name": "Environmental feature",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "Depth, nominal",
@@ -31311,12 +31311,12 @@
             "name": "Environmental feature",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "Depth, nominal",
@@ -32920,12 +32920,12 @@
             "name": "Environmental feature",
             "type": "string",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "rdfType": "",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:searchable": false
           },
           {
             "name": "Depth, nominal",
