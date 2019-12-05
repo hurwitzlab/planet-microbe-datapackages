@@ -1,31 +1,31 @@
 parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type
-event_id										
-cruise_name									https://www.bco-dmo.org/dataset/3773	
+event_id	centrally registered sampling event identifier	http://purl.obolibrary.org/obo/PMO_00000056								
+cruise_name	sampling expedition identifier	http://purl.obolibrary.org/obo/PMO_00000060							https://www.bco-dmo.org/dataset/3773	
 EXPOCODE									https://www.bco-dmo.org/dataset/3773	
-Ship									https://www.bco-dmo.org/dataset/3773	
+Ship	sampling expedition project investigation and leg identifier	http://purl.obolibrary.org/obo/PMO_00000065							https://www.bco-dmo.org/dataset/3773	
 STNNBR									https://www.bco-dmo.org/dataset/3773	
 CASTNO									https://www.bco-dmo.org/dataset/3773	
 section									https://www.bco-dmo.org/dataset/3773	
-ISO_DateTime									https://www.bco-dmo.org/dataset/3773	
+ISO_DateTime	specimen collection time measurement datum	http://purl.obolibrary.org/obo/OBI_0001619		time unit	http://purl.obolibrary.org/obo/UO_0000003				https://www.bco-dmo.org/dataset/3773	
 Date									https://www.bco-dmo.org/dataset/3773	
 Year									https://www.bco-dmo.org/dataset/3773	
 Month									https://www.bco-dmo.org/dataset/3773	
 Day									https://www.bco-dmo.org/dataset/3773	
 timeutc									https://www.bco-dmo.org/dataset/3773	
 timecode									https://www.bco-dmo.org/dataset/3773	
-lon									https://www.bco-dmo.org/dataset/3773	
-lat									https://www.bco-dmo.org/dataset/3773	
+lon	longitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001621		degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.bco-dmo.org/dataset/3773	
+lat	latitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001620		degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.bco-dmo.org/dataset/3773	
 nav_code									https://www.bco-dmo.org/dataset/3773	
-depth_max									https://www.bco-dmo.org/dataset/3773	
-pres_max									https://www.bco-dmo.org/dataset/3773	
+depth_max	maximum depth of water collected during specimen collection process	http://purl.obolibrary.org/obo/PMO_00000052							https://www.bco-dmo.org/dataset/3773	
+pres_max	maximum pressure of water collected during specimen collection process	http://purl.obolibrary.org/obo/PMO_00000053							https://www.bco-dmo.org/dataset/3773	
 depth_hgt									https://www.bco-dmo.org/dataset/3773	
 parameters									https://www.bco-dmo.org/dataset/3773	
-comments									https://www.bco-dmo.org/dataset/3773	
-HOT_summary_file_name									https://www.bco-dmo.org/dataset/3773	
+comments	comment on investigation	http://purl.obolibrary.org/obo/PMO_00000075							https://www.bco-dmo.org/dataset/3773	
+HOT_summary_file_name	Summary File Name	http://purl.obolibrary.org/obo/PMO_00000063							https://www.bco-dmo.org/dataset/3773	
 ROSETTE									https://www.bco-dmo.org/dataset/3773	
-CTDPRS									https://www.bco-dmo.org/dataset/3773	
+CTDPRS	pressure of water	http://purl.obolibrary.org/obo/ENVO_3100033		decibar	http://purl.obolibrary.org/obo/PMO_00000034				https://www.bco-dmo.org/dataset/3773	
 ATP									https://www.bco-dmo.org/dataset/3773	
-CTDOXY									https://www.bco-dmo.org/dataset/3773	
+CTDOXY	concentration of oxygen in water	http://purl.obolibrary.org/obo/ENVO_09200021		micromole per kilogram	http://purl.obolibrary.org/obo/UO_0010004				https://www.bco-dmo.org/dataset/3773	
 CTDSAL									https://www.bco-dmo.org/dataset/3773	
 CTDTMP									https://www.bco-dmo.org/dataset/3773	
 OXYGEN									https://www.bco-dmo.org/dataset/3773	
