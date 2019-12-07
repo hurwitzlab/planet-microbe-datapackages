@@ -101,11 +101,13 @@ In Nutrient dataset :
 - AHX, ARD_2, ARG: removed ">0.8" and ">3" for "Size fraction, upper threshold"
 - APX : "Size fraction, lower threshold" attribute was removed
 - units were not provided in the https://doi.org/10.1594/PANGAEA.875575. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.836319
+- the attributes "Depth, top/min" and "Depth, bottom/max" were removed from the datapackage because describing the sampling event, not the samples
 
 In HPLC dataset :
 - AHX, ARD_2, ARG: removed ">0.8" and ">3" for "Size fraction, upper threshold"
 - APX : "Size fraction, lower threshold" attribute was removed
 - units were not provided in the https://doi.org/10.1594/PANGAEA.875569. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.836319
+- the attributes "Depth, top/min" and "Depth, bottom/max" were removed from the datapackage because describing the sampling event, not the samples
 
 In carbonate dataset :
 - AHX, ARD_2, ARG: removed ">" for "Size fraction, upper threshold"
