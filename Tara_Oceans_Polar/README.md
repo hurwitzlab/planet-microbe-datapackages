@@ -45,15 +45,18 @@ Notes : the biodiversity context dataset https://doi.pangaea.de/10.1594/PANGAEA.
 In Nutrient dataset :
 - "Size fraction, lower threshold" attribute was removed
 - units were not provided in the https://doi.org/10.1594/PANGAEA.875575. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.836319
+- the attributes "Depth, top/min" and "Depth, bottom/max" were removed from the datapackage because describing the sampling event, not the samples
 
 In HPLC dataset :
 - "Size fraction, lower threshold" attribute was removed
 - units were not provided in the https://doi.org/10.1594/PANGAEA.875569. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.836319
+- the attributes "Depth, top/min" and "Depth, bottom/max" were removed from the datapackage because describing the sampling event, not the samples
 
 In carbonate dataset :
 - "Size fraction, lower threshold" attribute was removed
 - Carbon dioxide, Carbon dioxide, partial pressure, Fugacity of carbon dioxide in seawater removed (empty in this dataset)
 - units were not provided in the https://doi.org/10.1594/PANGAEA.875567. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.836319
+- the attributes "Depth, top/min" and "Depth, bottom/max" were removed from the datapackage because describing the sampling event, not the samples
 
 ## Sampling_event
 Collects metadata about the sampling events during which samples were obtained. Original data was retrieved from the Pangea event registry : https://doi.pangaea.de/10.1594/PANGAEA.842227

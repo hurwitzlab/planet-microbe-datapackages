@@ -114,6 +114,7 @@ In carbonate dataset :
 - APX : "Size fraction, lower threshold" attribute was removed
 - ARI : removed pH, Carbon dioxide, Carbon dioxide, partial pressure, Fugacity of carbon dioxide in seawater attributes (empty for this dataset)
 - units were not provided in the https://doi.org/10.1594/PANGAEA.875567. We derived the units from the parent dataset https://doi.pangaea.de/10.1594/PANGAEA.836319
+- the attributes "Depth, top/min" and "Depth, bottom/max" were removed from the datapackage because describing the sampling event, not the samples
 
 ## Sampling_event
 Collects metadata about the sampling events during which samples were obtained. Original data was retrieved from the Pangea event registry : https://doi.pangaea.de/10.1594/PANGAEA.842227
