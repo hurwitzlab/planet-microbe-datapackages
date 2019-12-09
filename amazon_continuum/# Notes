@@ -1,0 +1,29 @@
+# Notes 
+
+## NCBI dataset:
+
+### 2010 :
+
+#### minor corrections :
+- removed the attributes "sequencing_machine", "sequencing_method", "investigation type" and "target_molecules"
+- correction of "lat-lon" attribute into separate "lat" and "lon" attributes
+
+
+#### issues remaining for this DP:
+- Time and date to collapse as a standard format -> is it GMT or local time?
+
+
+
+data from the R2R cruise https://www.rvdata.us/search/cruise/KN197-08
+
+
+### 2011 :
+
+#### minor corrections :
+- removed the attributes "sequencing_machine", "sequencing_method", "investigation type" and "target_molecules"
+- correction of "lat-lon" attribute into separate "lat" and "lon" attributes
+
+
+### 2012 :
+Issue with some samples with a date in 2016 but noted as part of the 2012 sampling expedition...
+Issue with samples not from the same Atlantis expedition -> where did they come from?
