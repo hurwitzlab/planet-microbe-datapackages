@@ -38,6 +38,8 @@ The script is available in scripts/map_ctd_metagenomes.py
 
 ## Samples_paper
 Collects information from the supplemental material of the published paper: https://doi.org/10.1038/s41564-017-0008-3
+
+Minor corrections were performed on the dataset:
 - Data columns C-ARSC, N-ARSC, MW, WIND_5, RAIN_5, SW_5, WIND_30, RAIN_30, SW_30 were not included. 
 
 ## sampling_event

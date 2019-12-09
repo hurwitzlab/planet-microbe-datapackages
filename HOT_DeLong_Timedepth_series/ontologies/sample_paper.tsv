@@ -1,68 +1,59 @@
 parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type
 sampling_event_ID									https://doi.org/10.1038/s41564-017-0008-3	
 BioSample									https://doi.org/10.1038/s41564-017-0008-3	
-sample_ID									https://doi.org/10.1038/s41564-017-0008-3	
-cruise									https://doi.org/10.1038/s41564-017-0008-3	
-cast									https://doi.org/10.1038/s41564-017-0008-3	
-depth									https://doi.org/10.1038/s41564-017-0008-3	
-bottleNumber									https://doi.org/10.1038/s41564-017-0008-3	
-bottleID									https://doi.org/10.1038/s41564-017-0008-3	
-date									https://doi.org/10.1038/s41564-017-0008-3	
-time									https://doi.org/10.1038/s41564-017-0008-3	
-press									https://doi.org/10.1038/s41564-017-0008-3	
-theta									https://doi.org/10.1038/s41564-017-0008-3	
-sigma									https://doi.org/10.1038/s41564-017-0008-3	
-temp									https://doi.org/10.1038/s41564-017-0008-3	
-csal									https://doi.org/10.1038/s41564-017-0008-3	
-coxy									https://doi.org/10.1038/s41564-017-0008-3	
-bsal									https://doi.org/10.1038/s41564-017-0008-3	
-boxy									https://doi.org/10.1038/s41564-017-0008-3	
-dic									https://doi.org/10.1038/s41564-017-0008-3	
+sample_ID				ID					https://doi.org/10.1038/s41564-017-0008-3	
+cruise				ID					https://doi.org/10.1038/s41564-017-0008-3	
+cast				#					https://doi.org/10.1038/s41564-017-0008-3	
+depth				m					https://doi.org/10.1038/s41564-017-0008-3	
+bottleNumber				#					https://doi.org/10.1038/s41564-017-0008-3	
+bottleID				#					https://doi.org/10.1038/s41564-017-0008-3	
+date				mmddyy					https://doi.org/10.1038/s41564-017-0008-3	
+time				hhmmss					https://doi.org/10.1038/s41564-017-0008-3	
+press				dbar					https://doi.org/10.1038/s41564-017-0008-3	
+theta				ITS-90					https://doi.org/10.1038/s41564-017-0008-3	
+sigma				kg/m3					https://doi.org/10.1038/s41564-017-0008-3	
+temp				ITS-90					https://doi.org/10.1038/s41564-017-0008-3	
+csal				PSS-78					https://doi.org/10.1038/s41564-017-0008-3	
+coxy				umol/kg					https://doi.org/10.1038/s41564-017-0008-3	
+bsal				PSS-78					https://doi.org/10.1038/s41564-017-0008-3	
+boxy				umol/kg					https://doi.org/10.1038/s41564-017-0008-3	
+dic				umol/kg					https://doi.org/10.1038/s41564-017-0008-3	
 ph									https://doi.org/10.1038/s41564-017-0008-3	
-alk									https://doi.org/10.1038/s41564-017-0008-3	
-phos									https://doi.org/10.1038/s41564-017-0008-3	
-nit									https://doi.org/10.1038/s41564-017-0008-3	
-sil									https://doi.org/10.1038/s41564-017-0008-3	
-doc									https://doi.org/10.1038/s41564-017-0008-3	
-pc									https://doi.org/10.1038/s41564-017-0008-3	
-pn									https://doi.org/10.1038/s41564-017-0008-3	
-pp									https://doi.org/10.1038/s41564-017-0008-3	
-lln									https://doi.org/10.1038/s41564-017-0008-3	
-llp									https://doi.org/10.1038/s41564-017-0008-3	
-chl									https://doi.org/10.1038/s41564-017-0008-3	
-phaeo									https://doi.org/10.1038/s41564-017-0008-3	
-chlplus									https://doi.org/10.1038/s41564-017-0008-3	
-perid									https://doi.org/10.1038/s41564-017-0008-3	
-but19									https://doi.org/10.1038/s41564-017-0008-3	
-fuco									https://doi.org/10.1038/s41564-017-0008-3	
-hex19									https://doi.org/10.1038/s41564-017-0008-3	
-prasino									https://doi.org/10.1038/s41564-017-0008-3	
-diadino									https://doi.org/10.1038/s41564-017-0008-3	
-zeaxan									https://doi.org/10.1038/s41564-017-0008-3	
-chlb									https://doi.org/10.1038/s41564-017-0008-3	
-hplc									https://doi.org/10.1038/s41564-017-0008-3	
-acar									https://doi.org/10.1038/s41564-017-0008-3	
-bcar									https://doi.org/10.1038/s41564-017-0008-3	
-caroten									https://doi.org/10.1038/s41564-017-0008-3	
-chlda									https://doi.org/10.1038/s41564-017-0008-3	
-viol									https://doi.org/10.1038/s41564-017-0008-3	
-lutein									https://doi.org/10.1038/s41564-017-0008-3	
-mvchla									https://doi.org/10.1038/s41564-017-0008-3	
-dvchla									https://doi.org/10.1038/s41564-017-0008-3	
-hbact									https://doi.org/10.1038/s41564-017-0008-3	
-pbact									https://doi.org/10.1038/s41564-017-0008-3	
-sbact									https://doi.org/10.1038/s41564-017-0008-3	
-ebact									https://doi.org/10.1038/s41564-017-0008-3	
-atp									https://doi.org/10.1038/s41564-017-0008-3	
-psi									https://doi.org/10.1038/s41564-017-0008-3	
-l12									https://doi.org/10.1038/s41564-017-0008-3	
+alk				ueq/kg					https://doi.org/10.1038/s41564-017-0008-3	
+phos				umol/kg					https://doi.org/10.1038/s41564-017-0008-3	
+nit				umol/kg					https://doi.org/10.1038/s41564-017-0008-3	
+sil				umol/kg					https://doi.org/10.1038/s41564-017-0008-3	
+doc				umol/kg					https://doi.org/10.1038/s41564-017-0008-3	
+pc				umol/kg					https://doi.org/10.1038/s41564-017-0008-3	
+pn				umol/kg					https://doi.org/10.1038/s41564-017-0008-3	
+pp				nmol/kg					https://doi.org/10.1038/s41564-017-0008-3	
+lln				nmol/kg					https://doi.org/10.1038/s41564-017-0008-3	
+llp				nmol/kg					https://doi.org/10.1038/s41564-017-0008-3	
+chl				ug/l					https://doi.org/10.1038/s41564-017-0008-3	
+phaeo				ug/l					https://doi.org/10.1038/s41564-017-0008-3	
+chlplus				ng/l					https://doi.org/10.1038/s41564-017-0008-3	
+perid				ng/l					https://doi.org/10.1038/s41564-017-0008-3	
+but19				ng/l					https://doi.org/10.1038/s41564-017-0008-3	
+fuco				ng/l					https://doi.org/10.1038/s41564-017-0008-3	
+hex19				ng/l					https://doi.org/10.1038/s41564-017-0008-3	
+prasino				ng/l					https://doi.org/10.1038/s41564-017-0008-3	
+diadino				ng/l					https://doi.org/10.1038/s41564-017-0008-3	
+zeaxan				ng/l					https://doi.org/10.1038/s41564-017-0008-3	
+chlb				ng/l					https://doi.org/10.1038/s41564-017-0008-3	
+hplc				ng/l					https://doi.org/10.1038/s41564-017-0008-3	
+acar				ng/l					https://doi.org/10.1038/s41564-017-0008-3	
+bcar				ng/l					https://doi.org/10.1038/s41564-017-0008-3	
+caroten				ng/l					https://doi.org/10.1038/s41564-017-0008-3	
+chlda				ng/l					https://doi.org/10.1038/s41564-017-0008-3	
+viol				ng/l					https://doi.org/10.1038/s41564-017-0008-3	
+lutein				ng/l					https://doi.org/10.1038/s41564-017-0008-3	
+mvchla				ng/l					https://doi.org/10.1038/s41564-017-0008-3	
+dvchla				ng/l					https://doi.org/10.1038/s41564-017-0008-3	
+hbact				#*1e5/ml					https://doi.org/10.1038/s41564-017-0008-3	
+pbact				#*1e5/ml					https://doi.org/10.1038/s41564-017-0008-3	
+sbact				#*1e5/ml					https://doi.org/10.1038/s41564-017-0008-3	
+ebact				#*1e5/ml					https://doi.org/10.1038/s41564-017-0008-3	
+atp				ng/kg					https://doi.org/10.1038/s41564-017-0008-3	
+psi				nmol/kg					https://doi.org/10.1038/s41564-017-0008-3	
+l12				mg C/m3					https://doi.org/10.1038/s41564-017-0008-3	
 DCM position									https://doi.org/10.1038/s41564-017-0008-3	
-C-ARSC									https://doi.org/10.1038/s41564-017-0008-3	
-N-ARSC									https://doi.org/10.1038/s41564-017-0008-3	
-MW									https://doi.org/10.1038/s41564-017-0008-3	
-WIND_5									https://doi.org/10.1038/s41564-017-0008-3	
-RAIN_5									https://doi.org/10.1038/s41564-017-0008-3	
-SW_5									https://doi.org/10.1038/s41564-017-0008-3	
-WIND_30									https://doi.org/10.1038/s41564-017-0008-3	
-RAIN_30									https://doi.org/10.1038/s41564-017-0008-3	
-SW_30									https://doi.org/10.1038/s41564-017-0008-3	
