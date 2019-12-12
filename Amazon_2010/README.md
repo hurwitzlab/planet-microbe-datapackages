@@ -1,7 +1,5 @@
 # Amazon continuum datapackage
 
-############DATAPACKAGE IN PROGRESS DO NOT USE#################
-
 ## sample_NCBI
 Collects metadata associated to the amazon continuum metagenome in NCBI : https://www.ncbi.nlm.nih.gov/bioproject/237344
 
