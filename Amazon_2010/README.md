@@ -1,47 +1,29 @@
-# Amazon continuum datapackage
+# Amazon continuum 2010 datapackage
 
 ## sample_NCBI
-Collects metadata associated to the amazon continuum metagenome in NCBI : https://www.ncbi.nlm.nih.gov/bioproject/237344
+Collects metadata associated to the amazon continuum metagenome in NCBI : 
+- metagenomes: https://www.ncbi.nlm.nih.gov/bioproject/237344
+- polyA metatranscriptomes: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346
+- non-specific metatranscriptomes: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345
+Only samples collected during the first ANACONDA expedition (may-june 2010) were considered in this datapackage.
 
 #### Minor corrections were done in order to help the use of the metadata :
-  - biome attribute merged with env_biome
-  - collection_date normalized to a unique format (dd-mm-yyyy)
-  - feature attribute merged with env_feature
-  - material attribute merged with env_material
-  - isolation_source attribute merged with env_material
+  - collection_date normalized to a unique format (dd-mm-yyyy)  
+  - PAR measurements from the metagenomes were transformed from Em-2/sec into μEm-2/sec to be consistent with the metatranscriptomes.
+  - missing units from the metagenomes were derived from the metatranscriptomes
+  - The biome "surface seacater" was corrected into "large river delta biome"
+  - Biome, feature and material purls were added from ENVO
+  - the attributes "investigation type", "sequencing machine", "sequencing method", "target molecule" were removed because describing the experiments, not the samples.
+  - lat-long field was split into a lat and long attributes
+  - date field and time fields were reformated into standard format (dd-mm-yyyy and hh:mm)
+  - an ISO-DateTime field was created from date and time
 
-#### Additional corrections needed :
-  - PAR : has two units ("¬µEm-2sec-1"and "_Em-2sec-1")
-  - collection_time has no time zone information and some of them don't correspond to standard time format
-  - density has two units ("g/ml" and "kgm-2")
-  - diss-inorg-carb has three units ("umolC.kg", "µmol/kg", "_mol/kg")
-  - diss_oxy has two units ("¬µmol/kg", "_mol/kg")
-  - lat_long field needs to be standardized
-  - max_filter has three units ("¬µm","um" and "_m") 
-  - min_filter has three units ("¬µm","um" and "_m") 
-  - samp_volume : some samples don't have any unit reported
-  - surf_irradiance has two units ("¬µEM-2sec-1" and "_EM-2sec-1")
-  - Turbidity has some -999 (below detection limit ?)
+## sampling event
+This table was generated using the samples information. Briefly, unique sampling event where derived from the station number and the ISO-DateTime.
+Sampling event ID were generated as follow: "expeditionName_station_dateTime"
+The sampling event type "pump" was inferred from the collection description in Satinsky et al. 2014: https://doi.org/10.1186/2049-2618-2-17
 
-## others datasets left to add
-#### BCO-DMO (CTD and NISKIN) : http://www.bco-dmo.org/project/2097
+## campaign
+This table was inferred from information from the Rolling Deck repository.
 
-#### Cruise1 : june 2010 R/V Knorr (ANIO/KN197-08)
-	-Metadata in paper Satinsky et al. 2014 Micro Announc. https://microbiomejournal.biomedcentral.com/articles/10.1186/2049-2618-2-17#MOESM1
-	-Metagenomes: SRP039390
-	-MetaTranscriptome non selectif : SRP037995
-	-metatranscriptome polyA : SRP039544
 
-#### cruise2 : May 2011
-https://www.frontiersin.org/articles/10.3389/fmars.2017.00253/full#h8
-https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-015-0099-0#Ack1
-	-metagenomes : SRP039390
-	-metatranscriptomes : SRP037995
-
-#### cruise3 : Sept/oct 2011 R/V Melville (ANII/MV1110)
-
-#### cruise 4 : July 2012 R/V Atlantis
-
-#### other papers :
-	- Hilton et al 2014 ISME journal
-	- Doherty et al 2017 
