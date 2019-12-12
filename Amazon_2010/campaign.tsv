@@ -1,0 +1,2 @@
+campaign_expedition	expedition_URL	campaign_name	WOCE_ID	R2R_cruise_DOI	start_date	end_date	start_location	end_location	CCHDO url	BCO-DMO summary	BCO-DMO deployment	SAMOS URL	WHOI URL
+ANACONDA	http://amazoncontinuum.org/	AN10/KN197-08		https://doi.org/10.7284/900515	22-05-2010	24-06-2010	"Bridgetown, Barbados"	"Bridgetown, Barbados"			www.bco-dmo.org/deployment/58043	https://samos.coaps.fsu.edu/html/cruise_data_availability.php?submit=search&sort=overall&data=1&cruises%5b%5d=KN197-08	https://dla.whoi.edu/cruise-details/KN197-08

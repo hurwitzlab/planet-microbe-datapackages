@@ -29,13 +29,14 @@ Collects metadata associated to the amazon continuum metagenome in NCBI : https:
 #### BCO-DMO (CTD and NISKIN) : http://www.bco-dmo.org/project/2097
 
 #### Cruise1 : june 2010 R/V Knorr (ANIO/KN197-08)
-	-Metadata in paper Satinsky et al. 2014 Micro Announc.
+	-Metadata in paper Satinsky et al. 2014 Micro Announc. https://microbiomejournal.biomedcentral.com/articles/10.1186/2049-2618-2-17#MOESM1
 	-Metagenomes: SRP039390
 	-MetaTranscriptome non selectif : SRP037995
 	-metatranscriptome polyA : SRP039544
 
 #### cruise2 : May 2011
-	-Metadata in paper Satinsky et al. 2015 Micro Announc.
+https://www.frontiersin.org/articles/10.3389/fmars.2017.00253/full#h8
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-015-0099-0#Ack1
 	-metagenomes : SRP039390
 	-metatranscriptomes : SRP037995
 
