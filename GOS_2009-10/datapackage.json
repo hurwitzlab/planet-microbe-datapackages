@@ -48,8 +48,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "sample_Alias",
@@ -59,8 +58,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "ArchiveID_biosample",
@@ -70,8 +68,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Description",
@@ -81,8 +78,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "ENA checklist",
@@ -92,8 +88,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "INSDC center name",
@@ -103,8 +98,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "ArchiveID_SRAaccession",
@@ -114,8 +108,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "sample_name",
@@ -125,8 +118,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "upper_filtration_size",
@@ -136,8 +128,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000017",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "NCBI",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": "NCBI"
           },
           {
             "name": "lower_filtration_size",
@@ -147,8 +138,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000017",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "NCBI",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": "NCBI"
           },
           {
             "name": "ammonia",
@@ -158,8 +148,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "chlorophyll",
@@ -169,8 +158,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000132",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "collection_dateTime",
@@ -180,8 +168,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "depth",
@@ -191,8 +178,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "diss_oxygen",
@@ -202,8 +188,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000273",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "env_biome",
@@ -213,8 +198,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "purl_biome",
@@ -224,8 +208,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "env_feature",
@@ -235,8 +218,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "purl_feature",
@@ -246,8 +228,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "purl_feature2",
@@ -257,8 +238,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "env_material",
@@ -268,8 +248,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "purl_material",
@@ -279,8 +258,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "geo_loc_name",
@@ -290,8 +268,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "lat",
@@ -301,8 +278,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "lon",
@@ -312,8 +288,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "nitrate",
@@ -323,8 +298,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "nitrite",
@@ -334,8 +308,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "pH",
@@ -345,8 +318,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000196",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "phosphate",
@@ -356,8 +328,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "salinity",
@@ -367,8 +338,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000168",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "silicate",
@@ -378,8 +348,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "temp",
@@ -389,8 +358,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000027",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "total_depth_water_col",
@@ -400,8 +368,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "urea",
@@ -411,8 +378,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           }
         ],
         "primaryKey": "ArchiveID_biosample",
@@ -459,8 +425,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "ISO_dateTime",
@@ -470,8 +435,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "lon",
@@ -481,8 +445,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "lat",
@@ -492,8 +455,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "cruise_ID",
@@ -503,8 +465,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "cruise_expedition",
@@ -514,8 +475,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "sampling_event_type",
@@ -525,8 +485,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Station_name",
@@ -536,8 +495,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           }
         ],
         "primaryKey": "Sample_event_ID",

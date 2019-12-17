@@ -63,8 +63,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "start_ISO_dateTime",
@@ -74,8 +73,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "stop_ISO_dateTime",
@@ -85,8 +83,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "start_lat",
@@ -96,8 +93,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "stop_lat",
@@ -107,8 +103,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "start_lon",
@@ -118,8 +113,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "stop_lon",
@@ -129,8 +123,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Cruise_ID",
@@ -140,8 +133,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Station_name",
@@ -151,8 +143,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "sampling_event_type",
@@ -162,8 +153,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "cruise_expedition",
@@ -173,8 +163,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           }
         ],
         "primaryKey": "SampleID_Tara",
@@ -222,8 +211,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "SampleID_NCBI",
@@ -233,8 +221,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "SampleID_SRA",
@@ -244,8 +231,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Station label",
@@ -255,8 +241,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Event label",
@@ -266,8 +251,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Environmental feature",
@@ -277,8 +261,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Depth, nominal",
@@ -288,8 +271,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Size fraction, lower threshold",
@@ -299,8 +281,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000017",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Size fraction, upper threshold",
@@ -310,8 +291,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000017",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Sample material",
@@ -321,8 +301,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Sample method",
@@ -332,8 +311,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Sample code/label",
@@ -343,8 +321,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Distance",
@@ -354,8 +331,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Duration",
@@ -365,8 +341,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "File name",
@@ -376,8 +351,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Number of observations",
@@ -387,8 +361,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll c3_min",
@@ -398,8 +371,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll c3_first_quartile",
@@ -409,8 +381,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll c3_median",
@@ -420,8 +391,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll c3_third_quartile",
@@ -431,8 +401,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll c3_max",
@@ -442,8 +411,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll c1+c2_min",
@@ -453,8 +421,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll c1+c2_first_quartile",
@@ -464,8 +431,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll c1+c2_median",
@@ -475,8 +441,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll c1+c2_third_quartile",
@@ -486,8 +451,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll c1+c2_max",
@@ -497,8 +461,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyllide a_min",
@@ -508,8 +471,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyllide a_first_quartile",
@@ -519,8 +481,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyllide a_median",
@@ -530,8 +491,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyllide a_third_quartile",
@@ -541,8 +501,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyllide a_max",
@@ -552,8 +511,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Peridinin_min",
@@ -563,8 +521,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Peridinin_first_quartile",
@@ -574,8 +531,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Peridinin_median",
@@ -585,8 +541,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Peridinin_third_quartile",
@@ -596,8 +551,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Peridinin_max",
@@ -607,8 +561,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Phaeophorbide a_min",
@@ -618,8 +571,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Phaeophorbide a_first_quartile",
@@ -629,8 +581,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Phaeophorbide a_median",
@@ -640,8 +591,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Phaeophorbide a_third_quartile",
@@ -651,8 +601,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Phaeophorbide a_max",
@@ -662,8 +611,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "19-Butanoyloxyfucoxanthin_min",
@@ -673,8 +621,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "19-Butanoyloxyfucoxanthin_first_quartile",
@@ -684,8 +631,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "19-Butanoyloxyfucoxanthin_median",
@@ -695,8 +641,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "19-Butanoyloxyfucoxanthin_third_quartile",
@@ -706,8 +651,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "19-Butanoyloxyfucoxanthin_max",
@@ -717,8 +661,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Fucoxanthin_min",
@@ -728,8 +671,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Fucoxanthin_first_quartile",
@@ -739,8 +681,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Fucoxanthin_median",
@@ -750,8 +691,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Fucoxanthin_third_quartile",
@@ -761,8 +701,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Fucoxanthin_max",
@@ -772,8 +711,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Neoxanthin_min",
@@ -783,8 +721,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Neoxanthin_first_quartile",
@@ -794,8 +731,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Neoxanthin_median",
@@ -805,8 +741,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Neoxanthin_third_quartile",
@@ -816,8 +751,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Neoxanthin_max",
@@ -827,8 +761,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Prasinoxanthin_min",
@@ -838,8 +771,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Prasinoxanthin_first_quartile",
@@ -849,8 +781,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Prasinoxanthin_median",
@@ -860,8 +791,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Prasinoxanthin_third_quartile",
@@ -871,8 +801,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Prasinoxanthin_max",
@@ -882,8 +811,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Violaxanthin_min",
@@ -893,8 +821,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Violaxanthin_first_quartile",
@@ -904,8 +831,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Violaxanthin_median",
@@ -915,8 +841,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Violaxanthin_third_quartile",
@@ -926,8 +851,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Violaxanthin_max",
@@ -937,8 +861,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "19-Hexanoyloxyfucoxanthin_min",
@@ -948,8 +871,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "19-Hexanoyloxyfucoxanthin_first_quartile",
@@ -959,8 +881,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "19-Hexanoyloxyfucoxanthin_median",
@@ -970,8 +891,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "19-Hexanoyloxyfucoxanthin_third_quartile",
@@ -981,8 +901,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "19-Hexanoyloxyfucoxanthin_max",
@@ -992,8 +911,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Diadinoxanthin_min",
@@ -1003,8 +921,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Diadinoxanthin_first_quartile",
@@ -1014,8 +931,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Diadinoxanthin_median",
@@ -1025,8 +941,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Diadinoxanthin_third_quartile",
@@ -1036,8 +951,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Diadinoxanthin_max",
@@ -1047,8 +961,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Alloxanthin_min",
@@ -1058,8 +971,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Alloxanthin_first_quartile",
@@ -1069,8 +981,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Alloxanthin_median",
@@ -1080,8 +991,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Alloxanthin_third_quartile",
@@ -1091,8 +1001,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Alloxanthin_max",
@@ -1102,8 +1011,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Diatoxanthin_min",
@@ -1113,8 +1021,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Diatoxanthin_first_quartile",
@@ -1124,8 +1031,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Diatoxanthin_median",
@@ -1135,8 +1041,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Diatoxanthin_third_quartile",
@@ -1146,8 +1051,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Diatoxanthin_max",
@@ -1157,8 +1061,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Zeaxanthin_min",
@@ -1168,8 +1071,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Zeaxanthin_first_quartile",
@@ -1179,8 +1081,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Zeaxanthin_median",
@@ -1190,8 +1091,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Zeaxanthin_third_quartile",
@@ -1201,8 +1101,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Zeaxanthin_max",
@@ -1212,8 +1111,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Lutein_min",
@@ -1223,8 +1121,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Lutein_first_quartile",
@@ -1234,8 +1131,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Lutein_median",
@@ -1245,8 +1141,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Lutein_third_quartile",
@@ -1256,8 +1151,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Lutein_max",
@@ -1267,8 +1161,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Bacteriochlorophyll a_min",
@@ -1278,8 +1171,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Bacteriochlorophyll a_first_quartile",
@@ -1289,8 +1181,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Bacteriochlorophyll a_median",
@@ -1300,8 +1191,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Bacteriochlorophyll a_third_quartile",
@@ -1311,8 +1201,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Bacteriochlorophyll a_max",
@@ -1322,8 +1211,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Divinyl chlorophyll b_min",
@@ -1333,8 +1221,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Divinyl chlorophyll b_first_quartile",
@@ -1344,8 +1231,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Divinyl chlorophyll b_median",
@@ -1355,8 +1241,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Divinyl chlorophyll b_third_quartile",
@@ -1366,8 +1251,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Divinyl chlorophyll b_max",
@@ -1377,8 +1261,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll b_min",
@@ -1388,8 +1271,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll b_first_quartile",
@@ -1399,8 +1281,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll b_median",
@@ -1410,8 +1291,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll b_third_quartile",
@@ -1421,8 +1301,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll b_max",
@@ -1432,8 +1311,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll b plus divinyl chlorophyll b_min",
@@ -1443,8 +1321,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll b plus divinyl chlorophyll b_first_quartile",
@@ -1454,8 +1331,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll b plus divinyl chlorophyll b_median",
@@ -1465,8 +1341,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll b plus divinyl chlorophyll b_third_quartile",
@@ -1476,8 +1351,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll b plus divinyl chlorophyll b_max",
@@ -1487,8 +1361,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Divinyl chlorophyll a_min",
@@ -1498,8 +1371,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Divinyl chlorophyll a_first_quartile",
@@ -1509,8 +1381,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Divinyl chlorophyll a_median",
@@ -1520,8 +1391,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Divinyl chlorophyll a_third_quartile",
@@ -1531,8 +1401,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Divinyl chlorophyll a_max",
@@ -1542,8 +1411,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll a_min",
@@ -1553,8 +1421,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000132",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll a_first_quartile",
@@ -1564,8 +1431,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000132",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll a_median",
@@ -1575,8 +1441,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000132",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll a_third_quartile",
@@ -1586,8 +1451,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000132",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll a_max",
@@ -1597,8 +1461,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000132",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll a, total_min",
@@ -1608,8 +1471,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll a, total_first_quartile",
@@ -1619,8 +1481,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll a, total_median",
@@ -1630,8 +1491,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll a, total_third_quartile",
@@ -1641,8 +1501,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll a, total_max",
@@ -1652,8 +1511,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Phaeophytin a_min",
@@ -1663,8 +1521,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Phaeophytin a_first_quartile",
@@ -1674,8 +1531,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Phaeophytin a_median",
@@ -1685,8 +1541,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Phaeophytin a_third_quartile",
@@ -1696,8 +1551,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Phaeophytin a_max",
@@ -1707,8 +1561,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Carotene_min",
@@ -1718,8 +1571,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Carotene_first_quartile",
@@ -1729,8 +1581,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Carotene_median",
@@ -1740,8 +1591,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Carotene_third_quartile",
@@ -1751,8 +1601,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Carotene_max",
@@ -1762,8 +1611,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875569",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           }
         ],
         "primaryKey": "SampleID_Tara",
@@ -1811,8 +1659,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "SampleID_NCBI",
@@ -1822,8 +1669,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "SampleID_SRA",
@@ -1833,8 +1679,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Station label",
@@ -1844,8 +1689,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Event label",
@@ -1855,8 +1699,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Environmental feature",
@@ -1866,8 +1709,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Depth, nominal",
@@ -1877,8 +1719,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Size fraction, lower threshold",
@@ -1888,8 +1729,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000017",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Size fraction, upper threshold",
@@ -1899,8 +1739,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000017",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Sample material",
@@ -1910,8 +1749,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Sample method",
@@ -1921,8 +1759,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Sample code/label",
@@ -1932,8 +1769,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.875582",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "File name",
@@ -1943,8 +1779,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875575",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Distance",
@@ -1954,8 +1789,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875575",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Duration(ISO)",
@@ -1965,8 +1799,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875575",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Number of observations",
@@ -1976,8 +1809,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875575",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Nitrite_min",
@@ -1987,8 +1819,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875575",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Nitrite_first_quartile",
@@ -1998,8 +1829,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875575",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Nitrite_median",
@@ -2009,8 +1839,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875575",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Nitrite_third_quartile",
@@ -2020,8 +1849,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875575",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Nitrite_max",
@@ -2031,8 +1859,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875575",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Phosphate_min",
@@ -2042,8 +1869,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875575",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Phosphate_first_quartile",
@@ -2053,8 +1879,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875575",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Phosphate_median",
@@ -2064,8 +1889,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875575",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Phosphate_third_quartile",
@@ -2075,8 +1899,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875575",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Phosphate_max",
@@ -2086,8 +1909,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875575",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Nitrate and Nitrite_min",
@@ -2097,8 +1919,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875575",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Nitrate and Nitrite_first_quartile",
@@ -2108,8 +1929,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875575",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Nitrate and Nitrite_median",
@@ -2119,8 +1939,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875575",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Nitrate and Nitrite_third_quartile",
@@ -2130,8 +1949,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875575",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Nitrate and Nitrite_max",
@@ -2141,8 +1959,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875575",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Silicate_min",
@@ -2152,8 +1969,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875575",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Silicate_first_quartile",
@@ -2163,8 +1979,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875575",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Silicate_median",
@@ -2174,8 +1989,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875575",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Silicate_third_quartile",
@@ -2185,8 +1999,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875575",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Silicate_max",
@@ -2196,8 +2009,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875575",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           }
         ],
         "primaryKey": "SampleID_Tara",
@@ -2245,8 +2057,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "expedition_url",
@@ -2256,8 +2067,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "campaign_name",
@@ -2267,8 +2077,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "start_date",
@@ -2278,8 +2087,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "end_date",
@@ -2289,8 +2097,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "start_location",
@@ -2300,8 +2107,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "end_location",
@@ -2311,8 +2117,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "URL file",
@@ -2322,8 +2127,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "URL PANGAEA",
@@ -2333,8 +2137,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "URL ENA",
@@ -2344,8 +2147,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           }
         ],
         "primaryKey": "campaign_name",
@@ -2384,8 +2186,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "BioSample",
@@ -2395,8 +2196,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Chlorophyll Sensor",
@@ -2406,8 +2206,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000132",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Depth",
@@ -2417,8 +2216,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Description",
@@ -2428,8 +2226,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "ENA checklist",
@@ -2439,8 +2236,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Environment (Biome)",
@@ -2450,8 +2246,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/173486",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "purl_biome",
@@ -2461,8 +2256,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Environment (Feature)",
@@ -2472,8 +2266,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/173486",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "purl_feature",
@@ -2483,8 +2276,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Environment (Material)",
@@ -2494,8 +2286,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/173486",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "purl_material",
@@ -2505,8 +2296,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "purl_material2",
@@ -2516,8 +2306,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Environmental Package",
@@ -2527,8 +2316,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Event Date/Time End",
@@ -2538,8 +2326,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Event Date/Time Start",
@@ -2549,8 +2336,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Event Label",
@@ -2560,8 +2346,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "INSDC center alias",
@@ -2571,8 +2356,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "INSDC center name",
@@ -2582,8 +2366,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "INSDC first public",
@@ -2593,8 +2376,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "INSDC last update",
@@ -2604,8 +2386,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "INSDC status",
@@ -2615,8 +2396,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Last Update Date",
@@ -2626,8 +2406,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Latitude End",
@@ -2637,8 +2416,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Latitude Start",
@@ -2648,8 +2426,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Longitude End",
@@ -2659,8 +2436,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Longitude Start",
@@ -2670,8 +2446,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Marine Region",
@@ -2681,8 +2456,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Nitrate Sensor",
@@ -2692,8 +2466,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Oxygen Sensor",
@@ -2703,8 +2476,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Project Name",
@@ -2714,8 +2486,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Protocol Label",
@@ -2725,8 +2496,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "SRA accession",
@@ -2736,8 +2506,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Salinity Sensor",
@@ -2747,8 +2516,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000037",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Sample Collection Device",
@@ -2758,8 +2526,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Sample Name",
@@ -2769,8 +2536,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Sampling Campaign",
@@ -2780,8 +2546,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Sampling Platform",
@@ -2791,8 +2556,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Sampling Station",
@@ -2802,8 +2566,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Size Fraction Lower Threshold",
@@ -2813,8 +2576,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000017",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Size Fraction Upper Threshold",
@@ -2824,8 +2586,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000017",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Temperature",
@@ -2835,8 +2596,7 @@
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000027",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": true
+            "pm:measurementSourceProtocolUrl": ""
           },
           {
             "name": "Title",
@@ -2846,8 +2606,7 @@
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": "",
-            "pm:searchable": false
+            "pm:measurementSourceProtocolUrl": ""
           }
         ],
         "primaryKey": "SampleID_Tara",
