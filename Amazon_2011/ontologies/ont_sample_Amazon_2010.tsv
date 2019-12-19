@@ -1,0 +1,25 @@
+parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type
+sampling_event_ID									https://www.ncbi.nlm.nih.gov/bioproject/237344	
+BioSample									https://www.ncbi.nlm.nih.gov/bioproject/237344	
+SRA									https://www.ncbi.nlm.nih.gov/bioproject/237344	
+Sample name									https://www.ncbi.nlm.nih.gov/bioproject/237344	
+bacterial_count				cells/mL					https://www.ncbi.nlm.nih.gov/bioproject/237344	
+chlorophyll				 ug/L					https://www.ncbi.nlm.nih.gov/bioproject/237344	
+collection_date				dd-mm-yyyy					https://www.ncbi.nlm.nih.gov/bioproject/237344	
+conduc				uS/cm					https://www.ncbi.nlm.nih.gov/bioproject/237344	
+depth				m					https://www.ncbi.nlm.nih.gov/bioproject/237344	
+diss_inorg_carb				 umol C/kg					https://www.ncbi.nlm.nih.gov/bioproject/237344	
+env_biome										
+purl_biome									https://www.ncbi.nlm.nih.gov/bioproject/237344	
+env_feature									https://www.ncbi.nlm.nih.gov/bioproject/237344	
+purl_feature									https://www.ncbi.nlm.nih.gov/bioproject/237344	
+env_material									https://www.ncbi.nlm.nih.gov/bioproject/237344	
+purl_material									https://www.ncbi.nlm.nih.gov/bioproject/237344	
+geo_loc_name									https://www.ncbi.nlm.nih.gov/bioproject/237344	
+lat									https://www.ncbi.nlm.nih.gov/bioproject/237344	
+lon										
+max_filter_size				um					https://www.ncbi.nlm.nih.gov/bioproject/237344	
+min_filter_size				um						
+samp_volume				L					https://www.ncbi.nlm.nih.gov/bioproject/237344	
+site_name									https://www.ncbi.nlm.nih.gov/bioproject/237344	
+std_norm_factor									https://www.ncbi.nlm.nih.gov/bioproject/237344	

@@ -12,6 +12,7 @@ Only samples collected during the first ANACONDA expedition (may-june 2010) were
   - PAR measurements from the metagenomes were transformed from Em-2/sec into μEm-2/sec to be consistent with the metatranscriptomes.
   - missing units from the metagenomes were derived from the metatranscriptomes
   - The biome "surface seacater" was corrected into "large river delta biome"
+  - The feature "large river Plume" was corrected into "river"
   - Biome, feature and material purls were added from ENVO
   - the attributes "investigation type", "sequencing machine", "sequencing method", "target molecule" were removed because describing the experiments, not the samples.
   - lat-long field was split into a lat and long attributes

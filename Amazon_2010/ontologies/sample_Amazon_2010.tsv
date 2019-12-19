@@ -1,5 +1,5 @@
 parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type
-BioProject									https://www.ncbi.nlm.nih.gov/bioproject/237344	
+Sampling_event_ID										
 BioSample									https://www.ncbi.nlm.nih.gov/bioproject/237344	
 PAR				_Em-2sec-1					https://www.ncbi.nlm.nih.gov/bioproject/237344	
 SRA									https://www.ncbi.nlm.nih.gov/bioproject/237344	
