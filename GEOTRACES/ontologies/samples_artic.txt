@@ -1,0 +1,34 @@
+parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
+Sampling_EventID											
+sample_name									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+BioSample									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+Depth				m					https://www.ncbi.nlm.nih.gov/bioproject/324018		
+Description									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+ENA checklist									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+Date									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+Event Date/Time									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+Latitude End									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+Latitude Start									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+Longitude End									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+Longitude Start									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+Marine Region									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+Protocol Label									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+SRA accession									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+Salinity									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+Sample Name									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+Sampling Campaign									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+Sampling Platform									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+Sampling Site									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+Temperature				¡C					https://www.ncbi.nlm.nih.gov/bioproject/324018		
+environment (biome)									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+purl_biome											
+environment (feature)									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+purl_feature											
+environment (material)									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+purl_material											
+event label									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+nitrate sensor									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+oxygen sensor									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+sample collection device									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+sample site									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+size fraction lower threshold				um					https://www.ncbi.nlm.nih.gov/bioproject/324018		
