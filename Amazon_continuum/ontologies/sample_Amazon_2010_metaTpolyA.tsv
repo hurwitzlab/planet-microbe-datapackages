@@ -1,0 +1,41 @@
+parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type
+Sampling_event_ID										
+BioSample									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+PAR				_Em-2sec-1					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+SRA									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+Sample name									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+bacteria_carb_prod				pmol leu/L/hr					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+beam_atten				m-1					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+beam_trans				pct					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+collection_date				dd-mm-yyyy					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+collection_time									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+ISO_DateTime										
+corr_irradiance									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+density				 kgm-2					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+depth				m					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+diss_inorg_carb				_mol/kg					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+diss_oxy				_mol/kg					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+env_biome									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+biome_purl										
+env_feature									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+feature_purl										
+env_material									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+feature_material										
+env_package									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+fluorescence				mgm-3					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+geo_loc_name									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+lat				DD					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+lon				DD						
+max_filter_size				_m					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+min_filter_size				_m					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+oxy_sat				pct					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+pressure				Db					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+salinity				PSU					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+samp_volume				 L					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+sampling_cruise									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+sigma-theta									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+site_name									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+std_norm_factor									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+surf_irradiance				_Em-2sec-1					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+temp				C					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+turbidity				NTU					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
