@@ -4,22 +4,15 @@ GEOTRACES datapackage
 
 # NCBI Data
 - Marine metagenomes : https://www.ncbi.nlm.nih.gov/bioproject/385854    
-- Artic metagenomes : https://www.ncbi.nlm.nih.gov/bioproject/324018 
-
-## Issues to solve :
-- Some Undefined lat/long and depth/time in the Artic dataset and no Bottle ID to map to the GEOTRACES database
-- a sample has "Niskin" as sampling method but "sea ice" as material...
 
 ## corrections to the datasets
 ### Marine metagenomes:
 - lat/long corrected into two fields
 - purl biome/features/material added
-### Artic metagenomes:
-- removed sequencing method and platform
-- merged "sampling site" and "sampling station"
-- sample with missing depth inferred from description
-- removed samples that contained assemblies submitted as samples
-- merged "Title" and "description"
-- merged "marine region" and "location"
-- "melt pond" was changed from "material" to "feature" and the material field was corrected to "seawater"
 
+# GEOTRACE Discrete dataset
+The "discrete sample data v2" from GEOTRACES dataset was downloaded from the GEOTRACES database https://webodv.awi.de/geotraces
+This dataset was connected to the NCBI dataset using the BODC Bottle ID, except for the cruise 'SS2011' for which such identifier was not provided. For this cruise, the samples where reconected to their metagenome using the "Station", "Cast identifier" and the "Niskin number".
+
+## corrections to the datasets
+-The longitude was corrected to be expressed in DD (if the measure was above 180, we substracted 360)
