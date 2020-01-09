@@ -2248,7 +2248,7 @@
             "name": "depth",
             "type": "number",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
+            "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
             "pm:sourceUrl": "https://www.nature.com/articles/ismej2015221",
             "pm:measurementSourceRdfType": "",
