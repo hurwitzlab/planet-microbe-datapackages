@@ -1,4 +1,4 @@
-SamplingEvent_ID	cruise_id	Section	Station	dateTime	Longitude [degrees_east]	Latitude [degrees_north]	Sampling Device
+SamplingEvent_ID	Cruise	Section	Station	dateTime	Longitude [degrees_east]	Latitude [degrees_north]	Sampling Device
 CTD_10_02_ROS_2010-05-10T10:40:28	PE319	GA02	10	2010-05-10T10:40:28	-42.4469	49.722	CTD
 CTD_11_02_ROS_2010-05-11T15:01:29	PE319	GA02	11	2010-05-11T15:01:29	-39.39951	47.8	CTD
 CTD_12_02_ROS_2010-05-12T18:57:00	PE319	GA02	12	2010-05-12T18:57:00	-39.65839	46.3119	CTD

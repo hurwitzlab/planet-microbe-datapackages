@@ -1123,26 +1123,6 @@
             "pm:measurementSourceProtocolUrl": ""
           },
           {
-            "name": "depth_max",
-            "type": "number",
-            "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000052",
-            "pm:unitRdfType": "",
-            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
-            "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": ""
-          },
-          {
-            "name": "pres_max",
-            "type": "number",
-            "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000053",
-            "pm:unitRdfType": "",
-            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
-            "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": ""
-          },
-          {
             "name": "Date",
             "type": "string",
             "format": "default",
@@ -1194,16 +1174,6 @@
           },
           {
             "name": "nav_code",
-            "type": "string",
-            "format": "default",
-            "rdfType": "",
-            "pm:unitRdfType": "",
-            "pm:sourceUrl": "",
-            "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": ""
-          },
-          {
-            "name": "depth_hgt",
             "type": "string",
             "format": "default",
             "rdfType": "",
@@ -1433,26 +1403,6 @@
             "pm:measurementSourceProtocolUrl": ""
           },
           {
-            "name": "cast2_depth_max",
-            "type": "number",
-            "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000052",
-            "pm:unitRdfType": "",
-            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
-            "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": ""
-          },
-          {
-            "name": "cast2_pres_max",
-            "type": "number",
-            "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000053",
-            "pm:unitRdfType": "",
-            "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
-            "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": ""
-          },
-          {
             "name": "cast2_Date",
             "type": "string",
             "format": "default",
@@ -1494,16 +1444,6 @@
           },
           {
             "name": "cast2_nav_code",
-            "type": "string",
-            "format": "default",
-            "rdfType": "",
-            "pm:unitRdfType": "",
-            "pm:sourceUrl": "",
-            "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": ""
-          },
-          {
-            "name": "cast2_depth_hgt",
             "type": "string",
             "format": "default",
             "rdfType": "",
