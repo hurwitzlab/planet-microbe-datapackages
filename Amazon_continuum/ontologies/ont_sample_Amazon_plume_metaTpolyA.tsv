@@ -1,7 +1,7 @@
 parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type
 Sampling_event_ID										
 BioSample									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
-PAR				_Em-2sec-1					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
+PAR				 µEm-2sec-1					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
 SRA									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
 Sample name									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	
 bacteria_carb_prod				pmol leu/L/hr					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	

@@ -1,7 +1,7 @@
 parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type
 Sampling_event_ID										
 BioSample									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
-PAR				_Em-2sec-1					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
+PAR				µEm-2sec-1					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
 SRA									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
 Sample name									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
 bacteria_carb_prod				pmol leu/L/hr					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
@@ -11,7 +11,7 @@ collection_date				dd-mm-yyyy					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA2
 collection_time									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
 ISO_DateTime										
 corr_irradiance									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
-density				 kgm-2					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
+density				 kg/m-3					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
 depth				m					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
 diss_inorg_carb				_mol/kg					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
 diss_oxy				_mol/kg					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
