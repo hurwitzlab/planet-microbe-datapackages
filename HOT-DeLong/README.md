@@ -22,6 +22,7 @@ Collects metadata from the closest CTD and Niskin record for each samples. These
   - Load BCO-DMO CTD dataset, convert the "CTDPRS" of the CTD records into an "infered_depth" using the following formula  [see Fofonoff & Millard, 1983: UNESCO]
   - Retrieve CTD records with a matching "cruise_name", "station", and "cast" as the sample.
   - For the selected CTD records, finds the closest "inferred_depth" as the sample "depth". If no record is found in a given range (set as 5m), the sample is considered to have no closest CTD record.
+  - information about the cast and not the sample (cast maximum depth and pressure) where removed from the samples_CTD_BCO-DMO table
 
 The script is available in scripts/map_ctd_metagenomes.py
 
@@ -32,6 +33,7 @@ The script is available in scripts/map_ctd_metagenomes.py
 Additional minor corrections were performed on the BCO-DMO CTD and Niskin record for increased readability :
   - The "ISO_DateTime" and "timecode" were combined in "start ISO_DateTime".
   - The "cruise_name" from BCO-DMO was transformed to be consistant with the name displayed in NCBI (e.g. '154' is transformed to 'HOT154')
+  - information about the cast and not the sample (cast maximum depth and pressure) where removed from the samples_CTD_BCO-DMO table
 
 ## sampling_events
 A sampling event table was generated from the sample tables. A sampling-event is defined as a unique "cast" and "station" and "cruise_name". The "start_ISO_DateTime", "latitude", "longitude" and "cruise_ID" were retrieved from BCO-DMO.

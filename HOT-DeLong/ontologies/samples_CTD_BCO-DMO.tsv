@@ -13,15 +13,12 @@ Day
 timeutc											
 lon	longitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001621	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185				"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6"	number	default
 lat	latitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001620	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185				"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6"	number	default
-depth_max	maximum depth of water collected during specimen collection process	http://purl.obolibrary.org/obo/PMO_00000052	FALSE						"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6"	number	
-pres_max	maximum pressure of water collected during specimen collection process	http://purl.obolibrary.org/obo/PMO_00000053	FALSE						"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6"	number	
 Date											
 HOT_summary_file_name	Summary File Name	http://purl.obolibrary.org/obo/PMO_00000063	FALSE						"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6"	string	
 parameters											
 num_bottles	number of niskin bottles deployed during speciment collection process event	http://purl.obolibrary.org/obo/PMO_00000051	FALSE						"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6"	number	
 section											
 nav_code											
-depth_hgt											
 EXPOCODE											
 Ship	sampling expedition project investigation and leg identifier	http://purl.obolibrary.org/obo/PMO_00000065	FALSE						"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6"	string	
 comments	comment on investigation	http://purl.obolibrary.org/obo/PMO_00000075	FALSE						"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6"	string	
