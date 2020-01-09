@@ -28,6 +28,7 @@ Minor corrections were performed on the BCO-DMO dataset:
   - Load BCO-DMO CTD dataset, convert the "CTDPRS" of the CTD records into an "infered_depth" using the following formula  [see Fofonoff & Millard, 1983: UNESCO]
   - Retrieve CTD records with a matching "cruise_name", "station", and "cast" as the sample.
   - For the selected CTD records, finds the closest "inferred_depth" as the sample "depth". If no record is found in a given range (set as 5m), the sample is considered to have no closest CTD record.
+  - information about the cast and not the sample (cast maximum depth and pressure) where removed from the samples_CTD_BCO-DMO table
 
 The script is available in scripts/map_ctd_metagenomes.py
 
