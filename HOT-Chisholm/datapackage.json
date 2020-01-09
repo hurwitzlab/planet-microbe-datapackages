@@ -1713,7 +1713,7 @@
             "name": "start_ISO_DateTime",
             "type": "datetime",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
+            "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?",
             "pm:measurementSourceRdfType": "",
