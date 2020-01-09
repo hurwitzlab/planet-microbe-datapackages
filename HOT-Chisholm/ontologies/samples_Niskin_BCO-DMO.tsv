@@ -16,9 +16,6 @@ timeutc
 lon	latitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001620	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185				"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?"	number	
 lat	longitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001621	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185				"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?"	number	
 nav_code											
-depth_max	maximum depth of water collected during specimen collection process	http://purl.obolibrary.org/obo/PMO_00000052	FALSE						"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?"	number	
-pres_max	maximum pressure of water collected during specimen collection process	http://purl.obolibrary.org/obo/PMO_00000053	FALSE						"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?"	number	
-depth_hgt											
 parameters											
 comments	comment on investigation	http://purl.obolibrary.org/obo/PMO_00000075	FALSE						"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?"	string	
 HOT_summary_file_name	Summary File Name	http://purl.obolibrary.org/obo/PMO_00000063	FALSE						"http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?"	string	
