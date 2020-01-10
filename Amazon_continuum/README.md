@@ -12,6 +12,7 @@ The "River" tables contain the samples collected during the May 2011 amazon rive
   - collection_date normalized to a unique format (dd-mm-yyyy)  
   - PAR measurements from the metagenomes were transformed from Em-2/sec into μEm-2/sec to be consistent with the metatranscriptomes.
   - for the AT21-04 samples, the density was converted from g/ml into kg/m-3
+  - for some AT21-04 samples, the date was incorrectly set to 2016, and was corrected to 2012
   - missing units from the metagenomes were derived from the metatranscriptomes
   - The biome "surface seacater" was corrected into "large river delta biome"
   - The feature "large river Plume" was corrected into "river"
