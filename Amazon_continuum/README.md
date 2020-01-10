@@ -6,7 +6,7 @@ Collects metadata associated to the amazon continuum metagenome in NCBI :
 - polyA metatranscriptomes: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346
 - non-specific metatranscriptomes: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345  
 The "Plume" tables contain the KN197-08 expedition (may-june 2010) and the AT21-04.
-The "River" tables contain the samples collected during the May 2011 amazon river.
+The "River" tables contain the samples collected during the May 2011 amazon river and 2012 amazon river samples.
 
 #### Minor corrections were done in order to help the use of the metadata :
   - collection_date normalized to a unique format (dd-mm-yyyy)  
@@ -29,7 +29,7 @@ For the KN197-08 and AT21-04 expedition, the Sampling event ID were generated as
 The sampling event type "pump" was inferred from the collection description in Satinsky et al. 2014: https://doi.org/10.1186/2049-2618-2-17
 
 For the second expedition, the Sampling event ID were generated as follow: "expeditionName_station_date_sampledVolume"
-The sampling event type "pump" was inferred from the collection description in XXX
+The sampling event type "pump" was inferred from personnal discussion with the corresponding authors of Satinsky et al. 2015: https://doi.org/10.1186/s40168-015-0099-0
 
 ## campaign
 This table was inferred from information from the Rolling Deck repository.
