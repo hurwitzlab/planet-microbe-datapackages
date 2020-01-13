@@ -1,0 +1,32 @@
+parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
+samplingEvent_ID									https://doi.org/10.1038/ismej.2015.248		
+BioSample_ID									https://doi.org/10.1038/ismej.2015.248		
+BioProjectID									https://doi.org/10.1038/ismej.2015.248		
+lat				DD					https://doi.org/10.1038/ismej.2015.248		
+lon				DD					https://doi.org/10.1038/ismej.2015.248		
+ph									https://doi.org/10.1038/ismej.2015.248		
+calcium				mM					https://doi.org/10.1038/ismej.2015.248		
+magnesium				mM					https://doi.org/10.1038/ismej.2015.248		
+potassium				mM					https://doi.org/10.1038/ismej.2015.248		
+sodium				mM					https://doi.org/10.1038/ismej.2015.248		
+chloride				mM					https://doi.org/10.1038/ismej.2015.248		
+bromide				mM					https://doi.org/10.1038/ismej.2015.248		
+silicate				_M					https://doi.org/10.1038/ismej.2015.248		
+ammonium				_M					https://doi.org/10.1038/ismej.2015.248		
+phosphate				_M					https://doi.org/10.1038/ismej.2015.248		
+nitrite				_M					https://doi.org/10.1038/ismej.2015.248		
+nitrate				_M					https://doi.org/10.1038/ismej.2015.248		
+nitrite_and_nitrate				_M					https://doi.org/10.1038/ismej.2015.248		
+sulfate				mM					https://doi.org/10.1038/ismej.2015.248		
+dissolved_iron				_M					https://doi.org/10.1038/ismej.2015.248		
+total_iron				_M					https://doi.org/10.1038/ismej.2015.248		
+Mn2plus				_M					https://doi.org/10.1038/ismej.2015.248		
+dissolved_hydrogen_sulfide									https://doi.org/10.1038/ismej.2015.248		
+dissolved_organic_carbon				_M					https://doi.org/10.1038/ismej.2015.248		
+TDN				_M					https://doi.org/10.1038/ismej.2015.248		
+alkalinity				meq/L					https://doi.org/10.1038/ismej.2015.248		
+microbial_cell_abundance				Cells/ml					https://doi.org/10.1038/ismej.2015.248		
+sample_name									https://doi.org/10.1038/ismej.2015.248		
+description									https://doi.org/10.1038/ismej.2015.248		
+collection_date				dd-mm-yyyy					https://doi.org/10.1038/ismej.2015.248		
+depth				m					https://doi.org/10.1038/ismej.2015.248		

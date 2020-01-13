@@ -1,0 +1,16 @@
+parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
+samplingEvent_ID									https://www.ncbi.nlm.nih.gov/bioproject/268250		
+BioSample									https://www.ncbi.nlm.nih.gov/bioproject/268250		
+SRA									https://www.ncbi.nlm.nih.gov/bioproject/268250		
+Sample name									https://www.ncbi.nlm.nih.gov/bioproject/268250		
+collection_date				dd-mm-yyyy					https://www.ncbi.nlm.nih.gov/bioproject/268250		
+depth				m					https://www.ncbi.nlm.nih.gov/bioproject/268250		
+env_biome									https://www.ncbi.nlm.nih.gov/bioproject/268250		
+purl_biome											
+env_feature									https://www.ncbi.nlm.nih.gov/bioproject/268250		
+purl_feature											
+env_material									https://www.ncbi.nlm.nih.gov/bioproject/268250		
+purl_material											
+geo_loc_name									https://www.ncbi.nlm.nih.gov/bioproject/268250		
+lat				DD					https://www.ncbi.nlm.nih.gov/bioproject/268250		
+Lon				DD					https://www.ncbi.nlm.nih.gov/bioproject/268250		

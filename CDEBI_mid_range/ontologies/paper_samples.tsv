@@ -1,0 +1,6 @@
+parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
+samplingEvent_ID									https://doi.org/10.1038/ismej.2015.248		
+BioSample_ID									https://doi.org/10.1038/ismej.2015.248		
+sample_name									https://doi.org/10.1038/ismej.2015.248		
+Volume_sampled				L					https://doi.org/10.1038/ismej.2015.248		
+location									https://doi.org/10.1038/ismej.2015.248		
