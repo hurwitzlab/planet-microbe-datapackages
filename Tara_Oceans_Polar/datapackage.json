@@ -2613,6 +2613,16 @@
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "environment (feature) further details",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
           }
         ],
         "primaryKey": "SampleID_Tara",
