@@ -2205,6 +2205,16 @@
             "pm:measurementSourceProtocolUrl": ""
           },
           {
+            "name": "Citation",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
             "name": "Depth",
             "type": "number",
             "format": "default",
