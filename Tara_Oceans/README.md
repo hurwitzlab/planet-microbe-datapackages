@@ -68,6 +68,8 @@ SAMEA2622624
 SAMEA2622619
 SAMEA2622614  
 - AHX, ARD_2, ARG : for the Sample SAMEA2657086, the longitude-end was corrected from -95.9893 to -59.9893
+- APY : The range-depth sample TARA_B100002029 (NCBI: SAMEA2623919, event_ID:TARA_20120319T1848Z_152_EVENT_CAST) was removed
+- ARG : The range-depth samples TARA_A100000810 (NCBI:SAMEA2731305,	event_ID:TARA_20091111T1827Z_019_EVENT_NET) and TARA_A100000693	(NCBI:SAMEA2731098, event_ID:TARA_20091115T1031Z_021_EVENT_NET) were removed
 
 ### issues left to solve all packages
 - sensors reporting 99999 when below/not detected
