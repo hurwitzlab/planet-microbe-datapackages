@@ -3,7 +3,7 @@
     "pm": "http://purl.obolibrary.org/obo/PMO_00000000"
   },
   "profile": "tabular-data-package",
-  "name": "Tara Polar Circle Expedition",
+  "name": "tara_polar_circle_expedition",
   "title": "Tara Polar Circle Expedition",
   "description": "Tara Oceans Polar Circle. A scientific adventure lasting seven months and traveling 25,000kms around the Arctic Ocean via the Northeast and Northwest passages. Supported by the CNRS, CEA, EMBL and other private and public partners, this mission unites biologists and oceanographers. They will focus on plankton biodiversity in the Arctic and other specific issues in this region susceptible to climate changes, at a time when we are witnessing an accelerated summer melting of Arctic sea ice.",
   "pm:projectType": "marine metagenome",
@@ -35,10 +35,16 @@
       "path": "https://doi.pangaea.de/10.1594/PANGAEA.836319"
     }
   ],
-  "licenses": "https://creativecommons.org/licenses/by/3.0/",
+  "licenses": [
+    {
+      "name": "CC-BY-3.0",
+      "title": "Creative Commons Attribution 3.0 Unported",
+      "path": "https://creativecommons.org/licenses/by/3.0/"
+    }
+  ],
   "resources": [
     {
-      "name": "sampling_events_BNA",
+      "name": "sampling_events_bna",
       "title": "sampling_events dataset",
       "description": "Sampling events associated with the Tara Oceans Expedition (2009-2013).",
       "profile": "tabular-data-resource",
@@ -186,7 +192,7 @@
       }
     },
     {
-      "name": "TARA_samples_HPLC_PANGEA_BNA",
+      "name": "tara_samples_hplc_pangea_bna",
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature",
       "description": "Guidi, Lionel; Ras, Josephine; Claustre, Hervé; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875569, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
@@ -1634,7 +1640,7 @@
       }
     },
     {
-      "name": "TARA_samples_nutrients_PANGEA_BNA",
+      "name": "tara_samples_nutrients_pangea_bna",
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about nutrients in the targeted environmental feature",
       "description": "Guidi, Lionel; Morin, Pascal; Coppola, Laurent; Tremblay, Jean-Éric; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about nutrients in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875575, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
@@ -2032,7 +2038,7 @@
       }
     },
     {
-      "name": "campaign_BNA",
+      "name": "campaign_bna",
       "title": "Campaign information for Tara Oceans Expedition (2009-2013)",
       "description": "The Tara Oceans Expedition (2009-2013) sampled the world oceans on board a 36 m long schooner, collecting environmental data and organisms from viruses to planktonic metazoans for later analyses using modern sequencing and state-of-the-art imaging technologies. Tara Oceans Data are particularly suited to study the genetic, morphological and functional diversity of plankton.",
       "profile": "tabular-data-resource",
@@ -2161,7 +2167,7 @@
       }
     },
     {
-      "name": "sample_NCBI_BNA",
+      "name": "sample_ncbi_bna",
       "title": "Shotgun Sequencing of Tara Oceans Polar Circle DNA samples corresponding to size fractions for small DNA viruses",
       "description": "Analysis of the genes and genomes present in Tara Oceans Polar Circle virus size fractions through shotgun DNA sequencing. Seawater from different depths was precipitaded then filtered to retain small particle sizes (Virus particles). The DNA was extracted and submitted to high throughput sequencing.",
       "profile": "tabular-data-resource",
