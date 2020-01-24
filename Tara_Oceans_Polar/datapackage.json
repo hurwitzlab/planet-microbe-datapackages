@@ -2355,6 +2355,16 @@
             "pm:measurementSourceProtocolUrl": ""
           },
           {
+            "name": "Further Details",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/213098",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
             "name": "INSDC center alias",
             "type": "string",
             "format": "default",
