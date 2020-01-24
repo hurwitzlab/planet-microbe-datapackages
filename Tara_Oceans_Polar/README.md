@@ -27,6 +27,7 @@ https://www.ncbi.nlm.nih.gov/bioproject/288560
 - The "marine epipelagic mixed layer (ENVO:xxxxxxxxx)" feature annotation was corrected as "marine wind mixed layer"
 - The "water layer with no specific feature" feature annotation was removed
 - The "filtered seawater (ENVO:xxxxxxxxx)" material annotation was corrected to "seawater"
+- Range depth samples were removed (TARA_R110002094	SAMEA4397409 TARA_20130711T0613Z_175_Combined-EVENTS_CAST and TARA_R110002074	SAMEA4397215 TARA_20130702T0424Z_168_Combined-EVENTS_CAST)
 
 #### issues to solves
 - sensors reporting 99999 when below/not detected
