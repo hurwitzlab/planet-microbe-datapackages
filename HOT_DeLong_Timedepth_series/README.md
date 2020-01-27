@@ -42,7 +42,7 @@ Collects information from the supplemental material of the published paper: http
 
 Minor corrections were performed on the dataset:
 - Data columns C-ARSC, N-ARSC, MW, WIND_5, RAIN_5, SW_5, WIND_30, RAIN_30, SW_30 were not included.
-- Fields `heterotrophic bacteria cell counts`, `Prochlorococcus cell counts`, `Synechococcus cell counts`,	`Picoeukaryote cell counts` were multiplied as to be reported in `#/ml` rather than `#*1e5/ml`.
+- Fields `hbact`, `pbact`, `sbact`, `ebact` were multiplied as to be reported in `#/ml` rather than `#*1e5/ml`.
 
 
 ## sampling_event
