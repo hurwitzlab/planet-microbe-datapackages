@@ -2733,7 +2733,7 @@
             "pm:measurementSourceProtocolUrl": ""
           },
           {
-            "name": "\"Depth, nominal\"",
+            "name": "Depth, nominal",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
@@ -2743,7 +2743,7 @@
             "pm:measurementSourceProtocolUrl": ""
           },
           {
-            "name": "\"Size fraction, lower threshold\"",
+            "name": "Size fraction, lower threshold",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
@@ -2973,7 +2973,7 @@
             "pm:measurementSourceProtocolUrl": ""
           },
           {
-            "name": "\"Carbon, total_min\"",
+            "name": "Carbon, total_min",
             "type": "number",
             "format": "default",
             "rdfType": "",
@@ -2983,7 +2983,7 @@
             "pm:measurementSourceProtocolUrl": ""
           },
           {
-            "name": "\"Carbon, total_first_quartile\"",
+            "name": "Carbon, total_first_quartile",
             "type": "number",
             "format": "default",
             "rdfType": "",
@@ -2993,7 +2993,7 @@
             "pm:measurementSourceProtocolUrl": ""
           },
           {
-            "name": "\"Carbon, total_median\"",
+            "name": "Carbon, total_median",
             "type": "number",
             "format": "default",
             "rdfType": "",
@@ -3003,7 +3003,7 @@
             "pm:measurementSourceProtocolUrl": ""
           },
           {
-            "name": "\"Carbon, total_third_quartile\"",
+            "name": "Carbon, total_third_quartile",
             "type": "number",
             "format": "default",
             "rdfType": "",
@@ -3013,7 +3013,7 @@
             "pm:measurementSourceProtocolUrl": ""
           },
           {
-            "name": "\"Carbon, total_max\"",
+            "name": "Carbon, total_max",
             "type": "number",
             "format": "default",
             "rdfType": "",
@@ -3023,7 +3023,7 @@
             "pm:measurementSourceProtocolUrl": ""
           },
           {
-            "name": "\"Alkalinity, total_min\"",
+            "name": "Alkalinity, total_min",
             "type": "number",
             "format": "default",
             "rdfType": "",
@@ -3033,7 +3033,7 @@
             "pm:measurementSourceProtocolUrl": ""
           },
           {
-            "name": "\"Alkalinity, total_first_quartile\"",
+            "name": "Alkalinity, total_first_quartile",
             "type": "number",
             "format": "default",
             "rdfType": "",
@@ -3043,7 +3043,7 @@
             "pm:measurementSourceProtocolUrl": ""
           },
           {
-            "name": "\"Alkalinity, total_median\"",
+            "name": "Alkalinity, total_median",
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000139",
@@ -3053,7 +3053,7 @@
             "pm:measurementSourceProtocolUrl": ""
           },
           {
-            "name": "\"Alkalinity, total_third_quartile\"",
+            "name": "Alkalinity, total_third_quartile",
             "type": "number",
             "format": "default",
             "rdfType": "",
@@ -3063,7 +3063,7 @@
             "pm:measurementSourceProtocolUrl": ""
           },
           {
-            "name": "\"Alkalinity, total_max\"",
+            "name": "Alkalinity, total_max",
             "type": "number",
             "format": "default",
             "rdfType": "",
@@ -3175,7 +3175,8 @@
         ],
         "missingValues": [
           "",
-          "nd"
+          "nd",
+          "NA"
         ]
       }
     }
