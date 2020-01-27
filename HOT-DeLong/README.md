@@ -14,7 +14,7 @@ Minor corrections were done in order to help the use of the metadata :
 Collects metadata associated to the samples from the paper :
 https://www.nature.com/articles/ismej2015221
 The metadata is available in supplemental material 1.
-Fields `heterotrophic bacteria cell counts`, `Prochlorococcus cell counts`, `Synechococcus cell counts`,	`Picoeukaryote cell counts` were multiplied as to be reported in `#/ml` rather than `#*1e5/ml`. 
+Fields `heterotrophic bacteria cell counts`, `Prochlorococcus cell counts`, `Synechococcus cell counts`,	`Picoeukaryote cell counts` were multiplied as to be reported in `cells/ml` rather than `cells*1e5/ml`. 
 
 ## samples_CTD_BCO-DMO and samples_Niskin_BCO-DMO
 Collects metadata from the closest CTD and Niskin record for each samples. These CTD and Niskin records were obtained from BCO-DMO HOT frictionless datapackage.
