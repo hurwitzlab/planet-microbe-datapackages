@@ -2873,16 +2873,6 @@
             "pm:measurementSourceProtocolUrl": ""
           },
           {
-            "name": "Carbon dioxide_min",
-            "type": "number",
-            "format": "default",
-            "rdfType": "",
-            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
-            "pm:sourceUrl": "https://doi.org/10.1594/PANGAEA.875567",
-            "pm:measurementSourceRdfType": "",
-            "pm:measurementSourceProtocolUrl": ""
-          },
-          {
             "name": "Bicarbonate ion_min",
             "type": "number",
             "format": "default",
