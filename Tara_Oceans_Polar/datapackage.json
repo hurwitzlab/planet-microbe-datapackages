@@ -3175,7 +3175,8 @@
         ],
         "missingValues": [
           "",
-          "nd"
+          "nd",
+          "NA"
         ]
       }
     }
