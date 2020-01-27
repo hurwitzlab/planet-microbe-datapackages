@@ -748,7 +748,7 @@
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature",
       "description": "Guidi, Lionel; Ras, Josephine; Claustre, Hervé; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875569, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
-      "pm:resourceType": "HPLC",
+      "pm:resourceType": "sample",
       "path": "AHX/TARA_samples_HPLC_PANGEA.tsv",
       "dialect": {
         "delimiter": "\t",
@@ -3193,7 +3193,7 @@
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about carbonate chemistry in the targeted environmental feature.",
       "description": "Guidi, Lionel; Gattuso, Jean-Pierre; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about carbonate chemistry in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875567",
       "profile": "tabular-data-resource",
-      "pm:resourceType": "niskin",
+      "pm:resourceType": "sample",
       "path": "AHX/TARA_samples_carbonate_PANGEA.tsv",
       "dialect": {
         "delimiter": "\t",
@@ -4024,7 +4024,7 @@
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature",
       "description": "Guidi, Lionel; Ras, Josephine; Claustre, Hervé; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875569, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
-      "pm:resourceType": "HPLC",
+      "pm:resourceType": "sample",
       "path": "ANB/TARA_samples_HPLC_PANGEA.tsv",
       "dialect": {
         "delimiter": "\t",
@@ -6469,7 +6469,7 @@
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about carbonate chemistry in the targeted environmental feature.",
       "description": "Guidi, Lionel; Gattuso, Jean-Pierre; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about carbonate chemistry in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875567",
       "profile": "tabular-data-resource",
-      "pm:resourceType": "niskin",
+      "pm:resourceType": "sample",
       "path": "ANB/TARA_samples_carbonate_PANGEA.tsv",
       "dialect": {
         "delimiter": "\t",
@@ -7525,7 +7525,7 @@
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature",
       "description": "Guidi, Lionel; Ras, Josephine; Claustre, Hervé; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875569, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
-      "pm:resourceType": "HPLC",
+      "pm:resourceType": "sample",
       "path": "APX/TARA_samples_HPLC_PANGEA.tsv",
       "dialect": {
         "delimiter": "\t",
@@ -9950,7 +9950,7 @@
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about carbonate chemistry in the targeted environmental feature.",
       "description": "Guidi, Lionel; Gattuso, Jean-Pierre; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about carbonate chemistry in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875567",
       "profile": "tabular-data-resource",
-      "pm:resourceType": "niskin",
+      "pm:resourceType": "sample",
       "path": "APX/TARA_samples_carbonate_PANGEA.tsv",
       "dialect": {
         "delimiter": "\t",
@@ -11006,7 +11006,7 @@
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature",
       "description": "Guidi, Lionel; Ras, Josephine; Claustre, Hervé; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875569, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
-      "pm:resourceType": "HPLC",
+      "pm:resourceType": "sample",
       "path": "APY/TARA_samples_HPLC_PANGEA.tsv",
       "dialect": {
         "delimiter": "\t",
@@ -13461,7 +13461,7 @@
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about carbonate chemistry in the targeted environmental feature.",
       "description": "Guidi, Lionel; Gattuso, Jean-Pierre; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about carbonate chemistry in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875567",
       "profile": "tabular-data-resource",
-      "pm:resourceType": "niskin",
+      "pm:resourceType": "sample",
       "path": "APY/TARA_samples_carbonate_PANGEA.tsv",
       "dialect": {
         "delimiter": "\t",
@@ -14292,7 +14292,7 @@
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature",
       "description": "Guidi, Lionel; Ras, Josephine; Claustre, Hervé; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875569, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
-      "pm:resourceType": "HPLC",
+      "pm:resourceType": "sample",
       "path": "ARC/TARA_samples_HPLC_PANGEA.tsv",
       "dialect": {
         "delimiter": "\t",
@@ -16727,7 +16727,7 @@
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about carbonate chemistry in the targeted environmental feature.",
       "description": "Guidi, Lionel; Gattuso, Jean-Pierre; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about carbonate chemistry in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875567",
       "profile": "tabular-data-resource",
-      "pm:resourceType": "niskin",
+      "pm:resourceType": "sample",
       "path": "ARC/TARA_samples_carbonate_PANGEA.tsv",
       "dialect": {
         "delimiter": "\t",
@@ -18113,7 +18113,7 @@
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature",
       "description": "Guidi, Lionel; Ras, Josephine; Claustre, Hervé; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875569, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
-      "pm:resourceType": "HPLC",
+      "pm:resourceType": "sample",
       "path": "ARD_2/TARA_samples_HPLC_PANGEA.tsv",
       "dialect": {
         "delimiter": "\t",
@@ -20558,7 +20558,7 @@
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about carbonate chemistry in the targeted environmental feature.",
       "description": "Guidi, Lionel; Gattuso, Jean-Pierre; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about carbonate chemistry in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875567",
       "profile": "tabular-data-resource",
-      "pm:resourceType": "niskin",
+      "pm:resourceType": "sample",
       "path": "ARD_2/TARA_samples_carbonate_PANGEA.tsv",
       "dialect": {
         "delimiter": "\t",
@@ -21944,7 +21944,7 @@
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature",
       "description": "Guidi, Lionel; Ras, Josephine; Claustre, Hervé; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875569, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
-      "pm:resourceType": "HPLC",
+      "pm:resourceType": "sample",
       "path": "ARG/TARA_samples_HPLC_PANGEA.tsv",
       "dialect": {
         "delimiter": "\t",
@@ -24399,7 +24399,7 @@
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about carbonate chemistry in the targeted environmental feature.",
       "description": "Guidi, Lionel; Gattuso, Jean-Pierre; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about carbonate chemistry in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875567",
       "profile": "tabular-data-resource",
-      "pm:resourceType": "niskin",
+      "pm:resourceType": "sample",
       "path": "ARG/TARA_samples_carbonate_PANGEA.tsv",
       "dialect": {
         "delimiter": "\t",
@@ -25230,7 +25230,7 @@
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature",
       "description": "Guidi, Lionel; Ras, Josephine; Claustre, Hervé; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875569, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
-      "pm:resourceType": "HPLC",
+      "pm:resourceType": "sample",
       "path": "ARH/TARA_samples_HPLC_PANGEA.tsv",
       "dialect": {
         "delimiter": "\t",
@@ -27665,7 +27665,7 @@
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about carbonate chemistry in the targeted environmental feature.",
       "description": "Guidi, Lionel; Gattuso, Jean-Pierre; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about carbonate chemistry in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875567",
       "profile": "tabular-data-resource",
-      "pm:resourceType": "niskin",
+      "pm:resourceType": "sample",
       "path": "ARH/TARA_samples_carbonate_PANGEA.tsv",
       "dialect": {
         "delimiter": "\t",
@@ -28496,7 +28496,7 @@
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature",
       "description": "Guidi, Lionel; Ras, Josephine; Claustre, Hervé; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875569, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
-      "pm:resourceType": "HPLC",
+      "pm:resourceType": "sample",
       "path": "ARI/TARA_samples_HPLC_PANGEA.tsv",
       "dialect": {
         "delimiter": "\t",
@@ -30931,7 +30931,7 @@
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about carbonate chemistry in the targeted environmental feature.",
       "description": "Guidi, Lionel; Gattuso, Jean-Pierre; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about carbonate chemistry in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875567",
       "profile": "tabular-data-resource",
-      "pm:resourceType": "niskin",
+      "pm:resourceType": "sample",
       "path": "ARI/TARA_samples_carbonate_PANGEA.tsv",
       "dialect": {
         "delimiter": "\t",
@@ -31762,7 +31762,7 @@
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature",
       "description": "Guidi, Lionel; Ras, Josephine; Claustre, Hervé; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875569, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
-      "pm:resourceType": "HPLC",
+      "pm:resourceType": "sample",
       "path": "AUZ/TARA_samples_HPLC_PANGEA.tsv",
       "dialect": {
         "delimiter": "\t",
@@ -34197,7 +34197,7 @@
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about carbonate chemistry in the targeted environmental feature.",
       "description": "Guidi, Lionel; Gattuso, Jean-Pierre; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about carbonate chemistry in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875567",
       "profile": "tabular-data-resource",
-      "pm:resourceType": "niskin",
+      "pm:resourceType": "sample",
       "path": "AUZ/TARA_samples_carbonate_PANGEA.tsv",
       "dialect": {
         "delimiter": "\t",
@@ -35028,7 +35028,7 @@
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature",
       "description": "Guidi, Lionel; Ras, Josephine; Claustre, Hervé; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about pigment concentrations (HPLC) in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875569, In: Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Registry of all samples from the Tara Oceans Expedition (2009-2013). PANGAEA, https://doi.org/10.1594/PANGAEA.875582",
       "profile": "tabular-data-resource",
-      "pm:resourceType": "HPLC",
+      "pm:resourceType": "sample",
       "path": "BEZ/TARA_samples_HPLC_PANGEA.tsv",
       "dialect": {
         "delimiter": "\t",
@@ -37463,7 +37463,7 @@
       "title": "Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about carbonate chemistry in the targeted environmental feature.",
       "description": "Guidi, Lionel; Gattuso, Jean-Pierre; Pesant, Stephane; Tara Oceans Consortium, Coordinators; Tara Oceans Expedition, Participants (2017): Environmental context of all samples from the Tara Oceans Expedition (2009-2013), about carbonate chemistry in the targeted environmental feature. PANGAEA, https://doi.org/10.1594/PANGAEA.875567",
       "profile": "tabular-data-resource",
-      "pm:resourceType": "niskin",
+      "pm:resourceType": "sample",
       "path": "BEZ/TARA_samples_carbonate_PANGEA.tsv",
       "dialect": {
         "delimiter": "\t",
