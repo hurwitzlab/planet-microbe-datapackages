@@ -41,7 +41,9 @@ The script is available in scripts/map_ctd_metagenomes.py
 Collects information from the supplemental material of the published paper: https://doi.org/10.1038/s41564-017-0008-3
 
 Minor corrections were performed on the dataset:
-- Data columns C-ARSC, N-ARSC, MW, WIND_5, RAIN_5, SW_5, WIND_30, RAIN_30, SW_30 were not included. 
+- Data columns C-ARSC, N-ARSC, MW, WIND_5, RAIN_5, SW_5, WIND_30, RAIN_30, SW_30 were not included.
+- Fields `heterotrophic bacteria cell counts`, `Prochlorococcus cell counts`, `Synechococcus cell counts`,	`Picoeukaryote cell counts` were multiplied as to be reported in `#/ml` rather than `#*1e5/ml`.
+
 
 ## sampling_event
 This table was generated using the cast information from BCO-DMO. Briefly, unique sampling event where derived from the cruise ID, the cast and station number and the ISO-DateTime.
