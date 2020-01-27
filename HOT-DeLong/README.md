@@ -6,7 +6,7 @@ Collects metadata associated to the NCBI Biosamples of the bioproject https://ww
 Minor corrections were done in order to help the use of the metadata :
   - The field "Date Time" was converted into the ISO date-Time format
   - The field "latitude and longitude" was parsed and separated into two separate fields "latitude" and "longitude".
-  - The field "depth" contained a 'm' in the field. This was removed and the unit was specified in meters. 
+  - The field "depth" contained a 'm' in the field. This was removed and the unit was specified in meters.
   - A field "filter_min" and "filter_max" was added, with information from the biosample description.
   - Add purls for biome, feature and material
 
@@ -14,6 +14,7 @@ Minor corrections were done in order to help the use of the metadata :
 Collects metadata associated to the samples from the paper :
 https://www.nature.com/articles/ismej2015221
 The metadata is available in supplemental material 1.
+Fields `heterotrophic bacteria cell counts`, `Prochlorococcus cell counts`, `Synechococcus cell counts`,	`Picoeukaryote cell counts` were multiplied as to be reported in `#/ml` rather than `#*1e5/ml`. 
 
 ## samples_CTD_BCO-DMO and samples_Niskin_BCO-DMO
 Collects metadata from the closest CTD and Niskin record for each samples. These CTD and Niskin records were obtained from BCO-DMO HOT frictionless datapackage.
