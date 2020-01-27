@@ -2255,9 +2255,9 @@
             "pm:measurementSourceProtocolUrl": "http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#"
           },
           {
-            "name": "Sample Date GMT",
-            "type": "date",
-            "format": "%m/%d/%y",
+            "name": "Sample Date/Time GMT",
+            "type": "datetime",
+            "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001619",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
             "pm:sourceUrl": "https://www.nature.com/articles/ismej2015221",
@@ -2265,11 +2265,21 @@
             "pm:measurementSourceProtocolUrl": "http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#"
           },
           {
+            "name": "Sample Date GMT",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.nature.com/articles/ismej2015221",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": "http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#"
+          },
+          {
             "name": "Sampling Time GMT",
-            "type": "time",
-            "format": "%H:%M",
-            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001619",
-            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.nature.com/articles/ismej2015221",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": "http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#"
