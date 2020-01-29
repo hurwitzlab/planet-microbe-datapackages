@@ -2458,7 +2458,7 @@
             "name": "silicate",
             "type": "number",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100027",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100034",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
             "pm:sourceUrl": "https://www.nature.com/articles/ismej2015221",
             "pm:measurementSourceRdfType": "",
