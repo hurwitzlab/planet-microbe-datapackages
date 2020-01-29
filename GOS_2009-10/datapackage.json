@@ -344,7 +344,7 @@
             "name": "silicate",
             "type": "number",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100027",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100034",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
