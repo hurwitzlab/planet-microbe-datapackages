@@ -16,8 +16,12 @@
   ],
   "sources": [
     {
-      "title": "NCBI BioProject",
+      "title": "Planktonic microbial communities from North Pacific Subtropical Gyre",
       "path": "https://www.ncbi.nlm.nih.gov/bioproject/16339"
+    },
+    {
+      "title": "Temporal sampling of marine metagenomes from Station ALOHA and BATS",
+      "path": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
     },
     {
       "title": "Metatranscriptomics reveals unique microbial small RNAs in the ocean's water column.",
@@ -26,6 +30,14 @@
     {
       "title": "Development and quantitative analyses of a universal rRNA-subtraction protocol for microbial metatranscriptomics.",
       "path": "https://www.ncbi.nlm.nih.gov/pubmed/20220791"
+    },
+    {
+      "title": "BCODMO CTD",
+      "path": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6"
+    },
+    {
+      "title": "BCODMO NISKIN",
+      "path": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?"
     }
   ],
   "licenses": [
