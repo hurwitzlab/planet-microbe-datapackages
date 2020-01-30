@@ -1062,6 +1062,7 @@
       "title": "HOT_DeLong_Timeseries omics and BCO-DMO CTD data",
       "description": "Combination of HOT ALOHA metagenomic time and depth series with the BCO-DMO CTD data.",
       "profile": "tabular-data-resource",
+      "pm:resourceType": "sample",
       "path": "samples_CTD_BCO-DMO.tsv",
       "dialect": {
         "delimiter": "\t",
