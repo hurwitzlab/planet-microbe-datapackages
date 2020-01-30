@@ -381,6 +381,15 @@
             "pm:measurementSourceProtocolUrl": ""
           }
         ],
+        "foreignKeys": [
+            {
+                "fields": "event_id",
+                "reference": {
+                    "resource": "sampling_events",
+                    "fields": "Sample_event_ID"
+                }
+            }
+        ],
         "missingValues": [
           "",
           "nd"
@@ -886,6 +895,15 @@
             "pm:measurementSourceProtocolUrl": ""
           }
         ],
+        "foreignKeys": [
+          {
+            "fields": "event_id",
+            "reference": {
+                "resource": "sampling_events",
+                "fields": "Sample_event_ID"
+            }
+          }
+        ],
         "missingValues": [
           "",
           "nd"
@@ -1051,6 +1069,7 @@
             "pm:measurementSourceProtocolUrl": ""
           }
         ],
+        "primaryKey" : "campaign_name",
         "missingValues": [
           "",
           "nd"
@@ -1072,7 +1091,7 @@
       "format": "csv",
       "mediatype": "text/tab-separated-values",
       "encoding": "UTF-8",
-      "hash": "e0ef65750a00eea2a63813945d80a87b",
+      "hash": "718af054a80c848d3f27775d6111253a",
       "schema": {
         "fields": [
           {
@@ -1406,6 +1425,30 @@
             "pm:measurementSourceProtocolUrl": ""
           }
         ],
+        "primaryKey": "sample",
+        "foreignKeys": [
+          {
+            "fields": "sampling_event_ID",
+            "reference": {
+                "resource": "sampling_events",
+                "fields": "Sample_event_ID"
+            }
+          },
+          {
+            "fields": [ "sampling_event_ID", "sample" ],
+            "reference": {
+                "resource": "samples_ncbi",
+                "fields": [ "Sample_event_ID", "BioSample" ]
+            }
+          },
+          {
+            "fields": [ "Sample_event_ID", "sample" ],
+            "reference": {
+                "resource": "samples_niskin_bco-dmo",
+                "fields": [ "sampling_event_ID", "sample" ]
+            }
+          }
+        ],
         "missingValues": [
           "",
           "nd"
@@ -1427,7 +1470,7 @@
       "format": "csv",
       "mediatype": "text/tab-separated-values",
       "encoding": "UTF-8",
-      "hash": "ff80be43861a4de70937fb7f757fa734",
+      "hash": "807da2c3c03c573fd92cb95cd501ffb0",
       "schema": {
         "fields": [
           {
@@ -1691,6 +1734,16 @@
             "pm:measurementSourceProtocolUrl": ""
           }
         ],
+        "primaryKey": "BioSample",
+        "foreignKeys": [
+          {
+            "fields": "sampling_event_ID",
+            "reference": {
+                "resource": "sampling_events",
+                "fields": "Sample_event_ID"
+            }
+          }
+        ],
         "missingValues": [
           "",
           "nd",
@@ -1713,7 +1766,7 @@
       "format": "csv",
       "mediatype": "text/tab-separated-values",
       "encoding": "UTF-8",
-      "hash": "cefe3bd96ad8d0f6571de534e9b38163",
+      "hash": "e8a12ddcae6cb90fa873f0225aa39cf5",
       "schema": {
         "fields": [
           {
@@ -2147,6 +2200,30 @@
             "pm:measurementSourceProtocolUrl": ""
           }
         ],
+        "primaryKey": "sample",
+        "foreignKeys": [
+          {
+            "fields": "sampling_event_ID",
+            "reference": {
+                "resource": "sampling_events",
+                "fields": "Sample_event_ID"
+            }
+          },
+          {
+            "fields": [ "sampling_event_ID", "sample" ],
+            "reference": {
+                "resource": "samples_ncbi",
+                "fields": [ "Sample_event_ID", "BioSample" ]
+            }
+          },
+          {
+            "fields": [ "Sample_event_ID", "sample" ],
+            "reference": {
+                "resource": "samples_ctd_bco-dmo",
+                "fields": [ "sampling_event_ID", "sample" ]
+            }
+          }
+        ],
         "missingValues": [
           "",
           "nd"
@@ -2252,6 +2329,16 @@
             "pm:measurementSourceProtocolUrl": ""
           }
         ],
+        "primaryKey": "Sample_event_ID",
+        "foreignKeys": [
+          {
+            "fields": "cruise_expedition",
+            "reference": {
+                "resource": "campaign",
+                "fields": "campaign_name"
+            }
+          }
+        ],
         "missingValues": [
           "",
           "nd"
@@ -2273,7 +2360,7 @@
       "format": "csv",
       "mediatype": "text/tab-separated-values",
       "encoding": "UTF-8",
-      "hash": "5d950cf2d462bb98eb8738b905968ea6",
+      "hash": "fb03e5a230b6678d3dc79188cb3d2562",
       "schema": {
         "fields": [
           {
@@ -2865,6 +2952,23 @@
             "pm:sourceUrl": "https://doi.org/10.1038/s41564-017-0008-3",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": ""
+          }
+        ],
+        "primaryKey": "Sample_event_ID",
+        "foreignKeys": [
+          {
+            "fields": "sampling_event_ID",
+            "reference": {
+                "resource": "sampling_events",
+                "fields": "Sample_event_ID"
+            }
+          },
+          {
+            "fields": [ "sampling_event_ID", "Biosample" ],
+            "reference": {
+                "resource": "samples_ncbi",
+                "fields": [ "Sample_event_ID", "BioSample" ]
+            }
           }
         ],
         "missingValues": [
