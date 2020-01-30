@@ -20,7 +20,13 @@
       "path": "https://www.ncbi.nlm.nih.gov/bioproject/293636"
     }
   ],
-  "licenses": [],
+  "licenses": [
+    {
+      "name": "CC-BY-3.0",
+      "title": "Creative Commons Attribution 3.0 Unported",
+      "path": "https://creativecommons.org/licenses/by/3.0/"
+    }
+  ],
   "resources": [
     {
       "name": "samples_ncbi",
