@@ -17,6 +17,18 @@
     {
       "title": "NCBI BioProject",
       "path": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385855"
+    },
+    {
+      "title": "BCODMO CTD",
+      "path": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6"
+    },
+    {
+      "title": "BCODMO Niskin",
+      "path": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/niskin%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/niskin.brev0%7D?"
+    },
+    {
+      "title": "Wind and sunlight shape microbial diversity in surface waters of the North Pacific Subtropical Gyre",
+      "path": "https://www.nature.com/articles/ismej2015221"
     }
   ],
   "licenses": [],
