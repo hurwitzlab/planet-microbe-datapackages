@@ -2241,7 +2241,7 @@
             "pm:measurementSourceProtocolUrl": ""
           },
           {
-            "name": "Station_name",
+            "name": "station_name",
             "type": "string",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000149",
@@ -2868,7 +2868,8 @@
         ],
         "missingValues": [
           "",
-          "nd"
+          "nd",
+          "NA"
         ]
       }
     }
