@@ -12,10 +12,12 @@
     "OSD",
     "Ocean Science Day"
   ],
-  "sources": [{
-    "title": "Ocean Sampling Day Consortium, Participants (2014)",
-    "path": "https://doi.pangaea.de/10.1594/PANGAEA.854419"
-  }],
+  "sources": [
+    {
+      "title": "Ocean Sampling Day Consortium, Participants (2014)"",
+      "path": "https://doi.pangaea.de/10.1594/PANGAEA.854419"
+    },
+  ],
   "licenses": [
     {
       "name": "CC-BY-3.0",
