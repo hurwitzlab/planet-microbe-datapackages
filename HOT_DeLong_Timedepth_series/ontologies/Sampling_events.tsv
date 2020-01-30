@@ -1,9 +1,9 @@
-parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
-Sample_event_ID	centrally registered sampling event identifier	http://purl.obolibrary.org/obo/PMO_00000056	FALSE							string	
-start_ISO_DateTime	specimen collection time measurement datum start	http://purl.obolibrary.org/obo/PMO_00000008	TRUE	time unit	http://purl.obolibrary.org/obo/UO_0000003					datetime	default
-lon	longitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001621	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185					number	
-lat	latitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001620	TRUE	degree	http://purl.obolibrary.org/obo/UO_0000185					number	
-cruise_ID	sampling expedition identifier	http://purl.obolibrary.org/obo/PMO_00000060	FALSE							string	
-cruise_expedition	project investigation identifier	http://purl.obolibrary.org/obo/PMO_00000007	FALSE							string	
-sampling_event_type	conductivity temperature pressure sampling process	http://purl.obolibrary.org/obo/pmo.owl/PMO_00000146	FALSE							string	
-Station_name	specimen collection process site	http://purl.obolibrary.org/obo/pmo.owl/PMO_00000149	FALSE							string	
+parameter	rdf type purl label	rdf type purl	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
+Sample_event_ID	centrally registered sampling event identifier	http://purl.obolibrary.org/obo/PMO_00000056							string	
+start_ISO_DateTime	specimen collection time measurement datum start	http://purl.obolibrary.org/obo/PMO_00000008	time unit	http://purl.obolibrary.org/obo/UO_0000003					datetime	%Y-%m-%dT%H:%M:%S
+lon	longitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001621	degree	http://purl.obolibrary.org/obo/UO_0000185					number	
+lat	latitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001620	degree	http://purl.obolibrary.org/obo/UO_0000185					number	
+cruise_ID	sampling expedition identifier	http://purl.obolibrary.org/obo/PMO_00000060							string	
+cruise_expedition	project investigation identifier	http://purl.obolibrary.org/obo/PMO_00000007							string	
+sampling_event_type	conductivity temperature pressure sampling process	http://purl.obolibrary.org/obo/pmo.owl/PMO_00000146							string	
+Station_name	specimen collection process site	http://purl.obolibrary.org/obo/pmo.owl/PMO_00000149							string	

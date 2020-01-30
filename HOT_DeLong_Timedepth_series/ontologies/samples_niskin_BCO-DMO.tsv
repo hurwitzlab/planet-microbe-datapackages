@@ -1,41 +1,44 @@
-parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type
-sampling_event_ID									https://www.bco-dmo.org/dataset/3773	
-sample									https://www.bco-dmo.org/dataset/3773	
-cruise_name									https://www.bco-dmo.org/dataset/3773	
-EXPOCODE									https://www.bco-dmo.org/dataset/3773	
-Ship									https://www.bco-dmo.org/dataset/3773	
-STNNBR									https://www.bco-dmo.org/dataset/3773	
-CASTNO									https://www.bco-dmo.org/dataset/3773	
-section									https://www.bco-dmo.org/dataset/3773	
-startISO_DateTime									https://www.bco-dmo.org/dataset/3773	
-Date									https://www.bco-dmo.org/dataset/3773	
-Year									https://www.bco-dmo.org/dataset/3773	
-Month									https://www.bco-dmo.org/dataset/3773	
-Day									https://www.bco-dmo.org/dataset/3773	
-timeutc									https://www.bco-dmo.org/dataset/3773	
-lon									https://www.bco-dmo.org/dataset/3773	
-lat									https://www.bco-dmo.org/dataset/3773	
-nav_code									https://www.bco-dmo.org/dataset/3773	
-parameters									https://www.bco-dmo.org/dataset/3773	
-comments									https://www.bco-dmo.org/dataset/3773	
-HOT_summary_file_name									https://www.bco-dmo.org/dataset/3773	
-ROSETTE									https://www.bco-dmo.org/dataset/3773	
-CTDPRS									https://www.bco-dmo.org/dataset/3773	
-CTDOXY									https://www.bco-dmo.org/dataset/3773	
-CTDSAL									https://www.bco-dmo.org/dataset/3773	
-CTDTMP									https://www.bco-dmo.org/dataset/3773	
-REPLICT									https://www.bco-dmo.org/dataset/3773	
-SALNITY									https://www.bco-dmo.org/dataset/3773	
-SIGMA									https://www.bco-dmo.org/dataset/3773	
-THETA									https://www.bco-dmo.org/dataset/3773	
-num_bottles									https://www.bco-dmo.org/dataset/3773	
-QUALT1									https://www.bco-dmo.org/dataset/3773	
-QUALT2									https://www.bco-dmo.org/dataset/3773	
-QUALT3									https://www.bco-dmo.org/dataset/3773	
-QUALT4									https://www.bco-dmo.org/dataset/3773	
-QUALT5									https://www.bco-dmo.org/dataset/3773	
-QUALT6									https://www.bco-dmo.org/dataset/3773	
-QUALT7									https://www.bco-dmo.org/dataset/3773	
-QUALT8									https://www.bco-dmo.org/dataset/3773	
-QUALT9									https://www.bco-dmo.org/dataset/3773	
-QUAL10									https://www.bco-dmo.org/dataset/3773	
+parameter	rdf type purl label	rdf type purl	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
+sampling_event_ID	centrally registered sampling event identifier	http://purl.obolibrary.org/obo/PMO_00000056						https://www.bco-dmo.org/dataset/3773	string	
+sample	specimen identifier assigned by sequencing facility	http://purl.obolibrary.org/obo/OBI_0001901						https://www.bco-dmo.org/dataset/3773	string	
+cruise_name	sampling expedition identifier	http://purl.obolibrary.org/obo/PMO_00000060						https://www.bco-dmo.org/dataset/3773	number	
+EXPOCODE								https://www.bco-dmo.org/dataset/3773	string	
+Ship	sampling expedition project investigation and leg identifier	http://purl.obolibrary.org/obo/PMO_00000065						https://www.bco-dmo.org/dataset/3773	string	
+STNNBR								https://www.bco-dmo.org/dataset/3773	number	
+CASTNO								https://www.bco-dmo.org/dataset/3773	number	
+section								https://www.bco-dmo.org/dataset/3773	string	
+startISO_DateTime	specimen collection time measurement datum start	http://purl.obolibrary.org/obo/PMO_00000008	time unit	http://purl.obolibrary.org/obo/UO_0000003				https://www.bco-dmo.org/dataset/3773	datetime	%Y-%m-%dT%H:%M:%S
+Date								https://www.bco-dmo.org/dataset/3773	number	
+Year								https://www.bco-dmo.org/dataset/3773	number	
+Month								https://www.bco-dmo.org/dataset/3773	number	
+Day								https://www.bco-dmo.org/dataset/3773	number	
+timeutc								https://www.bco-dmo.org/dataset/3773	number	
+lon	longitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001621	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.bco-dmo.org/dataset/3773	number	
+lat	latitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001620	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.bco-dmo.org/dataset/3773	number	
+nav_code								https://www.bco-dmo.org/dataset/3773	string	
+ depth_max	maximum depth of water collected during specimen collection process	http://purl.obolibrary.org/obo/PMO_00000052							number	
+ pres_max	maximum pressure of water collected during specimen collection process	http://purl.obolibrary.org/obo/PMO_00000053							number	
+ depth_hgt									number	
+parameters								https://www.bco-dmo.org/dataset/3773	number	
+comments	comment on investigation	http://purl.obolibrary.org/obo/PMO_00000075						https://www.bco-dmo.org/dataset/3773	string	
+HOT_summary_file_name	Summary File Name	http://purl.obolibrary.org/obo/PMO_00000063						https://www.bco-dmo.org/dataset/3773	string	
+ROSETTE								https://www.bco-dmo.org/dataset/3773	number	
+CTDPRS	pressure of water	http://purl.obolibrary.org/obo/ENVO_3100033	decibar	http://purl.obolibrary.org/obo/PMO_00000034				https://www.bco-dmo.org/dataset/3773	number	
+CTDOXY	concentration of oxygen in water	http://purl.obolibrary.org/obo/ENVO_09200021	micromole per kilogram	http://purl.obolibrary.org/obo/UO_0010004				https://www.bco-dmo.org/dataset/3773	number	
+CTDSAL	water salinity	http://purl.obolibrary.org/obo/PMO_00000014	parts per thousand	http://purl.obolibrary.org/obo/UO_0000168				https://www.bco-dmo.org/dataset/3773	number	
+CTDTMP	temperature of water	http://purl.obolibrary.org/obo/ENVO_09200014	degree Celsius	http://purl.obolibrary.org/obo/UO_0000027				https://www.bco-dmo.org/dataset/3773	number	
+REPLICT								https://www.bco-dmo.org/dataset/3773	number	
+SALNITY	water salinity	http://purl.obolibrary.org/obo/PMO_00000014	parts per thousand	http://purl.obolibrary.org/obo/UO_0000168				https://www.bco-dmo.org/dataset/3773	number	
+SIGMA	potential density	http://purl.obolibrary.org/obo/PMO_00000021	kilogram per cubic meter	http://purl.obolibrary.org/obo/UO_0000083				https://www.bco-dmo.org/dataset/3773	number	
+THETA	potential temperature	http://purl.obolibrary.org/obo/PMO_00000020	degree Celsius	http://purl.obolibrary.org/obo/UO_0000027				https://www.bco-dmo.org/dataset/3773	number	
+num_bottles								https://www.bco-dmo.org/dataset/3773	number	
+QUALT1								https://www.bco-dmo.org/dataset/3773	number	
+QUALT2								https://www.bco-dmo.org/dataset/3773	number	
+QUALT3								https://www.bco-dmo.org/dataset/3773	number	
+QUALT4								https://www.bco-dmo.org/dataset/3773	number	
+QUALT5								https://www.bco-dmo.org/dataset/3773	number	
+QUALT6								https://www.bco-dmo.org/dataset/3773	number	
+QUALT7								https://www.bco-dmo.org/dataset/3773	number	
+QUALT8								https://www.bco-dmo.org/dataset/3773	number	
+QUALT9								https://www.bco-dmo.org/dataset/3773	number	
+QUAL10								https://www.bco-dmo.org/dataset/3773	number	
