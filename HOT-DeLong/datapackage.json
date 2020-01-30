@@ -31,7 +31,13 @@
       "path": "https://www.nature.com/articles/ismej2015221"
     }
   ],
-  "licenses": [],
+  "licenses": [
+    {
+      "name": "CC-BY-3.0",
+      "title": "Creative Commons Attribution 3.0 Unported",
+      "path": "https://creativecommons.org/licenses/by/3.0/"
+    }
+  ],
   "resources": [
     {
       "name": "ctd_profiles",
