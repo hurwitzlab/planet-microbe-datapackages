@@ -1,4 +1,4 @@
-sampling_event_ID	 start_ISO_DateTime	 lon	 lat	cruise_ID	cruise_expedition	sampling_event_type	station_name
+Sample_event_ID	 start_ISO_DateTime	 lon	 lat	cruise_ID	cruise_expedition	sampling_event_type	station_name
 HOT_224_20100807T134000_23	 2010-08-07T13:40:00	-157.988	22.7555	HOT224	HOT	cast	ALOHA
 HOT_224_20100808T151600_211	 2010-08-08T15:16:00	-157.949	22.8337	HOT224	HOT	cast	ALOHA
 HOT_224_20100808T085700_29	 2010-08-08T08:57:00	-157.979	22.745	HOT224	HOT	cast	ALOHA
