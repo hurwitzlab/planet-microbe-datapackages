@@ -1692,7 +1692,8 @@
         ],
         "missingValues": [
           "",
-          "nd"
+          "nd",
+          "NA"
         ]
       }
     },
