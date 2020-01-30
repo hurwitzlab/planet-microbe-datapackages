@@ -44,7 +44,7 @@ Minor corrections were performed on the dataset:
 - Data columns C-ARSC, N-ARSC, MW, WIND_5, RAIN_5, SW_5, WIND_30, RAIN_30, SW_30 were not included.
 - Fields `hbact`, `pbact`, `sbact`, `ebact` were multiplied as to be reported in `#/ml` rather than `#*1e5/ml`.
 - Added datetime column union of date and time columns
-
+- Multiplied `l12` aka `primary productivity carbon` values by two, in order to get data into the units of per day as experiments were conducted over a twelve hour period.
 
 ## sampling_event
 This table was generated using the cast information from BCO-DMO. Briefly, unique sampling event where derived from the cruise ID, the cast and station number and the ISO-DateTime.
