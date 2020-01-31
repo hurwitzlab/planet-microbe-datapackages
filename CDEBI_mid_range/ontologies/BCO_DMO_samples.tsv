@@ -1,32 +1,32 @@
-parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
-samplingEvent_ID									https://doi.org/10.1038/ismej.2015.248		
-BioSample_ID									https://doi.org/10.1038/ismej.2015.248		
-BioProjectID									https://doi.org/10.1038/ismej.2015.248		
-lat				DD					https://doi.org/10.1038/ismej.2015.248		
-lon				DD					https://doi.org/10.1038/ismej.2015.248		
-ph									https://doi.org/10.1038/ismej.2015.248		
-calcium				mM					https://doi.org/10.1038/ismej.2015.248		
-magnesium				mM					https://doi.org/10.1038/ismej.2015.248		
-potassium				mM					https://doi.org/10.1038/ismej.2015.248		
-sodium				mM					https://doi.org/10.1038/ismej.2015.248		
-chloride				mM					https://doi.org/10.1038/ismej.2015.248		
-bromide				mM					https://doi.org/10.1038/ismej.2015.248		
-silicate				_M					https://doi.org/10.1038/ismej.2015.248		
-ammonium				_M					https://doi.org/10.1038/ismej.2015.248		
-phosphate				_M					https://doi.org/10.1038/ismej.2015.248		
-nitrite				_M					https://doi.org/10.1038/ismej.2015.248		
-nitrate				_M					https://doi.org/10.1038/ismej.2015.248		
-nitrite_and_nitrate				_M					https://doi.org/10.1038/ismej.2015.248		
-sulfate				mM					https://doi.org/10.1038/ismej.2015.248		
-dissolved_iron				_M					https://doi.org/10.1038/ismej.2015.248		
-total_iron				_M					https://doi.org/10.1038/ismej.2015.248		
-Mn2plus				_M					https://doi.org/10.1038/ismej.2015.248		
-dissolved_hydrogen_sulfide									https://doi.org/10.1038/ismej.2015.248		
-dissolved_organic_carbon				_M					https://doi.org/10.1038/ismej.2015.248		
-TDN				_M					https://doi.org/10.1038/ismej.2015.248		
-alkalinity				meq/L					https://doi.org/10.1038/ismej.2015.248		
-microbial_cell_abundance				Cells/ml					https://doi.org/10.1038/ismej.2015.248		
-sample_name									https://doi.org/10.1038/ismej.2015.248		
-description									https://doi.org/10.1038/ismej.2015.248		
-collection_date				dd-mm-yyyy					https://doi.org/10.1038/ismej.2015.248		
-depth				m					https://doi.org/10.1038/ismej.2015.248		
+parameter	rdf type purl label	rdf type purl	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
+samplingEvent_ID	centrally registered sampling event identifier	http://purl.obolibrary.org/obo/PMO_00000056						https://www.bco-dmo.org/project/635868	string	
+BioSample_ID	specimen identifier assigned by sequencing facility	http://purl.obolibrary.org/obo/OBI_0001901						https://www.bco-dmo.org/project/635868	string	
+BioProjectID								https://www.bco-dmo.org/project/635868	string	
+lat	latitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001620	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.bco-dmo.org/project/635868	number	
+lon	longitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001621	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.bco-dmo.org/project/635868	number	
+ph	acidity of water	http://purl.obolibrary.org/obo/ENVO_3100030	pH	http://purl.obolibrary.org/obo/UO_0000196				https://www.bco-dmo.org/project/635868	number	
+calcium	concentration of calcium(2+) in liquid water	http://purl.obolibrary.org/obo/PMO_00000179	millimolar	http://purl.obolibrary.org/obo/UO_0000063				https://www.bco-dmo.org/project/635868	number	
+magnesium	concentration of magnesium(2+) in liquid water	http://purl.obolibrary.org/obo/PMO_00000180	millimolar	http://purl.obolibrary.org/obo/UO_0000063				https://www.bco-dmo.org/project/635868	number	
+potassium	concentration of potassium(1+) in liquid water	http://purl.obolibrary.org/obo/PMO_00000181	millimolar	http://purl.obolibrary.org/obo/UO_0000063				https://www.bco-dmo.org/project/635868	number	
+sodium	concentration of sodium(1+) in liquid water	http://purl.obolibrary.org/obo/PMO_00000182	millimolar	http://purl.obolibrary.org/obo/UO_0000063				https://www.bco-dmo.org/project/635868	number	
+chloride	concentration of chloride in water	http://purl.obolibrary.org/obo/ENVO_09000019	millimolar	http://purl.obolibrary.org/obo/UO_0000063				https://www.bco-dmo.org/project/635868	number	
+bromide	concentration of bromide in liquid water	http://purl.obolibrary.org/obo/PMO_00000186	millimolar	http://purl.obolibrary.org/obo/UO_0000063				https://www.bco-dmo.org/project/635868	number	
+silicate	concentration of silicic acid in water	http://purl.obolibrary.org/obo/ENVO_3100034	micromolar	http://purl.obolibrary.org/obo/UO_0000064				https://www.bco-dmo.org/project/635868	number	
+ammonium	concentration of ammonium in water	http://purl.obolibrary.org/obo/ENVO_3100004	micromolar	http://purl.obolibrary.org/obo/UO_0000064				https://www.bco-dmo.org/project/635868	number	
+phosphate	concentration of phosphate in water	http://purl.obolibrary.org/obo/ENVO_3100026	micromolar	http://purl.obolibrary.org/obo/UO_0000064				https://www.bco-dmo.org/project/635868	number	
+nitrite	concentration of nitrite in water	http://purl.obolibrary.org/obo/ENVO_3100023	micromolar	http://purl.obolibrary.org/obo/UO_0000064				https://www.bco-dmo.org/project/635868	number	
+nitrate	concentration of nitrate in water	http://purl.obolibrary.org/obo/ENVO_3100022	micromolar	http://purl.obolibrary.org/obo/UO_0000064				https://www.bco-dmo.org/project/635868	number	
+nitrite_and_nitrate	concentration of nitrate and nitrite in water	http://purl.obolibrary.org/obo/PMO_00000018	micromolar	http://purl.obolibrary.org/obo/UO_0000064				https://www.bco-dmo.org/project/635868	number	
+sulfate	concentration of sulfate in liquid water	http://purl.obolibrary.org/obo/PMO_00000183	millimolar	http://purl.obolibrary.org/obo/UO_0000063				https://www.bco-dmo.org/project/635868	number	
+dissolved_iron			micromolar	http://purl.obolibrary.org/obo/UO_0000064				https://www.bco-dmo.org/project/635868	number	
+total_iron			micromolar	http://purl.obolibrary.org/obo/UO_0000064				https://www.bco-dmo.org/project/635868	number	
+Mn2plus	concentration of manganese(2+) in liquid water	http://purl.obolibrary.org/obo/PMO_00000184	micromolar	http://purl.obolibrary.org/obo/UO_0000064				https://www.bco-dmo.org/project/635868	number	
+dissolved_hydrogen_sulfide	concentration of hydrogen sulfide in water	http://purl.obolibrary.org/obo/ENVO_3100017	micromolar	http://purl.obolibrary.org/obo/UO_0000064				https://www.bco-dmo.org/project/635868	number	
+dissolved_organic_carbon	dissolved organic carbon	http://purl.obolibrary.org/obo/PMO_00000102	micromolar	http://purl.obolibrary.org/obo/UO_0000064				https://www.bco-dmo.org/project/635868	number	
+TDN			micromolar	http://purl.obolibrary.org/obo/UO_0000064				https://www.bco-dmo.org/project/635868	number	
+alkalinity	alkalinity of water	http://purl.obolibrary.org/obo/pmo.owl/PMO_00000139	milliequivalent per liter	http://purl.obolibrary.org/obo/PMO_00000177				https://www.bco-dmo.org/project/635868	number	
+microbial_cell_abundance	enumeration of prokaryote aggregation	http://purl.obolibrary.org/obo/PMO_00000185	cells per milliliter	http://purl.obolibrary.org/obo/UO_0000201				https://www.bco-dmo.org/project/635868	number	
+sample_name								https://www.bco-dmo.org/project/635868	string	
+description								https://www.bco-dmo.org/project/635868	string	
+collection_date	specimen collection time measurement datum	http://purl.obolibrary.org/obo/OBI_0001619	time unit	http://purl.obolibrary.org/obo/UO_0000003				https://www.bco-dmo.org/project/635868	date	%d-%m-%Y
+depth	depth of water	http://purl.obolibrary.org/obo/ENVO_3100031	meter	http://purl.obolibrary.org/obo/UO_0000008				https://www.bco-dmo.org/project/635868	number	
