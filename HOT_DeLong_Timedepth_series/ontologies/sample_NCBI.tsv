@@ -4,7 +4,7 @@ BioSample	specimen identifier assigned by sequencing facility	http://purl.obolib
 SRA	SRA accession number	http://purl.obolibrary.org/obo/PMO_00000123						https://www.ncbi.nlm.nih.gov/bioproject/352737	string	
 Sample name								https://www.ncbi.nlm.nih.gov/bioproject/352737	string	
 collection_date								https://www.ncbi.nlm.nih.gov/bioproject/352737	string	
-depth	depth of water	http://purl.obolibrary.org/obo/ENVO_3100031						https://www.ncbi.nlm.nih.gov/bioproject/352737	number	
+depth	depth of water	http://purl.obolibrary.org/obo/ENVO_3100031	m	http://purl.obolibrary.org/obo/UO_0000008				https://www.ncbi.nlm.nih.gov/bioproject/352737	number	
 env_biome_label								https://www.ncbi.nlm.nih.gov/bioproject/352737	string	
 purl_biome	biome	http://purl.obolibrary.org/obo/ENVO_00000428							string	
 env_feature_label								https://www.ncbi.nlm.nih.gov/bioproject/352737	string	
@@ -22,6 +22,6 @@ Cruise name								https://www.ncbi.nlm.nih.gov/bioproject/352737	string
 Station								https://www.ncbi.nlm.nih.gov/bioproject/352737	number	
 Cast								https://www.ncbi.nlm.nih.gov/bioproject/352737	number	
 BottleID								https://www.ncbi.nlm.nih.gov/bioproject/352737	number	
-filter_max	aquatic sample maximum filter fractionation size threshold	http://purl.obolibrary.org/obo/PMO_00000023						https://www.ncbi.nlm.nih.gov/bioproject/352737	number	
-filter_min	aquatic sample minimum filter fractionation size threshold	http://purl.obolibrary.org/obo/PMO_00000022						https://www.ncbi.nlm.nih.gov/bioproject/352737	number	
+filter_max	aquatic sample maximum filter fractionation size threshold	http://purl.obolibrary.org/obo/PMO_00000023	_m	http://purl.obolibrary.org/obo/UO_0000017				https://www.ncbi.nlm.nih.gov/bioproject/352737	number	
+filter_min	aquatic sample minimum filter fractionation size threshold	http://purl.obolibrary.org/obo/PMO_00000022	_m	http://purl.obolibrary.org/obo/UO_0000017				https://www.ncbi.nlm.nih.gov/bioproject/352737	number	
 filter_type								https://www.ncbi.nlm.nih.gov/bioproject/352737	string	
