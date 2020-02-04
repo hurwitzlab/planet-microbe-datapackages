@@ -1,0 +1,19 @@
+parameter	rdf type purl label	rdf type purl	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
+samplingEvent_ID	centrally registered sampling event identifier	http://purl.obolibrary.org/obo/PMO_00000056						https://www.ncbi.nlm.nih.gov/bioproject/385855	string	
+BioSample	specimen identifier assigned by sequencing facility	http://purl.obolibrary.org/obo/OBI_0001901						https://www.ncbi.nlm.nih.gov/bioproject/385855	string	
+SRA	SRA accession number	http://purl.obolibrary.org/obo/PMO_00000123						https://www.ncbi.nlm.nih.gov/bioproject/385855	string	
+Sample name								https://www.ncbi.nlm.nih.gov/bioproject/385855	string	
+bottle_id								https://www.ncbi.nlm.nih.gov/bioproject/385855	string	
+collection_date	specimen collection time measurement datum	http://purl.obolibrary.org/obo/OBI_0001619	time unit	http://purl.obolibrary.org/obo/UO_0000003				https://www.ncbi.nlm.nih.gov/bioproject/385855	date	%d-%m-%Y
+cruise_id								https://www.ncbi.nlm.nih.gov/bioproject/385855	string	
+depth	depth of water	http://purl.obolibrary.org/obo/ENVO_3100031	meter	http://purl.obolibrary.org/obo/UO_0000008				https://www.ncbi.nlm.nih.gov/bioproject/385855	number	
+env_biome								https://www.ncbi.nlm.nih.gov/bioproject/385855	string	
+purl_biome	biome	http://purl.obolibrary.org/obo/ENVO_00000428						https://www.ncbi.nlm.nih.gov/bioproject/385855	string	
+env_feature								https://www.ncbi.nlm.nih.gov/bioproject/385855	string	
+purl_feature	environmental feature	http://purl.obolibrary.org/obo/ENVO_00002297						https://www.ncbi.nlm.nih.gov/bioproject/385855	string	
+env_material								https://www.ncbi.nlm.nih.gov/bioproject/385855	string	
+purl_material	environmental material	http://purl.obolibrary.org/obo/ENVO_00010483						https://www.ncbi.nlm.nih.gov/bioproject/385855	string	
+geo_loc_name								https://www.ncbi.nlm.nih.gov/bioproject/385855	string	
+isolation-source								https://www.ncbi.nlm.nih.gov/bioproject/385855	string	
+lat	latitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001620	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.ncbi.nlm.nih.gov/bioproject/385855	number	
+Lon	longitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001621	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.ncbi.nlm.nih.gov/bioproject/385855	number	
