@@ -151,7 +151,7 @@
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100004",
-            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000064",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": ""
@@ -301,7 +301,7 @@
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100022",
-            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000064",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": ""
@@ -311,7 +311,7 @@
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100023",
-            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000064",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": ""
@@ -331,7 +331,7 @@
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100026",
-            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000064",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": ""
@@ -351,7 +351,7 @@
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100034",
-            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000064",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": ""
@@ -381,7 +381,7 @@
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000173",
-            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010003",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000064",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": ""
