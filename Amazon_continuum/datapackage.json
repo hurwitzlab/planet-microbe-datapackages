@@ -4,8 +4,8 @@
   },
   "profile": "tabular-data-package",
   "name": "amazon_continuum",
-  "title": "Amazon continuum dataset: metagenomic and metatranscriptomic inventories of the Amazon River plume",
-  "description": "Investigation of how the Amazon continuum and its associated carbon cycle extend hundreds of miles from the river to the open ocean and suggest that making such a connection is vital to understand regional and global human impacts and potential feedbacks to climate change.",
+  "title": "Amazon Continuum",
+  "description": "Metagenomic and metatranscriptomic inventories of the Amazon River plume. Investigation of how the Amazon continuum and its associated carbon cycle extend hundreds of miles from the river to the open ocean and suggest that making such a connection is vital to understand regional and global human impacts and potential feedbacks to climate change.",
   "pm:projectType": "marine metagenome",
   "homepage": "http://amazoncontinuum.org/",
   "keywords": [
