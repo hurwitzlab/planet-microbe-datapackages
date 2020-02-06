@@ -1,0 +1,2123 @@
+{
+  "@context": {
+    "pm": "http://purl.obolibrary.org/obo/PMO_00000000"
+  },
+  "profile": "tabular-data-package",
+  "name": "amazon_continuum",
+  "title": "Amazon continuum dataset: metagenomic and metatranscriptomic inventories of the Amazon River plume",
+  "description": "Investigation of how the Amazon continuum and its associated carbon cycle extend hundreds of miles from the river to the open ocean and suggest that making such a connection is vital to understand regional and global human impacts and potential feedbacks to climate change.",
+  "pm:projectType": "marine metagenome",
+  "homepage": "http://amazoncontinuum.org/",
+  "keywords": [
+	"Amazon Continuum",
+  "C-MORE",
+	"University of Georgia",
+	"Gordon and Betty Moore"
+  ],
+  "sources": [
+    {
+      "title": "NCBI BioProject1",
+      "path": "https://www.ncbi.nlm.nih.gov/bioproject/237344"
+    },
+    {
+      "title": "NCBI BioProject2",
+      "path": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345"
+    },
+    {
+      "title": "NCBI BioProject3",
+      "path": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346"
+    },
+    {
+      "title": "The Amazon continuum dataset: quantitative metagenomic and metatranscriptomic inventories of the Amazon River plume, June 2010",
+      "path": "https://doi.org/10.1186/2049-2618-2-17"
+    },
+    {
+      "title": "Metagenomic and metatranscriptomic inventories of the lower Amazon River, May 2011",
+      "path": "https://doi.org/10.1186/s40168-015-0099-0"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-3.0",
+      "title": "Creative Commons Attribution 3.0 Unported",
+      "path": "https://creativecommons.org/licenses/by/3.0/"
+    }
+  ],
+  "resources": [
+    {
+      "name": "sampling_events",
+      "title": "sampling_events dataset",
+      "description": "Sampling_events associated with Amazon continuum omics data.",
+      "profile": "tabular-data-resource",
+      "pm:resourceType": "sampling_event",
+      "path": "sampling_event.tsv",
+      "dialect": {
+        "delimiter": "\t",
+        "header": true,
+        "caseSensitiveHeader": true
+      },
+      "format": "csv",
+      "mediatype": "text/tab-separated-values",
+      "encoding": "UTF-8",
+      "hash": "cc07dc03a47fc2b5da042293e9d95454",
+      "schema": {
+        "fields": [
+          {
+            "name": "Sample_event_ID",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000056",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "ISO_DateTime",
+            "type": "datetime",
+            "format": "%d-%m-%YT%H:%M:%S",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "lat",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "lon",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "cruise_ID",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000060",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "cruise_expedition",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000007",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "sampling_event_type",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000146",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Station_name",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000149",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          }
+        ],
+        "missingValues": [
+          "",
+          "nd"
+        ]
+      }
+    },
+    {
+      "name": "campaign",
+      "title": "The Amazon continuum dataset",
+      "description": "Investigation of how the Amazon continuum and its associated carbon cycle extend hundreds of miles from the river to the open ocean and suggest that making such a connection is vital to understand regional and global human impacts and potential feedbacks to climate change.",
+      "profile": "tabular-data-resource",
+      "pm:resourceType": "campaign",
+      "path": "campaign.tsv",
+      "dialect": {
+        "delimiter": "\t",
+        "header": true,
+        "caseSensitiveHeader": true
+      },
+      "format": "csv",
+      "mediatype": "text/tab-separated-values",
+      "encoding": "UTF-8",
+      "hash": "dcb30b46f3a959b2120ae8276a7cbc52",
+      "schema": {
+        "fields": [
+          {
+            "name": "campaign_expedition",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000007",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "expedition_URL",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000133",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "campaign_name",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000060",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "WOCE_ID",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "R2R_cruise_DOI",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000135",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "start_date",
+            "type": "date",
+            "format": "%d-%m-%Y",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000137",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "end_date",
+            "type": "date",
+            "format": "%d-%m-%Y",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000138",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "start_location",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000144",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "end_location",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000145",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "CCHDO url",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000047",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "BCO-DMO summary",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000047",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "BCO-DMO deployment",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000047",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "SAMOS URL",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000047",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "WHOI URL",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000047",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          }
+        ],
+        "missingValues": [
+          "",
+          "nd"
+        ]
+      }
+    },
+    {
+      "name": "sample_amazon_plume",
+      "title": "sample Amazon plume metagenomes",
+      "description": "Metagenomes associated with the 2010-12 river plume",
+      "profile": "tabular-data-resource",
+      "pm:resourceType": "sample",
+      "path": "sample_Amazon_plume.tsv",
+      "dialect": {
+        "delimiter": "\t",
+        "header": true,
+        "caseSensitiveHeader": true
+      },
+      "format": "csv",
+      "mediatype": "text/tab-separated-values",
+      "encoding": "UTF-8",
+      "hash": "a29757d30df117519207baee8feda1bb",
+      "schema": {
+        "fields": [
+          {
+            "name": "Sampling_event_ID",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000056",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "BioSample",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001901",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "PAR",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000015",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000126",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "SRA",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000123",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Sample name",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/IAO_0000578",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "bacteria_carb_prod",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000189",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000190",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "beam_atten",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "beam_trans",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000187",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "collection_date",
+            "type": "date",
+            "format": "%d-%m-%Y",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "collection_time",
+            "type": "time",
+            "format": "%H:%M:%S",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "ISO_DateTime",
+            "type": "datetime",
+            "format": "%d-%m-%YT%H:%M:%S",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001619",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "corr_irradiance",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "density",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000191",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000083",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "depth",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "diss_inorg_carb",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000142",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "diss_oxy",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200021",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "env_biome",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "biome_purl",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00000428",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "env_feature",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "feature_purl",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "env_material",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "material_purl",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00010483",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "env_package",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "fluorescence",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100032",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000132",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "geo_loc_name",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "lat",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "lon",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "max_filter_size",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000017",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "min_filter_size",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000017",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "oxy_sat",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000187",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "pressure",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100033",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000034",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "salinity",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000014",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000168",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "samp_volume",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000025",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000099",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "sampling_cruise",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "sigma-theta",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000021",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "site_name",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "std_norm_factor",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "surf_irradiance",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000126",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "temp",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200014",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000027",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "turbidity",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000121",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000193",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          }
+        ],
+        "missingValues": [
+          "",
+          "nd"
+        ]
+      }
+    },
+    {
+      "name": "sample_amazon_plume_metatranscriptomes",
+      "title": "sample Amazon plume metatranscriptomes",
+      "description": "Metatranscriptomes associated with the 2010-16 river plume",
+      "profile": "tabular-data-resource",
+      "pm:resourceType": "sample",
+      "path": "sample_Amazon_plume_metaT.tsv",
+      "dialect": {
+        "delimiter": "\t",
+        "header": true,
+        "caseSensitiveHeader": true
+      },
+      "format": "csv",
+      "mediatype": "text/tab-separated-values",
+      "encoding": "UTF-8",
+      "hash": "9703591e33bec0d9787660ed2ef6db13",
+      "schema": {
+        "fields": [
+          {
+            "name": "Sampling_event_ID",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000056",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "BioSample",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001901",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "PAR",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000015",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000126",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "SRA",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000123",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Sample name",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/IAO_0000578",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "bacteria_carb_prod",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000189",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000190",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "beam_atten",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "beam_trans",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000187",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "collection_date",
+            "type": "date",
+            "format": "%d-%m-%Y",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "collection_time",
+            "type": "time",
+            "format": "%H:%M:%S",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "ISO_DateTime",
+            "type": "datetime",
+            "format": "%d-%m-%YT%H:%M:%S",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001619",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "corr_irradiance",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "density",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000191",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000083",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "depth",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "diss_inorg_carb",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000142",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "diss_oxy",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200021",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "env_biome",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "biome_purl",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00000428",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "env_feature",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "feature_purl",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "env_material",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "material_purl",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00010483",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "env_package",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "fluorescence",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100032",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000132",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "geo_loc_name",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "lat",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "lon",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "max_filter_size",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000017",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "min_filter_size",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000017",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "oxy_sat",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000187",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "pressure",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100033",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000034",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "salinity",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000014",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000168",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "samp_volume",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000025",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000099",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "sampling_cruise",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "sigma-theta",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000021",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "site_name",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "std_norm_factor",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "surf_irradiance",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000126",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "temp",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200014",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000027",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "turbidity",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000121",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000193",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          }
+        ],
+        "missingValues": [
+          "",
+          "nd"
+        ]
+      }
+    },
+    {
+      "name": "sample_amazon_plume_metatranscriptomes_poly_a",
+      "title": "sample Amazon plume PolyA metatranscriptomes",
+      "description": "PolyA metatranscriptomes associated with the 2010-16 river plume",
+      "profile": "tabular-data-resource",
+      "pm:resourceType": "sample",
+      "path": "sample_Amazon_plume_metaTpolyA.tsv",
+      "dialect": {
+        "delimiter": "\t",
+        "header": true,
+        "caseSensitiveHeader": true
+      },
+      "format": "csv",
+      "mediatype": "text/tab-separated-values",
+      "encoding": "UTF-8",
+      "hash": "91ec271c33604e103a93f2019f67a3f1",
+      "schema": {
+        "fields": [
+          {
+            "name": "Sampling_event_ID",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000056",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "BioSample",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001901",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "PAR",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000015",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000126",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "SRA",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000123",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Sample name",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/IAO_0000578",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "bacteria_carb_prod",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000189",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000190",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "beam_atten",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "beam_trans",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000187",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "collection_date",
+            "type": "date",
+            "format": "%d-%m-%Y",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "collection_time",
+            "type": "time",
+            "format": "%H:%M:%S",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "ISO_DateTime",
+            "type": "datetime",
+            "format": "%d-%m-%YT%H:%M:%S",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001619",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "corr_irradiance",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "density",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000191",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000083",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "depth",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "diss_inorg_carb",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000142",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "diss_oxy",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200021",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "env_biome",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "biome_purl",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00000428",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "env_feature",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "feature_purl",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "env_material",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "material_purl",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00010483",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "env_package",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "fluorescence",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100032",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000132",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "geo_loc_name",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "lat",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "lon",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "max_filter_size",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000017",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "min_filter_size",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000017",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "oxy_sat",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000187",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "pressure",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100033",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000034",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "salinity",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000014",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000168",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "samp_volume",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000025",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000099",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "sampling_cruise",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "sigma-theta",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000021",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "site_name",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "std_norm_factor",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "surf_irradiance",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000126",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "temp",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200014",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000027",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "turbidity",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000121",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000193",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          }
+        ],
+        "missingValues": [
+          "",
+          "nd"
+        ]
+      }
+    },
+    {
+      "name": "sample_amazon_river",
+      "title": "Sample Amazon River Metagenomes",
+      "description": "Metagenomes associated with the 2011-12 Amazon River samples",
+      "profile": "tabular-data-resource",
+      "pm:resourceType": "sample",
+      "path": "sample_Amazon_river.tsv",
+      "dialect": {
+        "delimiter": "\t",
+        "header": true,
+        "caseSensitiveHeader": true
+      },
+      "format": "csv",
+      "mediatype": "text/tab-separated-values",
+      "encoding": "UTF-8",
+      "hash": "f60dd276ddceb933fa6f48b6a2803de6",
+      "schema": {
+        "fields": [
+          {
+            "name": "sampling_event_ID",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000056",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "BioSample",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001901",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "SRA",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000123",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Sample name",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/IAO_0000578",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "bacterial_count",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000185",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000201",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "chlorophyll",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100036",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "collection_date",
+            "type": "date",
+            "format": "%d-%m-%Y",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001619",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "conduc",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200018",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000187",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "depth",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "diss_inorg_carb",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000142",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "env_biome",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "purl_biome",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00000428",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "env_feature",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "purl_feature",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "env_material",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "purl_material",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00010483",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "geo_loc_name",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "lat",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "lon",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "max_filter_size",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000017",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "min_filter_size",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000017",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "samp_volume",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000025",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000099",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "site_name",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "std_norm_factor",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/237344",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          }
+        ],
+        "missingValues": [
+          "",
+          "nd"
+        ]
+      }
+    },
+    {
+      "name": "sample_amazon_river_metatranscriptomes",
+      "title": "Sample Amazon River Metatranscriptomes",
+      "description": "Metatranscriptomes associated with the 2011-12 Amazon River samples",
+      "profile": "tabular-data-resource",
+      "pm:resourceType": "sample",
+      "path": "sample_Amazon_river_metaT.tsv",
+      "dialect": {
+        "delimiter": "\t",
+        "header": true,
+        "caseSensitiveHeader": true
+      },
+      "format": "csv",
+      "mediatype": "text/tab-separated-values",
+      "encoding": "UTF-8",
+      "hash": "576c648d649cb2ae330a9b1ab4cd63be",
+      "schema": {
+        "fields": [
+          {
+            "name": "sampling_event_ID",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000056",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "BioSample",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001901",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "SRA",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000123",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Sample name",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/IAO_0000578",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "bacterial_count",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000185",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000201",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "chlorophyll",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100036",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "collection_date",
+            "type": "date",
+            "format": "%d-%m-%Y",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001619",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "conduc",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200018",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000187",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "depth",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "diss_inorg_carb",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000142",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "env_biome",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "purl_biome",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00000428",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "env_feature",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "purl_feature",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "env_material",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "purl_material",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00010483",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "geo_loc_name",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "lat",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "lon",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "max_filter_size",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000023",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000017",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "min_filter_size",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000022",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000017",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "samp_volume",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000025",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000099",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "site_name",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "std_norm_factor",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          }
+        ],
+        "missingValues": [
+          "",
+          "nd"
+        ]
+      }
+    }
+  ]
+}
