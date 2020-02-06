@@ -1,25 +1,25 @@
-parameter	rdf type purl label	rdf type purl	pm:searchable	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type
-sampling_event_ID									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
-BioSample									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
-SRA									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
-Sample name									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
-bacterial_count				cells/mL					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
-chlorophyll				 ug/L					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
-collection_date				dd-mm-yyyy					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
-conduc				uS/cm					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
-depth				m					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
-diss_inorg_carb				umol C/kg					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
-env_biome										
-purl_biome									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
-env_feature									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
-purl_feature									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
-env_material									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
-purl_material									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
-geo_loc_name									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
-lat									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
-lon										
-max_filter_size				um					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
-min_filter_size				um						
-samp_volume				L					https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
-site_name									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
-std_norm_factor									https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	
+parameter	rdf type purl label	rdf type purl	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
+sampling_event_ID	centrally registered specimen collection event identifier	http://purl.obolibrary.org/obo/PMO_00000056						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	string	
+BioSample	specimen identifier assigned by sequencing facility	http://purl.obolibrary.org/obo/OBI_0001901						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	string	
+SRA	SRA accession number	http://purl.obolibrary.org/obo/PMO_00000123						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	string	
+Sample name	centrally registered identifier	http://purl.obolibrary.org/obo/IAO_0000578						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	string	
+bacterial_count	enumeration of prokaryote aggregation	http://purl.obolibrary.org/obo/PMO_00000185	cells per milliliter	http://purl.obolibrary.org/obo/UO_0000201				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	number	
+chlorophyll	concentration of chlorophyll in water	http://purl.obolibrary.org/obo/ENVO_3100036	microgram per liter	http://purl.obolibrary.org/obo/UO_0000301				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	number	
+collection_date	specimen collection time measurement datum	http://purl.obolibrary.org/obo/OBI_0001619	time unit	http://purl.obolibrary.org/obo/UO_0000003				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	date	%d-%m-%Y
+conduc	conductivity of water	http://purl.obolibrary.org/obo/ENVO_09200018	microsiemens per centimeter	http://purl.obolibrary.org/obo/PMO_00000187				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	number	
+depth	depth of water	http://purl.obolibrary.org/obo/ENVO_3100031	meter	http://purl.obolibrary.org/obo/UO_0000008				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	number	
+diss_inorg_carb	dissolved inorganic carbon	http://purl.obolibrary.org/obo/pmo.owl/PMO_00000142	micromole per kilogram	http://purl.obolibrary.org/obo/UO_0010004				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	number	
+env_biome									string	
+purl_biome	biome	http://purl.obolibrary.org/obo/ENVO_00000428						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	string	
+env_feature								https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	string	
+purl_feature	environmental feature	http://purl.obolibrary.org/obo/ENVO_00002297						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	string	
+env_material								https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	string	
+purl_material	environmental material	http://purl.obolibrary.org/obo/ENVO_00010483						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	string	
+geo_loc_name								https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	string	
+lat	latitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001620	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	number	
+lon	longitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001621	degree	http://purl.obolibrary.org/obo/UO_0000185					number	
+max_filter_size	aquatic sample maximum filter fractionation size threshold	http://purl.obolibrary.org/obo/PMO_00000023	micrometer	http://purl.obolibrary.org/obo/UO_0000017				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	number	
+min_filter_size	aquatic sample minimum filter fractionation size threshold	http://purl.obolibrary.org/obo/PMO_00000022	micrometer	http://purl.obolibrary.org/obo/UO_0000017					number	
+samp_volume	water sample volume	http://purl.obolibrary.org/obo/PMO_00000025	liter	http://purl.obolibrary.org/obo/UO_0000099				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	number	
+site_name								https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	string	
+std_norm_factor								https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345	number	
