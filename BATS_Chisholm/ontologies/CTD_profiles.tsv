@@ -1,0 +1,28 @@
+parameter	rdf type purl label	rdf type purl	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
+sampling_event_ID								https://www.bco-dmo.org/dataset/3918		
+ISO_datetime_deployed								https://www.bco-dmo.org/dataset/3918		
+cruise_number								https://www.bco-dmo.org/dataset/3918		
+cast_number								https://www.bco-dmo.org/dataset/3918		
+Conductivity			Siemens per meter (S/m)					https://www.bco-dmo.org/dataset/3918		
+Depth			meters (m)					https://www.bco-dmo.org/dataset/3918		
+Dissolved_Oxygen			micromole per kilogram (umol/kg)					https://www.bco-dmo.org/dataset/3918		
+Fluorescence			relative fluorescence units (RFU)					https://www.bco-dmo.org/dataset/3918		
+Latitude			decimal degrees					https://www.bco-dmo.org/dataset/3918		
+Longitude			decimal degrees					https://www.bco-dmo.org/dataset/3918		
+Pressure			decibar (dbar)					https://www.bco-dmo.org/dataset/3918		
+Salinity			PSS-78					https://www.bco-dmo.org/dataset/3918		
+Temperature			degrees Celsius					https://www.bco-dmo.org/dataset/3918		
+cast_ID								https://www.bco-dmo.org/dataset/3918		
+decimal_year								https://www.bco-dmo.org/dataset/3918		
+filename								https://www.bco-dmo.org/dataset/3918		
+Decimal_date_deployed								https://www.bco-dmo.org/dataset/3918		
+Decimal_date_recovered								https://www.bco-dmo.org/dataset/3918		
+Decimal_day_deployed								https://www.bco-dmo.org/dataset/3918		
+Latitude_CTD_deployed			decimal degrees					https://www.bco-dmo.org/dataset/3918		
+Latitude_CTD_recovered			decimal degrees					https://www.bco-dmo.org/dataset/3918		
+Longitude_CTD_deployed			decimal degrees					https://www.bco-dmo.org/dataset/3918		
+Longitude_CTD_recovered			decimal degrees					https://www.bco-dmo.org/dataset/3918		
+info_filename								https://www.bco-dmo.org/dataset/3918		
+ISO_datetime_recovered								https://www.bco-dmo.org/dataset/3918		
+cruise_type								https://www.bco-dmo.org/dataset/3918		
+cruise_type_text								https://www.bco-dmo.org/dataset/3918		

@@ -1,0 +1,62 @@
+parameter	rdf type purl label	rdf type purl	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format		
+sampling_event_ID								https://www.bco-dmo.org/dataset/3782				
+cruise_number								https://www.bco-dmo.org/dataset/3782				
+cast_number								https://www.bco-dmo.org/dataset/3782				
+Id								https://www.bco-dmo.org/dataset/3782				
+decy								https://www.bco-dmo.org/dataset/3782				
+lat			decimal degrees					https://www.bco-dmo.org/dataset/3782				
+lon			decimal degrees					https://www.bco-dmo.org/dataset/3782				
+Depth			meters (m)					https://www.bco-dmo.org/dataset/3782				
+p1	pig1 (Chl3 c3 ng/kg)		nanograms per kilogram (ng/kg)					https://www.bco-dmo.org/dataset/3782				
+p2	pig2 (chlidea ng/kg)		nanograms per kilogram (ng/kg)					https://www.bco-dmo.org/dataset/3782				
+p3	pig3 (chl c1+c2 ng/kg)		nanograms per kilogram (ng/kg)					https://www.bco-dmo.org/dataset/3782				
+p4	pig4 (peri ng/kg)		nanograms per kilogram (ng/kg)					https://www.bco-dmo.org/dataset/3782				
+p5	pig5 (19-Butfu ng/kg)		nanograms per kilogram (ng/kg)					https://www.bco-dmo.org/dataset/3782				
+p6	pig6 (fuco ng/kg)		nanograms per kilogram (ng/kg)					https://www.bco-dmo.org/dataset/3782				
+p7	pig7 (19-Hexfu ng/kg)		nanograms per kilogram (ng/kg)					https://www.bco-dmo.org/dataset/3782				
+p8	pig8 (Pras ng/kg)		nanograms per kilogram (ng/kg)					https://www.bco-dmo.org/dataset/3782				
+p9	pig9 (Diad ng/kg)		nanograms per kilogram (ng/kg)					https://www.bco-dmo.org/dataset/3782				
+p10	pig10 (Allox ng/kg)		nanograms per kilogram (ng/kg)					https://www.bco-dmo.org/dataset/3782				
+p11	pig11 (Diat ng/kg)		nanograms per kilogram (ng/kg)					https://www.bco-dmo.org/dataset/3782				
+p12	pig12 (Zea+lut ng/kg)		nanograms per kilogram (ng/kg)					https://www.bco-dmo.org/dataset/3782				
+p13	pig13 (Chl b ng/kg)		nanograms per kilogram (ng/kg)					https://www.bco-dmo.org/dataset/3782				
+p14	pig14 (Chl a ng/kg)		nanograms per kilogram (ng/kg)					https://www.bco-dmo.org/dataset/3782				
+p15	pig15 (a+b Carotene ng/kg)		nanograms per kilogram (ng/kg)					https://www.bco-dmo.org/dataset/3782				
+Chl	pig16 (Turn Chl a ug/kg)		microgram per kilogram (ug/kg)					https://www.bco-dmo.org/dataset/3782				
+Phae	pig17 (Turn Phaeo ug/kg)		microgram per kilogram (ug/kg)					https://www.bco-dmo.org/dataset/3782				
+p18	pig18 (Lutein ng/kg)		nanograms per kilogram (ng/kg)					https://www.bco-dmo.org/dataset/3782				
+p19	pig19 (Zeax ng/kg)		nanograms per kilogram (ng/kg)					https://www.bco-dmo.org/dataset/3782				
+p20	pig20 (a-Carotene ng/kg)		nanograms per kilogram (ng/kg)					https://www.bco-dmo.org/dataset/3782				
+p21	pig21 (b-Carotene ng/kg)		nanograms per kilogram (ng/kg)					https://www.bco-dmo.org/dataset/3782				
+filename	name of the originators file		unitless					https://www.bco-dmo.org/dataset/3782				
+Temp			¡C					https://www.bco-dmo.org/dataset/3782				
+CTD_S	CTD Salinity		PSS-78					https://www.bco-dmo.org/dataset/3782				
+Sal1	bottle_salinity		PSS-78					https://www.bco-dmo.org/dataset/3782				
+SigTh			kilogram per meter cubed (kg/m3)					https://www.bco-dmo.org/dataset/3782				
+O2	botlle_oxy		micromole per kilogram (umol/kg)					https://www.bco-dmo.org/dataset/3782				
+OxFix	Oxygen Fix Temp		degrees Celsius					https://www.bco-dmo.org/dataset/3782				
+Anom1	Oxy Anomaly-1		micromole per kilogram (umol/kg)					https://www.bco-dmo.org/dataset/3782				
+CO2	dissolved inorganic carbon (DIC)		micromole per kilogram (umol/kg)					https://www.bco-dmo.org/dataset/3782				
+Alk	Alkalinity		uequiv					https://www.bco-dmo.org/dataset/3782				
+NO31	Nitrate+Nitrite-1		micromole per kilogram (umol/kg)					https://www.bco-dmo.org/dataset/3782				
+NO21								https://www.bco-dmo.org/dataset/3782				
+PO41	Phosphate-1		micromole per kilogram (umol/kg)					https://www.bco-dmo.org/dataset/3782				
+Si1	Silicate-1		micromole per kilogram (umol/kg)					https://www.bco-dmo.org/dataset/3782				
+POC	POC		microgram per kilogram (ug/kg)					https://www.bco-dmo.org/dataset/3782				
+PON	PON		microgram per kilogram (ug/kg)					https://www.bco-dmo.org/dataset/3782				
+TOC	TOC		micromole per kilogram (umol/kg)					https://www.bco-dmo.org/dataset/3782				
+TN	(DON) TN NOTE: Prior to BATS 121; DON is reported instead of TON		micromole per kilogram (umol/kg)					https://www.bco-dmo.org/dataset/3782				
+Bact	Bacteria enumeration		cells*10^8/kg					https://www.bco-dmo.org/dataset/3782				
+POP	POP		micromole per kilogram (umol/kg)					https://www.bco-dmo.org/dataset/3782				
+TDP	Total dissolved Phosphorus		nanomole per kilogram (nmol/kg)					https://www.bco-dmo.org/dataset/3782				
+SRP	Low-level phosphorus		nanomole per kilogram (nmol/kg)					https://www.bco-dmo.org/dataset/3782				
+BSi	Particulate biogenic silica		micromole per kilogram (umol/kg)					https://www.bco-dmo.org/dataset/3782				
+LSi	Particulate lithogenic silica		micromole per kilogram (umol/kg)					https://www.bco-dmo.org/dataset/3782				
+Pro	Prochlorococcus		cells per mililiter (cells/ml)					https://www.bco-dmo.org/dataset/3782				
+Syn	Synechococcus		cells per mililiter (cells/ml)					https://www.bco-dmo.org/dataset/3782				
+Piceu	Picoeukaryotes		cells per mililiter (cells/ml)					https://www.bco-dmo.org/dataset/3782				
+Naneu	Nanoeukaryotes		cells per mililiter (cells/ml)					https://www.bco-dmo.org/dataset/3782				
+ISO_datetime			unitless					https://www.bco-dmo.org/dataset/3782				
+cruise_type			unitless					https://www.bco-dmo.org/dataset/3782				
+niskin_number			unitless					https://www.bco-dmo.org/dataset/3782				
+cruise_type_text			unitless					https://www.bco-dmo.org/dataset/3782				

@@ -8,11 +8,11 @@ collection_date	specimen collection time measurement datum	http://purl.obolibrar
 cruise_id								https://www.ncbi.nlm.nih.gov/bioproject/385855	string	
 depth	depth of water	http://purl.obolibrary.org/obo/ENVO_3100031	meter	http://purl.obolibrary.org/obo/UO_0000008				https://www.ncbi.nlm.nih.gov/bioproject/385855	number	
 env_biome								https://www.ncbi.nlm.nih.gov/bioproject/385855	string	
-purl_biome	biome	http://purl.obolibrary.org/obo/ENVO_00000428						https://www.ncbi.nlm.nih.gov/bioproject/385855	string	
+purl_biome	biome	http://purl.obolibrary.org/obo/ENVO_00000428							string	
 env_feature								https://www.ncbi.nlm.nih.gov/bioproject/385855	string	
-purl_feature	environmental feature	http://purl.obolibrary.org/obo/ENVO_00002297						https://www.ncbi.nlm.nih.gov/bioproject/385855	string	
+purl_feature	environmental feature	http://purl.obolibrary.org/obo/ENVO_00002297							string	
 env_material								https://www.ncbi.nlm.nih.gov/bioproject/385855	string	
-purl_material	environmental material	http://purl.obolibrary.org/obo/ENVO_00010483						https://www.ncbi.nlm.nih.gov/bioproject/385855	string	
+purl_material	environmental material	http://purl.obolibrary.org/obo/ENVO_00010483							string	
 geo_loc_name								https://www.ncbi.nlm.nih.gov/bioproject/385855	string	
 isolation-source								https://www.ncbi.nlm.nih.gov/bioproject/385855	string	
 lat	latitude coordinate measurement datum	http://purl.obolibrary.org/obo/OBI_0001620	degree	http://purl.obolibrary.org/obo/UO_0000185				https://www.ncbi.nlm.nih.gov/bioproject/385855	number	
