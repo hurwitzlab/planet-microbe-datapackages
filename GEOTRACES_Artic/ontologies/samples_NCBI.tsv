@@ -5,7 +5,6 @@ BioSample									https://www.ncbi.nlm.nih.gov/bioproject/324018
 Depth				m					https://www.ncbi.nlm.nih.gov/bioproject/324018		
 Description									https://www.ncbi.nlm.nih.gov/bioproject/324018		
 ENA checklist									https://www.ncbi.nlm.nih.gov/bioproject/324018		
-Date									https://www.ncbi.nlm.nih.gov/bioproject/324018		
 Event Date/Time									https://www.ncbi.nlm.nih.gov/bioproject/324018		
 Latitude End									https://www.ncbi.nlm.nih.gov/bioproject/324018		
 Latitude Start									https://www.ncbi.nlm.nih.gov/bioproject/324018		
@@ -21,12 +20,12 @@ Sampling Platform									https://www.ncbi.nlm.nih.gov/bioproject/324018
 Sampling Site									https://www.ncbi.nlm.nih.gov/bioproject/324018		
 Temperature				¡C					https://www.ncbi.nlm.nih.gov/bioproject/324018		
 environment (biome)									https://www.ncbi.nlm.nih.gov/bioproject/324018		
-purl_biome											
-environment (feature)									https://www.ncbi.nlm.nih.gov/bioproject/324018		
-purl_feature											
-environment (material)									https://www.ncbi.nlm.nih.gov/bioproject/324018		
-purl_material											
-event label									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+purl_biome									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+environment (feature)											
+purl_feature									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+environment (material)											
+purl_material									https://www.ncbi.nlm.nih.gov/bioproject/324018		
+event label											
 nitrate sensor									https://www.ncbi.nlm.nih.gov/bioproject/324018		
 oxygen sensor									https://www.ncbi.nlm.nih.gov/bioproject/324018		
 sample collection device									https://www.ncbi.nlm.nih.gov/bioproject/324018		
