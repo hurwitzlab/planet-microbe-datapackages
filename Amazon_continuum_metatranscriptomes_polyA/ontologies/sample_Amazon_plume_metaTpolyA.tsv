@@ -33,7 +33,7 @@ pressure	pressure of water	http://purl.obolibrary.org/obo/ENVO_3100033	decibar	h
 salinity	liquid water salinity	http://purl.obolibrary.org/obo/PMO_00000014	parts per thousand	http://purl.obolibrary.org/obo/UO_0000168				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	number	
 samp_volume	water sample volume	http://purl.obolibrary.org/obo/PMO_00000025	liter	http://purl.obolibrary.org/obo/UO_0000099				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	number	
 sampling_cruise								https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	string	
-sigma-theta	potential density	http://purl.obolibrary.org/obo/PMO_00000021						https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	number	
+sigma-theta	potential density	http://purl.obolibrary.org/obo/PMO_00000021	kilogram per cubic meter	http://purl.obolibrary.org/obo/UO_0000083				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	number	
 site_name								https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	string	
 std_norm_factor								https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	number	
 surf_irradiance			micromole per square meter per second	http://purl.obolibrary.org/obo/PMO_00000126				https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346	number	
