@@ -3,8 +3,8 @@
     "pm": "http://purl.obolibrary.org/obo/PMO_00000000"
   },
   "profile": "tabular-data-package",
-  "name": "amazon_continuum",
-  "title": "Amazon Continuum",
+  "name": "amazon_continuum_river_metagenomes",
+  "title": "Amazon River Metagenomes",
   "description": "Metagenomic and metatranscriptomic inventories of the Amazon River plume. Investigation of how the Amazon continuum and its associated carbon cycle extend hundreds of miles from the river to the open ocean and suggest that making such a connection is vital to understand regional and global human impacts and potential feedbacks to climate change.",
   "pm:projectType": "marine metagenome",
   "homepage": "http://amazoncontinuum.org/",
