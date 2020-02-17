@@ -1,4 +1,4 @@
-sampling_event_ID	ISO_DateTime	lat	lon	cruise_ID	cruise_expedition	sampling_event_type	Station_name
+Sample_event_ID	ISO_DateTime	lat	lon	cruise_ID	cruise_expedition	sampling_event_type	Station_name
 ANM11_20-05-2011_2.484383S55.007500W_1.6	20-05-2011T00:00:00	-2.484383	-55.0075	NA	ANACONDAS	pump	Tapajos Depth (TAPD)
 ANM11_20-05-2011_2.484383S55.007500W_1.72	20-05-2011T00:00:00	-2.484383	-55.0075	NA	ANACONDAS	pump	Tapajos Depth (TAPD)
 ANM11_20-05-2011_2.484383S55.007500W_1.49	20-05-2011T00:00:00	-2.484383	-55.0075	NA	ANACONDAS	pump	Tapajos Surface (TAPS)

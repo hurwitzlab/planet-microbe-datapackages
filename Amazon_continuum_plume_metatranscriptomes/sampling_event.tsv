@@ -1,4 +1,4 @@
-Sampling_event_ID	ISO_DateTime	lat	lon	cruise_ID	cruise_expedition	sampling_event_type	Station_name
+Sample_event_ID	ISO_DateTime	lat	lon	cruise_ID	cruise_expedition	sampling_event_type	Station_name
 AN10_S10_05062010700	05-06-2010T07:00:00	4.88	-51.36	AN10/KN197-08	ANACONDAS	pump	Station 10
 AN10_S23_16062010904	16-06-2010T09:04:00	10.68	-54.42	AN10/KN197-08	ANACONDAS	pump	Station 23
 AN10_S2_25052010710	25-05-2010T07:10:00	10.29	-54.51	AN10/KN197-08	ANACONDAS	pump	Station 2

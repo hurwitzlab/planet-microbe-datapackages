@@ -1,4 +1,4 @@
-sampling_event_ID	ISO_DateTime	lat	lon	cruise_ID	cruise_expedition	sampling_event_type	Station_name
+Sample_event_ID	ISO_DateTime	lat	lon	cruise_ID	cruise_expedition	sampling_event_type	Station_name
 ANM11_07-05-2011_0.083883S51.051417W_0.46	07-05-2011T00:00:00	-0.083883	-51.051417	NA	ANACONDAS	pump	Macapa North (MCPN)
 ANM11_07-05-2011_0.083883S51.051417W_0.5	07-05-2011T00:00:00	-0.083883	-51.051417	NA	ANACONDAS	pump	Macapa North (MCPN)
 ANM11_07-05-2011_0.083883S51.051417W_0.66	07-05-2011T00:00:00	-0.083883	-51.051417	NA	ANACONDAS	pump	Macapa North (MCPN)
