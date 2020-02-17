@@ -2,11 +2,8 @@
 
 ## sample_NCBI
 Collects metadata associated to the amazon continuum metagenome in NCBI : 
-- metagenomes: https://www.ncbi.nlm.nih.gov/bioproject/237344
-- polyA metatranscriptomes: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346
 - non-specific metatranscriptomes: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237345  
-The "Plume" tables contain the KN197-08 expedition (may-june 2010) and the AT21-04.
-The "River" tables contain the samples collected during the May 2011 amazon river and 2012 amazon river samples.
+The "Plume" dataset contains the KN197-08 expedition (may-june 2010) and the AT21-04.
 
 #### Minor corrections were done in order to help the use of the metadata :
   - collection_date normalized to a unique format (dd-mm-yyyy)  
