@@ -67,22 +67,48 @@ SAMEA2622628
 SAMEA2622624
 SAMEA2622619
 SAMEA2622614  
-- AHX, ARD_2, ARG : for the Sample SAMEA2657086, the longitude-end was corrected from -95.9893 to -59.9893
 - APY : The range-depth sample TARA_B100002029 (NCBI: SAMEA2623919, event_ID:TARA_20120319T1848Z_152_EVENT_CAST) was removed
 - ARG : The range-depth samples TARA_A100000810 (NCBI:SAMEA2731305,	event_ID:TARA_20091111T1827Z_019_EVENT_NET) and TARA_A100000693	(NCBI:SAMEA2731098, event_ID:TARA_20091115T1031Z_021_EVENT_NET) were removed
+- Correction of latitude/longitude values for the following samples:
+Longitude-end -95.9893 corrected to -59.9893 for the Sample SAMEA2657086 - AHX, ARD_2, ARG
+
+
+Longitude coordinates 88.4044 corrected to -88.394 for sample SAMEA2623477 - ARG, ARD_2, AHX
+Longitude coordinates 94.9752 corrected to -94.9527 for sample SAMEA2623417 - ARG, ARD_2, AHX
+Longitude coordinates 88.4044 corrected to -88.394 for sample SAMEA2623479 - ARG, ARD_2, AHX
+Longitude coordinates 94.9752 corrected to -94.9527 for sample SAMEA2623419 - ARG, ARD_2, AHX
+Latitude coordinates 32.1 corrected to -32.2401 for sample SAMEA2620988 - ARG, ARD_2, AHX
+Latitude coordinates 32.1 corrected to -32.2401 for sample SAMEA2620985 - ARG, ARD_2, AHX
+Latitude coordinates 6.3306 corrected to 14.3284 for sample SAMEA2732654 - ARG, ARD_2, AHX
+Latitude coordinates 34.835 corrected to 27.16 and Longitude coordinates 27.1433 corrected to 34.8033 for sample SAMEA2619811 - ARG, AHX
+Latitude coordinates 32.1 corrected to -32.2401 for sample SAMEA2620980 - ANB
+Latitude coordinates 32.1 corrected to -32.2401 for sample SAMEA2620979 - ANB
+Latitude coordinates 34.835 corrected to 27.16 and Longitude coordinates 27.1433 corrected to 34.8033 for sample SAMEA2619808 - ANB
+Latitude coordinates 32.1 corrected to -32.2401 for sample SAMEA2620991 - APX
+Latitude coordinates 34.835 corrected to 27.16 and Longitude coordinates 27.1433 corrected to 34.8033 for sample SAMEA2619815 - APX
+Longitude coordinates 88.4044 corrected to -88.394 for sample SAMEA2623463 - APY
+Longitude coordinates 80.0607 corrected to -80.0454 for sample SAMEA2623446 - APY
+Longitude coordinates 79.3102 corrected to -79.3017 for sample SAMEA2623426 - APY
+Latitude coordinates 32.1 corrected to -32.2401 for sample SAMEA2620970 - APY
+Latitude coordinates 34.835 corrected to 27.16 and Longitude coordinates 27.1433 corrected to 34.8033 for sample SAMEA2619802 - APY
+Longitude coordinates 88.4044 corrected to -88.394 for sample SAMEA2623481 - ARG
+Longitude coordinates 80.0607 corrected to -80.0454 for sample SAMEA2623459 - ARG
+Longitude coordinates 80.0607 corrected to -80.0454 for sample SAMEA2623458 - ARG
+Longitude coordinates 79.3102 corrected to -79.3017 for sample SAMEA2623437 - ARG
+Longitude coordinates 80.0607 corrected to -80.0454 for sample SAMEA2623457 - ARG
+Longitude coordinates 79.3102 corrected to -79.3017 for sample SAMEA2623439 - ARG
+
 
 ### issues left to solve all packages
 - sensors reporting 99999 when below/not detected
 
 ### issues to solve in some packages
-- ARD_2 : some samples with a depth at 99999 (detection issue)
+- ARD_2 : samples with a depth at 99999 (detection issue) were removed
 
 ### bioprojects not included
-PRJEB4422	ALP	Shotgun Sequencing of Single Cell Whole Genome Amplification from Tara Oceans samples corresponding to size fractions for protist (GSC)
-
-PRJEB6604 APE Whole genome Sequencing from protist culture. (GSC)
-
-PRJEB6607 AZA Metatranscriptome sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes. (GSC)
+	PRJEB4422	ALP	Shotgun Sequencing of Single Cell Whole Genome Amplification from Tara Oceans samples corresponding to size fractions for protist (GSC)
+	PRJEB6604 APE Whole genome Sequencing from protist culture. (GSC)
+	PRJEB6607 AZA Metatranscriptome sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes. (GSC)
 
 # Pangea metadata
 Pangea registry of all campaigns : https://doi.pangaea.de/10.1594/PANGAEA.842191
