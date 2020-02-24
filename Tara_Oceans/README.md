@@ -77,7 +77,6 @@ Longitude coordinates 80.0607 corrected to -80.0454 for sample SAMEA2623458 - AR
 Longitude coordinates 79.3102 corrected to -79.3017 for sample SAMEA2623437 - ARG
 Longitude coordinates 80.0607 corrected to -80.0454 for sample SAMEA2623457 - ARG
 Longitude coordinates 79.3102 corrected to -79.3017 for sample SAMEA2623439 - ARG
-
 Longitude coordinates 88.4044 corrected to -88.394 for sample SAMEA2623477 - ARG, ARD_2, AHX
 Longitude coordinates 94.9752 corrected to -94.9527 for sample SAMEA2623417 - ARG, ARD_2, AHX
 Longitude coordinates 88.4044 corrected to -88.394 for sample SAMEA2623479 - ARG, ARD_2, AHX
@@ -86,8 +85,6 @@ Latitude coordinates 32.1 corrected to -32.2401 for sample SAMEA2620988 - ARG, A
 Latitude coordinates 32.1 corrected to -32.2401 for sample SAMEA2620985 - ARG, ARD_2, AHX
 Latitude coordinates 6.3306 corrected to 14.3284 for sample SAMEA2732654 - ARG, ARD_2, AHX
 Latitude coordinates 34.835 corrected to 27.16 and Longitude coordinates 27.1433 corrected to 34.8033 for sample SAMEA2619811 - ARG, AHX
-
-
 Latitude coordinates 32.1 corrected to -32.2401 for sample SAMEA2620980 - ANB
 Latitude coordinates 32.1 corrected to -32.2401 for sample SAMEA2620979 - ANB
 Latitude coordinates 34.835 corrected to 27.16 and Longitude coordinates 27.1433 corrected to 34.8033 for sample SAMEA2619808 - ANB
