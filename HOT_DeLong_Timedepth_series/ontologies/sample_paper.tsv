@@ -56,5 +56,5 @@ sbact	enumeration of Synechococcus aggregation	http://purl.obolibrary.org/obo/PM
 ebact	enumeration of picoeukaryote aggregation	http://purl.obolibrary.org/obo/PMO_00000161	cells per milliliter	http://purl.obolibrary.org/obo/UO_0000201				https://doi.org/10.1038/s41564-017-0008-3	number		#*1e5/ml
 atp	concentration of Adenosine 5-triphosphate in water	http://purl.obolibrary.org/obo/ENVO_3100001	nanogram per kilogram	http://purl.obolibrary.org/obo/PMO_00000178				https://doi.org/10.1038/s41564-017-0008-3	number		ng/kg
 psi	particulate silica	http://purl.obolibrary.org/obo/PMO_00000165	nanomole per kilogram	http://purl.obolibrary.org/obo/PMO_00000154				https://doi.org/10.1038/s41564-017-0008-3	number		nmol/kg
-l12	http://purl.obolibrary.org/obo/PMO_00000108	primary productivity carbon	miligram per cubic meter	http://purl.obolibrary.org/obo/PMO_00000108				https://doi.org/10.1038/s41564-017-0008-3	number		mg C/m3
+l12	primary productivity carbon	http://purl.obolibrary.org/obo/PMO_00000108	miligram per cubic meter	http://purl.obolibrary.org/obo/PMO_00000132				https://doi.org/10.1038/s41564-017-0008-3	number		mg C/m3
 DCM position								https://doi.org/10.1038/s41564-017-0008-3	string		
