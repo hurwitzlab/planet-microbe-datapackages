@@ -7,6 +7,7 @@
   "title": "HOT Chisholm",
   "description": "Temporal sampling of marine metagenomes from Station ALOHA and BATS",
   "pm:projectType": "marine metagenome",
+  "pm:selfUrl": "https://github.com/hurwitzlab/planet-microbe-datapackages/tree/master/HOT-Chisholm",
   "homepage": "https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?study=SRP109831",
   "keywords": [
 	"HOT",

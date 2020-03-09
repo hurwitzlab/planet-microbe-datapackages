@@ -7,6 +7,7 @@
   "title": "OSD",
   "description": "The Ocean Sampling Day (OSD) is a simultaneous sampling campaign of the world's oceans which took place (for the first time) on the summer solstice (June 21st) in the year 2014. These cumulative samples, related in time, space and environmental parameters, provide insights into fundamental rules describing microbial diversity and function and contribute to the blue economy through the identification of novel, ocean-derived biotechnologies. We see OSD data as a reference data set for generations of experiments to follow in the coming decade. The present data set includes a description of each sample collected during the Ocean Sampling Day 2014 and provides contextual environmental data measured concurrently with the collection of water samples for genomic analyses.",
   "pm:projectType": "marine metagenome",
+  "pm:selfUrl": "https://github.com/hurwitzlab/planet-microbe-datapackages/tree/master/OSD",
   "homepage": "https://www.microb3.eu/osd.html",
   "keywords": [
     "OSD",

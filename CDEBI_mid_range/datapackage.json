@@ -7,6 +7,7 @@
   "title": "CDEBI Juan de Fuca Ridge Flank",
   "description": "CDEBI midrange Eastern Flank of the Juan de Fuca Ridge samples",
   "pm:projectType": "marine metagenome",
+  "pm:selfUrl": "https://github.com/hurwitzlab/planet-microbe-datapackages/tree/master/CDEBI_mid_range",
   "homepage": "http://www.darkenergybiosphere.org/research/juandefuca.html",
   "keywords": [
   "CDEBI",

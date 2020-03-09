@@ -7,6 +7,7 @@
   "title": "HOT DeLong",
   "description": "Temporal sampling of marine metagenomes from Station ALOHA and BATS",
   "pm:projectType": "marine metagenome",
+  "pm:selfUrl": "https://github.com/hurwitzlab/planet-microbe-datapackages/tree/master/HOT-DeLong",
   "homepage": "http://hahana.soest.hawaii.edu/hot/",
   "keywords": [
 	"HOT",

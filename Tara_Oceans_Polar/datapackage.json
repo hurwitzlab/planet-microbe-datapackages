@@ -7,6 +7,7 @@
   "title": "Tara Polar Circle Expedition",
   "description": "Tara Oceans Polar Circle. A scientific adventure lasting seven months and traveling 25,000kms around the Arctic Ocean via the Northeast and Northwest passages. Supported by the CNRS, CEA, EMBL and other private and public partners, this mission unites biologists and oceanographers. They will focus on plankton biodiversity in the Arctic and other specific issues in this region susceptible to climate changes, at a time when we are witnessing an accelerated summer melting of Arctic sea ice.",
   "pm:projectType": "marine metagenome",
+  "pm:selfUrl": "https://github.com/hurwitzlab/planet-microbe-datapackages/tree/master/Tara_Oceans_Polar",
   "homepage": "https://oceans.taraexpeditions.org/en/",
   "keywords": [
     "TARA",
