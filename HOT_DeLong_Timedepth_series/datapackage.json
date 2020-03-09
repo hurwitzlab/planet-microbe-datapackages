@@ -2937,7 +2937,7 @@
             "name": "l12",
             "type": "number",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000108",
+            "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000132",
             "pm:sourceUrl": "https://doi.org/10.1038/s41564-017-0008-3",
             "pm:measurementSourceRdfType": "",
