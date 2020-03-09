@@ -229,7 +229,7 @@
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000014",
-            "pm:unitRdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000168",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": ""
@@ -7338,7 +7338,7 @@
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000014",
-            "pm:unitRdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000168",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": ""
@@ -10810,7 +10810,7 @@
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000014",
-            "pm:unitRdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000168",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": ""
@@ -17589,7 +17589,7 @@
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000014",
-            "pm:unitRdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000168",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": ""
@@ -21421,7 +21421,7 @@
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000014",
-            "pm:unitRdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000168",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": ""
