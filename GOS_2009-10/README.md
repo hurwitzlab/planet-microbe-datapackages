@@ -3,6 +3,7 @@
 ## sample_NCBI
 Collects metadata associated to the GOS expedition 2009-2011 in NCBI : https://www.ncbi.nlm.nih.gov/bioproject/293636
 Note that the difference in numbers in the same project in EBI MGNIFY is due to the fact that two analysis pipelines were run per samples. In reality, there is the same number of samples in NCBI and EBI for this project.
+The following samples were removed SAMEA3512164, SAMEA3512163, SAMEA3512162 because no depth were associated with these samples
 
 #### Minor corrections were done in order to help the use of the metadata :
   - corrections made : divide "Title" int "station_name" and "lower_filter_size"
