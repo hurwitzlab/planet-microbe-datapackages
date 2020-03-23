@@ -31,7 +31,7 @@ CTDTMP	temperature of water	http://purl.obolibrary.org/obo/ENVO_09200014	degree 
 OXYGEN	concentration of oxygen in water	http://purl.obolibrary.org/obo/ENVO_09200021	micromole per kilogram	http://purl.obolibrary.org/obo/UO_0010004				https://www.bco-dmo.org/dataset/3773	number	
 PC	particulate carbon	http://purl.obolibrary.org/obo/PMO_00000150	micromole per kilogram	http://purl.obolibrary.org/obo/UO_0010004				https://www.bco-dmo.org/dataset/3773	number	
 PN	particulate nitrogen	http://purl.obolibrary.org/obo/PMO_00000151	micromole per kilogram	http://purl.obolibrary.org/obo/UO_0010004				https://www.bco-dmo.org/dataset/3773	number	
-PSi	particulate silica	http://purl.obolibrary.org/obo/PMO_00000165						https://www.bco-dmo.org/dataset/3773	number	
+PSi	particulate silica	http://purl.obolibrary.org/obo/PMO_00000165	nanomole per kilogram	http://purl.obolibrary.org/obo/PMO_00000154				https://www.bco-dmo.org/dataset/3773	number	
 REPLICT	replicate	http://purl.obolibrary.org/obo/PMO_00000019						https://www.bco-dmo.org/dataset/3773	number	
 SALNITY	liquid water salinity	http://purl.obolibrary.org/obo/PMO_00000014	parts per thousand	http://purl.obolibrary.org/obo/UO_0000168				https://www.bco-dmo.org/dataset/3773	number	
 SIGMA	potential density	http://purl.obolibrary.org/obo/PMO_00000021	kilogram per cubic meter	http://purl.obolibrary.org/obo/UO_0000083				https://www.bco-dmo.org/dataset/3773	number	

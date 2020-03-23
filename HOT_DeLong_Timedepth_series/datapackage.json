@@ -740,7 +740,7 @@
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000165",
-            "pm:unitRdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000154",
             "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3773",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": ""
