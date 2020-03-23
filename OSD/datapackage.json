@@ -731,7 +731,7 @@
             "name": "Fluorometer",
             "type": "number",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100032",
+            "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000218",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.854419",
             "pm:measurementSourceRdfType": "",
