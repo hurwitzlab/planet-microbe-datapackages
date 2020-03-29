@@ -1,0 +1,2162 @@
+{
+  "@context": {
+    "pm": "http://purl.obolibrary.org/obo/PMO_00000000"
+  },
+  "profile": "tabular-data-package",
+  "name": "bats_chisholm",
+  "title": "BATS Chisholm",
+  "description":"",
+  "pm:projectType": "marine metagenome",
+  "pm:selfUrl": "https://github.com/hurwitzlab/planet-microbe-datapackages/tree/master/BATS_Chisholm",
+  "homepage": "http://bats.bios.edu/",
+  "keywords": [
+    "BATS",
+    "SCOPE",
+    "Chisholm"
+  ],
+  "sources": [
+    {
+      "title": "NCBI BioProject",
+      "path": "https://www.ncbi.nlm.nih.gov/bioproject/385855"
+    },
+    {
+      "title": "BCODMO CTD",
+      "path": "https://www.bco-dmo.org/dataset/3918"
+    },
+    {
+      "title": "BCODMO Niskin",
+      "path": "https://www.bco-dmo.org/dataset/3782"
+    }
+  ],
+  "licenses": [   
+    {
+      "name": "CC-BY-3.0",
+      "title": "Creative Commons Attribution 3.0 Unported",
+      "path": "https://creativecommons.org/licenses/by/3.0/"
+    }
+  ],
+  "resources": [
+    {
+      "name": "campaign",
+      "title": "BATS Chisholm",
+      "description": "Temporal sampling of marine metagenomes from Station ALOHA and BATS",
+      "profile": "tabular-data-resource",
+      "pm:resourceType": "campaign",
+      "path": "campaign.tsv",
+      "dialect": {
+        "delimiter": "\t",
+        "header": true,
+        "caseSensitiveHeader": true
+      },
+      "format": "csv",
+      "mediatype": "text/tab-separated-values",
+      "encoding": "UTF-8",
+      "hash": "33d39212019eb98ec53ae3fe94fd0bb3",
+      "schema": {
+        "fields": [
+          {
+            "name": "campaign_expedition",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000007",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "expedition_URL",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000133",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "campaign_name",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000060",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "WOCE_ID",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "R2R_cruise_DOI",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000135",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "start_date",
+            "type": "date",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000137",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "end_date",
+            "type": "date",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000138",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "start_location",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000144",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "end_location",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000145",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "CCHDO url",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000047",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "BCO-DMO summary",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000047",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "BCO-DMO deployment",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000047",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "SAMOS URL",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000047",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "WHOI URL",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000047",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "IEDA URL",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000047",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "BODC URL",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000047",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          }
+        ],
+        "missingValues": [
+          "",
+          "nd",
+          "NA"
+        ]
+      }
+    },
+    {
+      "name": "ctd_profiles",
+      "title": "BATS Chisholm",
+      "description": "Temporal sampling of marine metagenomes from Station ALOHA and BATS",
+      "profile": "tabular-data-resource",
+      "pm:resourceType": "ctd",
+      "path": "CTD_profiles.tsv",
+      "dialect": {
+        "delimiter": "\t",
+        "header": true,
+        "caseSensitiveHeader": true
+      },
+      "format": "csv",
+      "mediatype": "text/tab-separated-values",
+      "encoding": "UTF-8",
+      "hash": "9b57e58d3d7d515c612e2bcb90cecf23",
+      "schema": {
+        "fields": [
+          {
+            "name": "sampling_event_ID",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000056",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "ISO_datetime_deployed",
+            "type": "datetime",
+            "format": "%Y-%m-%dT%H:%M:%SZ",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "cruise_number",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000060",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "cast_number",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000057",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Conductivity",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Depth",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Dissolved_Oxygen",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200021",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Fluorescence",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Latitude",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Longitude",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Pressure",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100033",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000034",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Salinity",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000014",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000168",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Temperature",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200014",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000027",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "cast_ID",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "decimal_year",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "filename",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Decimal_date_deployed",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Decimal_date_recovered",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Decimal_day_deployed",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Latitude_CTD_deployed",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000076",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Latitude_CTD_recovered",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000079",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Longitude_CTD_deployed",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000077",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Longitude_CTD_recovered",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000078",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "info_filename",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "ISO_datetime_recovered",
+            "type": "datetime",
+            "format": "%Y-%m-%dT%H:%M:%SZ",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000009",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "cruise_type",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "cruise_type_text",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          }
+        ],
+        "missingValues": [
+          "",
+          "nd",
+          "NA"
+        ]
+      }
+    },
+    {
+      "name": "ncbi_samples",
+      "title": "BATS Chisholm",
+      "description": "Temporal sampling of marine metagenomes from Station ALOHA and BATS",
+      "profile": "tabular-data-resource",
+      "pm:resourceType": "sample",
+      "path": "NCBI_samples.tsv",
+      "dialect": {
+        "delimiter": "\t",
+        "header": true,
+        "caseSensitiveHeader": true
+      },
+      "format": "csv",
+      "mediatype": "text/tab-separated-values",
+      "encoding": "UTF-8",
+      "hash": "819a41ce58ad2d931b47645afcc3f41f",
+      "schema": {
+        "fields": [
+          {
+            "name": "samplingEvent_ID",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000056",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/385855",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "BioSample",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001901",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/385855",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "SRA",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000123",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/385855",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Sample name",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/385855",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "bottle_id",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/385855",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "collection_date",
+            "type": "date",
+            "format": "%d-%m-%Y",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001619",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/385855",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "cruise_id",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/385855",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "depth",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/385855",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "env_biome",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/385855",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "purl_biome",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00000428",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "env_feature",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/385855",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "purl_feature",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00002297",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "env_material",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/385855",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "purl_material",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_00010483",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "geo_loc_name",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/385855",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "isolation-source",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/385855",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "lat",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/385855",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Lon",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/385855",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          }
+        ],
+        "missingValues": [
+          "",
+          "nd",
+          "NA"
+        ]
+      }
+    },
+    {
+      "name": "niskin_profile",
+      "title": "BATS Chisholm",
+      "description": "Temporal sampling of marine metagenomes from Station ALOHA and BATS",
+      "profile": "tabular-data-resource",
+      "pm:resourceType": "niskin",
+      "path": "niskin_profile.tsv",
+      "dialect": {
+        "delimiter": "\t",
+        "header": true,
+        "caseSensitiveHeader": true
+      },
+      "format": "csv",
+      "mediatype": "text/tab-separated-values",
+      "encoding": "UTF-8",
+      "hash": "ec3ff631a7b8b29dddd8a48d26720fd0",
+      "schema": {
+        "fields": [
+          {
+            "name": "sampling_event_ID",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000056",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "cruise_number",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000060",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "cast_number",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000057",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Id",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "decy",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "lat",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "lon",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Depth",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "p1",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000178",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "p2",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100010",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000178",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "p3",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000178",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "p4",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100025",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000178",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "p5",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000156",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000178",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "p6",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100014",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000178",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "p7",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000157",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000178",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "p8",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000178",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "p9",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000178",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "p10",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100002",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000178",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "p11",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000178",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "p12",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000178",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "p13",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100009",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000178",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "p14",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000178",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "p15",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000178",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Chl",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Phae",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "p18",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100019",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000178",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "p19",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100029",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000178",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "p20",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000178",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "p21",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000178",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "filename",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Temp",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200014",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000027",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "CTD_S",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000014",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000168",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Sal1",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000014",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000168",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "SigTh",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "O2",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200021",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "OxFix",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Anom1",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200021",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "CO2",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000142",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Alk",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "NO31",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000018",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "NO21",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "PO41",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100026",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Si1",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100034",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "POC",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "PON",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "TOC",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "TN",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Bact",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "POP",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "TDP",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "SRP",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "BSi",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "LSi",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Pro",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000159",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000201",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Syn",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000160",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000201",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Piceu",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000161",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000201",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Naneu",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000201",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "ISO_datetime",
+            "type": "datetime",
+            "format": "%Y-%m-%dT%H:%M:%SZ",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001619",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "cruise_type",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "niskin_number",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "cruise_type_text",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          }
+        ],
+        "missingValues": [
+          "",
+          "nd",
+          "NA"
+        ]
+      }
+    },
+    {
+      "name": "samples_ctd_bco_dmo",
+      "title": "BATS Chisholm",
+      "description": "Temporal sampling of marine metagenomes from Station ALOHA and BATS",
+      "profile": "tabular-data-resource",
+      "pm:resourceType": "sample",
+      "path": "samples_CTD_BCO-DMO.tsv",
+      "dialect": {
+        "delimiter": "\t",
+        "header": true,
+        "caseSensitiveHeader": true
+      },
+      "format": "csv",
+      "mediatype": "text/tab-separated-values",
+      "encoding": "UTF-8",
+      "hash": "35f1bf7ecd1a7853c182253466ffc121",
+      "schema": {
+        "fields": [
+          {
+            "name": "sampling_event_ID",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000056",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "BioSample",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001901",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Conductivity",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Depth",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Dissolved_Oxygen",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200021",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Latitude",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Longitude",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Pressure",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100033",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000034",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Salinity",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000014",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000168",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Temperature",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200014",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000027",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "cast_ID",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "decimal_year",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "filename",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Decimal_date_deployed",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Decimal_date_recovered",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Decimal_day_deployed",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Latitude_CTD_deployed",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000076",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000027",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Longitude_CTD_deployed",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000077",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000027",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "info_filename",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "ISO_datetime_deployed",
+            "type": "datetime",
+            "format": "%Y-%m-%dT%H:%M:%S",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "ISO_datetime_recovered",
+            "type": "datetime",
+            "format": "%Y-%m-%dT%H:%M:%S",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000009",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "cruise_type",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "cruise_number",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000060",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "cast_number",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000057",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "cruise_type_text",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3918",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          }
+        ],
+        "missingValues": [
+          "",
+          "nd",
+          "NA"
+        ]
+      }
+    },
+    {
+      "name": "samples_niskin_bco_dmo",
+      "title": "BATS Chisholm",
+      "description": "Temporal sampling of marine metagenomes from Station ALOHA and BATS",
+      "profile": "tabular-data-resource",
+      "pm:resourceType": "sample",
+      "path": "samples_niskin_BCO-DMO.tsv",
+      "dialect": {
+        "delimiter": "\t",
+        "header": true,
+        "caseSensitiveHeader": true
+      },
+      "format": "csv",
+      "mediatype": "text/tab-separated-values",
+      "encoding": "UTF-8",
+      "hash": "447e697344f15fe7d88c018dc2c6242b",
+      "schema": {
+        "fields": [
+          {
+            "name": "sampling_event_ID",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000056",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "bottle_id",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "BioSample",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "decy",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "lat",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "lon",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Depth",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100031",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000008",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Temp",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200014",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000027",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "CTD_S",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000014",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000168",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Sal1",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000014",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000168",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "SigTh",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "O2",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200021",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "OxFix",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Anom1",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200021",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "CO2",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000142",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Alk",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "NO31",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000018",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "PO41",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100026",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Si1",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100034",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "POC",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000103",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "PON",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000112",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "TOC",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "TN",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Bact",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "POP",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "TDP",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "SRP",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "BSi",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "LSi",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Pro",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000159",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000201",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Syn",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000160",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000201",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Piceu",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000161",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000201",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Naneu",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000201",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "ISO_datetime",
+            "type": "datetime",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001619",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "cruise_type",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "cruise_number",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "cast_number",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "niskin_number",
+            "type": "number",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "cruise_type_text",
+            "type": "string",
+            "format": "default",
+            "rdfType": "",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          }
+        ],
+        "missingValues": [
+          "",
+          "nd",
+          "NA"
+        ]
+      }
+    },
+    {
+      "name": "sampling_events",
+      "title": "BATS Chisholm",
+      "description": "Temporal sampling of marine metagenomes from Station ALOHA and BATS",
+      "profile": "tabular-data-resource",
+      "pm:resourceType": "sampling_event",
+      "path": "sampling_events.tsv",
+      "dialect": {
+        "delimiter": "\t",
+        "header": true,
+        "caseSensitiveHeader": true
+      },
+      "format": "csv",
+      "mediatype": "text/tab-separated-values",
+      "encoding": "UTF-8",
+      "hash": "787b21ca74a28558a43bd4d6b37e53b2",
+      "schema": {
+        "fields": [
+          {
+            "name": "Sample_event_ID",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000056",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "ISO_DateTime",
+            "type": "datetime",
+            "format": "%Y-%m-%dT%H:%M:%SZ",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000008",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000003",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "lon",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "lat",
+            "type": "number",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "cruise_ID",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000060",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "cruise_expedition",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000007",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "sampling_event_type",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000146",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          },
+          {
+            "name": "Station_name",
+            "type": "string",
+            "format": "default",
+            "rdfType": "http://purl.obolibrary.org/obo/pmo.owl/PMO_00000149",
+            "pm:unitRdfType": "",
+            "pm:sourceUrl": "",
+            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceProtocolUrl": ""
+          }
+        ],
+        "missingValues": [
+          "",
+          "nd",
+          "NA"
+        ]
+      }
+    }
+  ]
+}

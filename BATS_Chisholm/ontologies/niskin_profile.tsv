@@ -56,7 +56,7 @@ Pro	Prochlorococcus	http://purl.obolibrary.org/obo/PMO_00000159	cells per milili
 Syn	Synechococcus	http://purl.obolibrary.org/obo/PMO_00000160	cells per mililiter (cells/ml)	http://purl.obolibrary.org/obo/UO_0000201				https://www.bco-dmo.org/dataset/3782	number	
 Piceu	Picoeukaryotes	http://purl.obolibrary.org/obo/PMO_00000161	cells per mililiter (cells/ml)	http://purl.obolibrary.org/obo/UO_0000201				https://www.bco-dmo.org/dataset/3782	number	
 Naneu	Nanoeukaryotes		cells per mililiter (cells/ml)	http://purl.obolibrary.org/obo/UO_0000201				https://www.bco-dmo.org/dataset/3782	number	
-ISO_datetime		http://purl.obolibrary.org/obo/OBI_0001619	unitless	http://purl.obolibrary.org/obo/UO_0000003				https://www.bco-dmo.org/dataset/3782	datetime	%Y-%m-%dT%H:%M:%S
+ISO_datetime		http://purl.obolibrary.org/obo/OBI_0001619	unitless	http://purl.obolibrary.org/obo/UO_0000003				https://www.bco-dmo.org/dataset/3782	datetime	%Y-%m-%dT%H:%M:%SZ
 cruise_type			unitless					https://www.bco-dmo.org/dataset/3782	string	
 niskin_number			unitless					https://www.bco-dmo.org/dataset/3782	number	
 cruise_type_text			unitless					https://www.bco-dmo.org/dataset/3782	string	

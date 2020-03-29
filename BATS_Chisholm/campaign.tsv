@@ -1,23 +1,23 @@
 campaign_expedition	expedition_URL	campaign_name	WOCE_ID	R2R_cruise_DOI	start_date	end_date	start_location	end_location	CCHDO url	BCO-DMO summary	BCO-DMO deployment	SAMOS URL	WHOI URL	IEDA URL	BODC URL
-BATS	http://www.bios.edu/research/projects/bats/	BATS248		https://doi.org/10.7284/903181	7/13/09	7/19/09	"St. George's, Bermuda"	"St. George's, Bermuda"	https://cchdo.ucsd.edu/cruise/33H420090713		https://www.bco-dmo.org/deployment/58912				
-BATS	http://www.bios.edu/research/projects/bats/	BATS252		https://doi.org/10.7284/903186	11/6/09	11/10/09	"St. George's, Bermuda"	"St. George's, Bermuda"	https://cchdo.ucsd.edu/cruise/BIOS20091106		https://www.bco-dmo.org/deployment/58908				
-BATS	http://www.bios.edu/research/projects/bats/	BATS175			2003-04-22/2003-04-26				https://cchdo.ucsd.edu/cruise/BIOS20030422						
-BATS	http://www.bios.edu/research/projects/bats/	BATS181			2003-10-06/2003-10-10				https://cchdo.ucsd.edu/cruise/BIOS20031006						
-BATS	http://www.bios.edu/research/projects/bats/	BATS184			2004-01-26/2004-02-03				https://cchdo.ucsd.edu/cruise/BIOS20040126						
-BATS	http://www.bios.edu/research/projects/bats/	BATS186			2004-03-22/2004-03-23				https://cchdo.ucsd.edu/cruise/BIOS20040322						
-BATS	http://www.bios.edu/research/projects/bats/	BATS195			2004-12-08/2004-12-11				https://cchdo.ucsd.edu/cruise/BIOS20041208						
-BATS	http://www.bios.edu/research/projects/bats/	BATS173			2003-02-21/2003-02-26				https://cchdo.ucsd.edu/cruise/BIOS20030221						
-BATS	http://www.bios.edu/research/projects/bats/	BATS174			2003-03-21/2003-03-22				https://cchdo.ucsd.edu/cruise/BIOS20030321						
-BATS	http://www.bios.edu/research/projects/bats/	BATS178			2003-07-14/2003-07-18				https://cchdo.ucsd.edu/cruise/BIOS20030714						
-BATS	http://www.bios.edu/research/projects/bats/	BATS179			2003-08-11/2003-08-15				https://cchdo.ucsd.edu/cruise/BIOS20030811						
-BATS	http://www.bios.edu/research/projects/bats/	BATS187			2004-04-20/2004-04-24				https://cchdo.ucsd.edu/cruise/BIOS20040420						
-BATS	http://www.bios.edu/research/projects/bats/	BATS192			2004-09-13/2004-09-17				https://cchdo.ucsd.edu/cruise/BIOS20040913						
-BATS	http://www.bios.edu/research/projects/bats/	BATS193			2004-10-12/2004-10-15				https://cchdo.ucsd.edu/cruise/BIOS20041012						
-BATS	http://www.bios.edu/research/projects/bats/	BATS194			2004-11-11/2004-11-14				https://cchdo.ucsd.edu/cruise/BIOS20041111						
-BATS	http://www.bios.edu/research/projects/bats/	BATS176			2003-05-19/2003-05-23				https://cchdo.ucsd.edu/cruise/BIOS20030519						
-BATS	http://www.bios.edu/research/projects/bats/	BATS182			2003-11-03/2003-11-07				https://cchdo.ucsd.edu/cruise/BIOS20031103						
-BATS	http://www.bios.edu/research/projects/bats/	BATS183			2003-12-01/2003-12-05				https://cchdo.ucsd.edu/cruise/BIOS20031201						
-BATS	http://www.bios.edu/research/projects/bats/	BATS188			2004-05-17/2004-05-21				https://cchdo.ucsd.edu/cruise/BIOS20040517						
-BATS	http://www.bios.edu/research/projects/bats/	BATS189			2004-06-14/2004-06-18				https://cchdo.ucsd.edu/cruise/BIOS20040614						
-BATS	http://www.bios.edu/research/projects/bats/	BATS191			2004-08-16/2004-08-20				https://cchdo.ucsd.edu/cruise/BIOS20040816						
-BATS	http://www.bios.edu/research/projects/bats/	BATS185			2004-02-24/2004-02-27				https://cchdo.ucsd.edu/cruise/BIOS20040224						
+BATS	http://www.bios.edu/research/projects/bats/	BATS248		https://doi.org/10.7284/903181	2009-07-13	2009-07-19	"St. George's, Bermuda"	"St. George's, Bermuda"	https://cchdo.ucsd.edu/cruise/33H420090713		https://www.bco-dmo.org/deployment/58912				
+BATS	http://www.bios.edu/research/projects/bats/	BATS252		https://doi.org/10.7284/903186	2009-11-06	2009-11-10	"St. George's, Bermuda"	"St. George's, Bermuda"	https://cchdo.ucsd.edu/cruise/BIOS20091106		https://www.bco-dmo.org/deployment/58908				
+BATS	http://www.bios.edu/research/projects/bats/	BATS175			2003-04-22	2003-04-26				https://cchdo.ucsd.edu/cruise/BIOS20030422					
+BATS	http://www.bios.edu/research/projects/bats/	BATS181			2003-10-06	2003-10-10				https://cchdo.ucsd.edu/cruise/BIOS20031006					
+BATS	http://www.bios.edu/research/projects/bats/	BATS184			2004-01-26	2004-02-03				https://cchdo.ucsd.edu/cruise/BIOS20040126					
+BATS	http://www.bios.edu/research/projects/bats/	BATS186			2004-03-22	2004-03-23				https://cchdo.ucsd.edu/cruise/BIOS20040322					
+BATS	http://www.bios.edu/research/projects/bats/	BATS195			2004-12-08	2004-12-11				https://cchdo.ucsd.edu/cruise/BIOS20041208					
+BATS	http://www.bios.edu/research/projects/bats/	BATS173			2003-02-21	2003-02-26				https://cchdo.ucsd.edu/cruise/BIOS20030221					
+BATS	http://www.bios.edu/research/projects/bats/	BATS174			2003-03-21	2003-03-22				https://cchdo.ucsd.edu/cruise/BIOS20030321					
+BATS	http://www.bios.edu/research/projects/bats/	BATS178			2003-07-14	2003-07-18				https://cchdo.ucsd.edu/cruise/BIOS20030714					
+BATS	http://www.bios.edu/research/projects/bats/	BATS179			2003-08-11	2003-08-15				https://cchdo.ucsd.edu/cruise/BIOS20030811					
+BATS	http://www.bios.edu/research/projects/bats/	BATS187			2004-04-20	2004-04-24				https://cchdo.ucsd.edu/cruise/BIOS20040420					
+BATS	http://www.bios.edu/research/projects/bats/	BATS192			2004-09-13	2004-09-17				https://cchdo.ucsd.edu/cruise/BIOS20040913					
+BATS	http://www.bios.edu/research/projects/bats/	BATS193			2004-10-12	2004-10-15				https://cchdo.ucsd.edu/cruise/BIOS20041012					
+BATS	http://www.bios.edu/research/projects/bats/	BATS194			2004-11-11	2004-11-14				https://cchdo.ucsd.edu/cruise/BIOS20041111					
+BATS	http://www.bios.edu/research/projects/bats/	BATS176			2003-05-19	2003-05-23				https://cchdo.ucsd.edu/cruise/BIOS20030519					
+BATS	http://www.bios.edu/research/projects/bats/	BATS182			2003-11-03	2003-11-07				https://cchdo.ucsd.edu/cruise/BIOS20031103					
+BATS	http://www.bios.edu/research/projects/bats/	BATS183			2003-12-01	2003-12-05				https://cchdo.ucsd.edu/cruise/BIOS20031201					
+BATS	http://www.bios.edu/research/projects/bats/	BATS188			2004-05-17	2004-05-21				https://cchdo.ucsd.edu/cruise/BIOS20040517					
+BATS	http://www.bios.edu/research/projects/bats/	BATS189			2004-06-14	2004-06-18				https://cchdo.ucsd.edu/cruise/BIOS20040614					
+BATS	http://www.bios.edu/research/projects/bats/	BATS191			2004-08-16	2004-08-20				https://cchdo.ucsd.edu/cruise/BIOS20040816					
+BATS	http://www.bios.edu/research/projects/bats/	BATS185			2004-02-24	2004-02-27				https://cchdo.ucsd.edu/cruise/BIOS20040224					
