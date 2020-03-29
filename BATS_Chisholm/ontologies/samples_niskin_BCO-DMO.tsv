@@ -1,40 +1,40 @@
 parameter	rdf type purl label	rdf type purl	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
-sampling_event_ID								https://www.bco-dmo.org/dataset/3782		
+sampling_event_ID	centrally registered sampling event identifier	http://purl.obolibrary.org/obo/PMO_00000056						https://www.bco-dmo.org/dataset/3782	string	
 bottle_id								https://www.bco-dmo.org/dataset/3782		
 BioSample								https://www.bco-dmo.org/dataset/3782		
 decy								https://www.bco-dmo.org/dataset/3782		
-lat			decimal degrees					https://www.bco-dmo.org/dataset/3782		
-lon			decimal degrees					https://www.bco-dmo.org/dataset/3782		
-Depth			meters (m)					https://www.bco-dmo.org/dataset/3782		
-Temp			degrees Celsius					https://www.bco-dmo.org/dataset/3782		
-CTD_S	CTD Salinity		PSS-78					https://www.bco-dmo.org/dataset/3782		
-Sal1	bottle_salinity		PSS-78					https://www.bco-dmo.org/dataset/3782		
-SigTh			kilogram per meter cubed (kg/m3)					https://www.bco-dmo.org/dataset/3782		
-O2	botlle_oxy		micromole per kilogram (umol/kg)					https://www.bco-dmo.org/dataset/3782		
-OxFix	Oxygen Fix Temp		degrees Celsius					https://www.bco-dmo.org/dataset/3782		
-Anom1	Oxy Anomaly-1		micromole per kilogram (umol/kg)					https://www.bco-dmo.org/dataset/3782		
-CO2	dissolved inorganic carbon (DIC)		micromole per kilogram (umol/kg)					https://www.bco-dmo.org/dataset/3782		
-Alk	Alkalinity		uequiv					https://www.bco-dmo.org/dataset/3782		
-NO31	Nitrate+Nitrite-1		micromole per kilogram (umol/kg)					https://www.bco-dmo.org/dataset/3782		
-PO41	Phosphate-1		micromole per kilogram (umol/kg)					https://www.bco-dmo.org/dataset/3782		
-Si1	Silicate-1		micromole per kilogram (umol/kg)					https://www.bco-dmo.org/dataset/3782		
-POC	POC		microgram per kilogram (ug/kg)					https://www.bco-dmo.org/dataset/3782		
-PON	PON		microgram per kilogram (ug/kg)					https://www.bco-dmo.org/dataset/3782		
-TOC	TOC		micromole per kilogram (umol/kg)					https://www.bco-dmo.org/dataset/3782		
-TN	(DON) TN NOTE: Prior to BATS 121; DON is reported instead of TON		micromole per kilogram (umol/kg)					https://www.bco-dmo.org/dataset/3782		
-Bact	Bacteria enumeration		cells*10^8/kg					https://www.bco-dmo.org/dataset/3782		
-POP	POP		micromole per kilogram (umol/kg)					https://www.bco-dmo.org/dataset/3782		
-TDP	Total dissolved Phosphorus		nanomole per kilogram (nmol/kg)					https://www.bco-dmo.org/dataset/3782		
-SRP	Low-level phosphorus		nanomole per kilogram (nmol/kg)					https://www.bco-dmo.org/dataset/3782		
-BSi	Particulate biogenic silica		micromole per kilogram (umol/kg)					https://www.bco-dmo.org/dataset/3782		
-LSi	Particulate lithogenic silica		micromole per kilogram (umol/kg)					https://www.bco-dmo.org/dataset/3782		
-Pro	Prochlorococcus		cells per mililiter (cells/ml)					https://www.bco-dmo.org/dataset/3782		
-Syn	Synechococcus		cells per mililiter (cells/ml)					https://www.bco-dmo.org/dataset/3782		
-Piceu	Picoeukaryotes		cells per mililiter (cells/ml)					https://www.bco-dmo.org/dataset/3782		
-Naneu	Nanoeukaryotes		cells per mililiter (cells/ml)					https://www.bco-dmo.org/dataset/3782		
-ISO_datetime			unitless					https://www.bco-dmo.org/dataset/3782		
-cruise_type			unitless					https://www.bco-dmo.org/dataset/3782		
-cruise_number			unitless					https://www.bco-dmo.org/dataset/3782		
-cast_number			unitless					https://www.bco-dmo.org/dataset/3782		
-niskin_number			unitless					https://www.bco-dmo.org/dataset/3782		
-cruise_type_text			unitless					https://www.bco-dmo.org/dataset/3782		
+lat		http://purl.obolibrary.org/obo/OBI_0001620	decimal degrees	http://purl.obolibrary.org/obo/UO_0000185				https://www.bco-dmo.org/dataset/3782	number	
+lon		http://purl.obolibrary.org/obo/OBI_0001621	decimal degrees	http://purl.obolibrary.org/obo/UO_0000185				https://www.bco-dmo.org/dataset/3782	number	
+Depth		http://purl.obolibrary.org/obo/ENVO_3100031	meters (m)	http://purl.obolibrary.org/obo/UO_0000008				https://www.bco-dmo.org/dataset/3782	number	
+Temp		http://purl.obolibrary.org/obo/ENVO_09200014	degrees Celsius	http://purl.obolibrary.org/obo/UO_0000027				https://www.bco-dmo.org/dataset/3782	number	
+CTD_S	CTD Salinity	http://purl.obolibrary.org/obo/PMO_00000014	PSS-78	http://purl.obolibrary.org/obo/UO_0000168				https://www.bco-dmo.org/dataset/3782	number	
+Sal1	bottle_salinity	http://purl.obolibrary.org/obo/PMO_00000014	PSS-78	http://purl.obolibrary.org/obo/UO_0000168				https://www.bco-dmo.org/dataset/3782	number	
+SigTh			kilogram per meter cubed (kg/m3)					https://www.bco-dmo.org/dataset/3782	number	
+O2	botlle_oxy	http://purl.obolibrary.org/obo/ENVO_09200021	micromole per kilogram (umol/kg)	http://purl.obolibrary.org/obo/UO_0010004				https://www.bco-dmo.org/dataset/3782	number	
+OxFix	Oxygen Fix Temp		degrees Celsius					https://www.bco-dmo.org/dataset/3782	number	
+Anom1	Oxy Anomaly-1	http://purl.obolibrary.org/obo/ENVO_09200021	micromole per kilogram (umol/kg)	http://purl.obolibrary.org/obo/UO_0010004				https://www.bco-dmo.org/dataset/3782	number	
+CO2	dissolved inorganic carbon (DIC)	http://purl.obolibrary.org/obo/pmo.owl/PMO_00000142	micromole per kilogram (umol/kg)	http://purl.obolibrary.org/obo/UO_0010004				https://www.bco-dmo.org/dataset/3782	number	
+Alk	Alkalinity	http://purl.obolibrary.org/obo/pmo.owl/PMO_00000139	uequiv					https://www.bco-dmo.org/dataset/3782	number	
+NO31	Nitrate+Nitrite-1	http://purl.obolibrary.org/obo/PMO_00000018	micromole per kilogram (umol/kg)	http://purl.obolibrary.org/obo/UO_0010004				https://www.bco-dmo.org/dataset/3782	number	
+PO41	Phosphate-1	http://purl.obolibrary.org/obo/ENVO_3100026	micromole per kilogram (umol/kg)	http://purl.obolibrary.org/obo/UO_0010004				https://www.bco-dmo.org/dataset/3782	number	
+Si1	Silicate-1	http://purl.obolibrary.org/obo/ENVO_3100034	micromole per kilogram (umol/kg)	http://purl.obolibrary.org/obo/UO_0010004				https://www.bco-dmo.org/dataset/3782	number	
+POC	POC	http://purl.obolibrary.org/obo/PMO_00000103	microgram per kilogram (ug/kg)					https://www.bco-dmo.org/dataset/3782	number	
+PON	PON	http://purl.obolibrary.org/obo/PMO_00000112	microgram per kilogram (ug/kg)					https://www.bco-dmo.org/dataset/3782	number	
+TOC	TOC		micromole per kilogram (umol/kg)	http://purl.obolibrary.org/obo/UO_0010004				https://www.bco-dmo.org/dataset/3782	number	
+TN	(DON) TN NOTE: Prior to BATS 121; DON is reported instead of TON		micromole per kilogram (umol/kg)	http://purl.obolibrary.org/obo/UO_0010004				https://www.bco-dmo.org/dataset/3782	number	
+Bact	Bacteria enumeration	http://purl.obolibrary.org/obo/PMO_00000185	cells/kg					https://www.bco-dmo.org/dataset/3782	number	
+POP	POP		micromole per kilogram (umol/kg)	http://purl.obolibrary.org/obo/UO_0010004				https://www.bco-dmo.org/dataset/3782	number	
+TDP	Total dissolved Phosphorus		nanomole per kilogram (nmol/kg)					https://www.bco-dmo.org/dataset/3782	number	
+SRP	Low-level phosphorus		nanomole per kilogram (nmol/kg)					https://www.bco-dmo.org/dataset/3782	number	
+BSi	Particulate biogenic silica		micromole per kilogram (umol/kg)					https://www.bco-dmo.org/dataset/3782	number	
+LSi	Particulate lithogenic silica		micromole per kilogram (umol/kg)	http://purl.obolibrary.org/obo/UO_0010004				https://www.bco-dmo.org/dataset/3782	number	
+Pro	Prochlorococcus	http://purl.obolibrary.org/obo/PMO_00000159	cells per mililiter (cells/ml)	http://purl.obolibrary.org/obo/UO_0000201				https://www.bco-dmo.org/dataset/3782	number	
+Syn	Synechococcus	http://purl.obolibrary.org/obo/PMO_00000160	cells per mililiter (cells/ml)	http://purl.obolibrary.org/obo/UO_0000201				https://www.bco-dmo.org/dataset/3782	number	
+Piceu	Picoeukaryotes	http://purl.obolibrary.org/obo/PMO_00000161	cells per mililiter (cells/ml)	http://purl.obolibrary.org/obo/UO_0000201				https://www.bco-dmo.org/dataset/3782	number	
+Naneu	Nanoeukaryotes		cells per mililiter (cells/ml)	http://purl.obolibrary.org/obo/UO_0000201				https://www.bco-dmo.org/dataset/3782	number	
+ISO_datetime		http://purl.obolibrary.org/obo/OBI_0001619	unitless	http://purl.obolibrary.org/obo/UO_0000003				https://www.bco-dmo.org/dataset/3782	datetime	
+cruise_type			unitless					https://www.bco-dmo.org/dataset/3782	string	
+cruise_number			unitless					https://www.bco-dmo.org/dataset/3782	number	
+cast_number			unitless					https://www.bco-dmo.org/dataset/3782	number	
+niskin_number			unitless					https://www.bco-dmo.org/dataset/3782	number	
+cruise_type_text			unitless					https://www.bco-dmo.org/dataset/3782	string	

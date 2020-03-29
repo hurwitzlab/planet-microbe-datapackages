@@ -1,28 +1,28 @@
 parameter	rdf type purl label	rdf type purl	units label	units purl	measurement source purl label	measurement source purl	pm:measurement source protocol	pm:source url	frictionless type	frictionless format
-sampling_event_ID								https://www.bco-dmo.org/dataset/3918		
-ISO_datetime_deployed								https://www.bco-dmo.org/dataset/3918		
-cruise_number								https://www.bco-dmo.org/dataset/3918		
-cast_number								https://www.bco-dmo.org/dataset/3918		
-Conductivity			Siemens per meter (S/m)					https://www.bco-dmo.org/dataset/3918		
-Depth			meters (m)					https://www.bco-dmo.org/dataset/3918		
-Dissolved_Oxygen			micromole per kilogram (umol/kg)					https://www.bco-dmo.org/dataset/3918		
-Fluorescence			relative fluorescence units (RFU)					https://www.bco-dmo.org/dataset/3918		
-Latitude			decimal degrees					https://www.bco-dmo.org/dataset/3918		
-Longitude			decimal degrees					https://www.bco-dmo.org/dataset/3918		
-Pressure			decibar (dbar)					https://www.bco-dmo.org/dataset/3918		
-Salinity			PSS-78					https://www.bco-dmo.org/dataset/3918		
-Temperature			degrees Celsius					https://www.bco-dmo.org/dataset/3918		
-cast_ID								https://www.bco-dmo.org/dataset/3918		
-decimal_year								https://www.bco-dmo.org/dataset/3918		
-filename								https://www.bco-dmo.org/dataset/3918		
-Decimal_date_deployed								https://www.bco-dmo.org/dataset/3918		
-Decimal_date_recovered								https://www.bco-dmo.org/dataset/3918		
-Decimal_day_deployed								https://www.bco-dmo.org/dataset/3918		
-Latitude_CTD_deployed			decimal degrees					https://www.bco-dmo.org/dataset/3918		
-Latitude_CTD_recovered			decimal degrees					https://www.bco-dmo.org/dataset/3918		
-Longitude_CTD_deployed			decimal degrees					https://www.bco-dmo.org/dataset/3918		
-Longitude_CTD_recovered			decimal degrees					https://www.bco-dmo.org/dataset/3918		
-info_filename								https://www.bco-dmo.org/dataset/3918		
-ISO_datetime_recovered								https://www.bco-dmo.org/dataset/3918		
-cruise_type								https://www.bco-dmo.org/dataset/3918		
-cruise_type_text								https://www.bco-dmo.org/dataset/3918		
+sampling_event_ID	centrally registered sampling event identifier	http://purl.obolibrary.org/obo/PMO_00000056						https://www.bco-dmo.org/dataset/3918	string	
+ISO_datetime_deployed	specimen collection time measurement datum start	http://purl.obolibrary.org/obo/PMO_00000008	time unit	http://purl.obolibrary.org/obo/UO_0000003				https://www.bco-dmo.org/dataset/3918	datetime	%Y-%m-%dT%H:%M:%S
+cruise_number	sampling expedition identifier	http://purl.obolibrary.org/obo/PMO_00000060						https://www.bco-dmo.org/dataset/3918	number	
+cast_number	ctd cast number	http://purl.obolibrary.org/obo/PMO_00000057						https://www.bco-dmo.org/dataset/3918	number	
+Conductivity		http://purl.obolibrary.org/obo/ENVO_09200018	Siemens per meter (S/m)					https://www.bco-dmo.org/dataset/3918	number	
+Depth		http://purl.obolibrary.org/obo/ENVO_3100031	meters (m)	http://purl.obolibrary.org/obo/UO_0000008				https://www.bco-dmo.org/dataset/3918	number	
+Dissolved_Oxygen		http://purl.obolibrary.org/obo/ENVO_09200021	micromole per kilogram (umol/kg)	http://purl.obolibrary.org/obo/UO_0010004				https://www.bco-dmo.org/dataset/3918	number	
+Fluorescence			relative fluorescence units (RFU)					https://www.bco-dmo.org/dataset/3918	number	
+Latitude		http://purl.obolibrary.org/obo/OBI_0001620	decimal degrees	http://purl.obolibrary.org/obo/UO_0000185				https://www.bco-dmo.org/dataset/3918	number	
+Longitude		http://purl.obolibrary.org/obo/OBI_0001621	decimal degrees	http://purl.obolibrary.org/obo/UO_0000185				https://www.bco-dmo.org/dataset/3918	number	
+Pressure		http://purl.obolibrary.org/obo/ENVO_3100033	decibar (dbar)					https://www.bco-dmo.org/dataset/3918	number	
+Salinity		http://purl.obolibrary.org/obo/PMO_00000014	PSS-78	http://purl.obolibrary.org/obo/UO_0000168				https://www.bco-dmo.org/dataset/3918	number	
+Temperature		http://purl.obolibrary.org/obo/ENVO_09200014	degrees Celsius	http://purl.obolibrary.org/obo/UO_0000027				https://www.bco-dmo.org/dataset/3918	number	
+cast_ID								https://www.bco-dmo.org/dataset/3918	number	
+decimal_year								https://www.bco-dmo.org/dataset/3918	number	
+filename								https://www.bco-dmo.org/dataset/3918	string	
+Decimal_date_deployed								https://www.bco-dmo.org/dataset/3918	number	
+Decimal_date_recovered								https://www.bco-dmo.org/dataset/3918	number	
+Decimal_day_deployed								https://www.bco-dmo.org/dataset/3918	number	
+Latitude_CTD_deployed		http://purl.obolibrary.org/obo/PMO_00000076	decimal degrees	http://purl.obolibrary.org/obo/UO_0000185				https://www.bco-dmo.org/dataset/3918	number	
+Latitude_CTD_recovered		http://purl.obolibrary.org/obo/PMO_00000079	decimal degrees	http://purl.obolibrary.org/obo/UO_0000185				https://www.bco-dmo.org/dataset/3918	number	
+Longitude_CTD_deployed		http://purl.obolibrary.org/obo/PMO_00000077	decimal degrees	http://purl.obolibrary.org/obo/UO_0000185				https://www.bco-dmo.org/dataset/3918	number	
+Longitude_CTD_recovered		http://purl.obolibrary.org/obo/PMO_00000078	decimal degrees	http://purl.obolibrary.org/obo/UO_0000185				https://www.bco-dmo.org/dataset/3918	number	
+info_filename								https://www.bco-dmo.org/dataset/3918	string	
+ISO_datetime_recovered		http://purl.obolibrary.org/obo/PMO_00000009	time unit	http://purl.obolibrary.org/obo/PMO_00000008				https://www.bco-dmo.org/dataset/3918	datetime	%Y-%m-%dT%H:%M:%S
+cruise_type								https://www.bco-dmo.org/dataset/3918	string	
+cruise_type_text								https://www.bco-dmo.org/dataset/3918	string	
