@@ -5,7 +5,7 @@
   "profile": "tabular-data-package",
   "name": "bats_chisholm",
   "title": "BATS Chisholm",
-  "description":"",
+  "description":"Temporal sampling of marine metagenomes from Station BATS",
   "pm:projectType": "marine metagenome",
   "pm:selfUrl": "https://github.com/hurwitzlab/planet-microbe-datapackages/tree/master/BATS_Chisholm",
   "homepage": "http://bats.bios.edu/",
