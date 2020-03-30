@@ -1678,7 +1678,7 @@
             "name": "BioSample",
             "type": "string",
             "format": "default",
-            "rdfType": "",
+            "rdfType": "http://purl.obolibrary.org/obo/OBI_0001901",
             "pm:unitRdfType": "",
             "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3782",
             "pm:measurementSourceRdfType": "",
