@@ -175,5 +175,7 @@ In PANGEA the water column context is linked to the sample registry. Information
 ## Campaigns
 Campaigns informatations were retrieved from the Pangea registry of all campaigns : https://doi.pangaea.de/10.1594/PANGAEA.842191
 
+The links for the EBI ressource were incorrect, and were changed to point to the Tara Ocean project description in EBI : https://www.ebi.ac.uk/services/tara-oceans-data
+
 Relevant information were selected and renamed using the script available in scripts/mapTara_NCBI_PANGEA.R
 
