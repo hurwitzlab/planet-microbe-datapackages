@@ -17622,7 +17622,7 @@
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0001057",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
@@ -17632,7 +17632,7 @@
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0001057",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
@@ -17642,7 +17642,7 @@
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100010",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0001057",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
@@ -17652,7 +17652,7 @@
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100025",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0001057",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
@@ -17662,7 +17662,7 @@
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0001057",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
@@ -17672,7 +17672,7 @@
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000156",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0001057",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
@@ -17682,7 +17682,7 @@
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100014",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0001057",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
@@ -17692,7 +17692,7 @@
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100021",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0001057",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
@@ -17702,7 +17702,7 @@
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0001057",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
@@ -17712,7 +17712,7 @@
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100028",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0001057",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
@@ -17722,7 +17722,7 @@
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000157",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0001057",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
@@ -17732,7 +17732,7 @@
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0001057",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
@@ -17742,7 +17742,7 @@
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100002",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0001057",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
@@ -17752,7 +17752,7 @@
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0001057",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
@@ -17762,7 +17762,7 @@
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100029",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0001057",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
@@ -17772,7 +17772,7 @@
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100019",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0001057",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
@@ -17782,7 +17782,7 @@
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100005",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0001057",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
@@ -17792,7 +17792,7 @@
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100013",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0001057",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
@@ -17802,7 +17802,7 @@
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100009",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0001057",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
@@ -17812,7 +17812,7 @@
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0001057",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
@@ -17822,7 +17822,7 @@
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100012",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0001057",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
@@ -17832,7 +17832,7 @@
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/PMO_00000132",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0001057",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
@@ -17842,7 +17842,7 @@
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0001057",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
@@ -17852,7 +17852,7 @@
             "rdfType": "",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0001057",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
@@ -17862,7 +17862,7 @@
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100007",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.pangaea.de/10.1594/PANGAEA.836319",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0001057",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
