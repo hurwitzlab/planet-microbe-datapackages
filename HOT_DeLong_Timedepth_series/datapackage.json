@@ -2679,7 +2679,7 @@
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100008",
-            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000064",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1038/s41564-017-0008-3",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": ""
@@ -2689,7 +2689,7 @@
             "type": "number",
             "format": "default",
             "rdfType": "",
-            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000064",
+            "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "https://doi.org/10.1038/s41564-017-0008-3",
             "pm:measurementSourceRdfType": "",
             "pm:measurementSourceProtocolUrl": ""
