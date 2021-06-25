@@ -335,7 +335,7 @@
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100036",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0400143",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
@@ -1319,7 +1319,7 @@
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100036",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000301",
             "pm:sourceUrl": "http://dmoserv3.bco-dmo.org/jg/info/BCO-DMO/HOT/ctd%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/HOT/,data=dmoserv3.bco-dmo.org:80/jg/serv/BCO-DMO/HOT/ctd.brev1%7D?parameters%20eq%201;2;3;4;5;6",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0400143",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
