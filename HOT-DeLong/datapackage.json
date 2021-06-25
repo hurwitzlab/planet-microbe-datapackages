@@ -2490,7 +2490,7 @@
             "rdfType": "http://purl.obolibrary.org/obo/PMO_00000162",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000201",
             "pm:sourceUrl": "https://www.nature.com/articles/ismej2015221",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0400044",
             "pm:measurementSourceProtocolUrl": "http://hahana.soest.hawaii.edu/hot/protocols/protocols.html#"
           },
           {
