@@ -368,7 +368,7 @@
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100022",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
             "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3937",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0400115",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
@@ -1402,7 +1402,7 @@
             "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100022",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
             "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3937",
-            "pm:measurementSourceRdfType": "",
+            "pm:measurementSourceRdfType": "http://purl.obolibrary.org/obo/OBI_0400115",
             "pm:measurementSourceProtocolUrl": ""
           },
           {
