@@ -166,6 +166,11 @@
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
+            "constraints": {
+              "required": true,
+              "minimum": -90,
+              "maximum": 90
+            },
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
             "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3937",
             "pm:measurementSourceRdfType": "",
@@ -570,6 +575,11 @@
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
+            "constraints": {
+              "required": true,
+              "minimum": -90,
+              "maximum": 90
+            },
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
             "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3773",
             "pm:measurementSourceRdfType": "",
@@ -1210,6 +1220,11 @@
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
+            "constraints": {
+              "required": true,
+              "minimum": -90,
+              "maximum": 90
+            },
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
             "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3937",
             "pm:measurementSourceRdfType": "",
@@ -1639,6 +1654,11 @@
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
+            "constraints": {
+              "required": true,
+              "minimum": -90,
+              "maximum": 90
+            },
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/352737",
             "pm:measurementSourceRdfType": "",
@@ -1925,6 +1945,11 @@
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
+            "constraints": {
+              "required": true,
+              "minimum": -90,
+              "maximum": 90
+            },
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
             "pm:sourceUrl": "https://www.bco-dmo.org/dataset/3773",
             "pm:measurementSourceRdfType": "",
@@ -2284,6 +2309,11 @@
             "type": "number",
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
+            "constraints": {
+              "required": true,
+              "minimum": -90,
+              "maximum": 90
+            },
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
