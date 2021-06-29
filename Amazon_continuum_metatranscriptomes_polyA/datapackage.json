@@ -85,7 +85,6 @@
               "minimum": -90,
               "maximum": 90
             },
-            },
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
             "pm:sourceUrl": "",
             "pm:measurementSourceRdfType": "",
@@ -595,7 +594,6 @@
               "required": true,
               "minimum": -90,
               "maximum": 90
-            },
             },
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000185",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA237346",
