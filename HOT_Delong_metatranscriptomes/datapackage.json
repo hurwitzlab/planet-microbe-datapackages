@@ -163,7 +163,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
             "constraints": {
-              "required": true,
+              "required": false,
               "minimum": -180,
               "maximum": 180
             },
@@ -178,7 +178,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
             "constraints": {
-              "required": true,
+              "required": false,
               "minimum": -90,
               "maximum": 90
             },
@@ -557,7 +557,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
             "constraints": {
-              "required": true,
+              "required": false,
               "minimum": -180,
               "maximum": 180
             },
@@ -572,7 +572,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
             "constraints": {
-              "required": true,
+              "required": false,
               "minimum": -90,
               "maximum": 90
             },
@@ -1147,7 +1147,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
             "constraints": {
-              "required": true,
+              "required": false,
               "minimum": -180,
               "maximum": 180
             },
@@ -1162,7 +1162,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
             "constraints": {
-              "required": true,
+              "required": false,
               "minimum": -90,
               "maximum": 90
             },
@@ -1437,7 +1437,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
             "constraints": {
-              "required": true,
+              "required": false,
               "minimum": -180,
               "maximum": 180
             },
@@ -1452,7 +1452,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
             "constraints": {
-              "required": true,
+              "required": false,
               "minimum": -90,
               "maximum": 90
             },
@@ -1802,7 +1802,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
             "constraints": {
-              "required": true,
+              "required": false,
               "minimum": -90,
               "maximum": 90
             },
@@ -1817,7 +1817,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
             "constraints": {
-              "required": true,
+              "required": false,
               "minimum": -180,
               "maximum": 180
             },
@@ -1982,7 +1982,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001621",
             "constraints": {
-              "required": true,
+              "required": false,
               "minimum": -180,
               "maximum": 180
             },
@@ -1997,7 +1997,7 @@
             "format": "default",
             "rdfType": "http://purl.obolibrary.org/obo/OBI_0001620",
             "constraints": {
-              "required": true,
+              "required": false,
               "minimum": -90,
               "maximum": 90
             },
