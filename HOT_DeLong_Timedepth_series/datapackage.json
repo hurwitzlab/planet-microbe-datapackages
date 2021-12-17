@@ -4,7 +4,7 @@
   },
   "profile": "tabular-data-package",
   "name": "hot_delong_timedepth_series",
-  "title": "HOT ALOHA time/depth series",
+  "title": "HOT 224-283",
   "description": "A time-resolved deep metagenomic survey of bacterioplankton from the ocean’s surface to a depth of 1,000 m in the North Pacific Subtropical Gyre at Station ALOHA, collected from Hawaii Ocean Time-series (HOT) cruises from August 2010 through April 2016.",
   "pm:projectType": "marine metagenome",
   "pm:selfUrl": "https://github.com/hurwitzlab/planet-microbe-datapackages/tree/master/HOT_DeLong_Timedepth_series",
