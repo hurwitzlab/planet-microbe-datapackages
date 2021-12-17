@@ -191,7 +191,7 @@
             "name": "diss_oxygen",
             "type": "number",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/ENVO_09200021",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_3100011",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0000273",
             "pm:sourceUrl": "https://www.ncbi.nlm.nih.gov/bioproject/293636",
             "pm:measurementSourceRdfType": "",
