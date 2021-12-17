@@ -4,7 +4,7 @@
   },
   "profile": "tabular-data-package",
   "name": "chisholm_hot_and_bats",
-  "title": "HOT Chisholm",
+  "title": "HOT 144-166",
   "description": "Temporal sampling of marine metagenomes from Station ALOHA and BATS",
   "pm:projectType": "marine metagenome",
   "pm:selfUrl": "https://github.com/hurwitzlab/planet-microbe-datapackages/tree/master/HOT-Chisholm",
