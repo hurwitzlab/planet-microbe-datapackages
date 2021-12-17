@@ -4,7 +4,7 @@
   },
   "profile": "tabular-data-package",
   "name": "delong_hot_metatranscriptomes",
-  "title": "HOT DeLong Metatranscriptomes",
+  "title": "HOT 194-215 Metatranscriptomes",
   "description": "Planktonic microbial communities from North Pacific Subtropical Gyre",
   "pm:projectType": "marine metatranscriptome",
   "pm:selfUrl": "https://github.com/hurwitzlab/planet-microbe-datapackages/tree/master/HOT_Delong_metatranscriptomes",
