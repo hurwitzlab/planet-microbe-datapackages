@@ -2658,7 +2658,7 @@
             "name": "nit",
             "type": "number",
             "format": "default",
-            "rdfType": "http://purl.obolibrary.org/obo/PMO_00000018",
+            "rdfType": "http://purl.obolibrary.org/obo/ENVO_03000123",
             "pm:unitRdfType": "http://purl.obolibrary.org/obo/UO_0010004",
             "pm:sourceUrl": "https://doi.org/10.1038/s41564-017-0008-3",
             "pm:measurementSourceRdfType": "",
